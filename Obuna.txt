@@ -18,3 +18,5 @@ Foydalanuvchi nomi zohid amal qilish muddati tugash vaqti 2027 Yil 31 Yanvar
 Foydalanuvchi nomi Fazliddinxon amal qilish muddati tugash vaqti 2027 Yil 1 febral
 b720cc782f263510
 Amal qilish muddati tugash vaqti 2026 Yil 31 dekabr
+fcaf398741d4e328
+Muhammad usmon amal qilish muddati tugash vaqti 2027 yil 3 Fevral
