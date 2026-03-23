@@ -32,3 +32,5 @@ Foydalanuvchi nomi Bobonazarva hayotxon amal qilish muddati tugash vaqti 2027 Yi
 Foydalanuvchi  Muxtor Mirzaqulov amal qilish muddati tugash vaqti 2027 Yil  26Fevral
 e8cff525452d0886
 Foydalanuvchi nomi MEHRANGIZ BURHONOVA amal qilish muddati tugash vaqti 2027 Yil 17 mart
+b2879eea726c90d6
+Foydalanuvchi nomi Shoira amal qilish muddati tugash vaqti 2027 Yil 24 Mart
