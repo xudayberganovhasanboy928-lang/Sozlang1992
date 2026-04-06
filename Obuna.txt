@@ -38,3 +38,5 @@ Foydalanuvchi nomi Shoira amal qilish muddati tugash vaqti 2027 Yil 24 Mart
 Foydalanuvchi nomi Bahodir Abdulhamidov amal qilish muddati tugash vaqti 2027 Yil  28 mart
 b418072590e50a4c
 Foydalanuvchi nomi Baxtiyor amal qilish muddati tugash vaqti 2027 Yil 2 aprel
+fed8e7635dc0ef8c
+Foydalanuvchi nomi Nodirbek amal qilish muddati tugash vaqti 2027 Yil 7 aprel
