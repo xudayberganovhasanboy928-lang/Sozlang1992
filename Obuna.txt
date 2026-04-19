@@ -44,3 +44,5 @@ Foydalanuvchi nomi Nodirbek amal qilish muddati tugash vaqti 2027 Yil 7 aprel
 Foydalanuvchi nomi Qilichbek amal qilish muddati tugash vaqti 2027 Yil 9 aprel
 f744213fa1b4b13b
 Foydalanuvchi nomi Nurmuhammad amal qilish muddati tugash vaqti 2027 Yil 9 aprel
+f9031ad46f722f66
+Foydalanuvchi nomi Salohiddind  Jamoldinov amal qilish muddati tugash vaqti 2027 Yil 20 aprel
