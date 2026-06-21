@@ -60,3 +60,5 @@ Foydalanuvchi nomi HUDOYOR amal qilish muddati tugash vaqti 2027 Yil  6 yanvar
 Foydalanuvchi nomi Исмаилов Бекжон amal qilish muddati tugash vaqti 2027 Yil  21 may
 7ea72d2f0870c60c
 Foydalanuvchi nomi Ayitboyev Usmon amal qilish muddati tugash vaqti 2027 Yil  7 iyun
+8da1719728ceb62e
+Foydalanuvchi nomi surayyo amal qilish muddati tugash vaqti 2027 Yil  22 iyun
