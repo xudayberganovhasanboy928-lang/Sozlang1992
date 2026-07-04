@@ -1,22 +1,190 @@
 [
   {
-    "title": "Kutubxona.mp3",
-    "id": "CQACAgIAAyEFAATsk43hAAMDakflh4is5a4paiX5pT4pvA1cDYYAAm6eAAJpcvFJ56JAcEAZFWE8BA"
+    "title": "Maktuba Shaydo ijodi",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADDWpI3Xe8lDdhJiklaY-DwgtrJoWPAALTngACm5EQSSmF5QWG24ToPAQ"
   },
   {
-    "title": "Media ustaxonasi.mp3",
-    "id": "CQACAgIAAyEFAATsk43hAAMEakflh5i4JpVKdDQHHfR58epcpNwAAqGeAAIzxAFK47kB7pNKKGA8BA"
+    "title": "Assalomu alaykum",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADDmpI3XcCcjttJ0aSELRua2UpSkxHAAKrngACm5EQSZ0RzdvcA00MPAQ"
   },
   {
-    "title": "Media ustaxonasi.mp3",
-    "id": "CQACAgIAAyEFAATsk43hAAMFakflh1tWGYFjXViapMzNXJTk3MsAAmenAAJpcxFKZg05JMyU0K08BA"
+    "title": "STUDIO_GʻOLIBJON_𝐱𝐮𝐫𝐬𝐡𝐢𝐝𝐚_𝐛𝐨𝐧𝐮.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADD2pI3XeQUmRCWDfq2fnjoBwXHtORAAJtKQAC8Wo4S11KbVWzGCzpPAQ"
   },
   {
-    "title": "Kutubxona.mp3",
-    "id": "CQACAgIAAyEFAASRSq97AANzake-XnqdL0tk38bbIcbvy7oqmAgAAjagAAJpcxlKa0-LkDJgyM88BA"
+    "title": "STUDIO GʻOLIBJON - 𝐗𝐔𝐑𝐒𝐇𝐈𝐃𝐀.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADEGpI3XfLV2tDyGppkzBOh83dmWi5AALqIgACbgkBSXSVHwM_0uX7PAQ"
   },
   {
-    "title": "Media ustaxonasi.mp3",
-    "id": "CQACAgIAAxkBAAMDake3P6pLeKTaV_jCYRdNfukSoCsAAkmpAALliylKcKeSTLl7sz88BA"
+    "title": "STUDIO EGAMOV D. J .E - XURSHIDA YOMGIR.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADEWpI3XdXWZDGvjpTEGKSEfMYMFykAAIRVgAC_PRpSL73A7666sBxPAQ"
+  },
+  {
+    "title": "Yomg‘ir haqida ballada (Usmon Azim)",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADEmpI3XfF2ubhe1AqjbvTnAQM3EKlAAL2WAACu12xS42P2UvdzSYYPAQ"
+  },
+  {
+    "title": "Zulfiyaxonim ijodidan Xurshidabonu ijrosi",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADE2pI3XdD-fR6rNzTgirub34iG2G1AAL3mgACjoZZSSbkshDl-EyMPAQ"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - ONAMNIKIGA KETDIM.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADFGpI3XdhHIqs7n0z55XZYVB8srrRAALhJgACut5BSBk6AAFx02TCcTwE"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - XURSHIDA.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADFWpI3XexUuuTMwX0JTsqroYlLtPtAAJmUAAC4VpQSxkMJ3odfOlPPAQ"
+  },
+  {
+    "title": "Maktuba Shaydo she‘ri. Xurshida va  Zebiniso duet",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADFmpI3XcQlvZCQV6P7EYIWsKpmOiYAAIYcgAClGNgSg8IRCFnxT9hPAQ"
+  },
+  {
+    "title": "Abdukarim Jumaboyev she‘riyati, Xurshida Jo‘rayeva ijrosi",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADF2pI3Xcg7zZ422IMJK0m7GzWDRk1AAIYjAACmO3wSmIyUBRanjWzPAQ"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - XURSHIDA.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADGGpI3XdHCtVXYnagHmyZQ6P33tEAA30mAALYYKFK5AR_EQwkhhk8BA"
+  },
+  {
+    "title": "💻STUDIO EGAMOV💻 - XURSHIDA JURAEVA BAXT.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADGWpI3XcS2qCuP5kgNDjRv09Pvd__AAIeOAACO-SBS-0lOqsgCZSCPAQ"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - 𝕏𝕌ℝ𝕊ℍ𝕀𝔻𝔸.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADGmpI3Xe7Z2sZFbDL7zNXDMD_Bbn7AAJLKAACkBOoSZwCcXbi3B27PAQ"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - XURSHIDA MAKTUBA.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADG2pI3Xe6DdlJqeAKxgABb3M9p_YMEgACtS4AAgc3EUg2xv71qmyIQjwE"
+  },
+  {
+    "title": "kerak bolmadim.mp3",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADHGpI3XezeVf2rtMtnqXuRUhE2yvtAAKQMwACyAyISgznC7jPhUE1PAQ"
+  },
+  {
+    "title": "𝚂𝚃𝚄𝙳𝙸𝙾_𝙴𝙶𝙰𝙼𝙾𝚅_xurshiYashamoqqa.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADHWpI3XeK_EvB9rfLqs9c_XCDSFRrAAJOQAACZNcISddxmZB2OCctPAQ"
+  },
+  {
+    "title": "yig'latdi meni",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADH2pI3Xd-a0mR8w2VV0FEwVLnNkh2AAJ2MQAC4NEBSaThfnxvzkOFPAQ"
+  },
+  {
+    "title": "STUDIO EGAMOV - XURSHI SUYMAGANNI.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADIGpI3Xf9GPCBI3v08lXzyf8AAYNu9wACeDgAAjeM8UvOaksnjPVyQjwE"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - Untitled.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADIWpI3Xcby2SpYw0Z50Cw2utHqzjhAALDIgACG5TZS5HVNYAnxucdPAQ"
+  },
+  {
+    "title": "Karim Bahriyev -o‘lgim kelmayapti onajon",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADImpI3Xdyjq2Ts5ZM3F9vBI2Oy2MBAAK5VAACPcOYSOvtaY0ykaeMPAQ"
+  },
+  {
+    "title": "Eng yaxshi kun bugun deb yashang",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADI2pI3XeONtOv4V53Ff9mSquh4BLgAAL9pAACsDRZSt69thb50yUFPAQ"
+  },
+  {
+    "title": "STUDIO EGAMOV - X CHARCHADIM.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADJGpI3XeO-Cm6eA9YHZe3pS4u8913AAJdMwACEOTJS7w1Eb6E_4dWPAQ"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - QALBI SOXTALAR XURSHIDA.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADJWpI3Xei44aDMV24ZBdkiNPhswhlAAI6MAACp3EJS0kDf6tRm8LxPAQ"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - xurshida yiglamagin.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADJmpI3XdgOYRVpLS1c5SMr5zh_9NOAALKKAACq7lgSBqhq06cQsQaPAQ"
+  },
+  {
+    "title": "KO‘NGLIMDAGILAR.mp3",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADJ2pI3XchQcLQl-H3rH43pfby2_ocAAJ3HwAC1YKpS6AEYdzka0nFPAQ"
+  },
+  {
+    "title": "Ko'nglim (Zulfiya Rahimova ijodi) (@FAYZNUR_STUDIO_UZ)",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADKGpI3XeifNvdx7oRcggMAjsUyrh3AALFSwACtnxQSvhHi0j-H0FNPAQ"
+  },
+  {
+    "title": "Zulfiya Rahimova she‘ri",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADKmpI3XcWJ-7oikN5W4FP-ZGGvHx4AAL6UgAC0EPYSEIcp5brvIqMPAQ"
+  },
+  {
+    "title": "Yur ketamiz dunyosidan",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADK2pI3XdHcQnjk1ZwgANr9PvHQ2X9AAIdpgACjoZRSVsgk8R8O65tPAQ"
+  },
+  {
+    "title": "Abdukarim Jumaboyev she‘ri Xurshida bonu ijrosi",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADLGpI3Xe9PKVmLz9UdChG_QAB8lfU9QACmI4AAuT2wUgSLkLdC98lkzwE"
+  },
+  {
+    "title": "мехмон_булди_тушумда_онам_укиди_сирожиддин_шаропов_ва_хуршида_жураевалар.mp3",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADLWpI3XcFhkZhWnRWC6vYWRtQ5O1GAAJtBwACp9HhSUN1XWkxMiNVPAQ"
+  },
+  {
+    "title": "Opa uka duet she‘r",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADLmpI3XexxgYdkOInAqifWZmp5anYAAJaiQACpZJBSo64Y3RDZpipPAQ"
+  },
+  {
+    "title": "STUDIO EGAMOV D. J .E - XURSHIDA YOMGIR.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADL2pI3XdfOzA-KFpwZbqvnFgYRMqRAAIGpAACZCmpSwtvjRTEZtGIPAQ"
+  },
+  {
+    "title": "Meni yomon ko‘rgan odamlar",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADMGpI3XepTkOs0ArKlH0sZBH-LjD2AAJnFQACdPOASf642tdVZS2hPAQ"
+  },
+  {
+    "title": "Xotira va qadrlash kuniga bag'ishlanadi (Maktuba Shaydo ijodi) …",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADMWpI3XerqtsqIYDsu66iifZqheHDAAJzbgAC8JDoSN9WjqOLgze2PAQ"
+  },
+  {
+    "title": "💻STUDIO EGAMOV💻 - XURSHIDA JURAEVA MADINANI XOTIRALAB.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADMmpI3XeIQfKtiNx7Rk0MGGz2gnFVAAIxPAACgPWoSIA6Uz_YwtPTPAQ"
+  },
+  {
+    "title": "STUDIO GʻOLIBJON - XURSHI SEVGIMIZ ULDI.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADM2pI3XdmC3u2w7I7kviguTc7K2PsAALALgACdZDISpU7MIDnD95yPAQ"
+  },
+  {
+    "title": "Jayron seni do‘st tutgim keldi. Xurshida ijrosi",
+    "id": "CQACAgQAAyEFAAMBBZHlOQADNGpI3XeHeB1cX8kZPSlOysrCJ_YGAAKoNgACoGURU00L1yRFpDcgPAQ"
+  },
+  {
+    "title": "Shahnoza Jo‘rayeva she‘ri Xurshida ijrosi",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADNWpI3Xe_kDy0uSATgVAVnSxzlNkeAAIpSQACmmJZSZbRo8u7DO5zPAQ"
+  },
+  {
+    "title": "Almashtiring raqamingizni",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADNmpI3XfNDDpfrq6_zjVzhaQQL9oXAAKvlgACWqIwSlCWr7ehmWi8PAQ"
+  },
+  {
+    "title": "ZEBO MIRZO SHE‘RI. XUDOJON. XURSHIDA JO‘RAYEVA TOMONIDAN DARDLI…",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADN2pI3XdmdKWphQUGKW8oufXPMqzLAAL3cQACYoDwSp1tsA6ThTVVPAQ"
+  },
+  {
+    "title": "alishtirma raqamlaringni",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADO2pI3Xc-AAE7iRh3xizdXt8WdaRgvAACh2kAAsS5EEjoxOE-7yqrVzwE"
+  },
+  {
+    "title": "Dildora Oqbo‘tayeva ijodi. Xurshida-bonu ijrosi",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADPGpI3Xc-1mtCLGEgSRFcPt1up1lHAAIeoAACeoF5Ssxj2N5WQD37PAQ"
+  },
+  {
+    "title": "otabek muhammatzohit yig‘lagan osmon emas.mp3",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADP2pI3Xd1syvn9vEJeASdaPV_YMHCAAKnjgACB8wJSepH9u8ZAXXAPAQ"
+  },
+  {
+    "title": "𝚂𝚃𝚄𝙳𝙸𝙾_𝙴𝙶𝙰𝙼𝙾𝚅_X_YUGLAB_KELING.m4a",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADQGpI3XeNh7uDgvRkyTilBZshUQw3AAJKTgACu_moSAUz188BWGABPAQ"
+  },
+  {
+    "title": "Yo'qlab turing (Nurillo Nurli ijodi) (@FAYZNUR_STUDIO_UZ)",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADQWpI3XeFf0FqSgf-AAGZo-ITkP2-oAAC3lMAAonIQUlUDkbMotkXmDwE"
+  },
+  {
+    "title": "Abdukarim Jumaboyev she‘ri",
+    "id": "CQACAgIAAyEFAAMBBZHlOQADQmpI3XdCWfBF2TdxL3HR7mexS6MpAAIYTQAClyFBSkjXUmfhYa70PAQ"
   }
 ]
