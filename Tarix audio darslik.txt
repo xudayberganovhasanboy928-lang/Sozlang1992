@@ -1,7 +1,7 @@
 [
   {
     "category": "6-sinf",
-    "books": [
+    "tracks": [
       {
         "title": "Darslik 6-sinf Qadimgi dunyo tarixi 2022-yil",
         "id": "bu_yerga_maxsus_id_yoziladi"
@@ -10,131 +10,126 @@
   },
   {
     "category": "7-sinf",
-    "books": [
+    "tracks": [
       {
-        "title": "Darslik 7-Sinf O'zbekiston tarixi 2022-yil ()",
-        "tracks": [
-          {
-            "title": "1_mavzu_Ajdodlarimizning_ma’naviy_qadriyatlari_–_jahon_sivilizatsiyasi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADAmpM1QjEXNSMHff0_kzDfmKMPzh4AALFqAAC6LdpSu-qJoYOn6r9PAQ"
-          },
-          {
-            "title": "2_mavzu_IV–VII_asrlarda_mamlakatimiz_xalqlarining_turmush_tarzi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADA2pM1QhliAsr8N6tCQIOhX18W-2ZAALGqAAC6LdpSnuYXjncxIa0PAQ"
-          },
-          {
-            "title": "3-4-mavzular. IV–VII asrlarda Xorazm.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADBGpM1Qg_7EpB8h1x58l5W6zRwuroAALHqAAC6LdpSqwbau6rEDqHPAQ"
-          },
-          {
-            "title": "5-mavzu. IV–V asrlarda xioniylar va kidariylar.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADBWpM1Qjxne2_jn3oaxTo1ujx8J1CAALJqAAC6LdpSpyKiB_Q1qWYPAQ"
-          },
-          {
-            "title": "6-7-mavzular. Eftaliylar.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADBmpM1QiCHFdYtnd2wKBMPU72XX54AALLqAAC6LdpSnnPUzs3qZduPAQ"
-          },
-          {
-            "title": "8-9-mavzular. Turk xoqonligi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADB2pM1Qid-JFe7och3hW4r56v9e2zAALMqAAC6LdpSkKf1AFLmsd6PAQ"
-          },
-          {
-            "title": "10–11-mavzular. G‘arbiy Turk xoqonligi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADCGpM1QjoZp54k0NJYHNEWzQAAUaECQACzagAAui3aUo9Y2BSjC-GIzwE"
-          },
-          {
-            "title": "12-13-mavzular. Mahalliy hokimliklarning tashkil topishi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADCWpM1QhJNcJVnf4EWNm44_QykckoAALOqAAC6LdpSik2MKA5IanCPAQ"
-          },
-          {
-            "title": "14-15-mavzular. Turon xalqlarining harbiy san’ati.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADCmpM1QjoW-QiA4qU-WDt3ToYZ8VRAALQqAAC6LdpSgjnTHprkDH9PAQ"
-          },
-          {
-            "title": "16_17_mavzular_VI–VII_asrlarda_Turon_xalqlari_madaniy_hayoti.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADC2pM1Qh7HrTcjQqL42YpsOdvawEXAALRqAAC6LdpSk_r1vZjFFT-PAQ"
-          },
-          {
-            "title": "18_19_mavzular_VII–VIII_asr_boshlarida_Turonda_siyosiy_vaziyat.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADDGpM1Qh9zJvdOvIyIVA-vyDvYPGjAALSqAAC6LdpSud3DrvQ_QIGPAQ"
-          },
-          {
-            "title": "20-21-mavzular. VIII asrda Xuroson va Movarounnahr.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADDWpM1Qi_SW9e4YUIrGhEBsQd9oMtAALTqAAC6LdpSnmg7Ca51MwvPAQ"
-          },
-          {
-            "title": "22-23-mavzular. Qarluqlar. O‘g‘uzlar. Tohiriylar.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADDmpM1QjiW-rKu8liPP9eWUKVNrSqAALUqAAC6LdpSvWRmvy489GBPAQ"
-          },
-          {
-            "title": "24-25-mavzular. Somoniylar.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADD2pM1QilH0FNFhZNoMlC9TTlpzYUAALVqAAC6LdpSifWub_3W6nGPAQ"
-          },
-          {
-            "title": "26-27-mavzular. Somoniylar davrida ijtimoiy-iqtisodiy hayot.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADEGpM1QgZPZCJfwIZP_qe3A5KGQV9AALWqAAC6LdpSv_h9aY-33oDPAQ"
-          },
-          {
-            "title": "28-29-mavzular. G‘aznaviylar.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADEWpM1QhXXuZVSKnCcU0CFm6nYaQHAALXqAAC6LdpSrSaaB2CGNNpPAQ"
-          },
-          {
-            "title": "30-31-mavzular. Qoraxoniylar.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADEmpM1QgH5hcHtVPWnfQfKawoz8mdAALYqAAC6LdpSsjq932OQw6jPAQ"
-          },
-          {
-            "title": "32-33-mavzular. Saljuqiylar.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADE2pM1Qiwtv6rouRRINhavkLJu2NvAALZqAAC6LdpSnNRI1_RCusoPAQ"
-          },
-          {
-            "title": "34-35-mavzular. Xorazmshohlar davlati va uning yuksalishi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADFGpM1QimfNOLF2lh3jajUhkKaEVdAALaqAAC6LdpSl5adEvyQ2FNPAQ"
-          },
-          {
-            "title": "36_37_mavzular_Xorazmshohlar_davlat_boshqaruvi_va_ijtimoiy_iqtisodiy.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADFWpM1QhiPcHKO3hw8B6MJeek0RZ8AALbqAAC6LdpSl5PBhmjJjkdPAQ"
-          },
-          {
-            "title": "38_mavzu_Etnik_jarayonlar_va_o‘zbek_xalqining_shakllanishi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADFmpM1QhSkyCUQdpfXl_hcOL54kMiAALcqAAC6LdpSimhuHoVkZe3PAQ"
-          },
-          {
-            "title": "39-40-mavzular. Mintaqada Islom dinining yoyilishi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADF2pM1QiS2nsz86Z4OxIEmUYY0k4-AALdqAAC6LdpSu9EgKZfz78lPAQ"
-          },
-          {
-            "title": "41-42-mavzular. Ta’lim.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADGGpM1Qi7aSRSMHftCvA18bTgnaSgAALeqAAC6LdpSmAMsycw_7rzPAQ"
-          },
-          {
-            "title": "43_44_mavzular_Aql_zakovat_bilan_bunyod_etilgan_boy_ma’naviyat.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADGWpM1Qhy2TXmytw0rhh7NO7xtQ6jAALfqAAC6LdpSj_mdNsf92LvPAQ"
-          },
-          {
-            "title": "45_46_mavzular_IX_XII_asrlarda_ilm_fan_va_madaniyatning_yuksalishi.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADGmpM1Qjlj44UFi91jBNvrIgcp7IyAALgqAAC6LdpSvj49Vuk0nDAPAQ"
-          },
-          {
-            "title": "47-48-mavzular. Muhammad ibn Muso al-Xorazmiy.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADG2pM1QiiGMinmyCKl16lVTX-y8uEAALhqAAC6LdpSpD_aRluNRQXPAQ"
-          },
-          {
-            "title": "49-50-mavzular. Ahmad Farg‘oniy.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADHGpM1QizE59hPF-tNryqfEAucliGAALiqAAC6LdpShFf5CypIGEYPAQ"
-          },
-          {
-            "title": "51-52-mavzular. Abu Nasr Forobiy.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADHWpM1Qhs4Hwc-V9XXR8i0oaRxl4sAALjqAAC6LdpSmloGRHWexJYPAQ"
-          },
-          {
-            "title": "53-54-mavzular. Abu Rayhon Beruniy.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADHmpM1Qh3T_QRcBl8ua5uYGPeRzz3AALkqAAC6LdpSqevzMWAWCXPPAQ"
-          },
-          {
-            "title": "55-56-mavzular. Abu Ali ibn Sino.mp3",
-            "id": "CQACAgIAAyEFAAMBCJA-7AADH2pM1Qi93Ef0lgK2OwyzodEXSC69AALlqAAC6LdpSpH9NVIKCMAnPAQ"
-          }
-        ]
+        "title": "1_mavzu_Ajdodlarimizning_ma’naviy_qadriyatlari_–_jahon_sivilizatsiyasi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADAmpM1QjEXNSMHff0_kzDfmKMPzh4AALFqAAC6LdpSu-qJoYOn6r9PAQ"
+      },
+      {
+        "title": "2_mavzu_IV–VII_asrlarda_mamlakatimiz_xalqlarining_turmush_tarzi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADA2pM1QhliAsr8N6tCQIOhX18W-2ZAALGqAAC6LdpSnuYXjncxIa0PAQ"
+      },
+      {
+        "title": "3-4-mavzular. IV–VII asrlarda Xorazm.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADBGpM1Qg_7EpB8h1x58l5W6zRwuroAALHqAAC6LdpSqwbau6rEDqHPAQ"
+      },
+      {
+        "title": "5-mavzu. IV–V asrlarda xioniylar va kidariylar.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADBWpM1Qjxne2_jn3oaxTo1ujx8J1CAALJqAAC6LdpSpyKiB_Q1qWYPAQ"
+      },
+      {
+        "title": "6-7-mavzular. Eftaliylar.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADBmpM1QiCHFdYtnd2wKBMPU72XX54AALLqAAC6LdpSnnPUzs3qZduPAQ"
+      },
+      {
+        "title": "8-9-mavzular. Turk xoqonligi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADB2pM1Qid-JFe7och3hW4r56v9e2zAALMqAAC6LdpSkKf1AFLmsd6PAQ"
+      },
+      {
+        "title": "10–11-mavzular. G‘arbiy Turk xoqonligi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADCGpM1QjoZp54k0NJYHNEWzQAAUaECQACzagAAui3aUo9Y2BSjC-GIzwE"
+      },
+      {
+        "title": "12-13-mavzular. Mahalliy hokimliklarning tashkil topishi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADCWpM1QhJNcJVnf4EWNm44_QykckoAALOqAAC6LdpSik2MKA5IanCPAQ"
+      },
+      {
+        "title": "14-15-mavzular. Turon xalqlarining harbiy san’ati.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADCmpM1QjoW-QiA4qU-WDt3ToYZ8VRAALQqAAC6LdpSgjnTHprkDH9PAQ"
+      },
+      {
+        "title": "16_17_mavzular_VI–VII_asrlarda_Turon_xalqlari_madaniy_hayoti.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADC2pM1Qh7HrTcjQqL42YpsOdvawEXAALRqAAC6LdpSk_r1vZjFFT-PAQ"
+      },
+      {
+        "title": "18_19_mavzular_VII–VIII_asr_boshlarida_Turonda_siyosiy_vaziyat.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADDGpM1Qh9zJvdOvIyIVA-vyDvYPGjAALSqAAC6LdpSud3DrvQ_QIGPAQ"
+      },
+      {
+        "title": "20-21-mavzular. VIII asrda Xuroson va Movarounnahr.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADDWpM1Qi_SW9e4YUIrGhEBsQd9oMtAALTqAAC6LdpSnmg7Ca51MwvPAQ"
+      },
+      {
+        "title": "22-23-mavzular. Qarluqlar. O‘g‘uzlar. Tohiriylar.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADDmpM1QjiW-rKu8liPP9eWUKVNrSqAALUqAAC6LdpSvWRmvy489GBPAQ"
+      },
+      {
+        "title": "24-25-mavzular. Somoniylar.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADD2pM1QilH0FNFhZNoMlC9TTlpzYUAALVqAAC6LdpSifWub_3W6nGPAQ"
+      },
+      {
+        "title": "26-27-mavzular. Somoniylar davrida ijtimoiy-iqtisodiy hayot.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADEGpM1QgZPZCJfwIZP_qe3A5KGQV9AALWqAAC6LdpSv_h9aY-33oDPAQ"
+      },
+      {
+        "title": "28-29-mavzular. G‘aznaviylar.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADEWpM1QhXXuZVSKnCcU0CFm6nYaQHAALXqAAC6LdpSrSaaB2CGNNpPAQ"
+      },
+      {
+        "title": "30-31-mavzular. Qoraxoniylar.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADEmpM1QgH5hcHtVPWnfQfKawoz8mdAALYqAAC6LdpSsjq932OQw6jPAQ"
+      },
+      {
+        "title": "32-33-mavzular. Saljuqiylar.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADE2pM1Qiwtv6rouRRINhavkLJu2NvAALZqAAC6LdpSnNRI1_RCusoPAQ"
+      },
+      {
+        "title": "34-35-mavzular. Xorazmshohlar davlati va uning yuksalishi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADFGpM1QimfNOLF2lh3jajUhkKaEVdAALaqAAC6LdpSl5adEvyQ2FNPAQ"
+      },
+      {
+        "title": "36_37_mavzular_Xorazmshohlar_davlat_boshqaruvi_va_ijtimoiy_iqtisodiy.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADFWpM1QhiPcHKO3hw8B6MJeek0RZ8AALbqAAC6LdpSl5PBhmjJjkdPAQ"
+      },
+      {
+        "title": "38_mavzu_Etnik_jarayonlar_va_o‘zbek_xalqining_shakllanishi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADFmpM1QhSkyCUQdpfXl_hcOL54kMiAALcqAAC6LdpSimhuHoVkZe3PAQ"
+      },
+      {
+        "title": "39-40-mavzular. Mintaqada Islom dinining yoyilishi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADF2pM1QiS2nsz86Z4OxIEmUYY0k4-AALdqAAC6LdpSu9EgKZfz78lPAQ"
+      },
+      {
+        "title": "41-42-mavzular. Ta’lim.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADGGpM1Qi7aSRSMHftCvA18bTgnaSgAALeqAAC6LdpSmAMsycw_7rzPAQ"
+      },
+      {
+        "title": "43_44_mavzular_Aql_zakovat_bilan_bunyod_etilgan_boy_ma’naviyat.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADGWpM1Qhy2TXmytw0rhh7NO7xtQ6jAALfqAAC6LdpSj_mdNsf92LvPAQ"
+      },
+      {
+        "title": "45_46_mavzular_IX_XII_asrlarda_ilm_fan_va_madaniyatning_yuksalishi.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADGmpM1Qjlj44UFi91jBNvrIgcp7IyAALgqAAC6LdpSvj49Vuk0nDAPAQ"
+      },
+      {
+        "title": "47-48-mavzular. Muhammad ibn Muso al-Xorazmiy.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADG2pM1QiiGMinmyCKl16lVTX-y8uEAALhqAAC6LdpSpD_aRluNRQXPAQ"
+      },
+      {
+        "title": "49-50-mavzular. Ahmad Farg‘oniy.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADHGpM1QizE59hPF-tNryqfEAucliGAALiqAAC6LdpShFf5CypIGEYPAQ"
+      },
+      {
+        "title": "51-52-mavzular. Abu Nasr Forobiy.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADHWpM1Qhs4Hwc-V9XXR8i0oaRxl4sAALjqAAC6LdpSmloGRHWexJYPAQ"
+      },
+      {
+        "title": "53-54-mavzular. Abu Rayhon Beruniy.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADHmpM1Qh3T_QRcBl8ua5uYGPeRzz3AALkqAAC6LdpSqevzMWAWCXPPAQ"
+      },
+      {
+        "title": "55-56-mavzular. Abu Ali ibn Sino.mp3",
+        "id": "CQACAgIAAyEFAAMBCJA-7AADH2pM1Qi93Ef0lgK2OwyzodEXSC69AALlqAAC6LdpSpH9NVIKCMAnPAQ"
       },
       {
         "title": "Darslik 7-Sinf Jahon tarixi 2022-yil",
@@ -144,7 +139,7 @@
   },
   {
     "category": "8-sinf",
-    "books": [
+    "tracks": [
       {
         "title": "8_O zbekiston_Tarixi_2023",
         "id": "bu_yerga_maxsus_id_yoziladi"
@@ -157,7 +152,7 @@
   },
   {
     "category": "9-sinf",
-    "books": [
+    "tracks": [
       {
         "title": "Darslik O‘ZBEKISTON TARIXI 9-Sinf 2024-yilgi nashir",
         "id": "bu_yerga_maxsus_id_yoziladi"
@@ -170,7 +165,7 @@
   },
   {
     "category": "10-sinf",
-    "books": [
+    "tracks": [
       {
         "title": "Darslik 10-sinf Jahon tarixi 2022-yil",
         "id": "bu_yerga_maxsus_id_yoziladi"
@@ -183,7 +178,7 @@
   },
   {
     "category": "11-sinf",
-    "books": [
+    "tracks": [
       {
         "title": "11-O'zbekiston tarixi - 2025",
         "id": "bu_yerga_maxsus_id_yoziladi"
