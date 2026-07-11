@@ -1,0 +1,746 @@
+-- O'zbekiston tarixi, 7-sinf darsligi (2022-yil)
+-- 11, 12, 13, 14, 15-mavzular bo'yicha savollar
+-- Har bir mavzudan 16 tadan, jami 80 ta savol
+
+questions = {
+
+  -- ==========================================================
+  -- 11-mavzu. G'arbiy Turk xoqonligi bo'limi bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "G'arbiy Turk xoqonligi ijtimoiy-iqtisodiy va madaniy jihatdan qachonga kelib taraqqiy etadi?",
+    answers = {
+      { text = "Yettinchi asrning birinchi choragiga kelib", correct = true },
+      { text = "Oltinchi asr oxirida", correct = false },
+      { text = "Sakkizinchi asr boshlarida", correct = false },
+      { text = "Beshinchi asrning ikkinchi yarmida", correct = false },
+    },
+  },
+  {
+    question = "Xoqon To'n yabg'u hukmronlik qilgan davrda mahalliy hukmdorlarga qanday unvon berilgan?",
+    answers = {
+      { text = "\"Xon\" unvoni", correct = false },
+      { text = "\"Yabg'u\" unvoni", correct = true },
+      { text = "\"Malik\" unvoni", correct = false },
+      { text = "\"Sulton\" unvoni", correct = false },
+    },
+  },
+  {
+    question = "G'arbiy Turk xoqonligida shahar aholisi asosan qanday faoliyat bilan mashg'ul bo'lgan?",
+    answers = {
+      { text = "Faqat chorvachilik va ovchilik bilan", correct = false },
+      { text = "Faqat dehqonchilik bilan", correct = false },
+      { text = "Hunarmandchilik va savdo-sotiq bilan", correct = true },
+      { text = "Faqat harbiy xizmat bilan", correct = false },
+    },
+  },
+  {
+    question = "Xoqonlik o'z ehtiyoji va hayotiy zaruratidan kelib chiqib qanday tizimni yaratgan?",
+    answers = {
+      { text = "\"Yuzlik\" tizimini", correct = false },
+      { text = "\"Minglik\" tizimini", correct = false },
+      { text = "\"O'nlik\" tizimini", correct = true },
+      { text = "\"Tumanlik\" tizimini", correct = false },
+    },
+  },
+  {
+    question = "Xoqon o'z noiblari bo'lmish kimlar yordamida mustaqil hokimliklar ustidan nazoratni kuchaytirgan?",
+    answers = {
+      { text = "Ixshidlar yordamida", correct = false },
+      { text = "Tudunlar yordamida", correct = true },
+      { text = "Afshinlar yordamida", correct = false },
+      { text = "Malikshohlar yordamida", correct = false },
+    },
+  },
+  {
+    question = "G'arbiy Turk xoqonligida qarorgoh vazifasini bajargan shaharlardan biri qaysi?",
+    answers = {
+      { text = "Suyab (Oq Bishim)", correct = true },
+      { text = "Termiz", correct = false },
+      { text = "Marv", correct = false },
+      { text = "Nishopur", correct = false },
+    },
+  },
+  {
+    question = "Sug'd va Farg'onada oliy hukmdor qanday unvon bilan atalgan?",
+    answers = {
+      { text = "Xorazmshoh", correct = false },
+      { text = "Ixshid", correct = true },
+      { text = "Afshin", correct = false },
+      { text = "Xudot", correct = false },
+    },
+  },
+  {
+    question = "Toxaristonda oliy hukmdor qanday unvon bilan atalgan?",
+    answers = {
+      { text = "Malikshoh", correct = true },
+      { text = "Ixrid", correct = false },
+      { text = "Tudun", correct = false },
+      { text = "Ixshid", correct = false },
+    },
+  },
+  {
+    question = "Xorazmda hukmdor qanday unvon bilan atalgan?",
+    answers = {
+      { text = "Afshin", correct = false },
+      { text = "Xudot", correct = false },
+      { text = "Xorazmshoh", correct = true },
+      { text = "Malikshoh", correct = false },
+    },
+  },
+  {
+    question = "Buxoroda hukmdor qanday unvon bilan atalgan?",
+    answers = {
+      { text = "Xudot", correct = true },
+      { text = "Ixrid", correct = false },
+      { text = "Afshin", correct = false },
+      { text = "Tudun", correct = false },
+    },
+  },
+  {
+    question = "Ustrushonada hukmdor qanday unvon bilan atalgan?",
+    answers = {
+      { text = "Tudun", correct = false },
+      { text = "Afshin", correct = true },
+      { text = "Xudot", correct = false },
+      { text = "Ixshid", correct = false },
+    },
+  },
+  {
+    question = "Chochda hukmdor qanday unvon bilan atalgan?",
+    answers = {
+      { text = "Tudun", correct = true },
+      { text = "Ixshid", correct = false },
+      { text = "Xudot", correct = false },
+      { text = "Malikshoh", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi davrida Sug'd hududiga qaysi yerlar kirgan?",
+    answers = {
+      { text = "Buxorodan Xivagacha bo'lgan yerlar", correct = false },
+      { text = "Panjikentdan Karmanagacha bo'lgan yerlar", correct = true },
+      { text = "Termizdan Balxgacha bo'lgan yerlar", correct = false },
+      { text = "Chochdan Iloqqacha bo'lgan yerlar", correct = false },
+    },
+  },
+  {
+    question = "Farg'ona Sug'd siyosiy ittifoqi bilan qanday munosabatda bo'lgan?",
+    answers = {
+      { text = "Doimiy uning tarkibida bo'lgan", correct = false },
+      { text = "Sug'd ittifoqiga kirmagan, alohida mustaqil davlat bo'lgan", correct = true },
+      { text = "Faqat harbiy ittifoqqa kirgan", correct = false },
+      { text = "Faqat diniy jihatdan bog'liq bo'lgan", correct = false },
+    },
+  },
+  {
+    question = "Yettinchi asrning birinchi yarmida G'arbiy Turk xoqonligi Xitoyga necha marotaba savdo elchiligi yuborgan?",
+    answers = {
+      { text = "Besh marotaba", correct = false },
+      { text = "Yetti marotaba", correct = false },
+      { text = "To'qqiz marotaba", correct = true },
+      { text = "O'n bir marotaba", correct = false },
+    },
+  },
+  {
+    question = "Afrosiyob (Qadimgi Samarqand) shahri xarobalari qachon aniqlangan?",
+    answers = {
+      { text = "O'n to'qqizinchi asrda", correct = false },
+      { text = "Yigirmanchi asrning oltmishinchi yillarida", correct = true },
+      { text = "Yigirma birinchi asr boshida", correct = false },
+      { text = "O'n sakkizinchi asrda", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 12-mavzu. Mahalliy hokimliklarning tashkil topishi (1-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Turk xoqonligi davrida necha mustaqil hokimlik tashkil topgan?",
+    answers = {
+      { text = "O'ndan ortiq", correct = false },
+      { text = "O'n beshdan ortiq", correct = true },
+      { text = "Yigirmadan ortiq", correct = false },
+      { text = "Beshdan ortiq", correct = false },
+    },
+  },
+  {
+    question = "Toxariston necha ta tog' va tog'oldi viloyatlaridan iborat mustaqil hokimlik bo'lgan?",
+    answers = {
+      { text = "O'n yetti ta", correct = false },
+      { text = "Yigirma yetti ta", correct = true },
+      { text = "O'ttiz yetti ta", correct = false },
+      { text = "O'n uch ta", correct = false },
+    },
+  },
+  {
+    question = "Toxaristonning poytaxti qaysi shahar bo'lgan?",
+    answers = {
+      { text = "Termiz", correct = false },
+      { text = "Balx", correct = true },
+      { text = "Buxoro", correct = false },
+      { text = "Samarqand", correct = false },
+    },
+  },
+  {
+    question = "Toxariston hududi shimolda qaysi tog' tizmasi bilan chegaralangan?",
+    answers = {
+      { text = "Pomir tog'lari", correct = false },
+      { text = "Hisor tog'lari", correct = true },
+      { text = "Tyan-Shan tog'lari", correct = false },
+      { text = "Zarafshon tog'lari", correct = false },
+    },
+  },
+  {
+    question = "Toxaristonda hunarmandchilikning qaysi turlari ayniqsa yuksalgan?",
+    answers = {
+      { text = "Kulolchilik va zargarlik", correct = false },
+      { text = "Qurolsozlik, shishasozlik va to'qimachilik", correct = true },
+      { text = "Temirchilik va sarrojlik", correct = false },
+      { text = "Misgarlik va chilangarlik", correct = false },
+    },
+  },
+  {
+    question = "Mustaqil hokimliklar orasida eng yirigi qaysi hisoblangan?",
+    answers = {
+      { text = "Xorazm hokimligi", correct = false },
+      { text = "Choch hokimligi", correct = false },
+      { text = "Sug'd ixshidligi", correct = true },
+      { text = "Toxariston hokimligi", correct = false },
+    },
+  },
+  {
+    question = "Samarqand, Buxoro va Kesh viloyatida necha ta yirik mulk birlashgan edi?",
+    answers = {
+      { text = "To'qqizta", correct = false },
+      { text = "O'n bitta", correct = true },
+      { text = "O'n uchta", correct = false },
+      { text = "Yigirma bitta", correct = false },
+    },
+  },
+  {
+    question = "Sug'dda chorvachilikda qaysi hayvon zoti ayniqsa mashhur bo'lgan?",
+    answers = {
+      { text = "Farg'ona otlari", correct = false },
+      { text = "Hisori qo'ylari va tulporlari", correct = true },
+      { text = "Xorazm tuyalari", correct = false },
+      { text = "Choch qoramollari", correct = false },
+    },
+  },
+  {
+    question = "Sug'dda oliy boshqaruv organi qanday nomlangan?",
+    answers = {
+      { text = "Kengash Devoni", correct = false },
+      { text = "Oqsoqollar Kengashi", correct = true },
+      { text = "Xalq Majlisi", correct = false },
+      { text = "Ixshidlar Sho'rosi", correct = false },
+    },
+  },
+  {
+    question = "Xoqon To'n yabg'u qaysi yillarda hukmronlik qilgan?",
+    answers = {
+      { text = "Olti yuz o'n sakkizinchi — olti yuz o'ttizinchi yillarda", correct = true },
+      { text = "Olti yuz o'ttizinchi — olti yuz qirqinchi yillarda", correct = false },
+      { text = "Besh yuz to'qsoninchi — olti yuz o'ninchi yillarda", correct = false },
+      { text = "Olti yuz qirqinchi — olti yuz ellikinchi yillarda", correct = false },
+    },
+  },
+  {
+    question = "Farg'ona hukmdorlari qanday unvon bilan atalgan?",
+    answers = {
+      { text = "Xudot", correct = false },
+      { text = "Ixshid", correct = true },
+      { text = "Afshin", correct = false },
+      { text = "Tudun", correct = false },
+    },
+  },
+  {
+    question = "Farg'ona vodiysida dehqonlar asosan qanday ekinlar yetishtirishgan?",
+    answers = {
+      { text = "Bug'doy va arpa", correct = false },
+      { text = "Paxta va sholi", correct = true },
+      { text = "Tariq va no'xat", correct = false },
+      { text = "Uzum va anor", correct = false },
+    },
+  },
+  {
+    question = "Farg'onaning yirik markaziy shaharlaridan biri qaysi?",
+    answers = {
+      { text = "Koson", correct = true },
+      { text = "Termiz", correct = false },
+      { text = "Kesh", correct = false },
+      { text = "Poykent", correct = false },
+    },
+  },
+  {
+    question = "Farg'ona vodiysida yetishtirilgan otlar nima sababdan \"samoviy otlar\" deb nom olgan?",
+    answers = {
+      { text = "Ularning rangi osmon rangida bo'lgani uchun", correct = false },
+      { text = "Ularning tulporligi va dong'i jahonga ketgani uchun", correct = true },
+      { text = "Ular faqat tog'larda yashagani uchun", correct = false },
+      { text = "Ularni faqat xoqonlar minganligi uchun", correct = false },
+    },
+  },
+  {
+    question = "Choch (Toshkent vohasi) qaysi ikki daryo havzasida joylashgan?",
+    answers = {
+      { text = "Sirdaryo va Amudaryo", correct = false },
+      { text = "Zarafshon va Qashqadaryo", correct = false },
+      { text = "Chirchiq va Ohangaron", correct = true },
+      { text = "Norin va Qoradaryo", correct = false },
+    },
+  },
+  {
+    question = "Choch hukmdorlari o'z tangalarini qaysi yozuvda zarb ettirishgan?",
+    answers = {
+      { text = "Turkiy yozuvda", correct = false },
+      { text = "Xitoy yozuvida", correct = false },
+      { text = "Sug'diy yozuvda", correct = true },
+      { text = "Arab yozuvida", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 13-mavzu. Mahalliy hokimliklarning tashkil topishi (2-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Qanha shahri xarobasidan nima topilgan?",
+    answers = {
+      { text = "Oltin tanga xazinasi", correct = false },
+      { text = "Sopol idishdagi bitiklar", correct = true },
+      { text = "Marmar haykal", correct = false },
+      { text = "Qadimiy qurol-yarog'lar", correct = false },
+    },
+  },
+  {
+    question = "Choch hududida qaysi diniy oqimlar tarqalgan bo'lgan?",
+    answers = {
+      { text = "Faqat zardushtiylik", correct = false },
+      { text = "Tangrichilik, nestorian xristianlik va moniylik", correct = true },
+      { text = "Faqat buddizm", correct = false },
+      { text = "Faqat islom", correct = false },
+    },
+  },
+  {
+    question = "\"Choch\" nomi arablar tomonidan qanday nomlangan?",
+    answers = {
+      { text = "\"Chach\"", correct = false },
+      { text = "\"Shosh\"", correct = true },
+      { text = "\"Toshkand\"", correct = false },
+      { text = "\"Chochkent\"", correct = false },
+    },
+  },
+  {
+    question = "Xoqon tomonidan Chochga hokim etib kim tayinlangan?",
+    answers = {
+      { text = "Sheri Kishvar", correct = false },
+      { text = "Tegin Tyanchji", correct = true },
+      { text = "Abruy", correct = false },
+      { text = "To'n yabg'u", correct = false },
+    },
+  },
+  {
+    question = "Choch ma'muriy boshqaruvida tegindan keyingi lavozim qanday atalgan?",
+    answers = {
+      { text = "Afshinlar", correct = false },
+      { text = "Tudunlar", correct = true },
+      { text = "Ixshidlar", correct = false },
+      { text = "Malikshohlar", correct = false },
+    },
+  },
+  {
+    question = "To'n yabg'u o'z qarorgohini qaysi mavzega ko'chirgan?",
+    answers = {
+      { text = "Mingbuloq mavzesiga", correct = true },
+      { text = "Qorasuv mavzesiga", correct = false },
+      { text = "Zangiota mavzesiga", correct = false },
+      { text = "Chinoz mavzesiga", correct = false },
+    },
+  },
+  {
+    question = "To'n yabg'u qaram o'lkalarga o'z vakillari sifatida kimlarni yuborgan?",
+    answers = {
+      { text = "Tudunlarni", correct = false },
+      { text = "Eltabarlarni", correct = true },
+      { text = "Afshinlarni", correct = false },
+      { text = "Ixshidlarni", correct = false },
+    },
+  },
+  {
+    question = "Choch tashqi savdoda nimalarni chetga chiqargan?",
+    answers = {
+      { text = "Ipak va paxta", correct = false },
+      { text = "Lashkarak kumushlari, metall va moviy feruzalar", correct = true },
+      { text = "Guruch va bug'doy", correct = false },
+      { text = "Charm va jun", correct = false },
+    },
+  },
+  {
+    question = "O'rta asrlarda shaharlar necha qismdan iborat bo'lgan?",
+    answers = {
+      { text = "Ikki qismdan", correct = false },
+      { text = "Uch qismdan", correct = true },
+      { text = "To'rt qismdan", correct = false },
+      { text = "Besh qismdan", correct = false },
+    },
+  },
+  {
+    question = "Shaharning uch qismi qanday nomlar bilan yuritilgan?",
+    answers = {
+      { text = "Ko'handiz, shahriston, rabod", correct = true },
+      { text = "Arki oliy, madina, bozor", correct = false },
+      { text = "Qal'a, mahalla, work", correct = false },
+      { text = "Poytaxt, viloyat, tuman", correct = false },
+    },
+  },
+  {
+    question = "X asrda yashagan arab mualliflari Ibn Xavqal va Ishtaxriyning qaydiga ko'ra Binkat (Toshkent)ning nechta darvozasi bo'lgan?",
+    answers = {
+      { text = "O'n sakkizta", correct = false },
+      { text = "Yigirma ikkita", correct = true },
+      { text = "O'n beshta", correct = false },
+      { text = "O'ttizta", correct = false },
+    },
+  },
+  {
+    question = "Shahar devorlari bo'ylab oqib o'tgan anhor qanday vazifani bajargan?",
+    answers = {
+      { text = "Sug'orish vazifasini", correct = false },
+      { text = "Xandaq vazifasini", correct = true },
+      { text = "Transport vazifasini", correct = false },
+      { text = "Chegara vazifasini", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi davrida Choch vohasida etnik tarkibda kimlarning salmog'i keskin oshgan?",
+    answers = {
+      { text = "Sug'diylarniki", correct = false },
+      { text = "Turkiylarniki", correct = true },
+      { text = "Forslarniki", correct = false },
+      { text = "Xitoyliklarniki", correct = false },
+    },
+  },
+  {
+    question = "Xoqonlik ikkiga bo'lingach, Choch qaysi xoqonlik tarkibida bo'lgan?",
+    answers = {
+      { text = "Sharqiy Turk xoqonligi tarkibida", correct = false },
+      { text = "G'arbiy Turk xoqonligi tarkibida", correct = true },
+      { text = "Eftaliylar davlati tarkibida", correct = false },
+      { text = "Sosoniylar davlati tarkibida", correct = false },
+    },
+  },
+  {
+    question = "Beshinchi-yettinchi asrlarda Turonda qanday ikki jarayon bir vaqtda kuzatilgan?",
+    answers = {
+      { text = "Faqat urushlar va tinchlik davri almashinuvi", correct = false },
+      { text = "Yerga egalik munosabatlarining o'rnatilishi va ko'chmanchilarning o'troqlashuvi", correct = true },
+      { text = "Faqat savdo rivoji", correct = false },
+      { text = "Faqat diniy o'zgarishlar", correct = false },
+    },
+  },
+  {
+    question = "Qishloqlarda barpo etilgan istehkomli turar joylar qanday nomlar bilan shuhrat topgan?",
+    answers = {
+      { text = "\"Ko'shk\", \"qasr\", \"qo'rg'on\" va \"qo'rg'oncha\"", correct = true },
+      { text = "\"Work\", \"mahalla\", \"bozor\"", correct = false },
+      { text = "\"Karvonsaroy\" va \"work\"", correct = false },
+      { text = "\"Work\", \"work\", \"work\"", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 14-mavzu. Turon xalqlarining harbiy san'ati (1-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "\"Turon\" atamasi dastlab qaysi manbada tilga olingan?",
+    answers = {
+      { text = "\"Shohnoma\"da", correct = false },
+      { text = "\"Avesto\"da", correct = true },
+      { text = "\"Devonu lug'otit-turk\"da", correct = false },
+      { text = "\"Tarixi Tabariy\"da", correct = false },
+    },
+  },
+  {
+    question = "Tarixchilar fikricha, turlar (turklar) qaysi xalqlar tarmog'iga mansub hisoblangan?",
+    answers = {
+      { text = "Somiy xalqlar", correct = false },
+      { text = "Oriy xalqlar", correct = true },
+      { text = "Slavyan xalqlari", correct = false },
+      { text = "Ugor-fin xalqlari", correct = false },
+    },
+  },
+  {
+    question = "Oltinchi asrda O'rta Osiyo hududi qaysi davlatga o'tishi bilan \"Turon\" nomi turklarga nisbatan berila boshlagan?",
+    answers = {
+      { text = "Sosoniylar davlatiga", correct = false },
+      { text = "Turk xoqonligiga", correct = true },
+      { text = "Eftaliylar davlatiga", correct = false },
+      { text = "Xioniylar davlatiga", correct = false },
+    },
+  },
+  {
+    question = "Ibn Arabshoh ma'lumotiga ko'ra Turon afsonaviy taqsimotda kimga tekkan?",
+    answers = {
+      { text = "Kaykovusga", correct = false },
+      { text = "Afrosiyobga", correct = true },
+      { text = "Rustamga", correct = false },
+      { text = "Siyovushga", correct = false },
+    },
+  },
+  {
+    question = "Arab adibi Johiz \"Manoqib al-atrok\" asarida turklarni qaysi sohada ustun deb ta'riflagan?",
+    answers = {
+      { text = "Ilm-fanda", correct = false },
+      { text = "Hunarmandchilikda", correct = false },
+      { text = "Harbiy ishda", correct = true },
+      { text = "Davlatni boshqarishda", correct = false },
+    },
+  },
+  {
+    question = "Johiz fikricha, xitoyliklar qaysi sohada ustun bo'lgan?",
+    answers = {
+      { text = "Harbiy ishda", correct = false },
+      { text = "Hunarmandchilikda", correct = true },
+      { text = "Ilm-fanda", correct = false },
+      { text = "Davlatni boshqarishda", correct = false },
+    },
+  },
+  {
+    question = "\"Turkiy xalqlar mafkurasi\" nomli kitob muallifi kim?",
+    answers = {
+      { text = "Abu Bakr Narshaxiy", correct = false },
+      { text = "Usmon Turon", correct = true },
+      { text = "Ibn Arabshoh", correct = false },
+      { text = "Mahmud Qoshg'ariy", correct = false },
+    },
+  },
+  {
+    question = "Turklar birinchi bo'lib nimani jang vositasi sifatida ishlatishgan?",
+    answers = {
+      { text = "Tuyani", correct = false },
+      { text = "Otni", correct = true },
+      { text = "Filni", correct = false },
+      { text = "Aravani", correct = false },
+    },
+  },
+  {
+    question = "Turklar qanday jihozlarni kashf etishgan?",
+    answers = {
+      { text = "Egar-jabduq, uzangi va tizgin", correct = true },
+      { text = "Qilich va sovut", correct = false },
+      { text = "Kamon va o'q", correct = false },
+      { text = "Nayza va gurzi", correct = false },
+    },
+  },
+  {
+    question = "Chinliklar turklardan nimalarni o'rganib olishgan?",
+    answers = {
+      { text = "Faqat qurol yasashni", correct = false },
+      { text = "Otga minish, uzun qilichdan foydalanish va jangovar kiyim yasashni", correct = true },
+      { text = "Faqat davlat boshqarishni", correct = false },
+      { text = "Faqat savdo yuritishni", correct = false },
+    },
+  },
+  {
+    question = "Turklar chodir-hammom va kasalxonalarni qanday maqsadda ishlatishgan?",
+    answers = {
+      { text = "Faqat poytaxtda foydalanish uchun", correct = false },
+      { text = "Qo'shin bilan birga otda olib yurish uchun", correct = true },
+      { text = "Faqat sovuq mavsumda foydalanish uchun", correct = false },
+      { text = "Savdogarlar uchun", correct = false },
+    },
+  },
+  {
+    question = "Turon hududi milodiy beshinchi asrda qaysi davlat tarkibiga kirgan?",
+    answers = {
+      { text = "Sosoniylar davlati", correct = false },
+      { text = "Eftaliylar davlati", correct = true },
+      { text = "Kushon davlati", correct = false },
+      { text = "Xioniylar davlati", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar jangda asosan qaysi qurol turidan foydalanishgan?",
+    answers = {
+      { text = "Nayzalardan", correct = false },
+      { text = "Gurzilardan", correct = true },
+      { text = "Palashlardan", correct = false },
+      { text = "Xanjarlardan", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi davrida ibodatxona qoshidagi ta'lim dargohlarida yigitlarga nimalar o'rgatilgan?",
+    answers = {
+      { text = "Faqat savdo-sotiq", correct = false },
+      { text = "Otda erkin yurish, qilichbozlik, kamondan o'q otish", correct = true },
+      { text = "Faqat xat-savod", correct = false },
+      { text = "Faqat musiqa", correct = false },
+    },
+  },
+  {
+    question = "Bu davrda qizlarga qanday ko'nikmalar ham shakllantirilgan?",
+    answers = {
+      { text = "Faqat to'qimachilik", correct = false },
+      { text = "Chavandozlik va kamonbozlik", correct = true },
+      { text = "Faqat naqqoshlik", correct = false },
+      { text = "Faqat tibbiyot", correct = false },
+    },
+  },
+  {
+    question = "Xoqonlik qo'shinining asosiy qismi kimlardan tashkil topgan?",
+    answers = {
+      { text = "Piyoda askarlardan", correct = false },
+      { text = "Otliq jangchilardan", correct = true },
+      { text = "Dengiz askarlaridan", correct = false },
+      { text = "Chavandoz ayollardan", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 15-mavzu. Turon xalqlarining harbiy san'ati (2-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Bu davrda paydo bo'lgan uzun va og'ir qilich qanday nomlangan?",
+    answers = {
+      { text = "Xanjar", correct = false },
+      { text = "Palash", correct = true },
+      { text = "Nayza", correct = false },
+      { text = "Gurzi", correct = false },
+    },
+  },
+  {
+    question = "Har bir otliq jangchi o'zi bilan kamida nechta ot olib yurgan?",
+    answers = {
+      { text = "Bitta ot", correct = false },
+      { text = "Ikki yoki uchta ot", correct = true },
+      { text = "Beshta ot", correct = false },
+      { text = "O'nta ot", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi armiyasi qanday bo'linmalardan tashkil topgan?",
+    answers = {
+      { text = "Faqat yuzlik va minglikdan", correct = false },
+      { text = "O'nlik, yuzlik, minglik va o'n minglikdan", correct = true },
+      { text = "Faqat tumanlardan", correct = false },
+      { text = "Faqat o'nlikdan", correct = false },
+    },
+  },
+  {
+    question = "Har bir tuman nimaga ega bo'lgan?",
+    answers = {
+      { text = "Alohida bayroqqa", correct = false },
+      { text = "O'z tug'i (nishoni)ga", correct = true },
+      { text = "Alohida qonunga", correct = false },
+      { text = "Alohida hukmdorga", correct = false },
+    },
+  },
+  {
+    question = "Tuman nishonida odatda qaysi hayvonning boshi tasvirlangan?",
+    answers = {
+      { text = "Yo'lbars", correct = false },
+      { text = "Bo'ri", correct = true },
+      { text = "Burgut", correct = false },
+      { text = "Ot", correct = false },
+    },
+  },
+  {
+    question = "Turk jangchilari hujum qilishda qanday harbiy taktikadan keng foydalanishgan?",
+    answers = {
+      { text = "Faqat to'g'ridan-to'g'ri hujum", correct = false },
+      { text = "Yolg'ondan chekinish", correct = true },
+      { text = "Faqat tungi hujum", correct = false },
+      { text = "Faqat suvda jang", correct = false },
+    },
+  },
+  {
+    question = "Himoyalanish chog'ida turklar qanday usulni qo'llashgan?",
+    answers = {
+      { text = "To'g'ri chiziq usulini", correct = false },
+      { text = "Aylana usulini", correct = true },
+      { text = "Zigzag usulini", correct = false },
+      { text = "Uch qatorli usulni", correct = false },
+    },
+  },
+  {
+    question = "Turkiy suvoriylar tomonidan qaysi jihozning kashf etilishi otliq askarlarga ot ustida mustahkam o'tirish imkonini bergan?",
+    answers = {
+      { text = "Egar", correct = false },
+      { text = "Uzangi", correct = true },
+      { text = "Tizgin", correct = false },
+      { text = "Jilov", correct = false },
+    },
+  },
+  {
+    question = "Xitoylik sayyoh Samarqand jangchilari haqida qanday fikr bildirgan?",
+    answers = {
+      { text = "Ular qo'rqoq va zaif bo'lgan", correct = false },
+      { text = "Ular jasur va g'ayratli bo'lib, o'limni nazar-pisand qilmagan", correct = true },
+      { text = "Ular faqat mudofaada kuchli bo'lgan", correct = false },
+      { text = "Ular faqat piyoda jang qilgan", correct = false },
+    },
+  },
+  {
+    question = "Jangchilarning ustunligi nimada bo'lgan?",
+    answers = {
+      { text = "Bir tomonlama o'tkir tig'li qilichlarda", correct = false },
+      { text = "Ikkiyoqlama o'tkir tig'li qilichlarda", correct = true },
+      { text = "Faqat nayzalarda", correct = false },
+      { text = "Faqat kamonlarda", correct = false },
+    },
+  },
+  {
+    question = "Himoya vositalaridan biri bo'lgan dubulg'a qaysi materialdan yasalgan?",
+    answers = {
+      { text = "Charmdan", correct = false },
+      { text = "Temirdan", correct = true },
+      { text = "Yog'ochdan", correct = false },
+      { text = "Misdan", correct = false },
+    },
+  },
+  {
+    question = "Yirik dehqonlarning burjli mudofaa devorlariga ega uy-qo'rg'onlari qaysi hududlardan topilgan?",
+    answers = {
+      { text = "Faqat Farg'onadan", correct = false },
+      { text = "Xorazm, Sug'd va Toxaristondan", correct = true },
+      { text = "Faqat Choch hududidan", correct = false },
+      { text = "Faqat Buxorodan", correct = false },
+    },
+  },
+  {
+    question = "Qo'rg'onga kirish joyi ro'parasida qanday inshoot qad rostlagan?",
+    answers = {
+      { text = "Bozor", correct = false },
+      { text = "Qo'riqlov minorasi", correct = true },
+      { text = "Hammom", correct = false },
+      { text = "Ibodatxona", correct = false },
+    },
+  },
+  {
+    question = "Shahar atrofidagi suv bilan to'ldirilgan xandaqqa qanday o'tilgan?",
+    answers = {
+      { text = "Yog'och ko'prik orqali", correct = false },
+      { text = "Ko'tarma ko'prik orqali", correct = true },
+      { text = "Kema orqali", correct = false },
+      { text = "Suzib o'tib", correct = false },
+    },
+  },
+  {
+    question = "Qasr himoyachilari dushmanga qarshi devordan nimalarni uloqtirishgan?",
+    answers = {
+      { text = "Faqat o'qlarni", correct = false },
+      { text = "Tosh va qaynoq suvni", correct = true },
+      { text = "Faqat nayzalarni", correct = false },
+      { text = "Faqat gurzilarni", correct = false },
+    },
+  },
+  {
+    question = "Turon harbiy san'atida og'ir qurollangan suvoriylar qaysi asrlarda hal qiluvchi ahamiyatga ega bo'lgan?",
+    answers = {
+      { text = "To'rtinchi-beshinchi asrlarda", correct = false },
+      { text = "Beshinchi-oltinchi asrlarda", correct = true },
+      { text = "Sakkizinchi-to'qqizinchi asrlarda", correct = false },
+      { text = "O'n birinchi-o'n ikkinchi asrlarda", correct = false },
+    },
+  },
+}

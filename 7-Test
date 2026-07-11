@@ -1,0 +1,732 @@
+questions = {
+  -- 16-mavzu: To‘rtinchi va beshinchi asrlarda Xioniylar va Kidariylar bo‘limi bo‘yicha 16 ta savol
+  {
+    question = "Beshinchi asrning yigirmanchi yillarida sharqdan Sirdaryo va Orol bo'ylari orqali Xorazm hamda Amudaryo havzasiga kirib kelgan ko'chmanchi chorvador aholi kimlar edi?",
+    answers = {
+      { text = "Eftaliylar", correct = false },
+      { text = "Sug'diylar", correct = false },
+      { text = "Toxarlar", correct = true },
+      { text = "Xioniylar", correct = false },
+    },
+  },
+  {
+    question = "Tarixiy manbalarda keltirilishicha, yurtimiz tarixida chuqur iz qoldirgan toxariylar asli qaysi buyuk xalqning avlodlari hisoblangan?",
+    answers = {
+      { text = "Kushonlarning", correct = true },
+      { text = "Massagetlarning", correct = false },
+      { text = "Saklarning", correct = false },
+      { text = "Ahamoniylarning", correct = false },
+    },
+  },
+  {
+    question = "Toxarlarga qaysi jasur va taniqli hukmdor boshchilik qilganligi sababli ular tarix sahifalarida kidariylar deb ham ataladi?",
+    answers = {
+      { text = "Vaxshunvar", correct = false },
+      { text = "Sidolo", correct = false },
+      { text = "Kidar", correct = true },
+      { text = "Bumin", correct = false },
+    },
+  },
+  {
+    question = "Kidariylar o'zlarining shiddatli harbiy yurishlari natijasida tez orada qaysi qadimgi davlatning janubiy qismida o'z hukmronligini o'rnatishga muvaffaq bo'ldilar?",
+    answers = {
+      { text = "Sosoniylar davlatining", correct = false },
+      { text = "Xioniylar davlatining", correct = true },
+      { text = "Gupta podsholigining", correct = false },
+      { text = "Xorazm davlatining", correct = false },
+    },
+  },
+  {
+    question = "Kidariylar tomonidan asos solingan yangi va qudratli davlatning poytaxti etib qaysi tarixiy shahar tanlangan edi?",
+    answers = {
+      { text = "Poykent", correct = false },
+      { text = "Samarqand", correct = false },
+      { text = "Kat", correct = false },
+      { text = "Balx", correct = true },
+    },
+  },
+  {
+    question = "Qadimgi yozma manbalarning guvohlik berishicha, kidariylar dastlab qaysi hududda hayot kechirganlar va shakllanganlar?",
+    answers = {
+      { text = "Orol bo'ylarida", correct = false },
+      { text = "Zarafshon vohasida", correct = false },
+      { text = "Sharqiy Turkiston hududida", correct = true },
+      { text = "Shimoliy Hindistonda", correct = false },
+    },
+  },
+  {
+    question = "Yuechjilar (kushonlar) hukmdori Sidolo qaysi ko'chmanchi qabilaning shiddatli hujumi tufayli o'z qarorgohini Bolo (Balx)ga ko'chirishga majbur bo'gan edi?",
+    answers = {
+      { text = "Jujanlarning", correct = true },
+      { text = "Eftaliylarning", correct = false },
+      { text = "Xioniylarning", correct = false },
+      { text = "Sosoniylarning", correct = false },
+    },
+  },
+  {
+    question = "Kushonlar hukmdori Sidolo jujanlarning shiddatli tazyiqi ostida o'zining bosh qarorgohini qaysi qadimiy shaharga ko'chirgan edi?",
+    answers = {
+      { text = "Kat shahriga", correct = false },
+      { text = "Bolo (Balx) shahriga", correct = true },
+      { text = "Gandhar shahriga", correct = false },
+      { text = "Varaxsha shahriga", correct = false },
+    },
+  },
+  {
+    question = "Kidariylar shohi Kidar Shimoliy Hindiston zaminiga muvaffaqiyatli yurish qilib, qaysi hududdan shimolda joylashgan beshta davlatni o'ziga bo'ysundirdi?",
+    answers = {
+      { text = "Xurosondan", correct = false },
+      { text = "Sug'diyonadan", correct = false },
+      { text = "Gandhardan", correct = true },
+      { text = "Toxaristondan", correct = false },
+    },
+  },
+  {
+    question = "Kidar Shimoliy Hindistonga qilgan harbiy yurishlari davomida Gandhardan shimoldagi nechta davlatni o'z saltanatiga tobe etdi?",
+    answers = {
+      { text = "Uchta", correct = false },
+      { text = "To'rtta", correct = false },
+      { text = "Oltita", correct = false },
+      { text = "Beshta", correct = true },
+    },
+  },
+  {
+    question = "Hindiston sarhadlariga chuqur kirib borgan kidariylar u yerdagi qaysi mashhur va yirik davlatni batamom egallab oldilar?",
+    answers = {
+      { text = "Gupta davlatini", correct = true },
+      { text = "Sosoniylar davlatini", correct = false },
+      { text = "Jujan xoqonligini", correct = false },
+      { text = "Suy imperiyasini", correct = false },
+    },
+  },
+  {
+    question = "Kidariylar Hindiston zaminidagi Gupta davlatini o'z tasarruflariga olib, u yerda necha yil davomida hukmronlik qildilar?",
+    answers = {
+      { text = "Ellik yil", correct = false },
+      { text = "Oltmish yil", correct = false },
+      { text = "Yetmish besh yil", correct = true },
+      { text = "Sakson yil", correct = false },
+    },
+  },
+  {
+    question = "Muvaffaqiyatli tashqi siyosat olib borgan kidariylar o'zaro aloqalarni mustahkamlash maqsadida qaysi uzoq o'lkaga maxsus elchilar yuborganlar?",
+    answers = {
+      { text = "Vizantiyaga", correct = false },
+      { text = "Xitoyga", correct = true },
+      { text = "Eronga", correct = false },
+      { text = "Misrga", correct = false },
+    },
+  },
+  {
+    question = "Tarixchi K. Treverning qimmatli fikriga ko'ra, xioniylar to'rtinchi asrning nechanchi yillarida o'zining eng kuchaygan pallasiga kirgan edi?",
+    answers = {
+      { text = "Yigirmanchi yillarida", correct = false },
+      { text = "Ellinchi yillarida", correct = false },
+      { text = "Yetmishinchi yillarida", correct = true },
+      { text = "To'qsoninchi yillarida", correct = false },
+    },
+  },
+  {
+    question = "Turon zaminida kidariylar va eftaliylar hukmronligi to'liq o'rnatilgach, xioniylarning siyosiy ahvoli o'zgarib, yakunda kimlarga tobe bo'lib qoldi?",
+    answers = {
+      { text = "Sosoniylarga", correct = false },
+      { text = "Eftaliylarga", correct = true },
+      { text = "Jujanlarga", correct = false },
+      { text = "Toxarlarga", correct = false },
+    },
+  },
+  {
+    question = "Kidariylarning janubiy sarhadlarda joylashgan qaysi qudratli davlat bilan munosabatlari vaqt o'tishi bilan tobora yomonlashib bordi?",
+    answers = {
+      { text = "Eron sosoniylari bilan", correct = true },
+      { text = "Xitoy imperiyasi bilan", correct = false },
+      { text = "Gupta podsholigi bilan", correct = false },
+      { text = "Kushonlar sulolasi bilan", correct = false },
+    },
+  },
+
+  -- 17-mavzu: Kidariylarning harbiy to‘qnashuvlari va madaniy yodgorliklari bo‘limi bo‘yicha 16 ta savol
+  {
+    question = "Nechanchi yilda kidariylar va Eron sosoniylari o'rtasida shafqatsiz va hal qiluvchi harbiy to'qnashuv yuz berdi?",
+    answers = {
+      { text = "Uch yuz yetmishinchi yilda", correct = false },
+      { text = "To'rt yuz ellik oltinchi yilda", correct = true },
+      { text = "To'rt yuz sakson to'rtinchi yilda", correct = false },
+      { text = "Besh yuz oltmish sakkizinchi yilda", correct = false },
+    },
+  },
+  {
+    question = "To'rt yuz ellik oltinchi yilda sodir bo'lgan shiddatli jangda kidariylar kimlardan yengilib, jiddiy siyosiy zarbaga uchradilar?",
+    answers = {
+      { text = "Xioniylardan", correct = false },
+      { text = "Sosoniylardan", correct = true },
+      { text = "Eftaliylardan", correct = false },
+      { text = "Jujanlardan", correct = false },
+    },
+  },
+  {
+    question = "Sosoniylar bilan bo'lgan og'ir urushlardan keyin, kidariylar yana qaysi ko'chmanchi chorvador aholi bilan to'qnashishga majbur bo'ldilar?",
+    answers = {
+      { text = "Eftaliylar bilan", correct = true },
+      { text = "Sug'diylar bilan", correct = false },
+      { text = "Xitoyliklar bilan", correct = false },
+      { text = "Arablar bilan", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar bilan bo'lgan shiddatli to'qnashuvlar natijasida kidariylar yakunda qaysi hududga qarab chekinishga majbur bo'ldilar?",
+    answers = {
+      { text = "Sharqiy Turkistonga", correct = false },
+      { text = "Orol bo'ylariga", correct = false },
+      { text = "Shimoliy Hindistonga", correct = true },
+      { text = "Zarafshon vohasiga", correct = false },
+    },
+  },
+  {
+    question = "Arxeologik tadqiqotlar davomida aniqlanishicha, kidariylarning qadimiy tangalari qaysi yozuvda zarb etilgan edi?",
+    answers = {
+      { text = "Braxmiy yozuvida", correct = true },
+      { text = "Sug'd yozuvida", correct = false },
+      { text = "O'rxun bitiklarida", correct = false },
+      { text = "Arab alifbosida", correct = false },
+    },
+  },
+  {
+    question = "Kidariylarga tegishli topilgan qadimiy tangalarning yuzasiga qanday unvon va yozuv bitilgan edi?",
+    answers = {
+      { text = "\"Kidara Kushon sha\"", correct = true },
+      { text = "\"Vaxshunvar xoqon\"", correct = false },
+      { text = "\"Bumin Yabg'u\"", correct = false },
+      { text = "\"Madina at-tujjor\"", correct = false },
+    },
+  },
+  {
+    question = "Kidariylar zarb etgan o'ziga xos tangalarning ajablanarli jihati shundaki, ular qanday tartibda chiqarilgan?",
+    answers = {
+      { text = "Faqlat bitta oliy hukmdor tomonidan", correct = false },
+      { text = "Ikkita hokim tomonidan bir vaqtning o'zida", correct = true },
+      { text = "Chet ellik savdogarlar tomonidan", correct = false },
+      { text = "Ibodatxona kohinlari tomonidan", correct = false },
+    },
+  },
+  {
+    question = "Tarix fani oldida sirli jumboq bo'lib qolayotgan, xioniylar va kidariylarning qaysi tizimi haqidagi ma'lumotlar bizgacha yetib kelmagan?",
+    answers = {
+      { text = "Harbiy qurollanishi", correct = false },
+      { text = "Poytaxt shahar mudofaasi", correct = false },
+      { text = "Diniy e'tiqodlari", correct = false },
+      { text = "Ijtimoiy-iqtisodiy tizimi", correct = true },
+    },
+  },
+  {
+    question = "Matnda tilga olingan turkiy qabilalardan bo'lgan xioniylar to'rtinchi asrda dastlab o'lkamizning qaysi serhosil vohasini egallagan edilar?",
+    answers = {
+      { text = "Xorazm vohasini", correct = false },
+      { text = "Zarafshon vohasini", correct = true },
+      { text = "Farg'ona vodiysini", correct = false },
+      { text = "Surxondaryo vohasini", correct = false },
+    },
+  },
+  {
+    question = "Xioniylar Zarafshon vohasidan janub tomon yurib, qaysi qadimiy podsholik hududida o'z hukmronliklarini o'rnatgan edilar?",
+    answers = {
+      { text = "Kushon podsholigi", correct = true },
+      { text = "Gupta podsholigi", correct = false },
+      { text = "Oq xunnlar davlati", correct = false },
+      { text = "Eron sosoniylari", correct = false },
+    },
+  },
+  {
+    question = "Xioniylar tashkil etgan yirik davlat tarkibiga markazi qaysi hudud bo'lgan Shimoliy Hindiston, Afg'oniston va Xurosonning bir qismi kirgan edi?",
+    answers = {
+      { text = "Toxariston", correct = true },
+      { text = "Sug'diyona", correct = false },
+      { text = "Choch", correct = false },
+      { text = "Buxoro", correct = false },
+    },
+  },
+  {
+    question = "Ayrim tadqiqotchilarning fikriga ko'ra, tarixda xioniylar nomi bilan mashhur bo'lgan qabilalarning asli vatani qayerda bo'lgan deb hisoblanadi?",
+    answers = {
+      { text = "Oltoy tog'larida", correct = false },
+      { text = "Sirdaryo havzasida", correct = false },
+      { text = "Hindiqush tog'larida", correct = false },
+      { text = "Orol dengizi bo'yida", correct = true },
+    },
+  },
+  {
+    question = "G'arb tarixchilari xioniylarni qaysi qabilaga qarindosh hisoblab, ularni qanday maxsus nom bilan ataganlar?",
+    answers = {
+      { text = "Turklarga qarindosh deb bilib \"ashina\"", correct = false },
+      { text = "Xunnlarga qarindosh hisoblab \"oq xunnlar\"", correct = true },
+      { text = "Toxarlarga qarindosh deb \"kidariylar\"", correct = false },
+      { text = "Jujanlarga qarindosh deb \"siyosiy qabila\"", correct = false },
+    },
+  },
+  {
+    question = "Xioniylar o'zlarining shiddatli va yirik davlat tizimida bu hududda necha yildan ortiq hukmronlik qildilar?",
+    answers = {
+      { text = "Yuz yildan ortiq", correct = false },
+      { text = "To'qson yildan ortiq", correct = false },
+      { text = "Yuz yigirma yildan ortiq", correct = true },
+      { text = "Yetmish besh yildan ortiq", correct = false },
+    },
+  },
+  {
+    question = "Kidariylar va xioniylar davri ijtimoiy muhitida chorvachilik bilan shug'ullangan jamoalar matnda qanday atalgan?",
+    answers = {
+      { text = "Ko'chmanchi chorvador aholi", correct = true },
+      { text = "O'troq ziroatkor jamoalar", correct = false },
+      { text = "Shahar hunarmandlari", correct = false },
+      { text = "Dengiz sayyohlari", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi Turon tuprog'ida kidariylar va sosoniylar o'rtasidagi to'qnashuvlar qaysi geografik yo'nalishdagi qo'shnichilik munosabatlarining yomonlashuvi oqibati edi?",
+    answers = {
+      { text = "Shimoldagi", correct = false },
+      { text = "Sharqdagi", correct = false },
+      { text = "G'arbdagi", correct = false },
+      { text = "Janubdagi", correct = true },
+    },
+  },
+
+  -- 18-mavzu: Beshinchi va oltinchi asrlarda Eftaliylar davlatining tashkil topishi va boshqaruvi bo‘limi bo‘yicha 16 ta savol
+  {
+    question = "Beshinchi-oltinchi asrlarda qaysi mashhur sulolaga mansub qabila Turon hududida o'z hukmronligini o'rnatdi?",
+    answers = {
+      { text = "Afrig'iylar sulolasiga", correct = false },
+      { text = "Eftalon sulolasiga", correct = true },
+      { text = "Ashina xonadoniga", correct = false },
+      { text = "Gupta sulolasiga", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar qabilalari ittifoqiga berilgan \"Eftaliylar\", \"eftallar\", \"eftalitlar\" yoki \"xaytallar\" kabi nomlar aslida kimning ismidan olingan?",
+    answers = {
+      { text = "\"Eftalon\" degan shoh ismidan", correct = true },
+      { text = "Kidar ismli sarkardadan", correct = false },
+      { text = "Bumin xoqon nomidan", correct = false },
+      { text = "Sidolo hukmdor nomidan", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar qabilaviy ittifoqining asoschisi bo'lgan buyuk shoh Eftalonni tarixiy manbalarda yana qanday nom bilan ataganlar?",
+    answers = {
+      { text = "Vaxshunvar", correct = true },
+      { text = "Peroz", correct = false },
+      { text = "Katulf", correct = false },
+      { text = "Gatfar", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar hukmronligi davrida Xorazm, Sug'diyona, Choch va Baqtriya viloyatlarida hashamatli binolarga ega qanday me'moriy inshootlar yuzaga keldi?",
+    answers = {
+      { text = "Baland zikkuratlar", correct = false },
+      { text = "Ulkan piramidalar", correct = false },
+      { text = "Alohida-alohida qo'rg'onlar", correct = true },
+      { text = "Rim uslubidagi teatrlar", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar davlatida iqtisodiy-savdo munosabatlarining izchil yo'lga qo'yilishi mamlakatda qaysi sohalarning ravnaq topishiga poydevor bo'ldi?",
+    answers = {
+      { text = "Dehqonchilik, sun'iy sug'orish, chorvachilik, bog'dorchilik va hunarmandchilik", correct = true },
+      { text = "Faqatgina dengiz savdosi va xalqaro kemasozlik", correct = false },
+      { text = "O'rmon xo'jaligi hamda yovvoyi ovchilik", correct = false },
+      { text = "Konchilik va og'ir metallurgiya sanoati", correct = false },
+    },
+  },
+  {
+    question = "Mashhur shoir Firdavsiyning qaysi o'lmas tarixiy-badiiy asarida Vaxshunvor va Peruz davri voqealari o'z aksini topgan?",
+    answers = {
+      { text = "\"Shohnoma\" asarida", correct = true },
+      { text = "\"Geografiya\" asarida", correct = false },
+      { text = "\"Turk qonunnomasi\"da", correct = false },
+      { text = "\"Tarix\" asarida", correct = false },
+    },
+  },
+  {
+    question = "Firdavsiyning \"Shohnoma\" asarida eftaliylarning qaysi podshosining ismi tilga olingan va u Gatfar ismli podshohga o'xshatilgan?",
+    answers = {
+      { text = "Kidar", correct = false },
+      { text = "Katulf", correct = true },
+      { text = "Sidolo", correct = false },
+      { text = "Istami", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar beshinchi asrning boshlarida mamlakatimiz hududiga qaysi geografik yo'nalishdan kirib kelganlar?",
+    answers = {
+      { text = "G'arbdan", correct = false },
+      { text = "Janubdan", correct = false },
+      { text = "Shimoldan", correct = false },
+      { text = "Sharqdan", correct = true },
+    },
+  },
+  {
+    question = "Eftaliylar davlatining dastlabki bosh qarorgohi va siyosiy poytaxti Buxoro yaqinidagi qaysi qadimiy shaharlar bo'lgan?",
+    answers = {
+      { text = "Poykent va Varaxsha", correct = true },
+      { text = "Balx va Kat", correct = false },
+      { text = "Samarqand va Panjikent", correct = false },
+      { text = "Quva va Termiz", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar davlatining ulkan sarhadlariga O'rta Osiyodan tashqari yana qaysi xorijiy o'lkalar hududlari ham bo'ysundirib kirgaziilgan edi?",
+    answers = {
+      { text = "Eron, Iroq, Misr va Suriya sarhadlari", correct = false },
+      { text = "Xitoy, Mo'g'uliston va butun Sibir o'lkalari", correct = false },
+      { text = "Sharqiy Turkiston, Afg'oniston, Shimoliy Hindiston va hozirgi Pokiston", correct = true },
+      { text = "Rim imperiyasi va qadimgi Gretsiya yerlari", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar davrida ulkan saltanat boshqaruvi kim tomonidan va qanday tartibda olib borilgan?",
+    answers = {
+      { text = "Oliy kengash tomonidan jamoaviy boshqarilgan", correct = false },
+      { text = "Saltanat yakka hukmdor tomonidan boshqarilgan", correct = true },
+      { text = "Xalq saylovlari orqali har yili o'zgartirilgan", correct = false },
+      { text = "Faqat chet ellik noiblar idora qilgan", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylarda oliy oliy taxt vorisligi qaysi qat'iy qoida hamda tartib asosida hal etilgan?",
+    answers = {
+      { text = "Taxt otadan faqat to'ng'ich o'g'ilga meros qolgan", correct = false },
+      { text = "Harbiy posbonlar o'rtasida qur'a tashlangan", correct = false },
+      { text = "Taxt avloddan avlodga o'tmay, shu suloladan kim loyiq deb topilsa, o'sha o'tirgan", correct = true },
+      { text = "Xitoy imperatori roziligi bilan tayinlangan", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar saltanatida munosib oliy nomzodni aniqlab, taxtga taqdim etadigan nufuzli kengash kimlardan tarkib topgan edi?",
+    answers = {
+      { text = "Sulolaning mo'tabar kishilari hamda saltanatning obro'li a'yonlaridan", correct = true },
+      { text = "Oddiy kashovarzlar va qaram kadivarlardan", correct = false },
+      { text = "Qo'shni davlatlarning oliy elchilaridan", correct = false },
+      { text = "Chet ellik yirik savdogarlar jamoasidan", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar saltanatiga qarashli bo'lgan alohida viloyatlardagi ichki boshqaruv kimlar tomonidan yuritilgan?",
+    answers = {
+      { text = "Markazdan yuborilgan harbiy chokarlar tomonidan", correct = false },
+      { text = "Mahalliy xonadonlar (sulolalar) tomonidan bo'lib, ular hukmdor - Sho (shoh)ga tobe bo'lgan", correct = true },
+      { text = "Faqat din peshvolari - zardushtiy mobadlar tomonidan", correct = false },
+      { text = "Jujan xoqonlari tayinlagan beklar tomonidan", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar davlatida ichki tartib va boshqaruv qaysi mustahkam ustun va kuchga tayangan edi?",
+    answers = {
+      { text = "Qabila boshliqlarining shaxsiy tazyiqiga", correct = false },
+      { text = "Chet el valyutalarining iqtisodiy oqimiga", correct = false },
+      { text = "Hech qanday harbiy kuchsiz, faqat e'tiqodga", correct = false },
+      { text = "Davlat boshqaruvida ma'lum qonun-qoidalar mavjud bo'lgan va davlat harbiy kuchga tayangan", correct = true },
+    },
+  },
+  {
+    question = "Eftaliylarning tobora kuchayib borayotganidan qattiq xavfsiragan qaysi qo'shni davlat shohi ularga qarshi harbiy yurish boshlagan?",
+    answers = {
+      { text = "Erondagi sosoniylar shohi", correct = true },
+      { text = "Gupta imperiyasi hukmdori", correct = false },
+      { text = "Vizantiya oliy imperatori", correct = false },
+      { text = "Xitoydagi Suy sulolasi xoni", correct = false },
+    },
+  },
+
+  -- 19-mavzu: Eftaliylarning harbiy zafarlari, iqtisodiyoti va madaniy hayoti bo‘limi bo‘yicha 16 ta savol
+  {
+    question = "Erondagi sosoniylar shohi Perozning nechanchi yilda eftaliylarga qarshi olib borgan oxirgi urushi uning halokati bilan tugadi?",
+    answers = {
+      { text = "To'rt yuz ellik oltinchi yilda", correct = false },
+      { text = "To'rt yuz sakson to'rtinchi yilda", correct = true },
+      { text = "Besh yuz oltmish yettinchi yilda", correct = false },
+      { text = "Uch yuz to'qsoninchi yilda", correct = false },
+    },
+  },
+  {
+    question = "Tashqi savdo bojidan nihoyatda manfaatdor bo'lgan eftaliylar qaysi mashhur xalqaro tranzit yo'lini o'z nazoratlari ostida tutishga harakat qilishgan?",
+    answers = {
+      { text = "Buyuk ipak yo'lini", correct = true },
+      { text = "Lojuvard yo'lini", correct = false },
+      { text = "Qirol yo'lini", correct = false },
+      { text = "Dengiz ziravorlar yo'lini", correct = false },
+    },
+  },
+  {
+    question = "Buyuk ipak yo'li savdosida sosoniy savdogarlari bilan bo'lgan keskin raqobatda asosan qaysi xalq vakillari vositachi rolini o'ynagan?",
+    answers = {
+      { text = "Toxarlar", correct = false },
+      { text = "Sug'diylar", correct = true },
+      { text = "Jujanlar", correct = false },
+      { text = "Xioniylar", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar o'zlarining ichki va tashqi savdo munosabatlarida dastavval qaysi hukmdorlarning pullaridan keng foydalanganlar?",
+    answers = {
+      { text = "Gupta shohlarining oltin tangalaridan", correct = false },
+      { text = "Rim imperatorlarining dinorlaridan", correct = false },
+      { text = "Xitoy xonlarining mis pullaridan", correct = false },
+      { text = "Sosoniy hukmdorlarining kumush tangalaridan", correct = true },
+    },
+  },
+  {
+    question = "Eftaliylar davrida Turon zaminida qaysi nafis hunarmandchilik sohasi yuksak rivojlanib, mahsulotlari tiniqligi bilan hatto Vizantiyanikidan ustun turgan?",
+    answers = {
+      { text = "Shishasozlik", correct = true },
+      { text = "Metallurgiya", correct = false },
+      { text = "Gilamchilik", correct = false },
+      { text = "Zargarlik", correct = false },
+    },
+  },
+  {
+    question = "Qaysi yirik imperiya hukmdorlari o'zlarining muhtasham saroylarini bezashda Turondan maxsus keltirilgan rangli shishalardan foydalanganlar?",
+    answers = {
+      { text = "Xitoy imperatorlari", correct = true },
+      { text = "Rim konsullari", correct = false },
+      { text = "Misr fir'avnlari", correct = false },
+      { text = "Bobil shohlari", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar hukmronligi davrida qadimiy Turon o'lkasi aholisining asosiy qismi qaysi tillarda so'zlashgan?",
+    answers = {
+      { text = "Faqatgina fors va pahlaviy tillarida", correct = false },
+      { text = "Faqat grek hamda lotin alifbosida", correct = false },
+      { text = "Aholining bir qismi sug'd tilida, ikkinchi qismi esa turkiy tilida so'zlashgan", correct = true },
+      { text = "Xitoy hamda qadimgi hind tillarida", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar davrida Yettisuv, Farg'ona, Sharqiy Turkiston va Xitoy hududlarida qaysi til xalqaro savdo tili sifatida keng muomalada bo'lgan?",
+    answers = {
+      { text = "Baqtriya tili", correct = false },
+      { text = "Sug'd tili", correct = true },
+      { text = "Arab tili", correct = false },
+      { text = "Pahlaviy tili", correct = false },
+    },
+  },
+  {
+    question = "Tarixiy manbalarga ko'ra, eftaliylarning o'ziga xos milliy alifbosi qaysi qadimiy yozuv tizimi asosida shakllangan edi?",
+    answers = {
+      { text = "Sug'd yozuvi asosida", correct = false },
+      { text = "O'rxun alifbosi asosida", correct = false },
+      { text = "Braxmiy yozuvi asosida", correct = false },
+      { text = "Baqtriya yozuvi asosida", correct = true },
+    },
+  },
+  {
+    question = "Baqtriya yozuvi asosida mukammal shakllangan eftaliylar alifbosi jami nechta harfdan iborat bo'lgan?",
+    answers = {
+      { text = "Yigirmata", correct = false },
+      { text = "O'ttizta", correct = false },
+      { text = "Yigirma beshta", correct = true },
+      { text = "O'ttiz beshta", correct = false },
+    },
+  },
+  {
+    question = "Eftaliylar ma'rifatida harbiy sohaga o'g'il bolalar bilan bir qatorda qizlar ham jalb etilib, ularga asosan qanday jismoniy mashqlar o'rgatilgan?",
+    answers = {
+      { text = "Otda yurish va kamondan o'q otish", correct = true },
+      { text = "Qilichbozlik va og'ir qal'a mudofaasi", correct = false },
+      { text = "Shishasozlik va kulolchilik sirlari", correct = false },
+      { text = "Ipak to'qish va zargarlik hunari", correct = false },
+    },
+  },
+  {
+    question = "Diniy e'tiqodlar masalasida eftaliylar davlati aholisi, asosan, qaysi qadimiy dinga e'tiqod qilishgan?",
+    answers = {
+      { text = "Islom diniga", correct = false },
+      { text = "Zardushtiylikka", correct = true },
+      { text = "Iudaizm e'tiqodiga", correct = false },
+      { text = "Nestorianlik ta'limotiga", correct = false },
+    },
+  },
+  {
+    question = "Besh yuz oltmish sakkiz - besh yuz oltmish to'qqizinchi yillarda Vizantiya imperatori huzurida bo'lgan turk elchisi eftaliylarni qanday yuksak jamoa deb atagan?",
+    answers = {
+      { text = "\"Ular shaharlik sulolalar, oliy hazratlari\"", correct = true },
+      { text = "\"Ular tog'lik chorvadorlar jamoasi\"", correct = false },
+      { text = "\"Ular oddiy sahro sayyohlari\"", correct = false },
+      { text = "\"Ular yovvoyi ko'chmanchi qabilalar\"", correct = false },
+    },
+  },
+  {
+    question = "Beshinchi asrda Panjikentda nisbatan qadimgiroq bo'lgan qishloq o'rnida barpo etilgan yangi shaharning umumiy maydoni necha gektarni tashkil etgan?",
+    answers = {
+      { text = "Yigirma bir gektarni", correct = false },
+      { text = "O'n yetti gektarni", correct = false },
+      { text = "Yigirma besh gektarni", correct = false },
+      { text = "O'n sakkiz gektarni", correct = true },
+    },
+  },
+  {
+    question = "Arab yozma manbalarida \"Madina at-tujjor\", ya'ni \"Savdogarlar shahri\" deb yuksak ta'riflangan ko'hna Sug'd markaziy shahri qaysi edi?",
+    answers = {
+      { text = "Buxoro", correct = false },
+      { text = "Poykent", correct = true },
+      { text = "Samarqand", correct = false },
+      { text = "Termiz", correct = false },
+    },
+  },
+  {
+    question = "Beshinchi asrda barpo etilgan, hozirgi vaqtda ham Toshkent vohasi va Janubiy Qozog'iston yerlarining bir qismini suv bilan ta'minlab turgan qadimgi yirik sug'orish tarmoqlari qaysilar?",
+    answers = {
+      { text = "Darg'om va Amudaryo kanallari", correct = false },
+      { text = "Zog'ariq (Zovariq) va Bo'zsuv", correct = true },
+      { text = "Jayhun va Sayhun daryolari irmoqlari", correct = false },
+      { text = "Qoraqum va Xiva qadimiy ariqlari", correct = false },
+    },
+  },
+
+  -- 20-mavzu: Turk xoqonligining vujudga kelishi, davlat tuzumi va diniy e'tiqodlari bo‘limi bo‘yicha 16 ta savol
+  {
+    question = "Oltinchi asr o'rtalarida Oltoy va Janubiy Sibirda yashagan turkiy qabilalarni birlashtirgan yangi qudratli davlat tarixga qanday nom bilan kirdi?",
+    answers = {
+      { text = "Eftaliylar saltanati", correct = false },
+      { text = "Kushon imperiyasi", correct = false },
+      { text = "Turk xoqonligi", correct = true },
+      { text = "Sug'd konfederatsiyasi", correct = false },
+    },
+  },
+  {
+    question = "Butun turkiy xalqlarni birlashtirgan ulkan Turk xoqonligining asoschisi va birinchi oliy hukmdori kim bo'lgan?",
+    answers = {
+      { text = "Istami", correct = false },
+      { text = "Vaxshunvar", correct = false },
+      { text = "Muqan", correct = false },
+      { text = "Bumin", correct = true },
+    },
+  },
+  {
+    question = "Qadimiy til manbalariga ko'ra, tilimiz asosi bo'lgan \"Turk\" so'zi qanday olijanob ma'nolarni anglatadi?",
+    answers = {
+      { text = "Jasur, ko'chmanchi va jangovar", correct = false },
+      { text = "Boy, savdogar va bilimdon inson", correct = false },
+      { text = "Erkin, dehqon va ziroatkor jamoa", correct = false },
+      { text = "Baquvvat, barkamol, odillik", correct = true },
+    },
+  },
+  {
+    question = "Turklarning g'arbiy hududlarga tomon qilgan shiddatli harbiy yurishlariga Bumin xoqonning qaysi ukasi boshchilik qilgan va unga \"Yabg'u xoqon\" unvoni berilgan?",
+    answers = {
+      { text = "Peroz", correct = false },
+      { text = "Katulf", correct = false },
+      { text = "Istami", correct = true },
+      { text = "Ashina", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi eftaliylarga qarshi yanada hal qiluvchi zarba berish maqsadida sosoniylar hukmdori qaysi shoh bilan o'zaro harbiy-siyosiy ittifoq tuzdi?",
+    answers = {
+      { text = "Doro birinchi bilan", correct = false },
+      { text = "Xusrav Anushervon bilan", correct = true },
+      { text = "Kambiz ikkinchi bilan", correct = false },
+      { text = "Kir ikkinchi bilan", correct = false },
+    },
+  },
+  {
+    question = "Vizantiya, Xitoy va Eron kabi davlatlar bilan bo'lgan doimiy raqobatlar hamda ichki nizolar tufayli Turk xoqonligi oltinchi asrning saksoninchi yillari oxirida qaysi ikki qismga bo'linib ketdi?",
+    answers = {
+      { text = "Sharqiy turk xoqonligi va G'arbiy turk xoqonligiga", correct = true },
+      { text = "Shimoliy turk xoqonligi va Janubiy turk xoqonligiga", correct = false },
+      { text = "Ichki xoqonlik va Tashqi xoqonlikka", correct = false },
+      { text = "Sug'd va Oltoy xoqonliklariga", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi o'z davlat mafkurasiga ko'ra \"el\" deb atalgan. Jamiyatda el va xoqon hokimiyati Tangri tomonidan qaysi xonadonga in'om etilganiga ishonilgan?",
+    answers = {
+      { text = "Eftalon sulolasiga", correct = false },
+      { text = "Afrig'iylar sulolasiga", correct = false },
+      { text = "Ashina xonadoniga", correct = true },
+      { text = "Gupta xonadoniga", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligida davlat boshqaruvi faqatgina qadimiy urf-odatlar bilan emas, balki qayerda maxsus saqlanadigan yozma qonunchilik hujjatlari — \"Turk qonunnomasi\" asosida yuritilgan?",
+    answers = {
+      { text = "Buxoro saroyida", correct = false },
+      { text = "O'tukan vodiysida", correct = false },
+      { text = "Balx qal'asida", correct = false },
+      { text = "Samarqanddagi ibodatxonada", correct = true },
+    },
+  },
+  {
+    question = "Turk xoqonligi harbiy-ma'muriy tuzilishida o'n ming suvoriyga ega bo'lgan nufuzli tuman boshlig'i qanday unvon bilan yuritilgan?",
+    answers = {
+      { text = "Yabg'u", correct = false },
+      { text = "Jabg'u", correct = false },
+      { text = "Mobad", correct = false },
+      { text = "Shod", correct = true },
+    },
+  },
+  {
+    question = "Turk xoqonligidagi ko'chmanchi chorvador oddiy xalq qatlamlari ijtimoiy jihatdan qanday nom bilan yuritilgan?",
+    answers = {
+      { text = "Kashovarzlar", correct = false },
+      { text = "Budun yoki \"qora budun\"", correct = true },
+      { text = "Kadivarlar", correct = false },
+      { text = "Chokarlar", correct = false },
+    },
+  },
+  {
+    question = "Farg'ona vodiysining qaysi qadimgi shahridan hamda Qo'rg'ontepa yaqinidagi Ajinatepadan buddaviylik madaniyatiga oid yirik Budda haykallari topib o'rganilgan?",
+    answers = {
+      { text = "Poykentdan", correct = false },
+      { text = "Termizdan", correct = false },
+      { text = "Naxshabdan", correct = false },
+      { text = "Quvadan", correct = true },
+    },
+  },
+  {
+    question = "Qo'rg'ontepa yaqinidagi Ajinatepa yodgorligidan topilgan, bo'yi o'n ikki metrga boradigan ulkan Budda haykali hozirgi kunda qaysi shahardagi muzey xazinasida saqlanmoqda?",
+    answers = {
+      { text = "Toshkentdagi O'zbekiston tarixi muzeyida", correct = false },
+      { text = "Samarqand davlat tarix muzeyida", correct = false },
+      { text = "Dushanbe shahridagi Milliy arxeologiya muzeyida", correct = true },
+      { text = "Moskvadagi davlat Ermitaj muzeyida", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi turklar orasida \"shomon\" so'zi qo'llanilmaganligi sababli, ular o'zlarining an'anaviy shomonlik dinini qanday nom bilan ataganlar?",
+    answers = {
+      { text = "Tangri", correct = false },
+      { text = "Moniy", correct = false },
+      { text = "Qam", correct = true },
+      { text = "Mobad", correct = false },
+    },
+  },
+  {
+    question = "Olamning ibtidosi ikki qarama-qarshi kuch — yorug'lik va ezgulik hamda zulmat va yovuzlikdan iborat deb bilgan, ibodat, ro'za va sadaqani o'z arkoni hisoblagan qadimiy din qaysi edi?",
+    answers = {
+      { text = "Zardushtiylik dini", correct = false },
+      { text = "Buddaviylik dini", correct = false },
+      { text = "Nasroniylik dini", correct = false },
+      { text = "Moniylik dini", correct = true },
+    },
+  },
+  {
+    question = "Qadimgi turkiylarning mifologik qarashlarida qaysi hayvon muqaddaslashtirilgan va davlat xoqonligining ko'plab harbiy nishonlarida rasmi aks ettirilgan?",
+    answers = {
+      { text = "Arslon", correct = false },
+      { text = "Bo'ri", correct = true },
+      { text = "Burgut", correct = false },
+      { text = "Lochin", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi eng kuchaygan davrida poytaxt etib belgilangan hudud yoki G'arbiy xoqonlikning poytaxt asosi qayer hisoblangan?",
+    answers = {
+      { text = "O'tukan vodiysi", correct = false },
+      { text = "Oltoy o'lkasi", correct = false },
+      { text = "Zarafshon vohasi", correct = false },
+      { text = "Yettisuv", correct = true },
+    },
+  },
+}
+
