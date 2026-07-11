@@ -1,0 +1,741 @@
+questions = {
+  -- 27-28-§. Yunon-fors urushlari. Makedoniyaning Yunonistonni bosib olishi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Mil. avv. to'rtyuzto'qsoninchi yilda Attika yarimorolining Marafon tekisligida bo'lib o'tgan jangda kim g'alaba qozondi?",
+    answers = {
+      { text = "Yunon qo'shinlari", correct = true },
+      { text = "Fors qo'shinlari", correct = false },
+      { text = "Makedoniya qo'shinlari", correct = false },
+      { text = "Spartaliklar yakka o'zi", correct = false },
+    },
+  },
+  {
+    question = "Fermopil darasini himoya qilib, barchasi qahramonlarcha halok bo'lgan yunon qo'shiniga qaysi shahar-davlat podshosi boshchilik qilgan?",
+    answers = {
+      { text = "Sparta podshosi Leonid", correct = true },
+      { text = "Afina hukmdori Demosfen", correct = false },
+      { text = "Makedoniya podshosi Filipp II", correct = false },
+      { text = "Fors shohi Kserks", correct = false },
+    },
+  },
+  {
+    question = "Yunonlar va forslar o'rtasidagi hal qiluvchi dengiz jangi mil. avv. to'rtyuzsakoninchi yilda qaysi bo'g'ozda bo'lib o'tdi?",
+    answers = {
+      { text = "Salamin bo'g'ozida", correct = true },
+      { text = "Bosfor bo'g'ozida", correct = false },
+      { text = "Dardanell bo'g'ozida", correct = false },
+      { text = "Gibraltar bo'g'ozida", correct = false },
+    },
+  },
+  {
+    question = "Yunon-fors urushlari yunonlarning to'liq g'alabasi bilan qaysi yildagi sulh natijasida yakunlandi?",
+    answers = {
+      { text = "Mil. avv. to'rtyuzqirqto'qqizinchi yilda", correct = true },
+      { text = "Mil. avv. to'rtyuztoqson birinchi yilda", correct = false },
+      { text = "Mil. avv. to'rtyuzsakoninchi yilda", correct = false },
+      { text = "Mil. avv. uchyuzo'ttiz sakkizinchi yilda", correct = false },
+    },
+  },
+  {
+    question = "Makedoniya podshosi Filipp II ning piyoda qo'shinlari necha qatordan iborat falangada saflanardi?",
+    answers = {
+      { text = "O'n olti qatordan", correct = true },
+      { text = "O'n qatordan", correct = false },
+      { text = "Yigirma qatordan", correct = false },
+      { text = "Sakkiz qatordan", correct = false },
+    },
+  },
+  {
+    question = "Mashhur notiq sifatida Ellada shaharlarini kezib, aholini makedonlarga qarshi birlashish va kurashishga da'vat etgan kishi kim edi?",
+    answers = {
+      { text = "Demosfen", correct = true },
+      { text = "Gerodot", correct = false },
+      { text = "Sofokl", correct = false },
+      { text = "Aristofan", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. uchyuzo'ttiz sakkizinchi yilda Xeroniya ostonasidagi jangda Filipp II qo'shinlari tarkibida qaysi qo'mondon suvoriy qo'shinlarga boshchilik qilgan edi?",
+    answers = {
+      { text = "Filipp II ning o'g'li Aleksandr", correct = true },
+      { text = "Demosfen", correct = false },
+      { text = "Leonid", correct = false },
+      { text = "Spitaman", correct = false },
+    },
+  },
+  {
+    question = "Xeroniya ostonasidagi jangdan so'ng mag'lubiyat oqibatida Yunoniston qaysi davlatga qaram bo'lib qoldi?",
+    answers = {
+      { text = "Makedoniyaga", correct = true },
+      { text = "Fors davlatiga", correct = false },
+      { text = "Misrga", correct = false },
+      { text = "Salavkiylar davlatiga", correct = false },
+    },
+  },
+
+  -- 29-§. Yunon fuqarolari tarbiyasi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Yunon maktablari, eng avvalo, qanday vazifani bajarishi kerak edi?",
+    answers = {
+      { text = "Faol davlat himoyachilarini tarbiyalash", correct = true },
+      { text = "Faqat savod chiqarish", correct = false },
+      { text = "Faqat hunarmandlik o'rgatish", correct = false },
+      { text = "Faqat savdogarlik kasbiga tayyorlash", correct = false },
+    },
+  },
+  {
+    question = "Yunon yigitlari umumiy ta'limdan tashqari necha yil harbiy ta'lim ham olishgan?",
+    answers = {
+      { text = "Ikki yil", correct = true },
+      { text = "Bir yil", correct = false },
+      { text = "Uch yil", correct = false },
+      { text = "To'rt yil", correct = false },
+    },
+  },
+  {
+    question = "Harbiy ta'limning ikkinchi yilida yigitlardan ayrimlari qaysi portda dengizchilik san'ati asoslarini o'rgangan?",
+    answers = {
+      { text = "Pirey portida", correct = true },
+      { text = "Korinf portida", correct = false },
+      { text = "Marafon portida", correct = false },
+      { text = "Salamin portida", correct = false },
+    },
+  },
+  {
+    question = "Mamlakatni mudofaa qilish zarurati yuzaga kelganda necha yoshgacha bo'lgan erkaklar qurol-yarog'lari bilan ko'rikka kelishi shart bo'lgan?",
+    answers = {
+      { text = "O'ttiz yoshga to'lmagan erkaklar", correct = true },
+      { text = "Yigirma yoshga to'lmagan erkaklar", correct = false },
+      { text = "Qirq yoshga to'lmagan erkaklar", correct = false },
+      { text = "O'n sakkiz yoshga to'lmagan erkaklar", correct = false },
+    },
+  },
+  {
+    question = "Birinchi Olimpiya o'yinlari mil. avv. yettiyuz yetmish oltinchi yilda qaysi shaharda o'tkazilgan?",
+    answers = {
+      { text = "Olimpiya shahrida", correct = true },
+      { text = "Afina shahrida", correct = false },
+      { text = "Sparta shahrida", correct = false },
+      { text = "Korinf shahrida", correct = false },
+    },
+  },
+  {
+    question = "Afsonalarga ko'ra, Olimpiya o'yinlarining asoschisi kim hisoblangan?",
+    answers = {
+      { text = "Gerakl", correct = true },
+      { text = "Zevs", correct = false },
+      { text = "Apollon", correct = false },
+      { text = "Posedon", correct = false },
+    },
+  },
+  {
+    question = "Musobaqalarda uch karra g'alaba qozongan sportchi qayerda o'z haykalini o'rnattirishga haqli bo'lgan?",
+    answers = {
+      { text = "Olimpiya shahrida", correct = true },
+      { text = "Afinada", correct = false },
+      { text = "Spartada", correct = false },
+      { text = "Delfida", correct = false },
+    },
+  },
+  {
+    question = "Xristian dini tarqalishi natijasida qadimgi Olimpiya o'yinlarini o'tkazish milodiy nechanchi yilda butunlay to'xtab qolgan?",
+    answers = {
+      { text = "Milodiy uchyuztoqson to'rtinchi yilda", correct = true },
+      { text = "Milodiy ikkiyuzinchi yilda", correct = false },
+      { text = "Milodiy beshyuzinchi yilda", correct = false },
+      { text = "Milodiy to'qsoninchi yilda", correct = false },
+    },
+  },
+
+  -- 30-§. Qadimgi Yunoniston madaniyati bo'limi bo'yicha 8 ta savol
+  {
+    question = "\"Iliada\" va \"Odisseya\" dostonlarini yozgan qadimgi yunon shoiri kim bo'lgan?",
+    answers = {
+      { text = "Gomer", correct = true },
+      { text = "Gerodot", correct = false },
+      { text = "Sofokl", correct = false },
+      { text = "Aristofan", correct = false },
+    },
+  },
+  {
+    question = "Yunonlar ichi bo'm-bo'sh yog'och otni qaysi shaharni egallash uchun ayyorlik bilan qurishgan?",
+    answers = {
+      { text = "Troyani", correct = true },
+      { text = "Spartani", correct = false },
+      { text = "Korinfni", correct = false },
+      { text = "Afinani", correct = false },
+    },
+  },
+  {
+    question = "\"Iliada\" dostonining bosh qahramoni bo'lib, tovoniga tekkan o'qdan halok bo'lgan jangchi kim edi?",
+    answers = {
+      { text = "Axilles", correct = true },
+      { text = "Gerakl", correct = false },
+      { text = "Odissey", correct = false },
+      { text = "Paris", correct = false },
+    },
+  },
+  {
+    question = "\"Teatr\" so'zi yunon tilidan tarjima qilinganda qanday ma'noni anglatadi?",
+    answers = {
+      { text = "Tomoshalar uchun joy, tomoshaxona", correct = true },
+      { text = "Qahramonlik maydoni", correct = false },
+      { text = "Xudolar uyi", correct = false },
+      { text = "O'qish maskani", correct = false },
+    },
+  },
+  {
+    question = "\"Shoh Edip\" va \"Antigona\" singari eng mashhur tragediyalarni qaysi yunon dramaturgi yozgan?",
+    answers = {
+      { text = "Sofokl", correct = true },
+      { text = "Aristofan", correct = false },
+      { text = "Gomer", correct = false },
+      { text = "Geraklit", correct = false },
+    },
+  },
+  {
+    question = "Inson nuqsonlari ustidan kuladigan, nozik yumorga boy komediyalarning eng mashhur muallifi kim bo'lgan?",
+    answers = {
+      { text = "Aristofan", correct = true },
+      { text = "Sofokl", correct = false },
+      { text = "Gerodot", correct = false },
+      { text = "Demokrit", correct = false },
+    },
+  },
+  {
+    question = "Akropoldagi Parfenon ibodatxonasi qurilishiga qaysi yunon haykaltaroshi boshchilik qilgan?",
+    answers = {
+      { text = "Fidiy", correct = true },
+      { text = "Dedal", correct = false },
+      { text = "Arximed", correct = false },
+      { text = "Diogen", correct = false },
+    },
+  },
+  {
+    question = "Rivoyatlarga ko'ra, Minos podsho uchun chiqish yo'lini topib bo'lmaydigan Labirint saroyini kim barpo etgan?",
+    answers = {
+      { text = "Dedal", correct = true },
+      { text = "Fidiy", correct = false },
+      { text = "Gomer", correct = false },
+      { text = "Geraklit", correct = false },
+    },
+  },
+
+  -- 31-§. Qadimgi Yunoniston olimlari va mutafakkirlari bo'limi bo'yicha 8 ta savol
+  {
+    question = "Yer yuzidagi hamma narsa olovdan kelib chiqqan, deb uqtirgan mashhur yunon faylasufi kim edi?",
+    answers = {
+      { text = "Geraklit", correct = true },
+      { text = "Demokrit", correct = false },
+      { text = "Arximed", correct = false },
+      { text = "Diogen", correct = false },
+    },
+  },
+  {
+    question = "\"Bir daryoga ikki marta tushish mumkin emas\" degan mashhur hikmat kimga tegishli?",
+    answers = {
+      { text = "Geraklitga", correct = true },
+      { text = "Demokritga", correct = false },
+      { text = "Gerodotga", correct = false },
+      { text = "Arximedga", correct = false },
+    },
+  },
+  {
+    question = "Bizni qurshab turgan hamma narsa ko'zga ko'rinmaydigan mayda-mayda zarralar — atomlardan tashkil topgan, degan fikrni qaysi faylasuf bayon etgan?",
+    answers = {
+      { text = "Frakiyalik Demokrit", correct = true },
+      { text = "Geraklit", correct = false },
+      { text = "Diogen", correct = false },
+      { text = "Sofokl", correct = false },
+    },
+  },
+  {
+    question = "\"Insonda hech qanday ehtiyojlar bo'lmasligi shart\" degan fikrni o'z ta'limotiga asos qilib olgan, bir bochkada kun kechirgan yunon faylasufi kim edi?",
+    answers = {
+      { text = "Diogen", correct = true },
+      { text = "Geraklit", correct = false },
+      { text = "Demokrit", correct = false },
+      { text = "Arximed", correct = false },
+    },
+  },
+  {
+    question = "Makedoniyalik Aleksandr \"Senga qanday yordam berishim mumkin?\" deb so'raganida \"Nariroq tur, quyoshni to'syapsan!\" deb javob bergan faylasuf kim edi?",
+    answers = {
+      { text = "Diogen", correct = true },
+      { text = "Geraklit", correct = false },
+      { text = "Demokrit", correct = false },
+      { text = "Gerodot", correct = false },
+    },
+  },
+  {
+    question = "Ilmiy masala yechimini topganda \"Evrika!\" (\"Topdim, topdim!\") deb qichqirgani bilan mashhur bo'lgan yunon fizigi va matematigi kim edi?",
+    answers = {
+      { text = "Arximed", correct = true },
+      { text = "Geraklit", correct = false },
+      { text = "Demokrit", correct = false },
+      { text = "Fidiy", correct = false },
+    },
+  },
+  {
+    question = "\"Menga tayanch nuqtasini topib bering, Yerni o'z o'qidan chiqarib yuboraman!\" degan mashhur iborani aytgan olim kim edi?",
+    answers = {
+      { text = "Arximed", correct = true },
+      { text = "Geraklit", correct = false },
+      { text = "Diogen", correct = false },
+      { text = "Demokrit", correct = false },
+    },
+  },
+  {
+    question = "Yunon-fors urushlariga bag'ishlab \"Tarix\" deb nomlangan kitobni yozgan va \"tarixning otasi\" nomini olgan olim kim edi?",
+    answers = {
+      { text = "Gerodot", correct = true },
+      { text = "Arximed", correct = false },
+      { text = "Geraklit", correct = false },
+      { text = "Strabon", correct = false },
+    },
+  },
+
+  -- 32-§. Qadimgi Yunoniston afsonalari bo'limi bo'yicha 8 ta savol
+  {
+    question = "Yunon tilida \"afsona\" so'zi qanday atalgan?",
+    answers = {
+      { text = "Mif", correct = true },
+      { text = "Logos", correct = false },
+      { text = "Mitos-grammatika", correct = false },
+      { text = "Teos", correct = false },
+    },
+  },
+  {
+    question = "Afsonalarga ko'ra, azalda hamma tomondan dengizlar bilan o'ralgan Yerning dastlabki hukmdori kim bo'lgan titan edi?",
+    answers = {
+      { text = "Okean", correct = true },
+      { text = "Atlant", correct = false },
+      { text = "Zevs", correct = false },
+      { text = "Posedon", correct = false },
+    },
+  },
+  {
+    question = "Ulkan osmon gumbazini yelkasida suyab turgan titan kim deb nomlangan?",
+    answers = {
+      { text = "Atlant", correct = true },
+      { text = "Okean", correct = false },
+      { text = "Gerakl", correct = false },
+      { text = "Aid", correct = false },
+    },
+  },
+  {
+    question = "O'n ikki jasorati tufayli Olimp tog'idagi xudolar saltanatida faxrli o'ringa ega bo'lgan bahodir qahramon kim edi?",
+    answers = {
+      { text = "Gerakl", correct = true },
+      { text = "Axilles", correct = false },
+      { text = "Atlant", correct = false },
+      { text = "Dedal", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi yunonlarning tasavvurida olamga hukmronlik qilgan uch oliy ilohdan kim osmonda hukmron bo'lgan?",
+    answers = {
+      { text = "Zevs", correct = true },
+      { text = "Poseydon", correct = false },
+      { text = "Aid", correct = false },
+      { text = "Apollon", correct = false },
+    },
+  },
+  {
+    question = "Dengizga hukmronlik qilgan, qadimgi yunonlarning uch oliy ilohidan biri qaysi xudo edi?",
+    answers = {
+      { text = "Poseydon", correct = true },
+      { text = "Zevs", correct = false },
+      { text = "Aid", correct = false },
+      { text = "Gefest", correct = false },
+    },
+  },
+  {
+    question = "Marhumlar saltanatida hukmronlik qilgan qadimgi yunon ilohi kim edi?",
+    answers = {
+      { text = "Aid", correct = true },
+      { text = "Zevs", correct = false },
+      { text = "Poseydon", correct = false },
+      { text = "Ares", correct = false },
+    },
+  },
+  {
+    question = "Yunonlarning tasavvuriga ko'ra, ma'budlar Shimoliy Yunonistondagi qaysi tog'da yashagan?",
+    answers = {
+      { text = "Olimp tog'ida", correct = true },
+      { text = "Etna tog'ida", correct = false },
+      { text = "Parnas tog'ida", correct = false },
+      { text = "Ida tog'ida", correct = false },
+    },
+  },
+
+  -- 33-34-§. Ahamoniylarning O'rta Osiyoga bosqinchilik yurishlari bo'limi bo'yicha 8 ta savol
+  {
+    question = "Mil. avv. besh yuz o'ttizinchi yilda Kir II ulkan lashkar bilan qaysi qabilalar ustiga yurish qildi?",
+    answers = {
+      { text = "Massagetlar ustiga", correct = true },
+      { text = "Saklar ustiga", correct = false },
+      { text = "Sug'diylar ustiga", correct = false },
+      { text = "Xorazmliklar ustiga", correct = false },
+    },
+  },
+  {
+    question = "Kir II massagetlar bilan bo'lgan jangda halok bo'lgan paytda massagetlar qabilalarining malikasi kim edi?",
+    answers = {
+      { text = "To'maris", correct = true },
+      { text = "Apama", correct = false },
+      { text = "Roksana", correct = false },
+      { text = "Anaxita", correct = false },
+    },
+  },
+  {
+    question = "Bu jang to'g'risida \"barcha janglardan ham dahshatlirog'i edi\" deb hikoya qilgan \"tarix otasi\" kim edi?",
+    answers = {
+      { text = "Gerodot", correct = true },
+      { text = "Arrian", correct = false },
+      { text = "Poliyen", correct = false },
+      { text = "Strabon", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. besh yuz yigirma ikkinchi yilda Marg'iyonada fors istilochilariga qarshi ko'tarilgan yirik xalq qo'zg'oloniga kim rahbarlik qilgan?",
+    answers = {
+      { text = "Frada", correct = true },
+      { text = "Shiroq", correct = false },
+      { text = "Spitaman", correct = false },
+      { text = "Dadarshish", correct = false },
+    },
+  },
+  {
+    question = "Frada qo'zg'oloni va uning bostirilishi haqidagi ma'lumotlar qaysi qoyatosh yozuvlarida qayd etilgan?",
+    answers = {
+      { text = "Behistun qoyatosh yozuvlarida", correct = true },
+      { text = "Naqshi Rustam yozuvlarida", correct = false },
+      { text = "Persepol yozuvlarida", correct = false },
+      { text = "Suza yozuvlarida", correct = false },
+    },
+  },
+  {
+    question = "Forslarning qoshiga kelib, qo'shinni o'zidan boshqa hech kim bilmaydigan so'qmoq orqali saklarning orqa tomoniga boshlab borishini aytgan sak cho'poni kim edi?",
+    answers = {
+      { text = "Shiroq", correct = true },
+      { text = "Frada", correct = false },
+      { text = "Spitaman", correct = false },
+      { text = "Ranosbat", correct = false },
+    },
+  },
+  {
+    question = "Ahamoniylar bosib olingan mamlakatlarni boshqarish uchun yagona davlatni qanday viloyatlarga bo'lib tashlagan edi?",
+    answers = {
+      { text = "Satrapiyalarga", correct = true },
+      { text = "Polislarga", correct = false },
+      { text = "Falangalarga", correct = false },
+      { text = "Ulуslarga", correct = false },
+    },
+  },
+  {
+    question = "1877-yilda Qubodiyon vodiysidan topilgan, yuqori badiiy uslubda ishlangan oltin va kumush buyumlar majmui fanda qanday nom bilan mashhur bo'lgan?",
+    answers = {
+      { text = "Amudaryo (Oks) xazinasi", correct = true },
+      { text = "Suza xazinasi", correct = false },
+      { text = "Behistun xazinasi", correct = false },
+      { text = "Persepol xazinasi", correct = false },
+    },
+  },
+
+  -- 35-36-§. O'rta Osiyo aholisining yunon-makedon istilochilariga qarshi kurashi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Mil. avv. uchyuzo'ttiz oltinchi yilda Filipp II o'limidan so'ng Makedoniya podshosi bo'lgan uning o'g'li kim edi?",
+    answers = {
+      { text = "Aleksandr", correct = true },
+      { text = "Antiox", correct = false },
+      { text = "Salavk", correct = false },
+      { text = "Demetriy", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. uchyuzo'ttiz to'qqizinchi yilda Aleksandrning yo'lini to'sgan birinchi shahar, Baqtriya poytaxti qaysi shahar bo'ldi?",
+    answers = {
+      { text = "Baqtra (Zariasp)", correct = true },
+      { text = "Maroqanda", correct = false },
+      { text = "Kurushkat", correct = false },
+      { text = "Termiz", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. uchyuzyigirma to'qqizinchi yilda yunon-makedonlar qaysi shaharni egalladi?",
+    answers = {
+      { text = "Maroqandani", correct = true },
+      { text = "Baqtrani", correct = false },
+      { text = "Kurushkatni", correct = false },
+      { text = "Xorazmni", correct = false },
+    },
+  },
+  {
+    question = "Sug'diyona xalqi bosqinchilarga qarshi ko'targan qo'zg'olonga qaysi iste'dodli lashkarboshi boshchilik qilgan?",
+    answers = {
+      { text = "Spitaman", correct = true },
+      { text = "Shiroq", correct = false },
+      { text = "Frada", correct = false },
+      { text = "Bess", correct = false },
+    },
+  },
+  {
+    question = "Manbalarda Politimet deb atalgan, Spitaman makedoniyaliklarga pistirma qo'ygan daryo qaysi edi?",
+    answers = {
+      { text = "Zarafshon daryosi", correct = true },
+      { text = "Amudaryo", correct = false },
+      { text = "Sirdaryo", correct = false },
+      { text = "Murg'ob daryosi", correct = false },
+    },
+  },
+  {
+    question = "Saklarga qarshi kurash uchun Aleksandr Sirdaryo bo'yida, Xo'jand yaqinida qurdirgan qal'a qanday nomlandi?",
+    answers = {
+      { text = "Aleksandriya Esxata", correct = true },
+      { text = "Kurushkat", correct = false },
+      { text = "Margʻiyona Aleksandriyasi", correct = false },
+      { text = "Termiz", correct = false },
+    },
+  },
+  {
+    question = "Aleksandr sug'd zodagoni Oksiartning qizi Ravshanak (Roksana)ga uylanib, Oksiartni qaysi viloyatlardan birining hokimi etib tayinladi?",
+    answers = {
+      { text = "Baqtriya viloyatlaridan birining", correct = true },
+      { text = "Sug'diyona viloyatining", correct = false },
+      { text = "Margʻiyona viloyatining", correct = false },
+      { text = "Xorazm viloyatining", correct = false },
+    },
+  },
+  {
+    question = "Aleksandr deyarli uch yil urinib, qaysi hududlarni bo'ysundira oldi, biroq Xorazm, Toshkent vohasi va Farg'ona mustaqilligicha qoldi?",
+    answers = {
+      { text = "Margʻiyona, Baqtriya, Sug'diyona va Sirdaryo bo'ylarini", correct = true },
+      { text = "Faqat Baqtriyani", correct = false },
+      { text = "Butun O'rta Osiyoni", correct = false },
+      { text = "Faqat Sug'diyonani", correct = false },
+    },
+  },
+
+  -- 37-§. Salavkiylar davlati va Yunon-Baqtriya podsholigi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Makedoniyalik Aleksandr vafotidan so'ng uning davlati qaysi uch qismga bo'linib ketdi?",
+    answers = {
+      { text = "Makedoniya, Misr va Suriyaga", correct = true },
+      { text = "Baqtriya, Sug'diyona va Margʻiyonaga", correct = false },
+      { text = "Fors, Hindiston va Misrga", correct = false },
+      { text = "Xorazm, Qang' va Davanga", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. uchyuzo'n ikkinchi yilda Aleksandrning lashkarboshilaridan biri Bobil (Suriya davlati) hukmdori bo'lgan kishi kim edi?",
+    answers = {
+      { text = "Salavk", correct = true },
+      { text = "Antiox", correct = false },
+      { text = "Diodot", correct = false },
+      { text = "Yevtidem", correct = false },
+    },
+  },
+  {
+    question = "Salavk o'g'li Antioxni qaysi sharqiy viloyatlarga noib etib tayinladi?",
+    answers = {
+      { text = "Parfiya, Margʻiyona, Baqtriya va Sug'diyonaga", correct = true },
+      { text = "Misr va Suriyaga", correct = false },
+      { text = "Makedoniya va Yunonistonga", correct = false },
+      { text = "Faqat Baqtriyaga", correct = false },
+    },
+  },
+  {
+    question = "Podsho Antiox kimning farzandi edi?",
+    answers = {
+      { text = "Salavk va Apama — Spitaman qizining farzandi", correct = true },
+      { text = "Diodot va Roksananing farzandi", correct = false },
+      { text = "Aleksandr va Roksananing farzandi", correct = false },
+      { text = "Filipp II ning farzandi", correct = false },
+    },
+  },
+  {
+    question = "Termiz yaqinida, Amudaryoning o'ng qirg'og'ida joylashgan, Makedoniyalik Aleksandrning Sug'diyonaga yurishi davrida o'tish joyida qurilgan qal'a qanday nomlanadi?",
+    answers = {
+      { text = "Kampirtepa qal'asi", correct = true },
+      { text = "Uzundara qal'asi", correct = false },
+      { text = "Tuproqqal'a", correct = false },
+      { text = "Qo'yqirilganqal'a", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. ikkiyuzellikinchi yilda Salavkiylar davlati tarkibidan ajralib chiqib, o'zini podsho deb e'lon qilgan Baqtriya shaharlari hukmdori kim edi?",
+    answers = {
+      { text = "Diodot", correct = true },
+      { text = "Yevtidem", correct = false },
+      { text = "Demetriy", correct = false },
+      { text = "Mitridat I", correct = false },
+    },
+  },
+  {
+    question = "Yevtidemning o'g'li bo'lib, hukmronligi davrida Yunon-Baqtriya podsholigi eng katta sarhadlarga ega bo'lgan hukmdor kim edi?",
+    answers = {
+      { text = "Demetriy", correct = true },
+      { text = "Diodot", correct = false },
+      { text = "Antiox", correct = false },
+      { text = "Salavk", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. bir yuz qirq — bir yuz o'ttizinchi yillar oralig'ida qaysi ko'chmanchi qabilalar Yunon-Baqtriya davlatini bosib oldi?",
+    answers = {
+      { text = "Yuechji qabilalari", correct = true },
+      { text = "Massaget qabilalari", correct = false },
+      { text = "Sak qabilalari", correct = false },
+      { text = "Parfiya qabilalari", correct = false },
+    },
+  },
+
+  -- 38-39-§. Qadimgi Xorazm bo'limi bo'yicha 8 ta savol
+  {
+    question = "Xorazm Ahamoniylar davlatidan mil. avv. qaysi asrda ajralib chiqib, mustaqil davlatga aylandi?",
+    answers = {
+      { text = "Mil. avv. to'rtinchi asrda", correct = true },
+      { text = "Mil. avv. beshinchi asrda", correct = false },
+      { text = "Mil. avv. uchinchi asrda", correct = false },
+      { text = "Mil. avv. oltinchi asrda", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi yunon tarixchisi Arrianning yozishicha, Makedoniyalik Aleksandr davrida Xorazmda kim podsholik qilgan?",
+    answers = {
+      { text = "Farasman", correct = true },
+      { text = "Frada", correct = false },
+      { text = "Diodot", correct = false },
+      { text = "Bess", correct = false },
+    },
+  },
+  {
+    question = "Amudaryodan chiqarilgan keng sug'orish kanallari uzunligi necha kilometrga yetadigan bo'lgan?",
+    answers = {
+      { text = "Qirq-ellik kilometrga", correct = true },
+      { text = "O'n-yigirma kilometrga", correct = false },
+      { text = "Yuz kilometrga", correct = false },
+      { text = "Yetti-o'n kilometrga", correct = false },
+    },
+  },
+  {
+    question = "Amudaryoning o'ng qirg'og'idagi, mil. avv. ikkinchi-birinchi asrlarga oid saroy va ibodatxonasi bo'lgan qal'a qanday nomlanadi?",
+    answers = {
+      { text = "Oqchaxon qal'asi", correct = true },
+      { text = "Tuproqqal'a", correct = false },
+      { text = "Qo'yqirilganqal'a", correct = false },
+      { text = "Jonbosqal'a", correct = false },
+    },
+  },
+  {
+    question = "Milodiy ikkinchi-uchinchi asrlarda bunyod etilgan, Xorazm hukmdorlarining qarorgohi bo'lgan shohona shahar qanday nomlanadi?",
+    answers = {
+      { text = "Tuproqqal'a", correct = true },
+      { text = "Oqchaxon qal'asi", correct = false },
+      { text = "Qo'yqirilganqal'a", correct = false },
+      { text = "Bozorqal'a", correct = false },
+    },
+  },
+  {
+    question = "O'rta Osiyodagi eng qadimgi yozuv namunasi Xorazmning qaysi yodgorligidan, xum sirtiga bitilgan holda topilgan?",
+    answers = {
+      { text = "Oybo'yirqal'a yodgorligidan", correct = true },
+      { text = "Tuproqqal'adan", correct = false },
+      { text = "Oqchaxon qal'asidan", correct = false },
+      { text = "Qo'yqirilganqal'adan", correct = false },
+    },
+  },
+  {
+    question = "Aramey alifbosiga asoslangan qadimgi Xorazm yozuvi nechta harfdan tashkil topgan?",
+    answers = {
+      { text = "Yigirma harfdan", correct = true },
+      { text = "O'n besh harfdan", correct = false },
+      { text = "Yigirma besh harfdan", correct = false },
+      { text = "O'ttiz harfdan", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. uchinchi asrda Xorazmda qurilgan, ibodatxonasida kohinlar osmon jismlarining harakatini kuzatgan mustahkam istehkom qaysi edi?",
+    answers = {
+      { text = "Qo'yqirilganqal'a", correct = true },
+      { text = "Tuproqqal'a", correct = false },
+      { text = "Oqchaxon qal'asi", correct = false },
+      { text = "Jonbosqal'a", correct = false },
+    },
+  },
+
+  -- 40-§. Qadimgi Qang' va Davan davlatlari bo'limi bo'yicha 8 ta savol
+  {
+    question = "Xitoy manbalarida Qang'xa (Qang') davlati deb atalgan davlatga mil. avv. uchinchi asrda kimlar asos solgan?",
+    answers = {
+      { text = "Saklar", correct = true },
+      { text = "Massagetlar", correct = false },
+      { text = "Yuechjilar", correct = false },
+      { text = "Davanliklar", correct = false },
+    },
+  },
+  {
+    question = "Toshkent vohasining Oqqo'rg'on tumanida mil. avv. uchinchi asrda bunyod etilgan, saklarning sobiq poytaxti bo'lgan shahar-qal'a qanday nomlanadi?",
+    answers = {
+      { text = "Qanqa", correct = true },
+      { text = "Qo'zaliqir", correct = false },
+      { text = "Afrosiyob", correct = false },
+      { text = "Yerqo'rg'on", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. ikkinchi asrda Shoshtepada qanday shakldagi ibodatxona qurilgan edi?",
+    answers = {
+      { text = "Doira shaklidagi olov ibodatxonasi", correct = true },
+      { text = "To'rtburchak shaklidagi suv ibodatxonasi", correct = false },
+      { text = "Uchburchak shaklidagi quyosh ibodatxonasi", correct = false },
+      { text = "Aylana shaklidagi yer ibodatxonasi", correct = false },
+    },
+  },
+  {
+    question = "Qang' hududidan Buyuk ipak yo'lining qaysi tarmog'i o'tgan?",
+    answers = {
+      { text = "Shimoliy tarmog'i", correct = true },
+      { text = "Janubiy tarmog'i", correct = false },
+      { text = "G'arbiy tarmog'i", correct = false },
+      { text = "Sharqiy tarmog'i", correct = false },
+    },
+  },
+  {
+    question = "Davan davlati taxminan mil. avv. uchinchi asrda paydo bo'lib, qaysi vodiyda joylashgan edi?",
+    answers = {
+      { text = "Farg'ona vodiysida", correct = true },
+      { text = "Zarafshon vodiysida", correct = false },
+      { text = "Qashqadaryo vodiysida", correct = false },
+      { text = "Sirdaryo vodiysida", correct = false },
+    },
+  },
+  {
+    question = "Davanga tashrif buyurgan, \"Davanda yetmishta katta-kichik shahar bor\" deb yozgan Xitoy elchisi kim edi?",
+    answers = {
+      { text = "Chjan Szyan", correct = true },
+      { text = "Che Lin", correct = false },
+      { text = "Kudzula Kadfiz", correct = false },
+      { text = "Poliyen", correct = false },
+    },
+  },
+  {
+    question = "Davan davlatining poytaxti qaysi shahar edi?",
+    answers = {
+      { text = "Ershi", correct = true },
+      { text = "Axsikent", correct = false },
+      { text = "Sho'rabashot", correct = false },
+      { text = "Uchqo'rg'on", correct = false },
+    },
+  },
+  {
+    question = "Farg'onaning zotdor otlari Xitoy hukmdorlarini o'ziga jalb qilib, ular bu otlar naslini qanday nom bilan atashgan?",
+    answers = {
+      { text = "\"Samoviy otlar\"", correct = true },
+      { text = "\"Qanotli sherlar\"", correct = false },
+      { text = "\"Oltin otlar\"", correct = false },
+      { text = "\"Quyosh otlari\"", correct = false },
+    },
+  },
+}

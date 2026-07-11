@@ -1,0 +1,667 @@
+questions = {
+  -- 41-§. Kushon davlati bo'limi bo'yicha 8 ta savol
+  {
+    question = "Mil. avv. yuz qirq - yuz o'ttizinchi yillar oralig'ida Yunon-Baqtriya davlatini qaysi ko'chmanchi qabilalar bosib olgan?",
+    answers = {
+      { text = "Yuechjilar", correct = true },
+      { text = "Hunlar", correct = false },
+      { text = "Sak qabilalari", correct = false },
+      { text = "Massagetlar", correct = false },
+    },
+  },
+  {
+    question = "Yuechji qabilalarining mulklarini birlashtirib, birinchi kushon hukmdori bo'lgan shaxs kim edi?",
+    answers = {
+      { text = "Kanishka", correct = false },
+      { text = "Vima Kadfiz", correct = false },
+      { text = "Kudzula Kadfiz", correct = true },
+      { text = "Spitaman", correct = false },
+    },
+  },
+  {
+    question = "Qaysi kushon podshosi davrida davlat o'z taraqqiyotining cho'qqisiga erishib, ulkan imperiyaga aylangan?",
+    answers = {
+      { text = "Kudzula Kadfiz davrida", correct = false },
+      { text = "Kanishka davrida", correct = true },
+      { text = "Vima Kadfiz davrida", correct = false },
+      { text = "Odoakr davrida", correct = false },
+    },
+  },
+  {
+    question = "Kushon podsholigida hukmdor nomi bitilgan tanga zarb qilish va pul islohoti qaysi hukmdor davrida boshlangan?",
+    answers = {
+      { text = "Kanishka davrida", correct = false },
+      { text = "Vima Kadfiz davrida", correct = true },
+      { text = "Kudzula Kadfiz davrida", correct = false },
+      { text = "Spitaman davrida", correct = false },
+    },
+  },
+  {
+    question = "Kushon davlati xo'jaligining asosini qanday tarmoqlar tashkil etgan?",
+    answers = {
+      { text = "Faqat chorvachilik va ovchilik", correct = false },
+      { text = "Sug'orma dehqonchilik, savdo-sotiq va hunarmandchilik", correct = true },
+      { text = "Faqat dengiz savdosi", correct = false },
+      { text = "Faqat konchilik", correct = false },
+    },
+  },
+  {
+    question = "Kushon davlatida o'zaro madaniy va savdo-sotiq aloqalari tufayli qaysi yozuv keng rivojlangan?",
+    answers = {
+      { text = "Mixxat yozuvi", correct = false },
+      { text = "Qadimgi aramey yozuvi", correct = true },
+      { text = "Iyerogliflar", correct = false },
+      { text = "Lotin alifbosi", correct = false },
+    },
+  },
+  {
+    question = "Hindistonning shimoliy qismi Kushon podsholigi tarkibiga qo'shib olinganidan keyin davlat hududiga qaysi din kirib kela boshlagan?",
+    answers = {
+      { text = "Zardushtiylik", correct = false },
+      { text = "Xristianlik", correct = false },
+      { text = "Buddaviylik", correct = true },
+      { text = "Islom dini", correct = false },
+    },
+  },
+  {
+    question = "Dalvarzintepadan fil suyagidan yasalgan qanday san'at namunasi topilgan?",
+    answers = {
+      { text = "Shaxmat donalari", correct = true },
+      { text = "Musiqa asbobi", correct = false },
+      { text = "Taqinchoq qutisi", correct = false },
+      { text = "Yozuv lavhasi", correct = false },
+    },
+  },
+
+  -- 42-§. Buyuk ipak yo'li bo'limi bo'yicha 8 ta savol
+  {
+    question = "Jahonning ko'plab mamlakatlarini bog'lab turuvchi karvon yo'llari tarmog'iga birinchi bo'lib “Ipak yo'li” deb nomni qaysi olim bergan?",
+    answers = {
+      { text = "Strabon", correct = false },
+      { text = "Nemis geografi F. Rixtgofen", correct = true },
+      { text = "Chjan Szyan", correct = false },
+      { text = "Gerodot", correct = false },
+    },
+  },
+  {
+    question = "Buyuk ipak yo'lining umumiy uzunligi necha ming kilometrni tashkil etgan?",
+    answers = {
+      { text = "Sakkiz ming kilometr", correct = false },
+      { text = "O'n ikki ming kilometr", correct = true },
+      { text = "Yigirma ming kilometr", correct = false },
+      { text = "Besh ming kilometr", correct = false },
+    },
+  },
+  {
+    question = "Buyuk ipak yo'li qaysi dengiz qirg'og'idan boshlanib, qayergacha borgan?",
+    answers = {
+      { text = "Sariq dengiz qirg'og'idan O'rta Yer dengizi sohillarigacha", correct = true },
+      { text = "Qora dengizdan Hind okeanigacha", correct = false },
+      { text = "Orol dengizidan Kaspiy dengizigacha", correct = false },
+      { text = "Boltiq dengizidan Adriatika dengizigacha", correct = false },
+    },
+  },
+  {
+    question = "Xitoy imperatori U-Di ko'chmanchi hun qabilalariga qarshi ittifoqchi topish uchun qaysi elchini yo'lga jo'natgan edi?",
+    answers = {
+      { text = "Chjan Szyanni", correct = true },
+      { text = "Arrianni", correct = false },
+      { text = "Kanishkani", correct = false },
+      { text = "Mark Krassni", correct = false },
+    },
+  },
+  {
+    question = "Chjan Szyan asirlikdan qochib, qaysi dovonlar orqali Issiqko'lga chiqib olgan?",
+    answers = {
+      { text = "Pomir dovonlari", correct = false },
+      { text = "Markaziy Tyanshan dovonlari", correct = true },
+      { text = "Olatog' dovonlari", correct = false },
+      { text = "Hind Kush dovonlari", correct = false },
+    },
+  },
+  {
+    question = "Chjan Szyan Xitoyga olib kelgan va xitoyliklar “samoviy” deb atagan narsa nima edi?",
+    answers = {
+      { text = "Farg'ona oti", correct = true },
+      { text = "Lojuvard toshi", correct = false },
+      { text = "Ipak gazlamasi", correct = false },
+      { text = "Nodir tosh marjon", correct = false },
+    },
+  },
+  {
+    question = "Sug'diyonadan Xitoyga Buyuk ipak yo'li orqali asosan nimalar olib borilgan?",
+    answers = {
+      { text = "Paxta va chigit", correct = false },
+      { text = "Junli matolar, gilamlar va zeb-ziynat buyumlari", correct = true },
+      { text = "Guruch va sholi", correct = false },
+      { text = "Zotli otlar", correct = false },
+    },
+  },
+  {
+    question = "Buyuk ipak yo'lining ahamiyati nimada bo'lgan?",
+    answers = {
+      { text = "Faqat harbiy yurishlarni osonlashtirgan", correct = false },
+      { text = "Sharq va G'arb xalqlari o'rtasidagi madaniy va savdo aloqalarini kengaytirgan", correct = true },
+      { text = "Faqat soliq yig'ish tizimini takomillashtirgan", correct = false },
+      { text = "Faqat dengiz floti rivojiga xizmat qilgan", correct = false },
+    },
+  },
+
+  -- 43-§. Qadimgi Italiya va uning aholisi bo'limi bo'yicha 8 ta savol
+  {
+    question = "“Italiya” so'zi qanday ma'noni anglatadi?",
+    answers = {
+      { text = "“Buzoqchalar mamlakati”", correct = true },
+      { text = "“Tepaliklar yurti”", correct = false },
+      { text = "“Quyosh diyori”", correct = false },
+      { text = "“Daryolar o'lkasi”", correct = false },
+    },
+  },
+  {
+    question = "Apennin yarimorolidagi eng katta daryo qaysi?",
+    answers = {
+      { text = "Tibr daryosi", correct = false },
+      { text = "Po daryosi", correct = true },
+      { text = "Dunay daryosi", correct = false },
+      { text = "Rubikon daryosi", correct = false },
+    },
+  },
+  {
+    question = "Italiyaning shimoli-g'arbiy qismida yashagan va asosiy mashg'uloti dehqonchilik bo'lgan qabila qaysi?",
+    answers = {
+      { text = "Etrusklar", correct = true },
+      { text = "Italiklar", correct = false },
+      { text = "Karfagenliklar", correct = false },
+      { text = "Doriylar", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. VIII asrda etrusklar Italiyada nechta shahar-davlat tuzishgan?",
+    answers = {
+      { text = "O'n ikkita", correct = true },
+      { text = "Yettita", correct = false },
+      { text = "O'ntta", correct = false },
+      { text = "Yigirmata", correct = false },
+    },
+  },
+  {
+    question = "Rivoyatga ko'ra, Rim shahriga mil. avv. necha yilda aka-uka Romul va Rem asos solgan?",
+    answers = {
+      { text = "Mil. avv. besh yuz to'qqizinchi yilda", correct = false },
+      { text = "Mil. avv. yetti yuz ellik uchinchi yilda", correct = true },
+      { text = "Mil. avv. to'qqiz yuzinchi yilda", correct = false },
+      { text = "Mil. avv. olti yuzinchi yilda", correct = false },
+    },
+  },
+  {
+    question = "Rivoyatga ko'ra, Tibr daryosi bo'yida tashlab ketilgan Romul va Rem chaqaloqlarni kim topib emizgan?",
+    answers = {
+      { text = "Ona bo'ri", correct = true },
+      { text = "Cho'pon ayoli", correct = false },
+      { text = "Yovvoyi ohu", correct = false },
+      { text = "Dengiz ma'budasi", correct = false },
+    },
+  },
+  {
+    question = "Hokimiyatni zo'ravonlik bilan egallagan va aholi qo'zg'oloni natijasida shahardan haydab yuborilgan hukmdor kim edi?",
+    answers = {
+      { text = "Mag'rur Tarkviniy", correct = true },
+      { text = "Yuliy Sezar", correct = false },
+      { text = "Oktavian Avgust", correct = false },
+      { text = "Brut", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. besh yuz to'qqizinchi yilda podsho hokimiyatining ag'darilishi nimaning asosini yaratdi?",
+    answers = {
+      { text = "Rim respublikasi asosini", correct = true },
+      { text = "Rim imperiyasi asosini", correct = false },
+      { text = "Kushon davlati asosini", correct = false },
+      { text = "Karfagen davlati asosini", correct = false },
+    },
+  },
+
+  -- 44-§. Rim respublikasi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Lotinchadan tarjima qilinganda “senat” so'zi qanday ma'noni anglatadi?",
+    answers = {
+      { text = "“Xalq ishi”", correct = false },
+      { text = "“Oqsoqollar kengashi”", correct = true },
+      { text = "“Harbiy kengash”", correct = false },
+      { text = "“Muqaddas joy”", correct = false },
+    },
+  },
+  {
+    question = "Rimning tub aholisi va Rimga ko'chib kelgan odamlar hamda ularning avlodlari mos ravishda nima deb atalgan?",
+    answers = {
+      { text = "Patritsiylar va plebeylar", correct = true },
+      { text = "Konsullar va senatorlar", correct = false },
+      { text = "Liktorlar va avgurlar", correct = false },
+      { text = "Italiklar va etrusklar", correct = false },
+    },
+  },
+  {
+    question = "Lotinchadan tarjima qilinganda “respublika” so'zi qanday ma'nolarni anglatadi?",
+    answers = {
+      { text = "“Xalq ishi, umumiy ish”", correct = true },
+      { text = "“Oqsoqollar kengashi”", correct = false },
+      { text = "“Bir kishi hokimiyati”", correct = false },
+      { text = "“Muqaddas qonun”", correct = false },
+    },
+  },
+  {
+    question = "Xalq majlisi tomonidan bir yil muddatga hokim qilib saylangan ikki kishi qanday nomlangan?",
+    answers = {
+      { text = "Diktatorlar", correct = false },
+      { text = "Konsullar", correct = true },
+      { text = "Liktorlar", correct = false },
+      { text = "Avgurlar", correct = false },
+    },
+  },
+  {
+    question = "Urush yoki xalq qo'zg'oloni ro'y berganda cheklanmagan hokimiyatga ega bo'lib, lekin olti oydan ortiq hokimiyatda tura olmaydigan lavozim qanday nomlangan?",
+    answers = {
+      { text = "Senator", correct = false },
+      { text = "Diktator", correct = true },
+      { text = "Pontifik", correct = false },
+      { text = "Xalq tribuni", correct = false },
+    },
+  },
+  {
+    question = "Qashshoq rimliklar manfaatini ifoda etgan va “veto” so'zini aytish huquqiga ega bo'lgan lavozim qanday atalgan?",
+    answers = {
+      { text = "Konsul", correct = false },
+      { text = "Diktator", correct = false },
+      { text = "Xalq tribuni", correct = true },
+      { text = "Liktor", correct = false },
+    },
+  },
+  {
+    question = "Plebeylar talabiga ko'ra yaratilgan va Rim forumiga o'n ikki mis lavhaga o'yib yozilgan qonunlar majmuasi qanday nomlanadi?",
+    answers = {
+      { text = "“12 jadval qonunlari”", correct = true },
+      { text = "Drakont qonunlari", correct = false },
+      { text = "Xammurapi qonunlari", correct = false },
+      { text = "Solon islohotlari", correct = false },
+    },
+  },
+  {
+    question = "Faqat mil. avv. III asr boshlariga kelib qabul qilingan qonunlarga ko'ra, Rimning barcha fuqarolari nima jihatdan teng deb hisoblangan?",
+    answers = {
+      { text = "Faqat boylik jihatidan", correct = false },
+      { text = "Mavqeyidan qat'i nazar qonun oldida", correct = true },
+      { text = "Faqat harbiy mansab jihatidan", correct = false },
+      { text = "Faqat diniy e'tiqod jihatidan", correct = false },
+    },
+  },
+
+  -- 45-§. Rim respublikasida hayot bo'limi bo'yicha 8 ta savol
+  {
+    question = "Rim shaharlarida suv shaharga qanday inshoot orqali oqib kelgan?",
+    answers = {
+      { text = "Akveduk orqali", correct = true },
+      { text = "Zikkurat orqali", correct = false },
+      { text = "Forum orqali", correct = false },
+      { text = "Amfiteatr orqali", correct = false },
+    },
+  },
+  {
+    question = "O'g'il bolalar o'n to'rt yoshga to'lgunga qadar qanday kiyim kiyishgan?",
+    answers = {
+      { text = "Pushti yo'lli toga", correct = true },
+      { text = "Oppoq toga", correct = false },
+      { text = "Rangli ko'ylak", correct = false },
+      { text = "Harir libos", correct = false },
+    },
+  },
+  {
+    question = "Rimliklarning bosh ma'budi, osmon, momaqaldiroq va yashin podshosi hamda davlat homiysi sifatida e'tiqod qilingan ma'bud kim?",
+    answers = {
+      { text = "Neptun", correct = false },
+      { text = "Yupiter", correct = true },
+      { text = "Vulqon", correct = false },
+      { text = "Merkuriy", correct = false },
+    },
+  },
+  {
+    question = "Rimliklarning urush ma'budi kim deb hisoblangan?",
+    answers = {
+      { text = "Mars", correct = true },
+      { text = "Diana", correct = false },
+      { text = "Vesta", correct = false },
+      { text = "Merkuriy", correct = false },
+    },
+  },
+  {
+    question = "Diniy marosimlar o'tkazilishi ustidan nazorat qiluvchi Rim ruhoniylari qanday nomlangan?",
+    answers = {
+      { text = "Avgurlar", correct = false },
+      { text = "Pontifiklar", correct = true },
+      { text = "Liktorlar", correct = false },
+      { text = "Konsullar", correct = false },
+    },
+  },
+  {
+    question = "Qushlar parvoziga, momaqaldiroq va boshqa alomatlarga qarab bashorat qiluvchi kohinlar qanday atalgan?",
+    answers = {
+      { text = "Pontifiklar", correct = false },
+      { text = "Senatorlar", correct = false },
+      { text = "Avgurlar", correct = true },
+      { text = "Liktorlar", correct = false },
+    },
+  },
+  {
+    question = "Xonadon o'chog'i homiysi Vesta ibodatxonasida nima saqlangan va u yonib turar ekan, nimaga ishonishgan?",
+    answers = {
+      { text = "Muqaddas olov, hayot mavjudligiga ishonishgan", correct = true },
+      { text = "Muqaddas suv, baxt kelishiga ishonishgan", correct = false },
+      { text = "Oltin haykal, boylik kelishiga ishonishgan", correct = false },
+      { text = "Muqaddas kitob, bilim ortishiga ishonishgan", correct = false },
+    },
+  },
+  {
+    question = "Rim uylarida polni isitish va quvurlar orqali suv yetkazib berish kabi tizim qanday turar joylarda mavjud bo'lgan?",
+    answers = {
+      { text = "Badavlat odamlarning koshonalarida", correct = true },
+      { text = "Barcha oddiy fuqarolar uylarida", correct = false },
+      { text = "Faqat ibodatxonalarda", correct = false },
+      { text = "Faqat qullar turar joylarida", correct = false },
+    },
+  },
+
+  -- 46-§. Qullar va gladiatorlar bo'limi bo'yicha 8 ta savol
+  {
+    question = "Rimda Misr va Yunonistondagiga nisbatan qullar sonining nihoyatda ko'payib ketishiga nima sabab bo'lgan?",
+    answers = {
+      { text = "Zafarli yurishlar", correct = true },
+      { text = "Tabiiy ko'payish", correct = false },
+      { text = "Qo'shni davlatlar bilan ittifoq", correct = false },
+      { text = "Dehqonchilikning kengayishi", correct = false },
+    },
+  },
+  {
+    question = "Mayda yer ijarachilari bo'lib, yer egasiga yetishtirgan mahsulot bilan to'lov bergan qullar qanday atalgan?",
+    answers = {
+      { text = "Liktorlar", correct = false },
+      { text = "Kolonlar", correct = true },
+      { text = "Patritsiylar", correct = false },
+      { text = "Plebeylar", correct = false },
+    },
+  },
+  {
+    question = "O'z mehnat qurollari va urug'ligiga ega bo'lib, oilasi bilan birga yashagan, ammo taqdiri xo'jayin qo'lida bo'lgan qullar qanday nomlangan?",
+    answers = {
+      { text = "“Kulbali qullar”", correct = true },
+      { text = "Gladiatorlar", correct = false },
+      { text = "Avgurlar", correct = false },
+      { text = "Liktorlar", correct = false },
+    },
+  },
+  {
+    question = "Eng katta amfiteatr bo'lib, necha ming tomoshabin sig'dirgan?",
+    answers = {
+      { text = "O'ttiz ming", correct = false },
+      { text = "Ellik ming", correct = true },
+      { text = "Yetmish ming", correct = false },
+      { text = "Yigirma ming", correct = false },
+    },
+  },
+  {
+    question = "Jang so'ngida tomoshabinlar bosh barmoqlarini pastga qaratishsa, bu nimani anglatardi?",
+    answers = {
+      { text = "Yengilgan gladiator tirik qoldirilishini", correct = false },
+      { text = "Yengilgan gladiator o'ldirilishini", correct = true },
+      { text = "Jangning qayta boshlanishini", correct = false },
+      { text = "Gladiatorning ozod etilishini", correct = false },
+    },
+  },
+  {
+    question = "Spartak boshchiligidagi qullar qo'zg'oloni mil. avv. qaysi yilda boshlangan?",
+    answers = {
+      { text = "Mil. avv. yetmish to'rtinchi yilda", correct = true },
+      { text = "Mil. avv. ellik to'qqizinchi yilda", correct = false },
+      { text = "Mil. avv. qirq to'qqizinchi yilda", correct = false },
+      { text = "Mil. avv. ikkinchi asrda", correct = false },
+    },
+  },
+  {
+    question = "Spartak va uning tarafdorlari gladiatorlar maktabidan qochib, qaysi tog'dagi qoyaga chiqib olishgan edi?",
+    answers = {
+      { text = "Vezuviy tog'i", correct = true },
+      { text = "Olimp tog'i", correct = false },
+      { text = "Kapitoliy tepaligi", correct = false },
+      { text = "Golgofa tog'i", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. yetmish birinchi yilning bahorida bo'lgan hal qiluvchi jangda Spartak lashkarini kim tor-mor etgan?",
+    answers = {
+      { text = "Yuliy Sezar", correct = false },
+      { text = "Mark Krass", correct = true },
+      { text = "Oktavian", correct = false },
+      { text = "Pompey", correct = false },
+    },
+  },
+
+  -- 47-§. Rim respublikasining qulashi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Qullar qo'zg'olonlari quldorlarni qattiq qo'rquvga solib, qanday hokimiyat o'rnatilishi zarurligi masalasini ko'ndalang qo'ygan?",
+    answers = {
+      { text = "Harbiy diktatura", correct = true },
+      { text = "Cheklangan respublika", correct = false },
+      { text = "Xalq majlisi hokimiyati", correct = false },
+      { text = "Senat ko'pchilik hukmronligi", correct = false },
+    },
+  },
+  {
+    question = "Yuliy Sezar mil. avv. qirq to'qqizinchi yilda yakkahokimlik uchun kurashni qaysi daryodan kechib o'tar ekan boshlab yuborgan?",
+    answers = {
+      { text = "Tibr daryosidan", correct = false },
+      { text = "Rubikon daryosidan", correct = true },
+      { text = "Po daryosidan", correct = false },
+      { text = "Dunay daryosidan", correct = false },
+    },
+  },
+  {
+    question = "Sezarni o'ldirishga fitna uyushtirgan senatorlarga kim boshchilik qilgan edi?",
+    answers = {
+      { text = "Brut", correct = true },
+      { text = "Pompey", correct = false },
+      { text = "Mark Krass", correct = false },
+      { text = "Mark Antoniy", correct = false },
+    },
+  },
+  {
+    question = "Sezarning o'ldirilishidan so'ng sarkardalar o'rtasidagi kurash nimaga olib keldi?",
+    answers = {
+      { text = "Tinch boshqaruv tiklanishiga", correct = false },
+      { text = "Fuqarolar urushiga", correct = true },
+      { text = "Rim respublikasining tezda tiklanishiga", correct = false },
+      { text = "Senatning kuchayishiga", correct = false },
+    },
+  },
+  {
+    question = "Brutga qarshi kurash boshlab, keyinchalik Mark Antoniy bilan ittifoq tuzgan Sezarning jiyani kim edi?",
+    answers = {
+      { text = "Oktavian", correct = true },
+      { text = "Trayan", correct = false },
+      { text = "Odoakr", correct = false },
+      { text = "Konstantin", correct = false },
+    },
+  },
+  {
+    question = "Misr malikasi Kleopatraga uylangan va nikoh sovg'asi sifatida Rimning sharqiy provinsiyalarini bergan sarkarda kim edi?",
+    answers = {
+      { text = "Mark Antoniy", correct = true },
+      { text = "Yuliy Sezar", correct = false },
+      { text = "Pompey", correct = false },
+      { text = "Mark Krass", correct = false },
+    },
+  },
+  {
+    question = "Mil. avv. yigirma to'qqizinchi yilda Oktavian Senatdan qanday unvon va nom olgan?",
+    answers = {
+      { text = "Diktator unvoni va Konsul nomi", correct = false },
+      { text = "Imperator unvoni va Avgust nomi", correct = true },
+      { text = "Senator unvoni va Tribun nomi", correct = false },
+      { text = "Pontifik unvoni va Kohin nomi", correct = false },
+    },
+  },
+  {
+    question = "Milodiy II asr Rim imperiyasi tarixida qanday nom olgan?",
+    answers = {
+      { text = "“Oltin asr”", correct = true },
+      { text = "“Inqiroz asri”", correct = false },
+      { text = "“Temir asr”", correct = false },
+      { text = "“Bronza asri”", correct = false },
+    },
+  },
+
+  -- 48-§. G'arbiy Rim imperiyasining tanazzuli va halokati bo'limi bo'yicha 8 ta savol
+  {
+    question = "Milodiy III asrda Rim imperiyasida imperatorni endilikda kim saylar edi?",
+    answers = {
+      { text = "Armiya", correct = true },
+      { text = "Senat", correct = false },
+      { text = "Xalq majlisi", correct = false },
+      { text = "Pontifiklar kengashi", correct = false },
+    },
+  },
+  {
+    question = "Rimliklar madaniy taraqqiyot jihatidan o'zlaridan past darajada turuvchi va chegaralarning shimoli-g'arbida paydo bo'lgan ko'chmanchi qabilalarni qanday atashgan?",
+    answers = {
+      { text = "“Varvarlar”", correct = true },
+      { text = "“Metekler”", correct = false },
+      { text = "“Goplitlar”", correct = false },
+      { text = "“Italiklar”", correct = false },
+    },
+  },
+  {
+    question = "Milodiy uch yuz o'ttizinchi yilda imperator Konstantin zamonida Rim imperiyasining poytaxti deb qaysi shahar e'lon qilingan?",
+    answers = {
+      { text = "Vizantiy (Konstantinopol)", correct = true },
+      { text = "Aleksandriya", correct = false },
+      { text = "Karfagen", correct = false },
+      { text = "Neapol", correct = false },
+    },
+  },
+  {
+    question = "Imperator Feodosiy o'limidan so'ng milodiy uch yuz to'qson beshinchi yilda Rim imperiyasi nimaga bo'lib olingan?",
+    answers = {
+      { text = "G'arbiy va Sharqiy qismlarga", correct = true },
+      { text = "Shimoliy va Janubiy qismlarga", correct = false },
+      { text = "Uchta mustaqil davlatga", correct = false },
+      { text = "Provinsiyalar federatsiyasiga", correct = false },
+    },
+  },
+  {
+    question = "Milodiy to'rt yuz o'ninchi yilda german qabilalari - gotlar Rimni qaysi sarkarda boshchiligida qurshab olgan?",
+    answers = {
+      { text = "Alarix boshchiligida", correct = true },
+      { text = "Attila boshchiligida", correct = false },
+      { text = "Odoakr boshchiligida", correct = false },
+      { text = "Spartak boshchiligida", correct = false },
+    },
+  },
+  {
+    question = "Milodiy to'rt yuz ellik ikkinchi yilda Sharqiy Rim imperiyasiga hujum uyushtirgan hun qabilalari sarkardasi kim edi?",
+    answers = {
+      { text = "Attila", correct = true },
+      { text = "Alarix", correct = false },
+      { text = "Odoakr", correct = false },
+      { text = "Brut", correct = false },
+    },
+  },
+  {
+    question = "Milodiy to'rt yuz ellik beshinchi yilda Rimga hujum qilib, ikki hafta davomida shaharni talagan german qabilasi qaysi edi?",
+    answers = {
+      { text = "Gotlar", correct = false },
+      { text = "Vandallar", correct = true },
+      { text = "Hunlar", correct = false },
+      { text = "Etrusklar", correct = false },
+    },
+  },
+  {
+    question = "Milodiy to'rt yuz yetmish oltinchi yilda so'nggi imperator Romulni taxtdan ag'dargan german sarkardasi kim edi?",
+    answers = {
+      { text = "Odoakr", correct = true },
+      { text = "Attila", correct = false },
+      { text = "Alarix", correct = false },
+      { text = "Brut", correct = false },
+    },
+  },
+
+  -- 49-50-§. Qadimgi Rim madaniyati bo'limi bo'yicha 8 ta savol
+  {
+    question = "Rimlik imperatorlar poytaxt aholisi uchun bassyenli va sport zalli ko'rkam hammomlarni qanday atashgan?",
+    answers = {
+      { text = "Termalar", correct = true },
+      { text = "Akveduklar", correct = false },
+      { text = "Forumlar", correct = false },
+      { text = "Zikkuratlar", correct = false },
+    },
+  },
+  {
+    question = "Badavlat xonadon farzandlari necha yoshdan maktabga qatnashgan?",
+    answers = {
+      { text = "To'rt yoshdan", correct = false },
+      { text = "Olti yoshdan", correct = true },
+      { text = "Sakkiz yoshdan", correct = false },
+      { text = "O'n yoshdan", correct = false },
+    },
+  },
+  {
+    question = "Yozuvni o'rganayotgan rim bolalari harflarni qanday vosita bilan mum qoplangan taxtachalarga o'yib yozishgan?",
+    answers = {
+      { text = "Tosh qalam bilan", correct = false },
+      { text = "Stil deb atalgan metall tayoqcha bilan", correct = true },
+      { text = "Qamish qalam bilan", correct = false },
+      { text = "Cho'tka bilan", correct = false },
+    },
+  },
+  {
+    question = "Rimliklar qotgandan keyin toshdan ham mustahkam bo'lib qoladigan qanday yangi qurilish materialini ixtiro qilishgan?",
+    answers = {
+      { text = "Sopol g'isht", correct = false },
+      { text = "Beton", correct = true },
+      { text = "Marmar plastinka", correct = false },
+      { text = "Loy suvoq", correct = false },
+    },
+  },
+  {
+    question = "Rimdagi “barcha xudolar ibodatxonasi” ma'nosini anglatuvchi va gumbaz shaklida qurilgan inshoot qanday nomlangan?",
+    answers = {
+      { text = "Kolizey", correct = false },
+      { text = "Panteon", correct = true },
+      { text = "Forum", correct = false },
+      { text = "Akropol", correct = false },
+    },
+  },
+  {
+    question = "“Rim tarixi” asarini yozgan tarixchi kim bo'lgan?",
+    answers = {
+      { text = "Plutarx", correct = false },
+      { text = "Tit Liviy", correct = true },
+      { text = "Kvint Kursiy Ruf", correct = false },
+      { text = "Arrian", correct = false },
+    },
+  },
+  {
+    question = "Rivoyatlarga ko'ra, mo'jizaviy bolakay Iso milodiy I asr boshlarida qaysi shaharda tug'ilgan?",
+    answers = {
+      { text = "Iyerusalimda", correct = false },
+      { text = "Vifleyem shahrida", correct = true },
+      { text = "Aleksandriyada", correct = false },
+      { text = "Rimda", correct = false },
+    },
+  },
+  {
+    question = "Milodiy uch yuz o'n uchinchi yilda imperator Konstantin xristianlikni boshqa dinlar bilan teng deb e'lon qilgan farmoni xristianlarga nima imkonini bergan?",
+    answers = {
+      { text = "Ibodatxonalar qurish va oshkora ibodat qilish", correct = true },
+      { text = "Senatda o'rin egallash", correct = false },
+      { text = "Soliqlardan ozod bo'lish", correct = false },
+      { text = "Armiyada xizmat qilmaslik", correct = false },
+    },
+  },
+}
