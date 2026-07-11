@@ -1,0 +1,741 @@
+questions = {
+  -- 1-§. Kushon davlati bo'limi bo'yicha 8 ta savol
+  {
+    question = "Mil. avv. II asrning o‘rtalarida Yuechji qabilalari qaysi davlat hududiga bostirib kirganlar?",
+    answers = {
+      { text = "Parfiya davlatiga", correct = false },
+      { text = "Yunon-Baqtriya davlatiga", correct = true },
+      { text = "Kavkaz ortiga", correct = false },
+      { text = "Sug‘diyona hududiga", correct = false },
+    },
+  },
+  {
+    question = "Kushonlar davlati qaysi hududda tashkil topgan?",
+    answers = {
+      { text = "Baqtriya hududida", correct = true },
+      { text = "Farg‘ona vodiysida", correct = false },
+      { text = "Xorazmda", correct = false },
+      { text = "Toshkent vohasida", correct = false },
+    },
+  },
+  {
+    question = "Kushon podsholigi qachon o‘z taraqqiyotining eng yuqori cho‘qqisiga erishgan?",
+    answers = {
+      { text = "Kudzula Kadfiz davrida", correct = false },
+      { text = "Kanishka davrida", correct = true },
+      { text = "Vima Kadfiz davrida", correct = false },
+      { text = "Huvishka davrida", correct = false },
+    },
+  },
+  {
+    question = "Kushonlar davrida qaysi yozuv keng tarqalgan edi?",
+    answers = {
+      { text = "Kirill yozuvi", correct = false },
+      { text = "Aramey yozuvi", correct = true },
+      { text = "Xitoy iyerogliflari", correct = false },
+      { text = "Lotin yozuvi", correct = false },
+    },
+  },
+  {
+    question = "Kushonlar davrida qaysi yangi din davlat diniga aylangan?",
+    answers = {
+      { text = "Zardushtiylik", correct = false },
+      { text = "Buddaviylik", correct = true },
+      { text = "Islom", correct = false },
+      { text = "Xristianlik", correct = false },
+    },
+  },
+  {
+    question = "Kushonlar davrida iqtisodiyotning asosi nima edi?",
+    answers = {
+      { text = "Sug‘orma dehqonchilik", correct = true },
+      { text = "Ko‘chmanchi chorvachilik", correct = false },
+      { text = "Dengiz savdosi", correct = false },
+      { text = "Sanoat", correct = false },
+    },
+  },
+  {
+    question = "Kushon podsholigi qaysi hududlarni o‘z ichiga olgan?",
+    answers = {
+      { text = "Faqat Hindistonni", correct = false },
+      { text = "O‘rta Osiyo va Shimoliy Hindistonni", correct = true },
+      { text = "Faqat O‘rta Osiyoni", correct = false },
+      { text = "Eron va Mesopotamiyani", correct = false },
+    },
+  },
+  {
+    question = "Kushon davlati qachon barham topgan?",
+    answers = {
+      { text = "Milodiy IV asrda", correct = true },
+      { text = "Mil. avv. I asrda", correct = false },
+      { text = "Milodiy VI asrda", correct = false },
+      { text = "Milodiy III asrda", correct = false },
+    },
+  },
+
+  -- 2-§. Qadimgi Xorazm madaniyati bo'limi bo'yicha 8 ta savol
+  {
+    question = "Qadimgi Xorazm madaniyatining asosiy markazlaridan biri qaysi edi?",
+    answers = {
+      { text = "Tuproqqal’a", correct = true },
+      { text = "Afrosiyob", correct = false },
+      { text = "Marv", correct = false },
+      { text = "Niso", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi Xorazmda qanday yozuvdan foydalanilgan?",
+    answers = {
+      { text = "Xorazm yozuvi", correct = true },
+      { text = "Sug‘d yozuvi", correct = false },
+      { text = "Arab yozuvi", correct = false },
+      { text = "Yunon yozuvi", correct = false },
+    },
+  },
+  {
+    question = "Tuproqqal’a shahri qachon qurilgan?",
+    answers = {
+      { text = "Mil. avv. I asrda", correct = true },
+      { text = "Mil. avv. III asrda", correct = false },
+      { text = "Milodiy II asrda", correct = false },
+      { text = "Milodiy IV asrda", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi Xorazm san’atida qaysi mavzu yetakchi o‘rin tutgan?",
+    answers = {
+      { text = "Diniy va dunyoviy mavzular", correct = true },
+      { text = "Faqat harbiy mavzular", correct = false },
+      { text = "Faqat tabiat tasvirlari", correct = false },
+      { text = "Faqat mavhum shakllar", correct = false },
+    },
+  },
+  {
+    question = "Xorazm hukmdorlari nima deb atalgan?",
+    answers = {
+      { text = "Xorazmshoh", correct = true },
+      { text = "Podshoh", correct = false },
+      { text = "Sulton", correct = false },
+      { text = "Xon", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi Xorazmda qaysi din keng tarqalgan edi?",
+    answers = {
+      { text = "Zardushtiylik", correct = true },
+      { text = "Buddaviylik", correct = false },
+      { text = "Manixeylik", correct = false },
+      { text = "Islom", correct = false },
+    },
+  },
+  {
+    question = "Tuproqqal’a saroyida qanday xonalar aniqlangan?",
+    answers = {
+      { text = "Podshohlar zali va arxiv xonasi", correct = true },
+      { text = "Harbiy omborlar", correct = false },
+      { text = "Faqat ibodatxonalar", correct = false },
+      { text = "Dengiz kemalari porti", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi Xorazm madaniyati uchun qaysi me’moriy uslub xos bo‘lgan?",
+    answers = {
+      { text = "Paxsali va xom g‘ishtli imoratlar", correct = true },
+      { text = "Toshdan ishlangan qasrlar", correct = false },
+      { text = "Yog‘och inshootlar", correct = false },
+      { text = "Temir konstruksiyalar", correct = false },
+    },
+  },
+
+  -- 3-§. Qadimgi Sug‘d madaniyati bo'limi bo'yicha 8 ta savol
+  {
+    question = "Sug‘diyonaning asosiy shahri qaysi edi?",
+    answers = {
+      { text = "Maroqanda (Samarqand)", correct = true },
+      { text = "Buxoro", correct = false },
+      { text = "Poykent", correct = false },
+      { text = "Kash", correct = false },
+    },
+  },
+  {
+    question = "Sug‘d savdogarlari qayerlarda o‘z koloniyalarini qurishgan?",
+    answers = {
+      { text = "Buyuk Ipak yo‘li bo‘ylab", correct = true },
+      { text = "Faqat O‘rta Osiyoda", correct = false },
+      { text = "Yevropa markazida", correct = false },
+      { text = "Shimoliy Hindistonda", correct = false },
+    },
+  },
+  {
+    question = "Sug‘d madaniyatining yorqin namunalari qayerdan topilgan?",
+    answers = {
+      { text = "Afrosiyobdan", correct = true },
+      { text = "Varaqshadan", correct = false },
+      { text = "Tuproqqal’adan", correct = false },
+      { text = "Dalvarzintepadan", correct = false },
+    },
+  },
+  {
+    question = "Sug‘d yozuvi qaysi yozuv turiga asoslangan?",
+    answers = {
+      { text = "Aramey yozuvi", correct = true },
+      { text = "Yunon yozuvi", correct = false },
+      { text = "Sanskrit", correct = false },
+      { text = "Xitoy yozuvi", correct = false },
+    },
+  },
+  {
+    question = "Sug‘d devoriy suratlari nimani aks ettiradi?",
+    answers = {
+      { text = "Hayotiy voqealar, bayramlar va elchilik", correct = true },
+      { text = "Faqat urushlarni", correct = false },
+      { text = "Faqat ov jarayonini", correct = false },
+      { text = "Faqat qishloq xo‘jaligini", correct = false },
+    },
+  },
+  {
+    question = "Sug‘dlar qaysi faoliyat turi bilan butun dunyoga tanilgan?",
+    answers = {
+      { text = "Xalqaro savdo", correct = true },
+      { text = "Dengizchilik", correct = false },
+      { text = "Qul savdosi", correct = false },
+      { text = "Konchilik", correct = false },
+    },
+  },
+  {
+    question = "Sug‘d tili qaysi tillar oilasiga mansub?",
+    answers = {
+      { text = "Sharqiy eroniy tillar", correct = true },
+      { text = "Turkiy tillar", correct = false },
+      { text = "Arab tillari", correct = false },
+      { text = "Mo‘g‘ul tillari", correct = false },
+    },
+  },
+  {
+    question = "Sug‘d ibodatxonalarida qanday dinlarga e’tiqod qilingan?",
+    answers = {
+      { text = "Zardushtiylik, budda, manixeylik", correct = true },
+      { text = "Faqat Islom", correct = false },
+      { text = "Faqat xristianlik", correct = false },
+      { text = "Faqat butparastlik", correct = false },
+    },
+  },
+
+  -- 4-§. Choch va Farg‘ona madaniyati bo'limi bo'yicha 8 ta savol
+  {
+    question = "Choch hududining markazi qayer bo‘lgan?",
+    answers = {
+      { text = "Toshkent shahri (shahar o‘rnida)", correct = true },
+      { text = "Qo‘qon", correct = false },
+      { text = "Andijon", correct = false },
+      { text = "Samarqand", correct = false },
+    },
+  },
+  {
+    question = "Farg‘ona vodiysida milodiy IV-VIII asrlarda qanday davlat tashkil topgan?",
+    answers = {
+      { text = "Farg‘ona podsholigi", correct = true },
+      { text = "Sug‘diyona", correct = false },
+      { text = "Xorazm", correct = false },
+      { text = "Kushon", correct = false },
+    },
+  },
+  {
+    question = "Choch vodiysida qaysi tizim yaxshi rivojlangan edi?",
+    answers = {
+      { text = "Sug‘orish va dehqonchilik tizimi", correct = true },
+      { text = "Dengiz transporti", correct = false },
+      { text = "Faqat tog‘ konchilik ishlari", correct = false },
+      { text = "Ko‘chmanchi chorvachilik", correct = false },
+    },
+  },
+  {
+    question = "Farg‘ona qaysi yo‘lning muhim qismi hisoblangan?",
+    answers = {
+      { text = "Buyuk Ipak yo‘lining", correct = true },
+      { text = "Buyuk dengiz yo‘lining", correct = false },
+      { text = "Shimoliy savdo yo‘lining", correct = false },
+      { text = "Sharqiy Afrika yo‘lining", correct = false },
+    },
+  },
+  {
+    question = "Choch tangalarida qanday tasvirlar bo‘lgan?",
+    answers = {
+      { text = "Hukmdor tasviri va tamg‘a", correct = true },
+      { text = "Faqat o‘simlik tasviri", correct = false },
+      { text = "Faqat daryo tasviri", correct = false },
+      { text = "Hech qanday tasvir bo‘lmagan", correct = false },
+    },
+  },
+  {
+    question = "Farg‘onada qaysi metallurgiya hunarmandchiligi rivojlangan?",
+    answers = {
+      { text = "Temir va misni qayta ishlash", correct = true },
+      { text = "Oltin konchiligigina", correct = false },
+      { text = "Qalay ishlab chiqarish", correct = false },
+      { text = "Nikelchilik", correct = false },
+    },
+  },
+  {
+    question = "Choch va Farg‘ona madaniyatida qanday uylar qurilgan?",
+    answers = {
+      { text = "Qal’a devorlari bilan o‘ralgan shaharlar", correct = true },
+      { text = "Faqat yer osti uylari", correct = false },
+      { text = "Faqat chodirlar", correct = false },
+      { text = "Faqat yog‘ochdan ishlangan uylar", correct = false },
+    },
+  },
+  {
+    question = "Farg‘ona podsholari kimlar bilan yaqin aloqada bo‘lgan?",
+    answers = {
+      { text = "Qo‘shni sug‘d va turk hukmdorlari", correct = true },
+      { text = "Rim imperiyasi", correct = false },
+      { text = "Keltlar", correct = false },
+      { text = "Vikinglar", correct = false },
+    },
+  },
+
+  -- 5-§. Turk xoqonligi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Turk xoqonligi qachon tashkil topgan?",
+    answers = {
+      { text = "Milodiy 552-yilda", correct = true },
+      { text = "Milodiy 450-yilda", correct = false },
+      { text = "Milodiy 630-yilda", correct = false },
+      { text = "Milodiy 712-yilda", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligining asoschisi kim?",
+    answers = {
+      { text = "Bumin xoqon", correct = true },
+      { text = "Istami xoqon", correct = false },
+      { text = "To‘nyuquq", correct = false },
+      { text = "Bilga xoqon", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi qaysi qabilalar birlashuvi natijasida vujudga kelgan?",
+    answers = {
+      { text = "Turkiy qabilalar", correct = true },
+      { text = "Sug‘d qabilalari", correct = false },
+      { text = "Xorazm qabilalari", correct = false },
+      { text = "Xitoy qabilalari", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi hududi qaysi hududlarni qamrab olgan?",
+    answers = {
+      { text = "Oltoydan to Qora dengizgacha", correct = true },
+      { text = "Faqat O‘rta Osiyoni", correct = false },
+      { text = "Faqat Xitoy chegarasini", correct = false },
+      { text = "Faqat Hindistonni", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligida oliy hokimiyat kimga tegishli edi?",
+    answers = {
+      { text = "Xoqonga", correct = true },
+      { text = "Senatorlarga", correct = false },
+      { text = "Xalq majlisiga", correct = false },
+      { text = "Savdogarlar kengashiga", correct = false },
+    },
+  },
+  {
+    question = "Turklar qanday yozuvdan foydalanganlar?",
+    answers = {
+      { text = "Qadimgi turkiy yozuv (Run yozuvi)", correct = true },
+      { text = "Lotin yozuvi", correct = false },
+      { text = "Sanskrit", correct = false },
+      { text = "Iyeroglif", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligi necha qismga bo‘linib ketgan?",
+    answers = {
+      { text = "G‘arbiy va Sharqiy", correct = true },
+      { text = "Uch qismga", correct = false },
+      { text = "To‘rt qismga", correct = false },
+      { text = "Beshta qismga", correct = false },
+    },
+  },
+  {
+    question = "Turklar iqtisodiyotining asosi nima edi?",
+    answers = {
+      { text = "Ko‘chmanchi chorvachilik", correct = true },
+      { text = "Dengiz savdosi", correct = false },
+      { text = "Faqat sanoat", correct = false },
+      { text = "Baliqchilik", correct = false },
+    },
+  },
+
+  -- 6-§. G‘arbiy Turk xoqonligi bo'limi bo'yicha 8 ta savol
+  {
+    question = "G‘arbiy Turk xoqonligining markazi qayerda joylashgan edi?",
+    answers = {
+      { text = "Yettisuv (Suyob shahri)", correct = true },
+      { text = "Samarqand", correct = false },
+      { text = "Buxoro", correct = false },
+      { text = "Toshkent", correct = false },
+    },
+  },
+  {
+    question = "G‘arbiy Turk xoqonligining eng qudratli davri qachon bo‘lgan?",
+    answers = {
+      { text = "Tongi yabg‘u xoqon davrida", correct = true },
+      { text = "Bumin xoqon davrida", correct = false },
+      { text = "Istami xoqon davrida", correct = false },
+      { text = "Bilga xoqon davrida", correct = false },
+    },
+  },
+  {
+    question = "G‘arbiy Turk xoqonligida mahalliy xalqlar (sug‘dlar va boshqalar) qanday maqomda bo‘lgan?",
+    answers = {
+      { text = "O‘zini o‘zi boshqargan, soliq to‘lagan", correct = true },
+      { text = "To‘liq qul qilingan", correct = false },
+      { text = "Faqat askar bo‘lgan", correct = false },
+      { text = "Hukumatdan chetlatilgan", correct = false },
+    },
+  },
+  {
+    question = "G‘arbiy Turk xoqonligida savdo-sotiqni kimlar boshqargan?",
+    answers = {
+      { text = "Sug‘d savdogarlari", correct = true },
+      { text = "Faqat turk zodagonlari", correct = false },
+      { text = "Xitoy elchilari", correct = false },
+      { text = "Hind kohinlari", correct = false },
+    },
+  },
+  {
+    question = "G‘arbiy Turk xoqonligi qachon barham topgan?",
+    answers = {
+      { text = "Milodiy 658-yilda", correct = true },
+      { text = "Milodiy 552-yilda", correct = false },
+      { text = "Milodiy 750-yilda", correct = false },
+      { text = "Milodiy 800-yilda", correct = false },
+    },
+  },
+  {
+    question = "G‘arbiy Turk xoqonligi hududiga qaysi davlatlar kirgan?",
+    answers = {
+      { text = "O‘rta Osiyo va Qozog‘iston", correct = true },
+      { text = "Faqat Xitoy", correct = false },
+      { text = "Faqat Rossiya", correct = false },
+      { text = "Faqat Eron", correct = false },
+    },
+  },
+  {
+    question = "Xoqonlikda ma’muriy boshqaruv qanday amalga oshirilgan?",
+    answers = {
+      { text = "Tudunlar orqali", correct = true },
+      { text = "Faqat demokratik yo‘l bilan", correct = false },
+      { text = "Diniy rahbarlar orqali", correct = false },
+      { text = "Faqat harbiylar orqali", correct = false },
+    },
+  },
+  {
+    question = "G‘arbiy Turk xoqonligining tashqi siyosatida qaysi davlat bilan raqobat bo‘lgan?",
+    answers = {
+      { text = "Xitoy (Tang imperiyasi)", correct = true },
+      { text = "Rim", correct = false },
+      { text = "Yunoniston", correct = false },
+      { text = "Misr", correct = false },
+    },
+  },
+
+  -- 7-§. O‘rta Osiyo xalqlari va xalifaligining kirib kelishi bo'limi bo'yicha 8 ta savol
+  {
+    question = "Arab xalifaligi qaysi davrda O‘rta Osiyoga yurish boshlagan?",
+    answers = {
+      { text = "VII asr oxiri - VIII asr boshlarida", correct = true },
+      { text = "VI asrda", correct = false },
+      { text = "IX asrda", correct = false },
+      { text = "V asrda", correct = false },
+    },
+  },
+  {
+    question = "Arab sarkardasi Qutayba ibn Muslim qaysi shahar-davlatlarni zabt etgan?",
+    answers = {
+      { text = "Buxoro, Samarqand, Xorazm", correct = true },
+      { text = "Faqat Farg‘onani", correct = false },
+      { text = "Faqat Toshkentni", correct = false },
+      { text = "Faqat Marvni", correct = false },
+    },
+  },
+  {
+    question = "Arab bosqiniga qarshi eng mashhur kurashchilardan kim edi?",
+    answers = {
+      { text = "Muqanna", correct = true },
+      { text = "Bumin xoqon", correct = false },
+      { text = "Istami xoqon", correct = false },
+      { text = "Bilga xoqon", correct = false },
+    },
+  },
+  {
+    question = "Arab bosqinining asosiy maqsadi nima edi?",
+    answers = {
+      { text = "Islom dinini yoyish va boylik", correct = true },
+      { text = "Faqat madaniyat tarqatish", correct = false },
+      { text = "Faqat savdo yo‘llarini himoya qilish", correct = false },
+      { text = "Faqat yangi yerlar ochish", correct = false },
+    },
+  },
+  {
+    question = "O‘rta Osiyo aholisi arab bosqiniga qanday javob bergan?",
+    answers = {
+      { text = "Qattiq qarshilik ko‘rsatgan", correct = true },
+      { text = "Darhol bo‘ysungan", correct = false },
+      { text = "Arablar bilan ittifoq tuzgan", correct = false },
+      { text = "Mamlakatni tashlab chiqib ketgan", correct = false },
+    },
+  },
+  {
+    question = "Arablar bosib olingan shaharlarda nimalarni qura boshlagan?",
+    answers = {
+      { text = "Masjidlar", correct = true },
+      { text = "Amfiteatrlar", correct = false },
+      { text = "Rim hammomlari", correct = false },
+      { text = "Yevropa uslubidagi qasrlar", correct = false },
+    },
+  },
+  {
+    question = "Qutayba ibn Muslim qachon Samarqandni to‘liq egallagan?",
+    answers = {
+      { text = "712-yilda", correct = true },
+      { text = "650-yilda", correct = false },
+      { text = "750-yilda", correct = false },
+      { text = "800-yilda", correct = false },
+    },
+  },
+  {
+    question = "Arablar hukmronligi davrida qaysi til rasmiy tilga aylangan?",
+    answers = {
+      { text = "Arab tili", correct = true },
+      { text = "Sug‘d tili", correct = false },
+      { text = "Turk tili", correct = false },
+      { text = "Xorazm tili", correct = false },
+    },
+  },
+
+  -- 8-§. Xalifalik va o‘lka iqtisodiyoti bo'limi bo'yicha 8 ta savol
+  {
+    question = "Arablar davrida qanday yangi ekinlar tarqalgan?",
+    answers = {
+      { text = "Sholi, paxta, anor, anjir", correct = true },
+      { text = "Faqat bug‘doy", correct = false },
+      { text = "Faqat makkajo‘xori", correct = false },
+      { text = "Faqat kartoshka", correct = false },
+    },
+  },
+  {
+    question = "Arablar davrida qog‘oz ishlab chiqarish qayerda boshlangan?",
+    answers = {
+      { text = "Samarqandda", correct = true },
+      { text = "Buxoroda", correct = false },
+      { text = "Xivada", correct = false },
+      { text = "Toshkentda", correct = false },
+    },
+  },
+  {
+    question = "Iqtisodiyotda qanday soliq turlari joriy etilgan?",
+    answers = {
+      { text = "Xiroj va jizya", correct = true },
+      { text = "Faqat boylik solig‘i", correct = false },
+      { text = "Faqat yo‘l solig‘i", correct = false },
+      { text = "Faqat harbiy soliq", correct = false },
+    },
+  },
+  {
+    question = "Arablar davrida savdo-sotiq qanday rivojlangan?",
+    answers = {
+      { text = "Ipak yo‘li orqali kengaygan", correct = true },
+      { text = "To‘xtab qolgan", correct = false },
+      { text = "Faqat ichki savdo bilan cheklangan", correct = false },
+      { text = "Faqat dengiz savdosi rivojlangan", correct = false },
+    },
+  },
+  {
+    question = "Qog‘oz ishlab chiqarish texnologiyasi qayerdan o‘zlashtirilgan?",
+    answers = {
+      { text = "Xitoydan", correct = true },
+      { text = "Hindistondan", correct = false },
+      { text = "Yevropadan", correct = false },
+      { text = "Erandan", correct = false },
+    },
+  },
+  {
+    question = "Arablar davrida qaysi shaharlar yirik savdo markaziga aylangan?",
+    answers = {
+      { text = "Samarqand va Buxoro", correct = true },
+      { text = "Faqat qishloqlar", correct = false },
+      { text = "Faqat port shaharlari", correct = false },
+      { text = "Faqat chegara shaharlari", correct = false },
+    },
+  },
+  {
+    question = "Xiroj solig‘i nima edi?",
+    answers = {
+      { text = "Yer solig‘i", correct = true },
+      { text = "Jon solig‘i", correct = false },
+      { text = "Savdo solig‘i", correct = false },
+      { text = "Hunarmandchilik solig‘i", correct = false },
+    },
+  },
+  {
+    question = "Arablar davrida pul tizimi qanday bo‘lgan?",
+    answers = {
+      { text = "Kumush dirham va oltin dinor", correct = true },
+      { text = "Faqat mis tangalar", correct = false },
+      { text = "Faqat qog‘oz pullar", correct = false },
+      { text = "Barter (tovar ayirboshlash) qilingan", correct = false },
+    },
+  },
+
+  -- 9-§. Ilm-fan va madaniyatning yuksalishi bo'limi bo'yicha 8 ta savol
+  {
+    question = "O‘rta Osiyoda VIII-IX asrlarda qanday madaniy jarayon boshlangan?",
+    answers = {
+      { text = "Sharq Uyg‘onish davri", correct = true },
+      { text = "Sanoat inqilobi", correct = false },
+      { text = "Madaniy tanazzul", correct = false },
+      { text = "Diniy fanatizm", correct = false },
+    },
+  },
+  {
+    question = "Buyuk olim Muhammad al-Xorazmiy nima bilan mashhur?",
+    answers = {
+      { text = "Algebra faniga asos solgan", correct = true },
+      { text = "Faqat she’riyat bilan", correct = false },
+      { text = "Faqat tibbiyot bilan", correct = false },
+      { text = "Faqat arxitektura bilan", correct = false },
+    },
+  },
+  {
+    question = "Al-Xorazmiyning asosiy asari qaysi?",
+    answers = {
+      { text = "Al-jabr va al-muqobala", correct = true },
+      { text = "Al-Qonun", correct = false },
+      { text = "Shohnomalar", correct = false },
+      { text = "Zichlar", correct = false },
+    },
+  },
+  {
+    question = "O‘sha davrda yirik kutubxonalar va ilmiy markazlar nima deb atalgan?",
+    answers = {
+      { text = "Bayt ul-hikma", correct = true },
+      { text = "Maktab", correct = false },
+      { text = "Madrasa", correct = false },
+      { text = "Xonaqoh", correct = false },
+    },
+  },
+  {
+    question = "Arab yozuvi qachon keng tarqaldi va ilmiy tili nima bo‘ldi?",
+    answers = {
+      { text = "VIII asr, arab tili", correct = true },
+      { text = "VI asr, sug‘d tili", correct = false },
+      { text = "X asr, turk tili", correct = false },
+      { text = "XI asr, fors tili", correct = false },
+    },
+  },
+  {
+    question = "Tarjimonlik ishi nima uchun muhim edi?",
+    answers = {
+      { text = "Qadimgi yunon va hind bilimlarini arabchaga o‘girish", correct = true },
+      { text = "Faqat dinni tarqatish", correct = false },
+      { text = "Faqat harbiy qonunlarni o‘rganish", correct = false },
+      { text = "Faqat savdo shartnomalarini yozish", correct = false },
+    },
+  },
+  {
+    question = "Ilmiy markazlar qaysi shaharlarda ko‘proq rivojlangan?",
+    answers = {
+      { text = "Bag‘dod, Buxoro, Samarqand", correct = true },
+      { text = "Faqat cho‘l hududlarida", correct = false },
+      { text = "Faqat tog‘li hududlarda", correct = false },
+      { text = "Faqat dengiz bo‘yida", correct = false },
+    },
+  },
+  {
+    question = "Bu davrda astronomiya faniga kim hissa qo‘shgan?",
+    answers = {
+      { text = "Al-Farg‘oniy", correct = true },
+      { text = "Muqanna", correct = false },
+      { text = "Qutayba ibn Muslim", correct = false },
+      { text = "Bumin xoqon", correct = false },
+    },
+  },
+
+  -- 10-§. IX-X asrlarda O‘rta Osiyo (Somoniylar davlati) bo'limi bo'yicha 8 ta savol
+  {
+    question = "Somoniylar davlati qachon tashkil topgan?",
+    answers = {
+      { text = "865-yilda", correct = true },
+      { text = "750-yilda", correct = false },
+      { text = "900-yilda", correct = false },
+      { text = "1000-yilda", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davlatining poytaxti qaysi shahar bo‘lgan?",
+    answers = {
+      { text = "Buxoro", correct = true },
+      { text = "Samarqand", correct = false },
+      { text = "Toshkent", correct = false },
+      { text = "Marv", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davlatining asoschisi kim?",
+    answers = {
+      { text = "Ismoil Somoniy", correct = true },
+      { text = "Nasr ibn Ahmad", correct = false },
+      { text = "Abu Ibrohim", correct = false },
+      { text = "Yaxyoi", correct = false },
+    },
+  },
+  {
+    question = "Ismoil Somoniy davrida davlat qanday holatda edi?",
+    answers = {
+      { text = "Markazlashgan va qudratli", correct = true },
+      { text = "Parokanda", correct = false },
+      { text = "Qulab tushgan", correct = false },
+      { text = "Xorijga bog‘liq", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davlatida qaysi din rasmiy maqomda edi?",
+    answers = {
+      { text = "Islom", correct = true },
+      { text = "Zardushtiylik", correct = false },
+      { text = "Budda", correct = false },
+      { text = "Xristianlik", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davri madaniyatda nima bilan mashhur?",
+    answers = {
+      { text = "Ilm-fan va adabiyotning yuksalishi", correct = true },
+      { text = "Faqat urushlar", correct = false },
+      { text = "Faqat qurilishlar", correct = false },
+      { text = "Faqat dehqonchilik", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davrida qaysi me’moriy yodgorlik bizgacha yetib kelgan?",
+    answers = {
+      { text = "Ismoil Somoniy maqbarasi", correct = true },
+      { text = "Panteon", correct = false },
+      { text = "Kolizey", correct = false },
+      { text = "Tuproqqal’a", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davlati qachon barham topgan?",
+    answers = {
+      { text = "999-yilda", correct = true },
+      { text = "950-yilda", correct = false },
+      { text = "1050-yilda", correct = false },
+      { text = "1100-yilda", correct = false },
+    },
+  },
+}
