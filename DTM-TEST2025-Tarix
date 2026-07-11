@@ -1,0 +1,137 @@
+questions = {
+  {
+    question = "Amir Temur davlatining poytaxti bo'lgan shaharni toping.",
+    answers = {
+      { text = "Samarqand", correct = true },
+      { text = "Buxoro", correct = false },
+      { text = "Kesh", correct = false },
+      { text = "Shosh", correct = false },
+    },
+  },
+  {
+    question = "XIV asrda Chig'atoy xonlaridan kim birinchi bo'lib o'z qarorgohini Movarounnahrga ko'chirgan?",
+    answers = {
+      { text = "Kebek", correct = true },
+      { text = "Munke", correct = false },
+      { text = "Tug'luq Temur", correct = false },
+      { text = "Abulxayrxon", correct = false },
+    },
+  },
+  {
+    question = "O'zbekiston hududidagi qaysi manzilgohda ilk shahar alomatlari ko'zga tashlanadi?",
+    answers = {
+      { text = "Jarqo'ton", correct = true },
+      { text = "Obishir", correct = false },
+      { text = "Selengur", correct = false },
+      { text = "Ko'lbuloq", correct = false },
+    },
+  },
+  {
+    question = "Rus podshosi Ivan IV bilan elchilik aloqalarini o'rnatgan Buxoro xonini toping.",
+    answers = {
+      { text = "Abdullaxon II", correct = true },
+      { text = "Ko'chkunchixon", correct = false },
+      { text = "Ubaydullaxon", correct = false },
+      { text = "Imomqulixon", correct = false },
+    },
+  },
+  {
+    question = "Toshkent shahri kim boshchiligidagi podsho Rossiyasi qo'shinlari tomonidan egallangan (1865-yil)?",
+    answers = {
+      { text = "M.Chernyayev", correct = true },
+      { text = "M.Skobelev", correct = false },
+      { text = "F.Romanovskiy", correct = false },
+      { text = "fon Kaufman", correct = false },
+    },
+  },
+  {
+    question = "Rossiya imperiyasi tarkibidagi Turkiston general-gubernatorligi nechanchi yilda tashkil etilgan?",
+    answers = {
+      { text = "1867-yilda", correct = true },
+      { text = "1875-yilda", correct = false },
+      { text = "1856-yilda", correct = false },
+      { text = "1881-yilda", correct = false },
+    },
+  },
+  {
+    question = "Sovetlar boshqaruvi davrida o'zbek xotin-qizlarini ozodlikka chiqarish jarayoni qanday nom ostida o'tkazilgan?",
+    answers = {
+      { text = "“Hujum” harakati", correct = true },
+      { text = "“Bosmachilik” harakati", correct = false },
+      { text = "“Ozodlik” harakati", correct = false },
+      { text = "“Kolxozchilar” harakati", correct = false },
+    },
+  },
+  {
+    question = "1993-yilda O'zbekiston qaysi xalqaro tashkilotga a'zo bo'lgan?",
+    answers = {
+      { text = "YuNESKO", correct = true },
+      { text = "ShHT", correct = false },
+      { text = "MDH", correct = false },
+      { text = "BMT", correct = false },
+    },
+  },
+  {
+    question = "O'zbekiston Respublikasida ijro etuvchi hokimiyat hisoblanadigan organni toping.",
+    answers = {
+      { text = "Vazirlar Mahkamasi", correct = true },
+      { text = "Oliy Majlis", correct = false },
+      { text = "Oliy Sud", correct = false },
+      { text = "Konstitutsiyaviy sud", correct = false },
+    },
+  },
+  {
+    question = "Qaysi daryo qadimda Yaksart deb atalgan?",
+    answers = {
+      { text = "Sirdaryo", correct = true },
+      { text = "Amudaryo", correct = false },
+      { text = "Zarafshon", correct = false },
+      { text = "Qashqadaryo", correct = false },
+    },
+  },
+  {
+    question = "XIX asrning o'rtalarida Toshkent shahrining nechta darvozasi bo'lgan?",
+    answers = {
+      { text = "12 ta", correct = true },
+      { text = "9 ta", correct = false },
+      { text = "6 ta", correct = false },
+      { text = "14 ta", correct = false },
+    },
+  },
+  {
+    question = "Ikkinchi jahon urushi yillarida O'zbekistonning qaysi shahrida metallurgiya zavodi bunyod etilgan?",
+    answers = {
+      { text = "Bekobod", correct = true },
+      { text = "Qo'qon", correct = false },
+      { text = "Buxoro", correct = false },
+      { text = "Navoiy", correct = false },
+    },
+  },
+  {
+    question = "VI-VII asrlarda O'rta Osiyo aholisining asosiy qismi qaysi dinga e'tiqod qilgan?",
+    answers = {
+      { text = "zardushtiylik", correct = true },
+      { text = "moniylik", correct = false },
+      { text = "nasroniylik", correct = false },
+      { text = "buddaviylik", correct = false },
+    },
+  },
+  {
+    question = "XIX asr boshida qaysi hukmdorning hukmronligi davrida Qo'qon adabiy muhiti shakllangan?",
+    answers = {
+      { text = "Umarxon", correct = true },
+      { text = "Sheralixon", correct = false },
+      { text = "Xudoyorxon", correct = false },
+      { text = "Erdonabiy", correct = false },
+    },
+  },
+  {
+    question = "Vazirlar Mahkamasining 1997-yildagi qarori bilan har ikki yilda bir marotaba qaysi shaharda “Sharq taronalari” xalqaro musiqa festivali o'tkazilib kelinmoqda?",
+    answers = {
+      { text = "Samarqand", correct = true },
+      { text = "Buxoro", correct = false },
+      { text = "Xiva", correct = false },
+      { text = "Qo'qon", correct = false },
+    },
+  },
+}
