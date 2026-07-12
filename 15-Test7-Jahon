@@ -1,0 +1,219 @@
+questions = {
+    {
+        question = "Jahon tarixida O‘rta asrlar davri qaysi voqea bilan boshlanadi?",
+        answers = {
+            {text = "Yunon-fors urushlari tugashi", correct = false},
+            {text = "Spartak qo‘zg‘oloni bostirilishi", correct = false},
+            {text = "G‘arbiy Rim imperiyasining qulashi", correct = true},
+            {text = "Rim Respublikasining tashkil topishi", correct = false},
+        }
+    },
+    {
+        question = "O‘rta asrlarda dastlab hujjat va kitoblarni asosan kimlar ko‘chirib yozgan?",
+        answers = {
+            {text = "Hunarmandlar", correct = false},
+            {text = "Xattotlar", correct = true},
+            {text = "Shoirlar", correct = false},
+            {text = "Savdogarlar", correct = false},
+        }
+    },
+    {
+        question = "7-sinf Jahon tarixi darsligida O‘rta asrlarning qaysi davri o‘rganiladi?",
+        answers = {
+            {text = "III–XV asrlar", correct = false},
+            {text = "IV–XVI asrlar", correct = false},
+            {text = "V–XVI asrlar", correct = true},
+            {text = "V–XIII asrlar", correct = false},
+        }
+    },
+    {
+        question = "German qabilalari asosan qaysi hududlarda yashagan?",
+        answers = {
+            {text = "Reyndan Elba daryosigacha va Yevropaning shimolida", correct = true},
+            {text = "Sena daryosidan Dunaygacha", correct = false},
+            {text = "Pireney yarimorolida", correct = false},
+            {text = "Bolqon yarimorolida", correct = false},
+        }
+    },
+    {
+        question = "Germanlarda mehnat unumdorligi va hosildorlikning oshishiga nima sabab bo‘lgan?",
+        answers = {
+            {text = "Aholining kamayishi", correct = false},
+            {text = "Temir plugdan foydalanish", correct = true},
+            {text = "Quldorlikning kuchayishi", correct = false},
+            {text = "Savdo yo‘llarining yopilishi", correct = false},
+        }
+    },
+    {
+        question = "Qadimgi germanlarning jangovar qurollari qatoriga qaysi javob kiradi?",
+        answers = {
+            {text = "Nayza, uzun qilich, jangovar bolta va qalqon", correct = true},
+            {text = "O‘q-yoy va miltiq", correct = false},
+            {text = "Zambarak va og‘ir qilichlar", correct = false},
+            {text = "Faqat toshdan yasalgan qurollar", correct = false},
+        }
+    },
+    {
+        question = "G‘arbiy Rim imperiyasiga hujum qilgan german qabilalari qatorini aniqlang.",
+        answers = {
+            {text = "Vandallar, vestgotlar, ostgotlar, angllar, sakslar, franklar", correct = true},
+            {text = "Skiflar, forslar, xunnlar, yunonlar", correct = false},
+            {text = "Langobardlar, misrliklar, britlar, rimliklar", correct = false},
+            {text = "Sarmatlar, keltlar, yunonlar, makedonlar", correct = false},
+        }
+    },
+    {
+        question = "Xalqlarning buyuk ko‘chishini tezlashtirgan ko‘chmanchi qabila qaysi edi?",
+        answers = {
+            {text = "Gotlar", correct = false},
+            {text = "Skiflar", correct = false},
+            {text = "Xunnlar", correct = true},
+            {text = "Langobardlar", correct = false},
+        }
+    },
+    {
+        question = "Germanlarda qabila boshliqlari qanday atalgan?",
+        answers = {
+            {text = "Graf", correct = false},
+            {text = "Konung", correct = true},
+            {text = "Konsul", correct = false},
+            {text = "Kansler", correct = false},
+        }
+    },
+    {
+        question = "Rim shahriga berilgan mashhur ta'rif qaysi?",
+        answers = {
+            {text = "Buyuk shahar", correct = false},
+            {text = "Fanlar onasi", correct = false},
+            {text = "Boqiy shahar", correct = true},
+            {text = "Oltin darvoza", correct = false},
+        }
+    },
+    {
+        question = "Ko‘chmanchi xunnlar Yevropaga qaysi tomondan kirib kelgan?",
+        answers = {
+            {text = "Janubdan", correct = false},
+            {text = "Sharqdan", correct = true},
+            {text = "Shimoldan", correct = false},
+            {text = "G‘arbdan", correct = false},
+        }
+    },
+    {
+        question = "Ilk varvar qirolligi — Vestgot qirolligi qachon tashkil topgan?",
+        answers = {
+            {text = "418-yilda", correct = true},
+            {text = "476-yilda", correct = false},
+            {text = "395-yilda", correct = false},
+            {text = "486-yilda", correct = false},
+        }
+    },
+    {
+        question = "Frank qabilalari dastlab qaysi hududda yashagan?",
+        answers = {
+            {text = "Luara daryosining janubida", correct = false},
+            {text = "Reyn daryosining quyi oqimida", correct = true},
+            {text = "Elba daryosining yuqori oqimida", correct = false},
+            {text = "Po daryosi vodiysida", correct = false},
+        }
+    },
+    {
+        question = "Franklarning Sena va Luara havzalariga yurishlari qaysi asr o‘rtalaridan kuchaygan?",
+        answers = {
+            {text = "IV asr", correct = false},
+            {text = "V asr", correct = true},
+            {text = "VI asr", correct = false},
+            {text = "VII asr", correct = false},
+        }
+    },
+    {
+        question = "Franklar davlatining asoschisi kim hisoblanadi?",
+        answers = {
+            {text = "Karl Martel", correct = false},
+            {text = "Pipin Pakana", correct = false},
+            {text = "Xlodvik", correct = true},
+            {text = "Buyuk Karl", correct = false},
+        }
+    },
+    {
+        question = "Xlodvik davrida viloyatlarni boshqarish kimlarga topshirilgan?",
+        answers = {
+            {text = "Yepiskoplarga", correct = false},
+            {text = "Graflarga", correct = true},
+            {text = "Gersoglarga", correct = false},
+            {text = "Sheriflarga", correct = false},
+        }
+    },
+    {
+        question = "Xlodvik Suasson yaqinida Rim qo‘shinlarini qaysi yilda mag‘lub etgan?",
+        answers = {
+            {text = "476-yilda", correct = false},
+            {text = "486-yilda", correct = true},
+            {text = "496-yilda", correct = false},
+            {text = "506-yilda", correct = false},
+        }
+    },
+    {
+        question = "Xlodvik Rim cherkovi tartiblari bo‘yicha xristian dinini qaysi yilda qabul qilgan?",
+        answers = {
+            {text = "486-yilda", correct = false},
+            {text = "496-yilda", correct = true},
+            {text = "500-yilda", correct = false},
+            {text = "506-yilda", correct = false},
+        }
+    },
+    {
+        question = "Franklar Galliyani istilo qilganida kimlarning yer-mulkiga tegmagan?",
+        answers = {
+            {text = "German zodagonlarining", correct = false},
+            {text = "Rim-gall zodagonlarining", correct = true},
+            {text = "Vizantiya amaldorlarining", correct = false},
+            {text = "Saks qabilalarining", correct = false},
+        }
+    },
+    {
+        question = "Franklar tuzgan davlat dastlab qanday nom bilan atalgan?",
+        answers = {
+            {text = "Sulola nomi bilan", correct = false},
+            {text = "Qabila nomi bilan", correct = true},
+            {text = "Hukmdor nomi bilan", correct = false},
+            {text = "Poytaxt nomi bilan", correct = false},
+        }
+    },
+    {
+        question = "O‘rta asr manbalarida Fransiya qanday nom bilan atalgan?",
+        answers = {
+            {text = "Fragiya", correct = false},
+            {text = "Farangiston", correct = true},
+            {text = "Fessaliya", correct = false},
+            {text = "Lotaringiya", correct = false},
+        }
+    },
+    {
+        question = "732-yilda bo‘lib o‘tgan Puate jangida frank qo‘shiniga kim boshchilik qilgan?",
+        answers = {
+            {text = "Xlodvik", correct = false},
+            {text = "Karl Martel", correct = true},
+            {text = "Pipin Pakana", correct = false},
+            {text = "Buyuk Karl", correct = false},
+        }
+    },
+    {
+        question = "Karl Martelga «Martel» laqabi nima sababdan berilgan?",
+        answers = {
+            {text = "Langobardlarni yenggani uchun", correct = false},
+            {text = "Arablar hujumini otliq qo‘shin bilan to‘xtatgani uchun", correct = true},
+            {text = "Rimni egallagani uchun", correct = false},
+            {text = "Imperator deb e'lon qilingani uchun", correct = false},
+        }
+    },
+    {
+        question = "Ilk o‘rta asrlarda harbiy xizmat evaziga vaqtincha berilgan yer qanday atalgan?",
+        answers = {
+            {text = "Suyurg‘ol", correct = false},
+            {text = "Iqto", correct = false},
+            {text = "Benefitsiy", correct = true},
+            {text = "Xolisa", correct = false},
+        }
+    }
+}
+
