@@ -1,0 +1,732 @@
+questions = {
+  -- 21-mavzu: G'arbiy Turk xoqonligi va mahalliy hokimliklar ijtimoiy hayoti bo'limi bo'yicha 16 ta savol
+  {
+    question = "580-yillarning oxiriga kelib, Turk xoqonligidagi o'zaro ichki nizolar va tashqi ta'sirlar natijasida xoqonlik nechanchi yilda rasman ikki qismga bo'linib ketdi?",
+    answers = {
+      { text = "590-yilda", correct = false },
+      { text = "603-yilda", correct = true },
+      { text = "615-yilda", correct = false },
+      { text = "630-yilda", correct = false },
+    },
+  },
+  {
+    question = "Movarounnahr, Xorazm, Yettisuv va Sharqiy Turkiston hududlarini o'z ichiga olgan G'arbiy Turk xoqonligining poytaxt shahri qaysi edi?",
+    answers = {
+      { text = "Samarqand", correct = false },
+      { text = "Suyob", correct = true },
+      { text = "Buxoro", correct = false },
+      { text = "Balx", correct = false },
+    },
+  },
+  {
+    question = "G'arbiy Turk xoqonligi qaysi nufuzli va adolatli xoqon davrida o'zining eng qudratli va yuksak rivojlanish bosqichiga ko'tarildi?",
+    answers = {
+      { text = "Bumin xoqon", correct = false },
+      { text = "Istami yabg'u", correct = false },
+      { text = "Tun yabg'u", correct = true },
+      { text = "Muqan xoqon", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligida markaziy hokimiyatga tobe bo'lgan mahalliy o'lkalarda soliq yig'ish va ularni nazorat qilish qanday unvondagi amaldorlarga topshirilgan?",
+    answers = {
+      { text = "Tudunlarga", correct = true },
+      { text = "Mobadlarga", correct = false },
+      { text = "Vazirlarga", correct = false },
+      { text = "Amirlarga", correct = false },
+    },
+  },
+  {
+    question = "Ilk o'rta asrlarda O'rta Osiyoda yetakchi qatlam hisoblangan, o'zining mustaqil katta yer-mulklariga ega bo'lgan erkin va zodagon mulkdorlar qanday atalgan?",
+    answers = {
+      { text = "Kadivarlar", correct = false },
+      { text = "Dehqonlar", correct = true },
+      { text = "Kashovarzlar", correct = false },
+      { text = "Budunlar", correct = false },
+    },
+  },
+  {
+    question = "Katta yer egalari bo'lmish dehqonlarga qaram bo'lsa-da, o'zining shaxsiy uy-joyi, hovlisi va ma'lum xo'jalik anjomlariga ega bo'lgan dehqonlar qatlami qanday nomlangan?",
+    answers = {
+      { text = "Chokarlar", correct = false },
+      { text = "Qullar", correct = false },
+      { text = "Kashovarzlar", correct = true },
+      { text = "Tudunlar", correct = false },
+    },
+  },
+  {
+    question = "Ilk o'rta asrlar jamiyatida yersiz, to'la qaram bo'lgan va asosan dehqonlarning yirik dalalarida yollanib ishlovchi kambag'al tabaqa nima deb yuritilgan?",
+    answers = {
+      { text = "Kadivarlar", correct = true },
+      { text = "Kashovarzlar", correct = false },
+      { text = "Ixshidlar", correct = false },
+      { text = "Toxariylar", correct = false },
+    },
+  },
+  {
+    question = "O'zining butun hayotini jang san'atiga bag'ishlagan, boy dehqon va hukmdorlarning shaxsiy, ishonchli va doimiy qurolli tansoqchilari kimlar edi?",
+    answers = {
+      { text = "Yabg'ular", correct = false },
+      { text = "Chokarlar", correct = true },
+      { text = "Afshinlar", correct = false },
+      { text = "Sipohiylar", correct = false },
+    },
+  },
+  {
+    question = "VI-VII asrlarda G'arbiy turk xoqonligiga tobe bo'lsa-da, katta muxtoriyatga ega bo'lgan Sug'd hokimlari qanday oliy unvon bilan ulug'langanlar?",
+    answers = {
+      { text = "Xorazmshoh", correct = false },
+      { text = "Xudot", correct = false },
+      { text = "Ixshid", correct = true },
+      { text = "Xoqon", correct = false },
+    },
+  },
+  {
+    question = "Ilk o'rta asrlarda Movarounnahrning Ustrushona (hozirgi Jizzax va Sirdaryo atrofi) viloyati hokimlari qanday maxsus unvon bilan yuritilgan?",
+    answers = {
+      { text = "Tudun", correct = false },
+      { text = "Afshin", correct = true },
+      { text = "Sho", correct = false },
+      { text = "Miri", correct = false },
+    },
+  },
+  {
+    question = "VI asrning ikkinchi yarmi - VII asrlarda Movarounnahr va unga qo'shni hududlardagi ko'chmanchi, asosan chorvachilik bilan shug'ullanuvchi turkiy xalq qatlamlari umumiy qilib qanday atalardi?",
+    answers = {
+      { text = "Budun (qorabudun)", correct = true },
+      { text = "Qoraxoniylar", correct = false },
+      { text = "Nayonlar", correct = false },
+      { text = "Ziroatkorlar", correct = false },
+    },
+  },
+  {
+    question = "G'arbiy Turk xoqonligi yettinchi asrning o'rtalarida o'zaro ichki nizolar va taxt talashishlari tufayli zaiflashib, qaysi yirik imperiyaning qaramligiga tushib qoldi?",
+    answers = {
+      { text = "Sosoniylar imperiyasi", correct = false },
+      { text = "Tan (Xitoy) imperiyasi", correct = true },
+      { text = "Arab xalifaligi", correct = false },
+      { text = "Vizantiya imperiyasi", correct = false },
+    },
+  },
+  {
+    question = "G'arbiy xoqonlik hududida Choch, Farg'ona, Xorazm, Sug'd kabi vohalarda ijtimoiy-iqtisodiy hayotning asosi nima hisoblangan?",
+    answers = {
+      { text = "Sun'iy sug'orishga asoslangan obikor dehqonchilik", correct = true },
+      { text = "Dengiz oziq-ovqat savdosi", correct = false },
+      { text = "Ko'chmanchi baliqchilik", correct = false },
+      { text = "Cho'l ovchilik xo'jaligi", correct = false },
+    },
+  },
+  {
+    question = "Ilk o'rta asrlarda Xorazm viloyatini qadimiy qaysi sulola vakillari boshqarib kelishgan va ular o'zlarini \"Xorazmshoh\" deb atashgan?",
+    answers = {
+      { text = "Afrig'iylar sulolasi", correct = true },
+      { text = "Somoniylar sulolasi", correct = false },
+      { text = "Buxoroxudotlar sulolasi", correct = false },
+      { text = "Qoraxoniylar sulolasi", correct = false },
+    },
+  },
+  {
+    question = "Turk xoqonligining yuqori harbiy amaldorlaridan biri bo'lgan hamda viloyat harbiy qo'shinlariga qo'mondonlik qilgan shaxslar qanday atalgan?",
+    answers = {
+      { text = "Shod", correct = true },
+      { text = "Dehqon", correct = false },
+      { text = "Tudun", correct = false },
+      { text = "Kadivar", correct = false },
+    },
+  },
+  {
+    question = "Chokarlar o'z xo'jayini bo'lgan dehqon yoki hokimlari vafot etganda qanday sadoqat va burch an'anasini bajarganlar deb taxmin qilinadi?",
+    answers = {
+      { text = "Yangi hokimni zudlik bilan o'ldirishgan", correct = false },
+      { text = "Xo'jayini qabrida o'zlarini fido qilib birga ko'milishgan yoxud sochlarini kesib qattiq aza tutishgan", correct = true },
+      { text = "Chet elga butunlay qochib ketishgan", correct = false },
+      { text = "Boshqa boy yollanma ish qidirishgan", correct = false },
+    },
+  },
+
+  -- 22-mavzu: O'rta Osiyoning ilk o'rta asrlar madaniyati bo'limi bo'yicha 16 ta savol
+  {
+    question = "Buyuk ipak yo'li orqali amalga oshiriladigan xalqaro savdo munosabatlarida VI-VIII asrlarda qaysi til xalqaro aloqa vositasi (lingua-franca) sifatida keng ishlatilgan?",
+    answers = {
+      { text = "Xitoy tili", correct = false },
+      { text = "Arab tili", correct = false },
+      { text = "Sug'd tili", correct = true },
+      { text = "Grek tili", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi turk-runik yozuvi, shuningdek Urxun-Yenisey yozuvi deb ham ataladigan yozuv turida xatlar qaysi yo'nalishda bitilgan va o'qilgan?",
+    answers = {
+      { text = "Chapdan o'ngga", correct = false },
+      { text = "Yuqoridan pastga", correct = false },
+      { text = "O'ngdan chapga", correct = true },
+      { text = "Pastdan yuqoriga", correct = false },
+    },
+  },
+  {
+    question = "Sirli bo'lib qolayotgan turk runik (Urxun-Yenisey) yozuvlarining sirini 1893-yilda birinchi marta ochishga (o'qishga) muvaffaq bo'lgan daniyalik olim kim?",
+    answers = {
+      { text = "Vasiliy Bartold", correct = false },
+      { text = "Vilgelm Radlov", correct = false },
+      { text = "Kamil Trever", correct = false },
+      { text = "Vilgelm Tomsen", correct = true },
+    },
+  },
+  {
+    question = "Samarqanddagi Afrosiyob xarobalaridan topilgan VII asrga oid mashhur devoriy suratlarda asosan qanday tarixiy manzara tasvirlangan?",
+    answers = {
+      { text = "Sug'd ixshidi Vahuman tomonidan turk, xitoy va chog'oniyon elchilarining qabul qilinish marosimi", correct = true },
+      { text = "Arablarning Samarqandga qilgan qonli hujumi", correct = false },
+      { text = "Buyuk ipak yo'lida ketayotgan savdo karvoni halokati", correct = false },
+      { text = "Zardushtiylik jamoasining olovga sig'inish marosimi", correct = false },
+    },
+  },
+  {
+    question = "Buxoro vohasidagi Buxoroxudotlar qarorgohi hisoblangan, devorlariga qoplon ustida o'tirib ov qilayotgan chavandozlar tasviri ishlangan qadimiy saroy qaysi edi?",
+    answers = {
+      { text = "Afrosiyob", correct = false },
+      { text = "Poykent", correct = false },
+      { text = "Varaxsha", correct = true },
+      { text = "Teshiktepa", correct = false },
+    },
+  },
+  {
+    question = "Surxondaryo viloyatida joylashgan, VI-VII asrlarga oid, zodaqonlar va ayollarning tantanali o'tirishlari tasvirlangan nodir me'moriy yodgorlik qanday ataladi?",
+    answers = {
+      { text = "Tuproqqal'a", correct = false },
+      { text = "Bolaliktepa", correct = true },
+      { text = "Mug' tog'i", correct = false },
+      { text = "Qizilqir", correct = false },
+    },
+  },
+  {
+    question = "Zardushtiylik e'tiqodiga ko'ra, vafot etganlarning suyaklari yovvoyi hayvonlar tozalagandan so'ng solib qo'yiladigan, maxsus bezatilgan sopol idishlar (qutichalar) nima deb yuritiladi?",
+    answers = {
+      { text = "Sarkofaglar", correct = false },
+      { text = "Nauslar", correct = false },
+      { text = "Ostodonlar (ossuariylar)", correct = true },
+      { text = "Zikkuratlar", correct = false },
+    },
+  },
+  {
+    question = "Zardushtiylar shahar va qishloqlarning chekkalarida maxsus barpo etgan, ichida ostodonlar (suyak qutilari) saqlanadigan maqbara-xilxonalar qanday nomlangan?",
+    answers = {
+      { text = "Daxmalar", correct = false },
+      { text = "Qo'rg'onlar", correct = false },
+      { text = "Otashkadalar", correct = false },
+      { text = "Nauslar", correct = true },
+    },
+  },
+  {
+    question = "VIII asrning boshlarida arablar bostirib kelgunga qadar butun O'rta Osiyoda asosan nechta asosiy xat (yozuv) turidan foydalanilgan?",
+    answers = {
+      { text = "Faqat bitta", correct = false },
+      { text = "Ikkita", correct = false },
+      { text = "To'rtta (Sug'd, Xorazm, Baqtriya, Turk-runik)", correct = true },
+      { text = "Oltita", correct = false },
+    },
+  },
+  {
+    question = "O'rta Osiyo o'lkasida ilk qog'oz ishlab chiqarish sanoati qachon va aynan qaysi yirik shaharda vujudga kelib, rivojlangan?",
+    answers = {
+      { text = "VI asrda Xivada", correct = false },
+      { text = "VII-VIII asrlarda Samarqandda", correct = true },
+      { text = "V asrda Termizda", correct = false },
+      { text = "IX asrda Buxoroda", correct = false },
+    },
+  },
+  {
+    question = "Zardushtiylarning eng muhim muqaddas an'analaridan biri nimadan iborat edi?",
+    answers = {
+      { text = "Barcha gunohlarni qon bilan yuvish", correct = false },
+      { text = "Suv, tuproq, havo va olovni muqaddas bilib, ularni pok saqlash", correct = true },
+      { text = "Har yili yangi ibodatxona qurish", correct = false },
+      { text = "O'liklarni daryoga oqizish", correct = false },
+    },
+  },
+  {
+    question = "Ilk o'rta asrlarda O'rta Osiyoda me'morchilik inshootlari (qal'a va ko'shklar) asosan qanday qurilish ashyosidan barpo etilgan?",
+    answers = {
+      { text = "Faqat pishgan g'isht va toshdan", correct = false },
+      { text = "Yog'och va marmardan", correct = false },
+      { text = "Paxsadevor, yirik xom g'isht va loydan", correct = true },
+      { text = "Sement va betondan", correct = false },
+    },
+  },
+  {
+    question = "Zarafshon vohasida topilgan qaysi arxeologik yodgorlikdan 720-yillarga oid bo'lgan ko'plab sug'd tilidagi qimmatli arxiv hujjatlari (maktublar) topilgan?",
+    answers = {
+      { text = "Afrosiyob xarobasidan", correct = false },
+      { text = "Mug' tog'i qal'asidan", correct = true },
+      { text = "Varaxsha saroyidan", correct = false },
+      { text = "Erqo'rg'on tepaligidan", correct = false },
+    },
+  },
+  {
+    question = "1894-yilda turk-runik yozuvidagi bitiklarning ilk mukammal tarjimasini va lug'atini chop etgan mashhur turkshunos olimni belgilang.",
+    answers = {
+      { text = "Vilgelm Radlov", correct = true },
+      { text = "Vilgelm Tomsen", correct = false },
+      { text = "S.P. Tolstov", correct = false },
+      { text = "A. Yu. Yakubovskiy", correct = false },
+    },
+  },
+  {
+    question = "Islom dini kirib kelishidan oldin Turon zamini xalqlarida qaysi din davlatning yagona yakka diniy ta'limoti darajasiga ko'tarilmagan edi, ya'ni xalq ko'pxudolikda (politeizm) edi?",
+    answers = {
+      { text = "Buddaviylik", correct = false },
+      { text = "Zardushtiylik, buddaviylik, moniylik kabi dinlar yonma-yon yashab kelgan", correct = true },
+      { text = "Xristianlik", correct = false },
+      { text = "Shomonlik", correct = false },
+    },
+  },
+  {
+    question = "Qadimgi Farg'ona vohasida (Quva va Ajinatepa) topilgan haykaltaroshlik namunalari asosan qaysi dinga oid yodgorliklar hisoblanadi?",
+    answers = {
+      { text = "Moniylikka", correct = false },
+      { text = "Islomga", correct = false },
+      { text = "Zardushtiylikka", correct = false },
+      { text = "Buddaviylikka", correct = true },
+    },
+  },
+
+  -- 23-mavzu: Arablarning O'rta Osiyoni istilo qilishi bo'limi bo'yicha 16 ta savol
+  {
+    question = "Islom dini va unga asoslangan Arab xalifaligi davlati dastlab qachon va qayerda yuzaga kelgan?",
+    answers = {
+      { text = "VI asr boshida Iroqda", correct = false },
+      { text = "VII asr boshlarida (632-yildan xalifalik) Arabiston yarimorolida", correct = true },
+      { text = "VIII asrda Eronda", correct = false },
+      { text = "VII asr o'rtalarida Misrda", correct = false },
+    },
+  },
+  {
+    question = "Arablarning O'rta Osiyo, xususan Movarounnahr hududiga Amudaryoni kechib o'tib qilgan dastlabki yurishlari qachon va kim boshchiligida ro'y bergan?",
+    answers = {
+      { text = "651-yilda Abu Muslim boshchiligida", correct = false },
+      { text = "673-yilda Ubaydulla ibn Ziyod boshchiligida", correct = true },
+      { text = "704-yilda Qutayba ibn Muslim boshchiligida", correct = false },
+      { text = "712-yilda Tariq ibn Ziyod boshchiligida", correct = false },
+    },
+  },
+  {
+    question = "Xalifa Volid I buyrug'i bilan Qutayba ibn Muslim Xurosonga qachon noib (amir) etib tayinlandi?",
+    answers = {
+      { text = "690-yilda", correct = false },
+      { text = "704-yilda", correct = true },
+      { text = "712-yilda", correct = false },
+      { text = "715-yilda", correct = false },
+    },
+  },
+  {
+    question = "Qutayba ibn Muslimning Movarounnahrni uzil-kesil va qonli bosib olish yurishlari qaysi yillar davomida amalga oshirildi?",
+    answers = {
+      { text = "700-710 yillar", correct = false },
+      { text = "673-680 yillar", correct = false },
+      { text = "705-715 yillar", correct = true },
+      { text = "715-725 yillar", correct = false },
+    },
+  },
+  {
+    question = "O'zining boyligi va ulkan savdo markazi sifatidagi nufuzi tufayli arablarga katta to'lov to'lab hujumdan saqlanib qolgan Buxoro yaqinidagi shahar qaysi edi (706-yilda)?",
+    answers = {
+      { text = "Poykent", correct = true },
+      { text = "Varaxsha", correct = false },
+      { text = "Tarikent", correct = false },
+      { text = "Kesh", correct = false },
+    },
+  },
+  {
+    question = "Arablarning kuchli qarshiliklarga qaramay 709-yilda uzil-kesil bosib olib, \"Qubbat ul-islom\" deb e'lon qilgan O'rta Osiyodagi yirik shahar qaysi edi?",
+    answers = {
+      { text = "Samarqand", correct = false },
+      { text = "Buxoro", correct = true },
+      { text = "Xiva", correct = false },
+      { text = "Termiz", correct = false },
+    },
+  },
+  {
+    question = "712-yilda Qutayba ichki taxt talashishlari va xukmdorning akasi isyonidan ustamonlik bilan foydalanib qaysi o'lkani qon to'kmasdan bosib oladi?",
+    answers = {
+      { text = "Farg'onani", correct = false },
+      { text = "Chochni", correct = false },
+      { text = "Xorazmni", correct = true },
+      { text = "Toxaristonni", correct = false },
+    },
+  },
+  {
+    question = "Qutayba qo'shinlari Samarqandni mudofaa qilayotgan qaysi jasur Sug'd hokimini taslim bo'lishga va sulh tuzishga majbur qildi (712-yil)?",
+    answers = {
+      { text = "Divashtichni", correct = false },
+      { text = "Tarxunni", correct = false },
+      { text = "G'urakni", correct = true },
+      { text = "Vahumanni", correct = false },
+    },
+  },
+  {
+    question = "Samarqand jangi sulh bilan yakunlangach, shahar hokimi G'urak arablar talabi bilan o'z poytaxtini qayerga ko'chirishga majbur bo'ladi?",
+    answers = {
+      { text = "Poykentga", correct = false },
+      { text = "Ishtixonga", correct = true },
+      { text = "Nurotaga", correct = false },
+      { text = "Shahrisabzga", correct = false },
+    },
+  },
+  {
+    question = "Musulmon bo'lmagan, arab bo'lmagan mahalliy aholidan undiriladigan o'ziga xos jon solig'i islom huquqida qanday yuritilgan?",
+    answers = {
+      { text = "Xaroj", correct = false },
+      { text = "Zakot", correct = false },
+      { text = "Jizya", correct = true },
+      { text = "Ushr", correct = false },
+    },
+  },
+  {
+    question = "Qutayba ibn Muslim aholini tezroq va kengroq islom diniga kiritish uchun qanday iqtisodiy hiylani qo'llagan?",
+    answers = {
+      { text = "Jome masjidiga namozga kelgan har bir kishiga ikki dirhamdan pul tarqatgan", correct = true },
+      { text = "Dinni qabul qilganlarga tekin yer ulashgan", correct = false },
+      { text = "Ismoilni qabul qilganlarni boy amaldor qilib tayinlagan", correct = false },
+      { text = "Barcha soliqlarni umrbod bekor qilgan", correct = false },
+    },
+  },
+  {
+    question = "Qutayba ibn Muslim qayerda barpo etilgan muhtasham zardushtiy otashkadasi (ibodatxonasi) o'rniga Buxorodagi ilk jome masjidini qurdirgan?",
+    answers = {
+      { text = "Ark qo'rg'onida", correct = false },
+      { text = "Keshkovon (yoki bozor) hududidagi otashkada o'rnida", correct = true },
+      { text = "Poykent darvozasida", correct = false },
+      { text = "Somoniylar maqbarasi oldida", correct = false },
+    },
+  },
+  {
+    question = "Qutayba boshchiligidagi arab qo'shinlari 713-714 yillarda O'rta Osiyoning yana qaysi viloyatlariga bosqinchilik yurishlarini amalga oshirdilar?",
+    answers = {
+      { text = "Xuroson va Seyistonga", correct = false },
+      { text = "Choch va Farg'ona vodiysiga", correct = true },
+      { text = "Sharqiy Turkiston va Xitoyga", correct = false },
+      { text = "Hindiston shimoliga", correct = false },
+    },
+  },
+  {
+    question = "Qattiq va zolim siyosati tufayli nafaqat mahalliy aholining, balki o'z qo'shinlarining ham nafratiga uchragan Qutayba ibn Muslim qachon va qayerda o'z jangchilari tomonidan o'ldirildi?",
+    answers = {
+      { text = "715-yilda Farg'ona vodiysida", correct = true },
+      { text = "712-yilda Samarqandda", correct = false },
+      { text = "709-yilda Buxoroda", correct = false },
+      { text = "720-yilda Marvda", correct = false },
+    },
+  },
+  {
+    question = "Movarounnahr arablarga qarshi kurashda tez yengilishining asosiy sabablaridan biri nima edi?",
+    answers = {
+      { text = "Xitoyning arablarga yordam berishi", correct = false },
+      { text = "Yagona, markazlashgan kuchli davlatning yo'qligi va o'zaro toj-taxt kurashlari", correct = true },
+      { text = "O'rta Osiyo aholisida qurolning umuman yo'qligi", correct = false },
+      { text = "Aholining o'z ixtiyori bilan arablarni taklif qilgani", correct = false },
+    },
+  },
+  {
+    question = "Samarqandliklarning arablarga ko'rsatgan qattiq qarshiligini yengish uchun Qutayba o'z qo'shinlarida qanday harbiy texnikadan faol foydalangan?",
+    answers = {
+      { text = "Fil va tuya kavaleryasidan", correct = false },
+      { text = "Tosh otuvchi manjaniq (katapulta) qurilmalaridan", correct = true },
+      { text = "Olov puflaydigan kemalardan", correct = false },
+      { text = "Qamal zambaraklaridan", correct = false },
+    },
+  },
+
+  -- 24-mavzu: Arab istilosiga qarshi xalq ozodlik harakatlari bo'limi bo'yicha 16 ta savol
+  {
+    question = "720-722 yillarda butun Sug'd vohasini qamrab olgan va arab hukmronligiga qarshi qaratilgan ozodlik harakatiga kim rahbarlik qilgan?",
+    answers = {
+      { text = "Divashtich", correct = true },
+      { text = "G'urak", correct = false },
+      { text = "Muqanna", correct = false },
+      { text = "Abu Muslim", correct = false },
+    },
+  },
+  {
+    question = "Divashtich boshchiligidagi isyonchilar arablarning katta qo'shiniga qarshi qaysi daryo bo'yidagi qattiq jangga kirishadilar?",
+    answers = {
+      { text = "Sirdaryo", correct = false },
+      { text = "Zarafshon daryosi hududi", correct = true },
+      { text = "Amudaryo", correct = false },
+      { text = "Qashqadaryo", correct = false },
+    },
+  },
+  {
+    question = "Arablar siquvi ostida Divashtich o'zining sodiq tarafdorlari va oilasi bilan tog'li qaysi qal'aga chekinishga majbur bo'ladi?",
+    answers = {
+      { text = "Som qal'asiga", correct = false },
+      { text = "Mug' tog'idagi qal'aga", correct = true },
+      { text = "Nur qal'asiga", correct = false },
+      { text = "Ark qo'rg'oniga", correct = false },
+    },
+  },
+  {
+    question = "Divashtich qo'zg'olonining eng fojiali va so'nggi mudofaasi Tojikiston hududidagi qaysi qal'ada bo'lib o'tdi?",
+    answers = {
+      { text = "Sanam", correct = false },
+      { text = "Hisor", correct = false },
+      { text = "Qum qal'asida (Abg'arda)", correct = true },
+      { text = "Hulbuk", correct = false },
+    },
+  },
+  {
+    question = "Mug' tog'ida xiyonat qurboni bo'lib asir olingan jasur rahbar Divashtich arablar tomonidan qayerda shafqatsizlarcha qatl etiladi?",
+    answers = {
+      { text = "Zarbdor yoki Rabinjon hududida (yozma manbalarga ko'ra Samarqand va Buxoro yo'lidagi Rabinjonda)", correct = true },
+      { text = "Bag'dod shahrida", correct = false },
+      { text = "Marvning bosh maydonida", correct = false },
+      { text = "Keshdagi otashkada qoshida", correct = false },
+    },
+  },
+  {
+    question = "VIII asrning o'rtalarida (747-yilda) Xurosonda Umaviylar xalifaligining zulmiga qarshi boshlangan ulkan harakat kimning nomi bilan bog'liq?",
+    answers = {
+      { text = "Muqanna", correct = false },
+      { text = "Abu Muslim", correct = true },
+      { text = "Spitamen", correct = false },
+      { text = "Tug'shoda", correct = false },
+    },
+  },
+  {
+    question = "Abu Muslim qo'zg'olonida qatnashgan xalq ommasi, dehqonlar, hunarmandlar asosan qaysi maqsadda birlashgan edilar?",
+    answers = {
+      { text = "Yangi din ixtiro qilish uchun", correct = false },
+      { text = "Umaviylar xalifaligini yiqitib, zulmni tugatish maqsadida", correct = true },
+      { text = "Xitoy imperiyasiga tobe bo'lish uchun", correct = false },
+      { text = "O'zaro yerlarni taqsimlash uchun faqat", correct = false },
+    },
+  },
+  {
+    question = "Abu Muslim boshchiligidagi Xuroson xalqining kuchi bilan 750-yilda Arab xalifaligi taxtiga qaysi yangi sulola o'tirdi?",
+    answers = {
+      { text = "Fotimiylar sulolasi", correct = false },
+      { text = "Abbosiylar sulolasi", correct = true },
+      { text = "Umaviylar sulolasi (qayta)", correct = false },
+      { text = "Saljuqiylar sulolasi", correct = false },
+    },
+  },
+  {
+    question = "Taxtga o'tirgan Abbosiy xalifalar Abu Muslimning xalq orasida ortib borayotgan obro'yidan xavfsirab, qachon va qanday yo'l bilan undan qutuldilar?",
+    answers = {
+      { text = "755-yilda xalifa Mansur uni xoinlarcha saroyga chaqirib qatl qildirdi", correct = true },
+      { text = "760-yilda ochiq jangda yengib o'ldirdilar", correct = false },
+      { text = "747-yilda surgun qildilar", correct = false },
+      { text = "751-yilda uni yashirincha zaharib o'ldirdilar", correct = false },
+    },
+  },
+  {
+    question = "751-yilning iyul oyida arab qo'shinlari va Xitoyning Tan imperiyasi o'rtasida bo'lib o'tgan tarixiy shiddatli jang qaysi daryo bo'yida kechgan?",
+    answers = {
+      { text = "Talas (Taroz yaqinida) daryosi bo'yida", correct = true },
+      { text = "Sirdaryo bo'yida", correct = false },
+      { text = "Zarafshon bo'yida", correct = false },
+      { text = "Ili daryosi bo'yida", correct = false },
+    },
+  },
+  {
+    question = "Talas jangida arablar qo'shiniga qo'shilib Xitoyga qarshi jang qilgan qarluq turklari arablarga qanday foyda keltirdi?",
+    answers = {
+      { text = "Arablar orqa tomonidan Xitoyga zarba berib g'alabani ta'minlashdi", correct = true },
+      { text = "Arablarga qarshi kurashib, xitoyliklarga yordam berishdi", correct = false },
+      { text = "Jangda neytral turib, o'z yurtiga chekinishdi", correct = false },
+      { text = "Jang boshlanmasdan sulh tuzishdi", correct = false },
+    },
+  },
+  {
+    question = "Talas jangining jahon tarixidagi eng ahamiyatli strategik oqibati nimada bo'ldi?",
+    answers = {
+      { text = "Xitoy qo'shinlari Movarounnahr va Yettisuvdan siqib chiqarildi, arablar hukmronligi uzil-kesil tasdiqlandi", correct = true },
+      { text = "Arablar to'liq mag'lub bo'lib, Islom Movarounnahrdan chekindi", correct = false },
+      { text = "Xitoy va Arab xalifaligi Movarounnahrni teng ikkiga bo'lib olishdi", correct = false },
+      { text = "Turk xoqonligi qaytadan to'liq tiklandi", correct = false },
+    },
+  },
+  {
+    question = "Tarixiy manbalarda Abu Muslim qanday lavozim va unvon bilan Xurosonni boshqargani aytiladi?",
+    answers = {
+      { text = "Xalifa sifatida", correct = false },
+      { text = "Amir ul-mo'minin", correct = false },
+      { text = "Xuroson va Movarounnahr amiri (noibi) sifatida", correct = true },
+      { text = "Ixshid sifatida", correct = false },
+    },
+  },
+  {
+    question = "Divashtich isyoni vaqtida arablar tomoniga o'tgan, lekin aslida ikkilanuvchi siyosat yuritgan Samarqand ixshidi kim edi?",
+    answers = {
+      { text = "G'urak", correct = true },
+      { text = "Tug'shoda", correct = false },
+      { text = "Vahuman", correct = false },
+      { text = "Tarxun", correct = false },
+    },
+  },
+  {
+    question = "Talas jangi davrida asirga tushgan xitoyliklardan arablar qaysi muhim ixtironi o'rganib olishgan deb hisoblanadi?",
+    answers = {
+      { text = "Qog'oz tayyorlash texnologiyasini (Samarqand qog'ozi)", correct = true },
+      { text = "Porox yasash sirini", correct = false },
+      { text = "Shishasozlik san'atini", correct = false },
+      { text = "Kompas ishlatishni", correct = false },
+    },
+  },
+  {
+    question = "Abu Muslim harakatida ishtirok etgan isyonchilarning ko'pchiligi kiyimida qaysi rangni afzal bilib, Abbosiylar oilasi tarafdori ekanliklarini namoyish qilganlar?",
+    answers = {
+      { text = "Oq rangni", correct = false },
+      { text = "Qora rangni", correct = true },
+      { text = "Yashil rangni", correct = false },
+      { text = "Qizil rangni", correct = false },
+    },
+  },
+
+  -- 25-mavzu: Arab xalifaligi davrida O'rta Osiyoda ijtimoiy-iqtisodiy va madaniy hayot bo'limi bo'yicha 16 ta savol
+  {
+    question = "O'rta Osiyo tarixida VIII asrning uchinchi choragida (776-783 yillarda) arablarga qarshi ko'tarilgan eng yirik va qonli xalq ozodlik harakati qanday ataladi?",
+    answers = {
+      { text = "Oq kiyimlilar qo'zg'oloni", correct = true },
+      { text = "Sarbadarlar qo'zg'oloni", correct = false },
+      { text = "Maxmud Torobiy qo'zg'oloni", correct = false },
+      { text = "Jaloliddin Manguberdi harakati", correct = false },
+    },
+  },
+  {
+    question = "Oq kiyimlilar harakatining tashkilotchisi va rahnamosi bo'lgan, aslan gassar (kiyim yuvuvchi) oilasidan chiqqan shaxsning asl ismi kim edi?",
+    answers = {
+      { text = "Abu Muslim", correct = false },
+      { text = "Hoshim ibn Hakim", correct = true },
+      { text = "Ziyod ibn Solih", correct = false },
+      { text = "Yahyo ibn Asad", correct = false },
+    },
+  },
+  {
+    question = "Nima sababdan xalq Hoshim ibn Hakimni o'z tilida \"Muqanna\" laqabi bilan atashgan?",
+    answers = {
+      { text = "U o'zini payg'ambar deb e'lon qilgani uchun", correct = false },
+      { text = "U doimo yuziga ko'k/yashil ipak parda (niqob) tortib yurgani uchun", correct = true },
+      { text = "U xalifaning qarindoshi bo'lgani uchun", correct = false },
+      { text = "Kiyimlari qora rangda bo'lgani uchun", correct = false },
+    },
+  },
+  {
+    question = "Muqanna boshchiligidagi isyonchilar arablarning, ya'ni Abbosiylarning qora liboslariga ziddiyat ramzi sifatida va poklik ifodasi deb asosan qaysi rangdagi libos kiyishgan?",
+    answers = {
+      { text = "Qizil", correct = false },
+      { text = "Oq", correct = true },
+      { text = "Sariq", correct = false },
+      { text = "Ko'k", correct = false },
+    },
+  },
+  {
+    question = "Oq kiyimlilarning arablarga qarshi eng asosiy va kuchli tayanch markazi (harbiy qarorgohi) Qashqadaryo vohasidagi qaysi tog' qal'asi edi?",
+    answers = {
+      { text = "Som (Sanam) tog'idagi qal'a", correct = true },
+      { text = "Mug' tog'idagi qal'a", correct = false },
+      { text = "Qum qal'asi", correct = false },
+      { text = "Termiz arkasi", correct = false },
+    },
+  },
+  {
+    question = "Xalifalik davrida asosan dehqon va kashovarzlar kabi yer egalaridan ularning hosiliga va yerining xususiyatiga qarab undiriladigan asosiy yer solig'i qanday atalgan?",
+    answers = {
+      { text = "Xaroj", correct = true },
+      { text = "Ushr", correct = false },
+      { text = "Jizya", correct = false },
+      { text = "Zakot", correct = false },
+    },
+  },
+  {
+    question = "Islom dinini qabul qilmagan, g'ayridin voyaga yetgan erkak aholidan undiriladigan o'ziga xos jon solig'i nima deb atalgan?",
+    answers = {
+      { text = "Xaroj", correct = false },
+      { text = "Jizya", correct = true },
+      { text = "Boj", correct = false },
+      { text = "Ushr", correct = false },
+    },
+  },
+  {
+    question = "Faqat musulmon aholidan (chorvadorlardan va yerdan) olinadigan, odatda mulk yoki hosilning o'ndan bir qismiga teng bo'lgan soliq qanday atalardi?",
+    answers = {
+      { text = "Boj solig'i", correct = false },
+      { text = "Jizya", correct = false },
+      { text = "Xaroj", correct = false },
+      { text = "Ushr", correct = true },
+    },
+  },
+  {
+    question = "Muqanna arablarga qarshi isyonga nafaqat dehqonlarni, balki ko'chmanchi qaysi turkiy qabilalarni ham faol jalb eta olgan?",
+    answers = {
+      { text = "Xioniylarni", correct = false },
+      { text = "Qarluq va o'g'uz turklarini", correct = true },
+      { text = "Pecheneglarni", correct = false },
+      { text = "Qipchoqlarni", correct = false },
+    },
+  },
+  {
+    question = "Muqanna g'oyaviy jihatdan qaysi qadimgi ta'limot tarafdori, xususan mol-mulk tengligi va adolatni targ'ib qiluvchi g'oyalarni ko'tarib chiqqan?",
+    answers = {
+      { text = "Abu Muslim va Mazdak ta'limotining davomchisi sifatida", correct = true },
+      { text = "Nasroniylik ta'limoti qoidalarini", correct = false },
+      { text = "Umaviylar mafkurasini", correct = false },
+      { text = "Moniylikning tarkidunyochilik g'oyalarini", correct = false },
+    },
+  },
+  {
+    question = "Xalifa Mahdiy qaysi mashhur arab sarkardasini ulkan va yaxshi qurollangan qo'shin bilan Oq kiyimlilar qo'zg'olonini bostirish uchun Movarounnahrga yuborgan?",
+    answers = {
+      { text = "Qutayba ibn Muslimni", correct = false },
+      { text = "Musayyib ibn Zuhayr va Said al-Haroshiyni", correct = true },
+      { text = "Ubaydulla ibn Ziyodni", correct = false },
+      { text = "Ziyod ibn Solihni", correct = false },
+    },
+  },
+  {
+    question = "Arab qo'shinlari uzoq qamal qilgan Sanam (Som) qal'asi yengilgach, asir tushib dushman qo'lida xorlanmaslik uchun Muqanna qanday qarorga keldi?",
+    answers = {
+      { text = "Kechasi xufyona qochib Hindistonga ketadi", correct = false },
+      { text = "O'zini va boyliklarini alangalanib turgan tandirga (olovga) tashlab halok bo'ladi", correct = true },
+      { text = "O'zini daryoga tashlab cho'kib ketadi", correct = false },
+      { text = "Taslim bo'lib tavba qiladi", correct = false },
+    },
+  },
+  {
+    question = "Arablar istilosi O'rta Osiyo xalqlari hayotida, xususan qishloq xo'jaligi va hunarmandchilik sohalarida qanday keskin iqtisodiy oqibatlarga olib keldi?",
+    answers = {
+      { text = "Juda ko'plab inshootlar, bog'lar va ekinzorlar vayron bo'ldi, soliqlarning og'irligidan iqtisodiy tushkunlik yuzaga keldi", correct = true },
+      { text = "Iqtisodiy soha bir kunda misli ko'rilmagan darajada o'sib ketdi", correct = false },
+      { text = "Barcha fuqarolar xalifalikning davlat hisobidan boqila boshlandi", correct = false },
+      { text = "Chorvachilik butunlay taqiqlanib faqat dehqonchilikka o'tildi", correct = false },
+    },
+  },
+  {
+    question = "Arablar davrida aholi nafaqat soliqlardan, balki mahalliy arab amirlari tomonidan tez-tez joriy qilinadigan qanday noqonuniy ishlardan qattiq aziyat chekar edilar?",
+    answers = {
+      { text = "Barcha bayramlarning taqiqlanishidan", correct = false },
+      { text = "Hasharlar, qasrdan tashqarida bepul xizmat qildirish va ko'plab asossiz favqulodda yig'imlardan", correct = true },
+      { text = "Bozorlarda savdo qilishning man etilishidan", correct = false },
+      { text = "Erkaklarning majburiy Arabistonga ko'chirilishidan", correct = false },
+    },
+  },
+  {
+    question = "Arablar tomonidan O'rta Osiyoga olib kelingan eng katta va uzoq asrlik tarixiy ahamiyatga ega ma'naviy o'zgarish nima edi?",
+    answers = {
+      { text = "Tanga pullarning butunlay bekor qilinishi", correct = false },
+      { text = "Movarounnahr va Xurosonda Islom dinining keng yoyilishi va arab yozuvining joriy etilishi", correct = true },
+      { text = "Ipak to'qish san'atining yo'qotilishi", correct = false },
+      { text = "Buddaviylikning yagona rasmiy dinga aylanishi", correct = false },
+    },
+  },
+  {
+    question = "Muqanna va uning izdoshlariga qarshi jangga otlangan arablarning katta qo'shinida arab askarlaridan tashqari asosan kimlar bor edi?",
+    answers = {
+      { text = "Makkadan kelgan ruhoniylar", correct = false },
+      { text = "Unga xiyonat qilgan yoki aldangan mahalliy dehqonlarning qurolli chokarlari", correct = true },
+      { text = "Faqatgina Xitoy elchilari", correct = false },
+      { text = "Vizantiya imperiyasining yollanma suvoriylari", correct = false },
+    },
+  },
+}
+
