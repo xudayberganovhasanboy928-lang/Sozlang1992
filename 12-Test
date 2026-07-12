@@ -1,0 +1,746 @@
+-- O'zbekiston tarixi, 7-sinf darsligi (2022-yil)
+-- 46, 47, 48, 49, 50-mavzular bo'yicha savollar (sanalar va shaxslarga boy)
+-- Har bir mavzudan 16 tadan, jami 80 ta savol
+
+questions = {
+
+  -- ==========================================================
+  -- 46-mavzu. IX-XII asrlarda ilm-fan va madaniyatning yuksalishi bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Turon hududi jahon madaniyatining nimasi hisoblangan?",
+    answers = {
+      { text = "Chekka o'lkasi", correct = false },
+      { text = "Ko'hna o'choqlaridan biri", correct = true },
+      { text = "Yangi markazi", correct = false },
+      { text = "Vaqtinchalik bosqichi", correct = false },
+    },
+  },
+  {
+    question = "Ilk islom davridagi mavjud siyosiy va iqtisodiy muhit ilm-fan taraqqiyotiga qanday ta'sir ko'rsatgan?",
+    answers = {
+      { text = "Salbiy ta'sir ko'rsatgan", correct = false },
+      { text = "Ijobiy ta'sir ko'rsatgan", correct = true },
+      { text = "Hech qanday ta'sir ko'rsatmagan", correct = false },
+      { text = "Faqat harbiy sohaga ta'sir ko'rsatgan", correct = false },
+    },
+  },
+  {
+    question = "Ziyoratgohlarni ziyorat qiluvchilar ko'pligi sababli nima bino etila boshlagan?",
+    answers = {
+      { text = "Karvonsaroylar", correct = false },
+      { text = "Maxsus hujralar", correct = true },
+      { text = "Bozorlar", correct = false },
+      { text = "Hammomlar", correct = false },
+    },
+  },
+  {
+    question = "Masjid binolari yonida yana qanday inshootlar qurilgan?",
+    answers = {
+      { text = "Faqat bozorlar", correct = false },
+      { text = "Hashamatli minora, honaqoh va maqbaralar", correct = true },
+      { text = "Faqat qal'alar", correct = false },
+      { text = "Faqat hammomlar", correct = false },
+    },
+  },
+  {
+    question = "Naqshinkor g'isht terish san'ati qaysi asrlarda ayniqsa rivojlangan?",
+    answers = {
+      { text = "VIII-IX asrlarda", correct = false },
+      { text = "XI-XII asrlarda", correct = true },
+      { text = "XIII-XIV asrlarda", correct = false },
+      { text = "VI-VII asrlarda", correct = false },
+    },
+  },
+  {
+    question = "Har bir shahar va viloyatda o'ziga xos me'moriy uslublarning rivojlanishi qaysi fanlarning rivojlanganligidan dalolat beradi?",
+    answers = {
+      { text = "Tarix va falsafa fanlaridan", correct = false },
+      { text = "Algebra va geometriya fanlaridan", correct = true },
+      { text = "Tibbiyot va farmakologiya fanlaridan", correct = false },
+      { text = "Adabiyot va tilshunoslik fanlaridan", correct = false },
+    },
+  },
+  {
+    question = "Saljuqiylar xonadoniga mansub oliy hukmdor, shahzoda yoki malika nimani o'z vazifasi deb bilgan?",
+    answers = {
+      { text = "Harbiy yurishlar uyushtirishni", correct = false },
+      { text = "Biror shaharda bir yoki bir nechta madrasa qurishni", correct = true },
+      { text = "Faqat saroy qurishni", correct = false },
+      { text = "Faqat qal'a mustahkamlashni", correct = false },
+    },
+  },
+  {
+    question = "Ilm toliblariga qanday moddiy yordam ko'rsatilgan?",
+    answers = {
+      { text = "Faqat kitob berilgan", correct = false },
+      { text = "Oylik nafaqa berilgan va joy bilan ta'minlangan", correct = true },
+      { text = "Faqat oziq-ovqat berilgan", correct = false },
+      { text = "Hech qanday yordam berilmagan", correct = false },
+    },
+  },
+  {
+    question = "Har bir madrasa qoshida odatda nima bo'lgan?",
+    answers = {
+      { text = "Bozor", correct = false },
+      { text = "Kutubxona", correct = true },
+      { text = "Qal'a", correct = false },
+      { text = "Hammom", correct = false },
+    },
+  },
+  {
+    question = "Nishopurda asos solingan madrasaga qoshida qanday muassasa biriktirilgan?",
+    answers = {
+      { text = "Shifoxona", correct = true },
+      { text = "Karvonsaroy", correct = false },
+      { text = "Rasadxona", correct = false },
+      { text = "Bozor", correct = false },
+    },
+  },
+  {
+    question = "Madrasalarda qanday mutaxassislar faoliyat ko'rsatishgan?",
+    answers = {
+      { text = "Faqat harbiylar", correct = false },
+      { text = "Astronomlar, matematiklar, tabiblar, kimyogarlar, yirik shoirlar", correct = true },
+      { text = "Faqat savdogarlar", correct = false },
+      { text = "Faqat hunarmandlar", correct = false },
+    },
+  },
+  {
+    question = "Ma'mun akademiyasida Abu Ali ibn Sino qanday faoliyat yuritgan?",
+    answers = {
+      { text = "U akademiyada faoliyat yuritmagan", correct = false },
+      { text = "Ilmiy faoliyat yuritgan", correct = true },
+      { text = "Faqat qo'riqchi bo'lgan", correct = false },
+      { text = "Faqat kotib bo'lgan", correct = false },
+    },
+  },
+  {
+    question = "Ma'mun akademiyasi olimlari qaysi tillarni mukammal bilishgan?",
+    answers = {
+      { text = "Faqat arab va fors tillarini", correct = false },
+      { text = "Arab, fors, hind, lotin, yunon va turkiy tillarni", correct = true },
+      { text = "Faqat yunon tilini", correct = false },
+      { text = "Faqat turkiy tilni", correct = false },
+    },
+  },
+  {
+    question = "Akademiya olimlari qaysi yunon olimlarining asarlarini chuqur tahlil qilib, ularga sharhlar bitishgan?",
+    answers = {
+      { text = "Suqrot va Demokrit asarlarini", correct = false },
+      { text = "Platon, Aristotel, Ptolemey, Yevklid, Pifagor va Galen asarlarini", correct = true },
+      { text = "Faqat Aristotel asarlarini", correct = false },
+      { text = "Faqat Pifagor asarlarini", correct = false },
+    },
+  },
+  {
+    question = "Xorazmshoh Ma'munning zukko ma'rifatparvar va faylasuf vaziri kim bo'lgan?",
+    answers = {
+      { text = "Nizomulmulk", correct = false },
+      { text = "Abu Husayn Suhayliy", correct = true },
+      { text = "Abul Xayr Hammor", correct = false },
+      { text = "Muhammad Muso Xorazmiy", correct = false },
+    },
+  },
+  {
+    question = "2006-yilda O'zbekistonda nima nishonlangan?",
+    answers = {
+      { text = "Xorazm Ma'mun akademiyasining 1000 yilligi", correct = true },
+      { text = "Imom Termiziy tavalludining 1200 yilligi", correct = false },
+      { text = "Burhoniddin al-Marg'inoniyning 910 yilligi", correct = false },
+      { text = "Ahmad Farg'oniyning 1200 yilligi", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 47-mavzu. Muhammad ibn Muso al-Xorazmiy (1-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Muhammad ibn Muso al-Xorazmiy qaysi yillarda va qayerda tug'ilgan?",
+    answers = {
+      { text = "783-850-yillarda, Xivada", correct = true },
+      { text = "797-865-yillarda, Farg'onada", correct = false },
+      { text = "899-959-yillarda, Buxoroda", correct = false },
+      { text = "1075-1144-yillarda, Xorazmda", correct = false },
+    },
+  },
+  {
+    question = "Al-Xorazmiy qaysi fanning asoschisi sifatida ilm-fan tarixida yuksak nom qozongan?",
+    answers = {
+      { text = "Geometriya", correct = false },
+      { text = "Algebra", correct = true },
+      { text = "Trigonometriya", correct = false },
+      { text = "Kimyo", correct = false },
+    },
+  },
+  {
+    question = "\"Algebra\" so'zining o'zi Xorazmiyning qaysi risolasidan olingan?",
+    answers = {
+      { text = "\"Kitob surat-al-arz\"", correct = false },
+      { text = "\"Al-jabr val-muqobala\"", correct = true },
+      { text = "\"Zij\"", correct = false },
+      { text = "\"Kitob ar-ruhoma\"", correct = false },
+    },
+  },
+  {
+    question = "Olimning \"al-Xorazmiy\" nomi qanday shaklda fanda abadiy o'rnashib qolgan?",
+    answers = {
+      { text = "\"Formula\" shaklida", correct = false },
+      { text = "\"Algoritm\" shaklida", correct = true },
+      { text = "\"Teorema\" shaklida", correct = false },
+      { text = "\"Aksioma\" shaklida", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning aytishicha, algebrada nechta xil son bilan ish ko'riladi?",
+    answers = {
+      { text = "Ikki xil son bilan", correct = false },
+      { text = "Uch xil son bilan", correct = true },
+      { text = "To'rt xil son bilan", correct = false },
+      { text = "Besh xil son bilan", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy qalamiga mansub 20 dan ortiq asarning nechtasi bizgacha yetib kelgan?",
+    answers = {
+      { text = "5 tasi", correct = false },
+      { text = "10 tasi", correct = true },
+      { text = "15 tasi", correct = false },
+      { text = "18 tasi", correct = false },
+    },
+  },
+  {
+    question = "\"Kitob surat-al-arz\" asari qaysi fanga oid?",
+    answers = {
+      { text = "Geografiyaga", correct = true },
+      { text = "Astronomiyaga", correct = false },
+      { text = "Tibbiyotga", correct = false },
+      { text = "Falsafaga", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy hali G'arbda ko'pchilik yer tekislikdan iborat deb ishonib yurgan bir paytda nimani isbotlagan?",
+    answers = {
+      { text = "Yer quyosh atrofida aylanishini", correct = false },
+      { text = "Sayyoramiz yumaloq shaklda ekanini", correct = true },
+      { text = "Oyning Yerga ta'sirini", correct = false },
+      { text = "Yerning yoshini", correct = false },
+    },
+  },
+  {
+    question = "Yevropalik olimlar bir necha asrlar davomida barcha hisob-kitoblarning tagiga qanday ibora qo'shib ketishni o'zlariga sharaf deb bilishgan?",
+    answers = {
+      { text = "\"Dixit Pythagoras\"", correct = false },
+      { text = "\"Diksit Algoritmi\" (\"Al-Xorazmiy shunday dedi\")", correct = true },
+      { text = "\"Sicut Euclidus\"", correct = false },
+      { text = "\"Ptolemeyus dixit\"", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy 1 dan 9 gacha sanoq tizimini tuzishda kimning izlanishlaridan turtki olgan?",
+    answers = {
+      { text = "Yunon matematiklarining", correct = false },
+      { text = "Hind matematigining", correct = true },
+      { text = "Xitoy olimlarining", correct = false },
+      { text = "Fors olimlarining", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy matematika olamida qaysi sonni son sifatida e'tirof etib, uni markazga joylashtirgan?",
+    answers = {
+      { text = "Birni", correct = false },
+      { text = "Nolni (0)", correct = true },
+      { text = "O'nni", correct = false },
+      { text = "Yuzni", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning buyuk xizmatlariga e'tirof o'laroq 1976-yili nima uning nomi bilan atalgan?",
+    answers = {
+      { text = "Quyosh tizimidagi sayyora", correct = false },
+      { text = "Oyning krateri", correct = true },
+      { text = "Yulduz turkumi", correct = false },
+      { text = "Kometa", correct = false },
+    },
+  },
+  {
+    question = "Britan jurnalisti Endryu Marr Muhammad ibn Muso al-Xorazmiy haqida qaysi telekanal uchun ko'rsatuv tayyorlagan?",
+    answers = {
+      { text = "CNN", correct = false },
+      { text = "BBC", correct = true },
+      { text = "National Geographic", correct = false },
+      { text = "Discovery", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning o'zi \"Al-jabr val-muqobala\"ni nima uchun yozganini ta'kidlagan?",
+    answers = {
+      { text = "Faqat shaxsiy qiziqish uchun", correct = false },
+      { text = "Meros taqsimlash, vasiyatnoma yozish, savdo va boshqa ishlar uchun zarur bo'lgani sababli", correct = true },
+      { text = "Faqat talabalarga saboq berish uchun", correct = false },
+      { text = "Faqat xalifaning buyrug'i bilan", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy qadimiy Bobildan ma'lum bo'lgan qanday tenglamalarni yechish usullarini bayon qilgan?",
+    answers = {
+      { text = "Faqat uchinchi darajali tenglamalarni", correct = false },
+      { text = "Birinchi va ikkinchi darajali tenglamalarni", correct = true },
+      { text = "Faqat chiziqli tenglamalar sistemasini", correct = false },
+      { text = "Faqat trigonometrik tenglamalarni", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning tenglama yechish isboti tashqi ko'rinishda qanday tilda bayon qilingan?",
+    answers = {
+      { text = "Algebraik tilda", correct = false },
+      { text = "Geometrik tilda", correct = true },
+      { text = "Faqat og'zaki tilda", correct = false },
+      { text = "Faqat jadval shaklida", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 48-mavzu. Muhammad ibn Muso al-Xorazmiy (2-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Xorazmiy xalifa Ma'mun uchun nima yaratishga yordam bergan?",
+    answers = {
+      { text = "Yangi kalendar", correct = false },
+      { text = "Jahon xaritasini", correct = true },
+      { text = "Astronomik asbob", correct = false },
+      { text = "Harbiy qurol", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy Yer atrofini topish loyihasida qatnashib, qayerda yer meridiani darajasini o'lchagan?",
+    answers = {
+      { text = "Bag'dod tekisligida", correct = false },
+      { text = "Suriyadagi Sinjor tekisligida", correct = true },
+      { text = "Misr cho'lida", correct = false },
+      { text = "Xorazm dashtida", correct = false },
+    },
+  },
+  {
+    question = "Amerikalik tarixchi J. Sarton Xorazmiy haqida qanday baho bergan?",
+    answers = {
+      { text = "O'rta darajadagi olim", correct = false },
+      { text = "O'z davrining eng buyuk matematigi va hamma davrlarning ham eng buyuklaridan biri", correct = true },
+      { text = "Faqat yaxshi tarjimon", correct = false },
+      { text = "Faqat yaxshi muallim", correct = false },
+    },
+  },
+  {
+    question = "Xalifa Ma'mun qaysi yillarda hukmronlik qilgan?",
+    answers = {
+      { text = "793-813-yillarda", correct = false },
+      { text = "813-833-yillarda", correct = true },
+      { text = "833-853-yillarda", correct = false },
+      { text = "853-873-yillarda", correct = false },
+    },
+  },
+  {
+    question = "X asrda yashagan sayyoh al-Muqaddasiy xorazmliklar haqida qanday fikr bildirgan?",
+    answers = {
+      { text = "Ular savdogar xalq", correct = false },
+      { text = "Ular aql-idrok, ilm, fiqh, qobiliyat va bilim kishilaridir", correct = true },
+      { text = "Ular jangchi xalq", correct = false },
+      { text = "Ular dehqonchilik bilan mashhur", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning \"Zij\" asari qanday mavzuga oid?",
+    answers = {
+      { text = "Astronomik jadvallarga", correct = true },
+      { text = "Geografik xaritalarga", correct = false },
+      { text = "Tibbiy retseptlarga", correct = false },
+      { text = "Diniy huquqqa", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning \"Usturlob yasash haqida kitob\" asari qaysi asbobga bag'ishlangan?",
+    answers = {
+      { text = "Kompasga", correct = false },
+      { text = "Usturlobga", correct = true },
+      { text = "Teleskopga", correct = false },
+      { text = "Soatga", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning arifmetikaga oid risolasi qaysi raqamlarga asoslangan bo'lgan?",
+    answers = {
+      { text = "Rim raqamlariga", correct = false },
+      { text = "Hind raqamlariga", correct = true },
+      { text = "Yunon raqamlariga", correct = false },
+      { text = "Xitoy raqamlariga", correct = false },
+    },
+  },
+  {
+    question = "Hozirgi kunda foydalaniladigan o'nlik hisoblash sistemasining Yevropada tarqalishiga kim asosiy sabab bo'lgan?",
+    answers = {
+      { text = "Ptolomey", correct = false },
+      { text = "Al-Xorazmiy", correct = true },
+      { text = "Yevklid", correct = false },
+      { text = "Pifagor", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiyning to'liq ismi nima?",
+    answers = {
+      { text = "Abul Abbos Ahmad ibn Muhammad", correct = false },
+      { text = "Abu Ja'far (Abu Abdulloh) Muhammad ibn Muso al-Xorazmiy", correct = true },
+      { text = "Abu Bakr Muhammad ibn Ja'far", correct = false },
+      { text = "Abu Rayhon Muhammad ibn Ahmad", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy fikricha, \"ildiz\" (jizr) nima hisoblanadi?",
+    answers = {
+      { text = "Oddiy son yoki dirham", correct = false },
+      { text = "O'z-o'ziga ko'paytiriladigan miqdor", correct = true },
+      { text = "Ildizni o'ziga ko'paytirishdan hosil bo'lgan kattalik", correct = false },
+      { text = "Manfiy son", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy fikricha, \"kvadrat\" (mol) nima hisoblanadi?",
+    answers = {
+      { text = "Oddiy son", correct = false },
+      { text = "Ildizni o'ziga ko'paytirishdan hosil bo'lgan kattalik", correct = true },
+      { text = "Faqat manfiy miqdor", correct = false },
+      { text = "Faqat kasr son", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy \"Al-jabr val-muqobala hisob haqida qisqacha kitob\"ni yer o'lchash va qaysi ishlar uchun ham zarur deb ta'kidlagan?",
+    answers = {
+      { text = "Faqat harbiy ishlar uchun", correct = false },
+      { text = "Kanallar o'tkazish va muhandislik ishlari uchun", correct = true },
+      { text = "Faqat diniy marosimlar uchun", correct = false },
+      { text = "Faqat she'riyat uchun", correct = false },
+    },
+  },
+  {
+    question = "\"Hind hisobi haqida kitob\" Xorazmiyning qanday asari hisoblanadi?",
+    answers = {
+      { text = "Geografik asar", correct = false },
+      { text = "Arifmetik asar", correct = true },
+      { text = "Falsafiy asar", correct = false },
+      { text = "Diniy asar", correct = false },
+    },
+  },
+  {
+    question = "\"Qo'shish va ayirish haqida kitob\" qaysi turdagi asarlardan biri?",
+    answers = {
+      { text = "Arifmetik asarlardan", correct = true },
+      { text = "Geografik asarlardan", correct = false },
+      { text = "Tibbiy asarlardan", correct = false },
+      { text = "Huquqiy asarlardan", correct = false },
+    },
+  },
+  {
+    question = "Xorazmiy o'z asarida yer o'lchash va kanallar o'tkazishda qaysi fandan foydalanish zarurligini ta'kidlagan?",
+    answers = {
+      { text = "Falsafadan", correct = false },
+      { text = "Geometriyadan", correct = true },
+      { text = "Tarixdan", correct = false },
+      { text = "Adabiyotdan", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 49-mavzu. Ahmad Farg'oniy (1-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Ahmad Farg'oniyning to'liq ismi nima?",
+    answers = {
+      { text = "Abu Ja'far Muhammad ibn Muso al-Farg'oniy", correct = false },
+      { text = "Abul Abbos Ahmad ibn Muhammad ibn Kasir al-Farg'oniy", correct = true },
+      { text = "Abu Bakr Ahmad ibn Ali al-Farg'oniy", correct = false },
+      { text = "Abu Nasr Ahmad ibn Muso al-Farg'oniy", correct = false },
+    },
+  },
+  {
+    question = "Ahmad Farg'oniy qaysi yillarda yashagan?",
+    answers = {
+      { text = "783-850-yillarda", correct = false },
+      { text = "797-865-yillarda", correct = true },
+      { text = "824-892-yillarda", correct = false },
+      { text = "899-959-yillarda", correct = false },
+    },
+  },
+  {
+    question = "Ahmad Farg'oniy qayerda tug'ilgan?",
+    answers = {
+      { text = "Xivada", correct = false },
+      { text = "Farg'ona vodiysining Qubo (Quva) qishlog'ida", correct = true },
+      { text = "Buxoroda", correct = false },
+      { text = "Termizda", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniy avval qaysi shahardagi rasadxonada ish olib borgan?",
+    answers = {
+      { text = "Damashqda", correct = false },
+      { text = "Bag'dodda", correct = true },
+      { text = "Qohirada", correct = false },
+      { text = "Marvda", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniy so'ngra qaysi shahardagi rasadxonada osmon jismlari harakatini o'rgangan?",
+    answers = {
+      { text = "Damashqda", correct = true },
+      { text = "Bag'dodda", correct = false },
+      { text = "Qohirada", correct = false },
+      { text = "Isfahonda", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniy qaysi yunon astronomining \"Yulduzlar jadvali\" asaridagi ma'lumotlarni ko'rib chiqqan?",
+    answers = {
+      { text = "Aristotelning", correct = false },
+      { text = "Ptolemeyning", correct = true },
+      { text = "Pifagorning", correct = false },
+      { text = "Yevklidning", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniyning \"Astronomiya asoslari haqidagi kitob\" nomi bilan mashhur asari asl holda qanday atalgan?",
+    answers = {
+      { text = "\"Al-jabr val-muqobala\"", correct = false },
+      { text = "\"Samoviy harakatlar va umumiy ilmi nujum\"", correct = true },
+      { text = "\"Kitob surat-al-arz\"", correct = false },
+      { text = "\"Al-Kashshof\"", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniyning bu asari XII asrda necha marta lotin tiliga tarjima qilingan?",
+    answers = {
+      { text = "Bir marta", correct = false },
+      { text = "Ikki marta", correct = true },
+      { text = "Uch marta", correct = false },
+      { text = "To'rt marta", correct = false },
+    },
+  },
+  {
+    question = "XIII asrda boshqa Yevropa tillariga tarjima qilingandan so'ng, al-Farg'oniyning nomi qanday tarzda dunyoga tanildi?",
+    answers = {
+      { text = "\"Alfraganus\"", correct = true },
+      { text = "\"Algorizmi\"", correct = false },
+      { text = "\"Avicenna\"", correct = false },
+      { text = "\"Averroes\"", correct = false },
+    },
+  },
+  {
+    question = "1998-yilda allomaning necha yillik tavallud sanasi katta tantanalar bilan nishonlangan?",
+    answers = {
+      { text = "1000 yillik", correct = false },
+      { text = "1100 yillik", correct = false },
+      { text = "1200 yillik", correct = true },
+      { text = "1300 yillik", correct = false },
+    },
+  },
+  {
+    question = "2007-yilda qaysi shaharda Ahmad Farg'oniyga haykal o'rnatilgan?",
+    answers = {
+      { text = "Bag'dodda", correct = false },
+      { text = "Damashqda", correct = false },
+      { text = "Qohirada", correct = true },
+      { text = "Toshkentda", correct = false },
+    },
+  },
+  {
+    question = "Al-Farg'oniy 861-yilda qayerda \"nilometr\" (suv sathini belgilovchi uskuna) yasagan?",
+    answers = {
+      { text = "Bag'dod yaqinida", correct = false },
+      { text = "Qohira yaqinidagi Ravzo orolida", correct = true },
+      { text = "Damashq yaqinida", correct = false },
+      { text = "Iskandariyada", correct = false },
+    },
+  },
+  {
+    question = "\"Nilometr\" uskunasi nima uchun shunday nom olgan?",
+    answers = {
+      { text = "Nil daryosi qirg'og'ida qurilgani uchun", correct = false },
+      { text = "Ilk bor Nil daryosida sinab ko'rilgani uchun", correct = true },
+      { text = "Nil xudosi sharafiga", correct = false },
+      { text = "Faqat Nil suvidan yasalgani uchun", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniyning \"Al-Farg'oniy jadvallari\" asaridan tashqari yana qanday asari mavjud?",
+    answers = {
+      { text = "\"Usturlob yasash haqida kitob\"", correct = true },
+      { text = "\"Al-jabr val-muqobala\"", correct = false },
+      { text = "\"Hidoya\"", correct = false },
+      { text = "\"Al-Mufassal\"", correct = false },
+    },
+  },
+  {
+    question = "Oydagi kraterlardan biriga kimning nomi berilgan?",
+    answers = {
+      { text = "Muhammad Muso Xorazmiyning nomi", correct = false },
+      { text = "Ahmad al-Farg'oniyning nomi", correct = true },
+      { text = "Abu Rayhon Beruniyning nomi", correct = false },
+      { text = "Abu Ali ibn Sinoning nomi", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniy arab tilidagi ilmiy atamashunoslikda qaysi sohalarga oid atamalarni belgilab chiqishga hissa qo'shgan?",
+    answers = {
+      { text = "Tibbiyot va farmakologiyaga", correct = false },
+      { text = "Falakiyot, riyoziyot va geografiyaga", correct = true },
+      { text = "Huquqshunoslik va fiqhga", correct = false },
+      { text = "Adabiyot va tilshunoslikka", correct = false },
+    },
+  },
+
+  -- ==========================================================
+  -- 50-mavzu. Ahmad Farg'oniy (2-qism) bo'yicha 16 ta savol
+  -- ==========================================================
+  {
+    question = "Buyuk Nil daryosi necha ming kilometr uzunlikda?",
+    answers = {
+      { text = "Uch ming kilometr", correct = false },
+      { text = "To'rt ming kilometr", correct = true },
+      { text = "Besh ming kilometr", correct = false },
+      { text = "Olti ming kilometr", correct = false },
+    },
+  },
+  {
+    question = "Misr hududining necha foizida dehqonchilik qilish, biron yegulik yetishtirish mumkin bo'lgan?",
+    answers = {
+      { text = "Uch foizida", correct = false },
+      { text = "Olti foizida", correct = true },
+      { text = "O'n foizida", correct = false },
+      { text = "Yigirma foizida", correct = false },
+    },
+  },
+  {
+    question = "Ahmad Farg'oniy yerlar hosildorligi jadvalini nimaga qarab tuzgan?",
+    answers = {
+      { text = "Yerning tuprog'iga qarab", correct = false },
+      { text = "Nil daryosidan uzoq-yaqinligiga qarab", correct = true },
+      { text = "Yerning maydoniga qarab", correct = false },
+      { text = "Ekin turiga qarab", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniyning Nil daryosi orollaridan biriga qurgan uskunasi qanday nomlangan?",
+    answers = {
+      { text = "\"Zij\"", correct = false },
+      { text = "\"Miqyosi Nil\"", correct = true },
+      { text = "\"Usturlob\"", correct = false },
+      { text = "\"Nilometr jadvali\"", correct = false },
+    },
+  },
+  {
+    question = "Yevropa Uyg'onish davrining mashhur olimi Regiomontan qaysi asrda Farg'oniy asarlari asosida ma'ruza o'qigan?",
+    answers = {
+      { text = "XIII asrda", correct = false },
+      { text = "XV asrda", correct = true },
+      { text = "XVII asrda", correct = false },
+      { text = "XIX asrda", correct = false },
+    },
+  },
+  {
+    question = "Regiomontan qaysi mamlakatlar universitetlarida astronomiyaga doir ma'ruzalar o'qigan?",
+    answers = {
+      { text = "Fransiya va Ispaniya", correct = false },
+      { text = "Avstriya va Italiya", correct = true },
+      { text = "Angliya va Germaniya", correct = false },
+      { text = "Portugaliya va Gollandiya", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniy nomi qaysi asr shoiri Dante tomonidan tilga olingan?",
+    answers = {
+      { text = "XII asr", correct = false },
+      { text = "XIV asr", correct = true },
+      { text = "XVI asr", correct = false },
+      { text = "XVIII asr", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniy nomi qaysi asr shoiri Shiller tomonidan tilga olingan?",
+    answers = {
+      { text = "XIV asr", correct = false },
+      { text = "XVI asr", correct = false },
+      { text = "XVIII asr", correct = true },
+      { text = "XX asr", correct = false },
+    },
+  },
+  {
+    question = "Atoqli astronom Yan Geveliy qaysi yili \"Selenografiya\" kitobini nashr qilgan?",
+    answers = {
+      { text = "1547-yili", correct = false },
+      { text = "1647-yili", correct = true },
+      { text = "1747-yili", correct = false },
+      { text = "1847-yili", correct = false },
+    },
+  },
+  {
+    question = "Yan Geveliy oydagi kraterlardan birini kimning nomi bilan atagan?",
+    answers = {
+      { text = "Muhammad Muso Xorazmiyning nomi bilan", correct = false },
+      { text = "Ahmad Farg'oniyning nomi bilan", correct = true },
+      { text = "Abu Ali ibn Sinoning nomi bilan", correct = false },
+      { text = "Abu Rayhon Beruniyning nomi bilan", correct = false },
+    },
+  },
+  {
+    question = "\"Miqyosi Nil\" qurilmasi qanday shaklga ega bo'lgan?",
+    answers = {
+      { text = "To'rt burchakli, tekis tomli", correct = false },
+      { text = "Sakkiz burchakli, usti doirasimon qubbali", correct = true },
+      { text = "Yumaloq, gumbazsiz", correct = false },
+      { text = "Uch burchakli, piramidasimon", correct = false },
+    },
+  },
+  {
+    question = "\"Miqyosi Nil\" binosi qaysi daraxtdan qoplangan bo'lgan?",
+    answers = {
+      { text = "Mahalliy chinor daraxtidan", correct = false },
+      { text = "Hindistondan keltirilgan buk daraxtidan", correct = true },
+      { text = "Tut daraxtidan", correct = false },
+      { text = "Terak daraxtidan", correct = false },
+    },
+  },
+  {
+    question = "Qurilma ichidagi marmar ustunga nima tortilgan bo'lgan?",
+    answers = {
+      { text = "Yulduzlar xaritasi", correct = false },
+      { text = "Suv sathi o'lchov chiziqlari", correct = true },
+      { text = "Diniy bitiklar", correct = false },
+      { text = "Geometrik naqshlar", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniygacha bo'lgan eski tizimda Misr davlati soliqchilari yer egalaridan qanday soliq talab qilishgan?",
+    answers = {
+      { text = "Suv sathidan qat'i nazar birdek soliq", correct = true },
+      { text = "Faqat hosilga qarab soliq", correct = false },
+      { text = "Umuman soliq olinmagan", correct = false },
+      { text = "Faqat yer maydoniga qarab soliq", correct = false },
+    },
+  },
+  {
+    question = "Farg'oniy tuzgan yangi soliq tizimida suv sathi ko'tarilganda kim ko'proq, kim kamroq soliq to'lagan?",
+    answers = {
+      { text = "Barcha dehqonlar teng miqdorda to'lagan", correct = false },
+      { text = "Daryoga yeri yaqin dehqon kamroq, uzoqroqdagi dehqon ko'proq to'lagan", correct = true },
+      { text = "Faqat boy dehqonlar to'lagan", correct = false },
+      { text = "Faqat kambag'al dehqonlar to'lagan", correct = false },
+    },
+  },
+  {
+    question = "\"Miqyosi Nil\" haqidagi ma'lumot berilgan maqola muallifi kim?",
+    answers = {
+      { text = "J. Sarton", correct = false },
+      { text = "Muhammadjon Obidov", correct = true },
+      { text = "Endryu Marr", correct = false },
+      { text = "Al-Muqaddasiy", correct = false },
+    },
+  },
+}

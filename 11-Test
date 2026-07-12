@@ -1,0 +1,732 @@
+questions = {
+  -- 36-MAVZU: Mo'g'ullar bosqini va mudofaa harakatlari (1-16)
+  {
+    question = "1219-yilning kuzida Chingizxon qancha qo'shin bilan O'tror shahri ustiga yurish qildi?",
+    answers = {
+      { text = "150 ming", correct = false },
+      { text = "200 ming", correct = true },
+      { text = "100 ming", correct = false },
+      { text = "300 ming", correct = false },
+    },
+  },
+  {
+    question = "1220-yil fevral oyida qaysi shahar aholisi mo'g'ullarga taslim bo'lishga qaror qildi, ammo qozilar va harbiylar mudofaani davom ettirdilar?",
+    answers = {
+      { text = "Buxoro", correct = true },
+      { text = "Samarqand", correct = false },
+      { text = "O'tror", correct = false },
+      { text = "Banokat", correct = false },
+    },
+  },
+  {
+    question = "Mo'g'ullar qamali vaqtida Xo'jand shahrining mudofaasi kimning rahbarligida olib borildi?",
+    answers = {
+      { text = "G'oyirxon", correct = false },
+      { text = "Najmiddin Kubro", correct = false },
+      { text = "Temur Malik", correct = true },
+      { text = "Tog'ayxon", correct = false },
+    },
+  },
+  {
+    question = "1220-yilning mart oyida Chingizxonning asosiy kuchlari qaysi shaharni qamal qildi?",
+    answers = {
+      { text = "O'tror", correct = false },
+      { text = "Gurganj", correct = false },
+      { text = "Samarqand", correct = true },
+      { text = "Termiz", correct = false },
+    },
+  },
+  {
+    question = "Chingizxon qo'shinlari Xorazmshohlar poytaxti Gurganjni (Urganch) necha oy davomida qamal qildilar?",
+    answers = {
+      { text = "3 oy", correct = false },
+      { text = "7 oy", correct = true },
+      { text = "5 oy", correct = false },
+      { text = "12 oy", correct = false },
+    },
+  },
+  {
+    question = "Qaysi shahar mudofaasi vaqtida mudofaachilarning mardligidan g'azablangan mo'g'ullar to'g'onni buzib, shaharni suvga bostiradilar?",
+    answers = {
+      { text = "Samarqand", correct = false },
+      { text = "O'tror", correct = false },
+      { text = "Buxoro", correct = false },
+      { text = "Gurganj", correct = true },
+    },
+  },
+  {
+    question = "O'tror mudofaachisi Inolchiq (G'oyirxon) qanday qilib qatl etiladi?",
+    answers = {
+      { text = "Boshi kesilib", correct = false },
+      { text = "Olovga tashlanib", correct = false },
+      { text = "Ko'ziga va qulog'iga eritilgan kumush quyilib", correct = true },
+      { text = "Otga bog'lab sudrab", correct = false },
+    },
+  },
+  {
+    question = "Samarqandni himoya qilish uchun Muhammad Xorazmshoh tomonidan qoldirilgan 110 minglik qo'shinga kimlar qo'mondonlik qilgan?",
+    answers = {
+      { text = "Tog'ayxon va Gurxon", correct = true },
+      { text = "Inolchiq va Qoracha xojib", correct = false },
+      { text = "Temur Malik va Tog'ayxon", correct = false },
+      { text = "Jaloliddin va O'zloqshoh", correct = false },
+    },
+  },
+  {
+    question = "Muhammad Xorazmshoh Kaspiy dengizidagi Abaskun orolida qachon vafot etdi?",
+    answers = {
+      { text = "1220-yil dekabr", correct = true },
+      { text = "1221-yil yanvar", correct = false },
+      { text = "1221-yil noyabr", correct = false },
+      { text = "1219-yil oxiri", correct = false },
+    },
+  },
+  {
+    question = "Xo'jand mudofaachisi Temur Malik daryo orqali qochishda qanday taktikadan foydalandi?",
+    answers = {
+      { text = "Olovli o'qlar otdi", correct = false },
+      { text = "Kemasiga namat qoplab, loy suvoq qildirdi", correct = true },
+      { text = "Tunda suzib o'tdi", correct = false },
+      { text = "Dushman kemalarini yondirdi", correct = false },
+    },
+  },
+  {
+    question = "Mo'g'ullar Termiz shahrini qachon qamal qilib, bosib oldilar?",
+    answers = {
+      { text = "1220-yil kuzida", correct = true },
+      { text = "1221-yil bahorida", correct = false },
+      { text = "1219-yil qishida", correct = false },
+      { text = "1220-yil yozida", correct = false },
+    },
+  },
+  {
+    question = "Qaysi shaharning olimi va mutasavvifi Najmiddin Kubro mo'g'ullarga qarshi jangda 76 yoshida shahid bo'ladi?",
+    answers = {
+      { text = "Buxoro", correct = false },
+      { text = "Samarqand", correct = false },
+      { text = "Urganch", correct = true },
+      { text = "Termiz", correct = false },
+    },
+  },
+  {
+    question = "Gurganj qamaliga Chingizxonning qaysi o'g'illari rahbarlik qilgan?",
+    answers = {
+      { text = "Jo'ji, Chig'atoy, O'qtoy", correct = true },
+      { text = "Jo'ji, Tuluy", correct = false },
+      { text = "Chig'atoy, Tuluy", correct = false },
+      { text = "Faqat Jo'ji", correct = false },
+    },
+  },
+  {
+    question = "Chingizxon qaysi qal'ani jangsiz taslim bo'lgani uchun \"Qutlug'baliq\" deb atadi?",
+    answers = {
+      { text = "Zarnuq", correct = true },
+      { text = "Nur ota", correct = false },
+      { text = "Banokat", correct = false },
+      { text = "O'tror", correct = false },
+    },
+  },
+  {
+    question = "1220-yil may oyida mo'g'ul no'yonlari Jebe va Subutoy qaysi Xorazmshoh qo'shinini ta'qib qila boshladilar?",
+    answers = {
+      { text = "Jaloliddin Manguberdi", correct = false },
+      { text = "Temur Malik", correct = false },
+      { text = "Muhammad Xorazmshoh", correct = true },
+      { text = "Tog'ayxon", correct = false },
+    },
+  },
+  {
+    question = "Chingizxon Samarqanddan keyin qaysi shaharlarni zabt etish uchun Tuluyni Xurosonga yubordi?",
+    answers = {
+      { text = "Marv va Nishopur", correct = true },
+      { text = "Buxoro va Qarshi", correct = false },
+      { text = "Termiz va Balx", correct = false },
+      { text = "Hirot va Kobul", correct = false },
+    },
+  },
+
+  -- 37-MAVZU: Jaloliddin Manguberdi jasorati (17-32)
+  {
+    question = "Jaloliddin Manguberdi qachon va qayerda tug'ilgan?",
+    answers = {
+      { text = "1198-yil Xorazmda", correct = true },
+      { text = "1199-yil Buxoroda", correct = false },
+      { text = "1200-yil Samarqandda", correct = false },
+      { text = "1195-yil Gurganjda", correct = false },
+    },
+  },
+  {
+    question = "Otasi Muhammad Xorazmshoh vafotidan oldin vorislikni Jaloliddinga topshirganda qaysi ukalari unga qarshi fitna uyushtirdi?",
+    answers = {
+      { text = "Oqshoh va Qutbiddin", correct = false },
+      { text = "O'zloqshoh va Oqshoh", correct = true },
+      { text = "Rukniddin va G'iyosiddin", correct = false },
+      { text = "Ali va O'zloqshoh", correct = false },
+    },
+  },
+  {
+    question = "1221-yil bahorida Valyond qal'asi yaqinida Jaloliddin necha ming mo'g'ul qo'shinini tor-mor etadi?",
+    answers = {
+      { text = "30 ming", correct = false },
+      { text = "10 ming", correct = true },
+      { text = "40 ming", correct = false },
+      { text = "20 ming", correct = false },
+    },
+  },
+  {
+    question = "Jaloliddin Manguberdi Parvon dashtidagi jangda mo'g'ullarning qaysi yirik sarkardasini mag'lub etgan?",
+    answers = {
+      { text = "Shigi Qutuqu", correct = true },
+      { text = "Subutoy bahodir", correct = false },
+      { text = "Jebe no'yon", correct = false },
+      { text = "Tuluy", correct = false },
+    },
+  },
+  {
+    question = "Parvon dashtidagi g'alabadan so'ng nima sababdan Jaloliddinning ittifoqchilari o'rtasida nizo chiqib, qo'shin ikkiga bo'linib ketdi?",
+    answers = {
+      { text = "O'ljaga tushgan arabi ot ustidagi janjal sababli", correct = true },
+      { text = "Hokimiyat talashish sababli", correct = false },
+      { text = "Dinga oid ixtilof sababli", correct = false },
+      { text = "Taktika borasidagi kelishmovchilik sababli", correct = false },
+    },
+  },
+  {
+    question = "1221-yil 24-noyabrda Jaloliddin qaysi daryo bo'yida Chingizxonning asosiy kuchlari bilan to'qnashdi?",
+    answers = {
+      { text = "Sind (Hind) daryosi", correct = true },
+      { text = "Amudaryo", correct = false },
+      { text = "Sirdaryo", correct = false },
+      { text = "Terek daryosi", correct = false },
+    },
+  },
+  {
+    question = "Jaloliddin Sind daryosidan o'tgach, Hindistonda qancha muddat mo'g'ullarga qarshi kurashni davom ettirdi?",
+    answers = {
+      { text = "3 yil (1221-1224)", correct = true },
+      { text = "5 yil (1221-1226)", correct = false },
+      { text = "2 yil (1221-1223)", correct = false },
+      { text = "1 yil (1221-1222)", correct = false },
+    },
+  },
+  {
+    question = "1225-yil Jaloliddin qaysi hududlarni jangsiz egallab, o'z hokimiyatini o'rnatdi?",
+    answers = {
+      { text = "Ozarbayjon va Marog'ani", correct = true },
+      { text = "Gruziya va Armanistonni", correct = false },
+      { text = "Iroq va Suriyani", correct = false },
+      { text = "Movarounnahrni", correct = false },
+    },
+  },
+  {
+    question = "1225-yil avgustda Jaloliddin Garni qal'asi yaqinida kime qarshi jang qilib g'alaba qozondi?",
+    answers = {
+      { text = "Gruziya qo'shiniga", correct = true },
+      { text = "Armaniston qo'shiniga", correct = false },
+      { text = "Mo'g'ullarga", correct = false },
+      { text = "Vizantiyaga", correct = false },
+    },
+  },
+  {
+    question = "1227-yil Isfahon yaqinida Jaloliddin qaysi mo'g'ul sarkardasi boshliq qo'shinni mag'lub etdi?",
+    answers = {
+      { text = "Taynol no'yon", correct = true },
+      { text = "Jebe no'yon", correct = false },
+      { text = "Subutoy", correct = false },
+      { text = "Shigi Qutuqu", correct = false },
+    },
+  },
+  {
+    question = "1230-yilda bo'lib o'tgan Yassichaman jangida Jaloliddinga qarshi qaysi kuchlar birlashdi?",
+    answers = {
+      { text = "Mo'g'ullar va Vizantiya", correct = false },
+      { text = "Ko'niya sultoni va Misr Ayyubiylari", correct = true },
+      { text = "Gruziya va Armaniston", correct = false },
+      { text = "Iroq va Xuroson amirlari", correct = false },
+    },
+  },
+  {
+    question = "Jaloliddin Manguberdi nechanchi yilda va qayerda fojiali tarzda halok bo'ldi?",
+    answers = {
+      { text = "1231-yil, Kurdiston tog'larida", correct = true },
+      { text = "1230-yil, Yassichamanda", correct = false },
+      { text = "1221-yil, Sind daryosida", correct = false },
+      { text = "1227-yil, Isfahonda", correct = false },
+    },
+  },
+  {
+    question = "Jaloliddin Manguberdining jasoratini ko'rgan Chingizxon o'z o'g'illariga nima deb aytgan edi?",
+    answers = {
+      { text = "Otaga shunday o'g'il kerak, u bizning eng buyuk dushmanimiz", correct = true },
+      { text = "Bu yigitni tiriklayin tutinglar", correct = false },
+      { text = "Uni darhol o'ldiringlar", correct = false },
+      { text = "Uning qavmini butunlay yo'q qilinglar", correct = false },
+    },
+  },
+  {
+    question = "Jaloliddinning tarjimai holi va kurashlari haqida shaxsan guvoh bo'lib kitob yozgan uning kotibi kim edi?",
+    answers = {
+      { text = "Shihobiddin Muhammad an-Nasaviy", correct = true },
+      { text = "Juvayniy", correct = false },
+      { text = "Ibn al-Asir", correct = false },
+      { text = "Rashiduddin", correct = false },
+    },
+  },
+  {
+    question = "Jaloliddin Gurjiston poytaxti Tiflisni qachon egallagan?",
+    answers = {
+      { text = "1226-yil", correct = true },
+      { text = "1225-yil", correct = false },
+      { text = "1224-yil", correct = false },
+      { text = "1227-yil", correct = false },
+    },
+  },
+  {
+    question = "O'zbekiston Respublikasida \"Jaloliddin Manguberdi\" ordeni nechanchi yili ta'sis etildi?",
+    answers = {
+      { text = "1998-yil", correct = false },
+      { text = "2000-yil", correct = true },
+      { text = "1999-yil", correct = false },
+      { text = "1991-yil", correct = false },
+    },
+  },
+
+  -- 38-MAVZU: Oltin O'rda davlati (33-48)
+  {
+    question = "Oltin O'rda davlatiga kim va qachon asos solgan?",
+    answers = {
+      { text = "Botuxon, 1243-yilda", correct = true },
+      { text = "Jo'jixon, 1227-yilda", correct = false },
+      { text = "Berka xon, 1257-yilda", correct = false },
+      { text = "Mangu Temur, 1266-yilda", correct = false },
+    },
+  },
+  {
+    question = "Oltin O'rdaning dastlabki poytaxti qaysi shahar edi va u qayerda joylashgan?",
+    answers = {
+      { text = "Saroy-Botu, Quyi Idil (Volga) bo'yida", correct = true },
+      { text = "Saroy-Barka, Qrim yarimorolida", correct = false },
+      { text = "Qozon, Kama daryosi bo'yida", correct = false },
+      { text = "Urgach, Orol dengizi bo'yida", correct = false },
+    },
+  },
+  {
+    question = "Oltin O'rda xonlari qachondan boshlab o'z nomlaridan tangalar zarb qildirib, mustaqil siyosat yurita boshladilar?",
+    answers = {
+      { text = "Berka xon davridan", correct = false },
+      { text = "Mangu Temur davrida (1266-1282)", correct = true },
+      { text = "O'zbekxon davrida", correct = false },
+      { text = "To'xtamishxon davrida", correct = false },
+    },
+  },
+  {
+    question = "Oltin O'rdada islom dinini ilk bor qabul qilgan xon (1257-1266-yillarda hukmronlik qilgan) kim?",
+    answers = {
+      { text = "Berka (Barka) xon", correct = true },
+      { text = "O'zbekxon", correct = false },
+      { text = "Jonibek", correct = false },
+      { text = "To'xtaxon", correct = false },
+    },
+  },
+  {
+    question = "Qaysi xon davrida (1312-1342) islom dini Oltin O'rdaning davlat dini deb rasman e'lon qilingan?",
+    answers = {
+      { text = "O'zbekxon", correct = true },
+      { text = "Jonibek", correct = false },
+      { text = "Berka xon", correct = false },
+      { text = "Mangu Temur", correct = false },
+    },
+  },
+  {
+    question = "Oltin O'rda davlati qaysi xon davrida o'zining eng yuqori taraqqiyot cho'qqisiga, oltin davriga chiqdi?",
+    answers = {
+      { text = "Jonibek davrida (1342-1357)", correct = true },
+      { text = "O'zbekxon davrida", correct = false },
+      { text = "To'xtamishxon davrida", correct = false },
+      { text = "Mangu Temur davrida", correct = false },
+    },
+  },
+  {
+    question = "1357-1380 yillarda Oltin O'rdada davom etgan siyosiy inqiroz va toj-taxt kurashlari rus tarixshunosligida nima deb ataladi?",
+    answers = {
+      { text = "Buyuk g'alayon (Velikaya zamyatnya)", correct = true },
+      { text = "Oltin inqiroz", correct = false },
+      { text = "Xonlar asri", correct = false },
+      { text = "Qora yillar", correct = false },
+    },
+  },
+  {
+    question = "1380-yil 8-sentabrda Kulikovo jangida Oltin O'rda sarkardasi Mamay ustidan g'alaba qozongan rus knyazi kim?",
+    answers = {
+      { text = "Dmitriy Donskoy", correct = true },
+      { text = "Ivan Kalita", correct = false },
+      { text = "Aleksandr Nevskiy", correct = false },
+      { text = "Ivan Grozniy", correct = false },
+    },
+  },
+  {
+    question = "Mamay Kulikovo jangida mag'lub bo'lgach, Oltin O'rda taxtini kim egallaydi va 1382-yilda Moskvani yoqib yuboradi?",
+    answers = {
+      { text = "To'xtamishxon", correct = true },
+      { text = "Idiqu (Yedigey)", correct = false },
+      { text = "Jonibek", correct = false },
+      { text = "Ahmadxon", correct = false },
+    },
+  },
+  {
+    question = "Amir Temur To'xtamishxonga qarshi nechta yirik yurish qilib, Oltin O'rdani butunlay zaiflashtirdi?",
+    answers = {
+      { text = "3 marta (1389, 1391, 1395)", correct = true },
+      { text = "2 marta (1391, 1395)", correct = false },
+      { text = "1 marta (1395)", correct = false },
+      { text = "4 marta (1387, 1389, 1391, 1395)", correct = false },
+    },
+  },
+  {
+    question = "1391-yilda Amir Temur va To'xtamishxon o'rtasida bo'lib o'tgan birinchi yirik hal qiluvchi jang qaysi daryo bo'yida sodir bo'lgan?",
+    answers = {
+      { text = "Qunduzcha", correct = true },
+      { text = "Terek", correct = false },
+      { text = "Ugra", correct = false },
+      { text = "Idil", correct = false },
+    },
+  },
+  {
+    question = "1395-yil Terek daryosi bo'yidagi jangda Oltin O'rdaning qaysi poytaxtlari Amir Temur tomonidan vayron qilingan?",
+    answers = {
+      { text = "Saroy-Barka va Hoji-Tarxon (Astraxan)", correct = true },
+      { text = "Qozon va Qrim", correct = false },
+      { text = "Saroy-Botu va Urganch", correct = false },
+      { text = "Moskva va Kiyev", correct = false },
+    },
+  },
+  {
+    question = "XV asr o'rtalariga kelib Oltin O'rda qanday mustaqil xonliklarga bo'linib ketdi?",
+    answers = {
+      { text = "Qozon, Qrim, Astraxan, Sibir xonliklari va No'g'ay O'rdasi", correct = true },
+      { text = "Xiva, Qo'qon, Buxoro", correct = false },
+      { text = "Kiyev, Moskva, Novgorod", correct = false },
+      { text = "Oq O'rda va Ko'k O'rda", correct = false },
+    },
+  },
+  {
+    question = "Qaysi xon Oltin O'rdani qayta tiklash maqsadida 1480-yilda rus yerlariga yurish qilib, \"Ugra daryosi bo'yidagi turish\" degan nom olgan voqeada chekinishga majbur bo'ladi?",
+    answers = {
+      { text = "Ahmadxon", correct = true },
+      { text = "To'xtamishxon", correct = false },
+      { text = "Kuchumxon", correct = false },
+      { text = "Idiqu", correct = false },
+    },
+  },
+  {
+    question = "Oltin O'rda davlat boshqaruvida harbiy va ijroiya hokimiyat tepasida kim turardi?",
+    answers = {
+      { text = "Beklarbegi", correct = true },
+      { text = "Vazir", correct = false },
+      { text = "Xon", correct = false },
+      { text = "Dorug'a", correct = false },
+    },
+  },
+  {
+    question = "Oltin O'rdada soliq yig'ish va ro'yxatga olish ishlari bilan shug'ullanuvchi amaldorlar qanday atalgan?",
+    answers = {
+      { text = "Bosqoqlar va dorug'alar", correct = true },
+      { text = "Beklarbegi va a'yonlar", correct = false },
+      { text = "Xojiblar", correct = false },
+      { text = "Devonbegilar", correct = false },
+    },
+  },
+
+  -- 39-MAVZU: Chig'atoy ulusi va Movarounnahr XIV asrda (49-64)
+  {
+    question = "Chingizxonning ikkinchi o'g'li Chig'atoyga qaysi hududlar ulus sifatida berilgan edi?",
+    answers = {
+      { text = "Movarounnahr, Yettisuv, Sharqiy Turkiston", correct = true },
+      { text = "Dashti Qipchoq, Xorazm, Kavkaz", correct = false },
+      { text = "Eron, Xuroson, Iroq", correct = false },
+      { text = "Mo'g'uliston, Xitoy", correct = false },
+    },
+  },
+  {
+    question = "Chig'atoy ulusining XIV asr boshlaridagi hukmdori Kepakxon (1318-1326) qanday islohot o'tkazdi?",
+    answers = {
+      { text = "Poytaxtni ko'chirdi va ma'muriy, pul islohotlari o'tkazdi", correct = true },
+      { text = "Islomni davlat dini deb e'lon qildi", correct = false },
+      { text = "Xitoyga yurish qildi", correct = false },
+      { text = "Oltin O'rda bilan urushdi", correct = false },
+    },
+  },
+  {
+    question = "Kepakxon joriy etgan pul islohotiga ko'ra kumush va mis tangalar nima deb atalgan?",
+    answers = {
+      { text = "Kumush dinor, mis dirham", correct = true },
+      { text = "Oltin dinor, kumush dirham", correct = false },
+      { text = "Tanga va tiyin", correct = false },
+      { text = "Yormoq va pul", correct = false },
+    },
+  },
+  {
+    question = "1326-1334 yillarda Chig'atoy ulusini boshqargan va islom dinini qabul qilib, Alouddin nomini olgan xon kim?",
+    answers = {
+      { text = "Tarmashirin", correct = true },
+      { text = "Duva xon", correct = false },
+      { text = "Kepakxon", correct = false },
+      { text = "Buyonqulixon", correct = false },
+    },
+  },
+  {
+    question = "Chig'atoy ulusi qachon va qanday qismlarga bo'linib ketdi?",
+    answers = {
+      { text = "XIV asrning 40-yillarida: Movarounnahr va Mo'g'uliston", correct = true },
+      { text = "XIV asr oxirida: Sharqiy va G'arbiy ulus", correct = false },
+      { text = "XIII asr oxirida: Oltin O'rda va Xulaguiylar", correct = false },
+      { text = "XV asrda: Oq O'rda va Ko'k O'rda", correct = false },
+    },
+  },
+  {
+    question = "XIV asr o'rtalarida Movarounnahrda amalda hokimiyatni o'z qo'liga olgan amir Qazag'on hukmronligi yillari qaysi javobda to'g'ri ko'rsatilgan?",
+    answers = {
+      { text = "1346-1358-yillar", correct = true },
+      { text = "1360-1370-yillar", correct = false },
+      { text = "1334-1346-yillar", correct = false },
+      { text = "1358-1365-yillar", correct = false },
+    },
+  },
+  {
+    question = "Amir Qazag'on o'z hokimiyatini qonuniylashtirish uchun kimni xon qilib ko'taradi?",
+    answers = {
+      { text = "Buyonqulixonni", correct = true },
+      { text = "Tarmashirinni", correct = false },
+      { text = "Ilyosxo'jani", correct = false },
+      { text = "Tug'luq Temurni", correct = false },
+    },
+  },
+  {
+    question = "Amir Qazag'onning o'g'li Abdulla qaysi xonni qatl qildirib, Movarounnahrda xalq g'alayoniga sababchi bo'ladi?",
+    answers = {
+      { text = "Buyonqulixonni", correct = true },
+      { text = "Tug'luq Temurni", correct = false },
+      { text = "Kepakxonni", correct = false },
+      { text = "Duva xonni", correct = false },
+    },
+  },
+  {
+    question = "1360 va 1361-yillarda Movarounnahrga bostirib kirgan Mo'g'uliston xoni kim edi?",
+    answers = {
+      { text = "Tug'luq Temur", correct = true },
+      { text = "Qamariddin", correct = false },
+      { text = "Xizrxo'ja", correct = false },
+      { text = "Ilyosxo'ja", correct = false },
+    },
+  },
+  {
+    question = "Mo'g'ullar hokimiyatiga qarshi Movarounnahrda xalq harakati boshlanganda, xon Tug'luq Temur poytaxt qilib belgilagan Mo'g'uliston shahri qaysi edi?",
+    answers = {
+      { text = "Olmaliq", correct = true },
+      { text = "Qashqar", correct = false },
+      { text = "Yettisuv", correct = false },
+      { text = "Balasog'un", correct = false },
+    },
+  },
+  {
+    question = "1365-yil 22-mayda Toshkent va Chinoz oralig'ida bo'lib o'tgan jang tarixda qanday nom qoldirdi?",
+    answers = {
+      { text = "Loy jangi", correct = true },
+      { text = "Qunduzcha jangi", correct = false },
+      { text = "Parvon jangi", correct = false },
+      { text = "Garni jangi", correct = false },
+    },
+  },
+  {
+    question = "Loy jangida Amir Temur va Amir Husayn qo'shinlari qaysi hukmdor qo'shinidan mag'lubiyatga uchraydilar?",
+    answers = {
+      { text = "Ilyosxo'ja", correct = true },
+      { text = "Tug'luq Temur", correct = false },
+      { text = "Xizrxo'ja", correct = false },
+      { text = "To'xtamishxon", correct = false },
+    },
+  },
+  {
+    question = "1365-yilda Samarqandni Ilyosxo'ja qo'shinlaridan himoya qilgan harakat qanday atalgan?",
+    answers = {
+      { text = "Sarbadorlar harakati", correct = true },
+      { text = "Chirog'kushlar harakati", correct = false },
+      { text = "Sipohiylar isyoni", correct = false },
+      { text = "Tarobiy qo'zg'oloni", correct = false },
+    },
+  },
+  {
+    question = "Sarbadorlar harakatining asosiy rahbarlari kimlar edi?",
+    answers = {
+      { text = "Mavlonozoda, Abu Bakr Kalaviy, Xurdak Buxoriy", correct = true },
+      { text = "Mahmud Torobiy, Temur Malik, Najmiddin Kubro", correct = false },
+      { text = "Buyonqulixon, Amir Qazag'on, Amir Husayn", correct = false },
+      { text = "Xumortegin, Gurxon, Tog'ayxon", correct = false },
+    },
+  },
+  {
+    question = "1366-yil bahorida Samarqandga kelgan Amir Husayn sarbadorlar rahbarlarini qanday jazolaydi?",
+    answers = {
+      { text = "Mavlonozodadan tashqari barcha rahbarlarni qatl ettiradi", correct = true },
+      { text = "Barchasini qamoqqa tashlaydi", correct = false },
+      { text = "Ularni Mo'g'ulistonga badarg'a qiladi", correct = false },
+      { text = "Kechirib, ularga unvonlar beradi", correct = false },
+    },
+  },
+  {
+    question = "Chig'atoy ulusi bo'lingach, asosan ko'chmanchi mo'g'ul qabilalari joylashgan shimoliy-sharqiy hududlar nima deb ataldi?",
+    answers = {
+      { text = "Mo'g'uliston (Jete)", correct = true },
+      { text = "Movarounnahr", correct = false },
+      { text = "Dashti Qipchoq", correct = false },
+      { text = "Xuroson", correct = false },
+    },
+  },
+
+  -- 40-MAVZU: Amir Temur davrining boshlanishi (65-80)
+  {
+    question = "Amir Temur qachon va qayerda tug'ilgan?",
+    answers = {
+      { text = "1336-yil 9-aprelda, Kesh (Shahrisabz) yaqinidagi Xo'ja Ilg'or qishlog'ida", correct = true },
+      { text = "1330-yil 5-mayda, Samarqandda", correct = false },
+      { text = "1340-yil 12-iyunda, Balxda", correct = false },
+      { text = "1335-yil 1-martda, Buxoroda", correct = false },
+    },
+  },
+  {
+    question = "Amir Temurning otasi kim va u qaysi urug' beklaridan edi?",
+    answers = {
+      { text = "Amir Tarag'ay, barlos urug'idan", correct = true },
+      { text = "Amir Qazag'on, qang'li urug'idan", correct = false },
+      { text = "Amir Husayn, nayman urug'idan", correct = false },
+      { text = "Tug'luq Temur, jaloyir urug'idan", correct = false },
+    },
+  },
+  {
+    question = "Yosh Temurbek qachon va qayerda bo'lgan jangda o'ng qo'li va o'ng oyog'idan og'ir jarohat olgan?",
+    answers = {
+      { text = "1362-yil kuzida, Seistonda", correct = true },
+      { text = "1365-yil yozida, Loy jangida", correct = false },
+      { text = "1370-yil bahorida, Balxda", correct = false },
+      { text = "1360-yilda, Qashqadaryoda", correct = false },
+    },
+  },
+  {
+    question = "1360-yilda Movarounnahrga bostirib kirgan Tug'luq Temur Amir Temurga qaysi viloyat boshqaruvini topshiradi?",
+    answers = {
+      { text = "Kesh viloyati (Qashqadaryo)", correct = true },
+      { text = "Samarqand viloyati", correct = false },
+      { text = "Balx viloyati", correct = false },
+      { text = "Farg'ona vodiysi", correct = false },
+    },
+  },
+  {
+    question = "Amir Temur qaysi yili Balxda chaqirilgan qurultoyda Movarounnahrning yagona hukmdori deb e'lon qilinadi?",
+    answers = {
+      { text = "1370-yil", correct = true },
+      { text = "1365-yil", correct = false },
+      { text = "1380-yil", correct = false },
+      { text = "1375-yil", correct = false },
+    },
+  },
+  {
+    question = "1370-yil bahorida Balxdagi jangda Amir Temur kimni uzil-kesil mag'lubiyatga uchratdi?",
+    answers = {
+      { text = "Amir Husaynni", correct = true },
+      { text = "Ilyosxo'jani", correct = false },
+      { text = "To'xtamishni", correct = false },
+      { text = "Tug'luq Temurni", correct = false },
+    },
+  },
+  {
+    question = "Amir Temur Movarounnahrni birlashtirgach, kimni rasman xon ko'tarib, o'zi \"ulug' amir\" unvoni bilan davlatni boshqardi?",
+    answers = {
+      { text = "Suyurg'otmishxonni", correct = true },
+      { text = "Tarmashirinni", correct = false },
+      { text = "Kepakxonni", correct = false },
+      { text = "Qozonxonni", correct = false },
+    },
+  },
+  {
+    question = "Amir Temur \"Ko'ragon\" (xon kuyovi) unvonini kimga uylangach qabul qildi?",
+    answers = {
+      { text = "Qozonxonning qizi Saroymulkxonimga (Bibi Xonimga)", correct = true },
+      { text = "Mo'g'ul malikasi O'ljay Turkon og'oga", correct = false },
+      { text = "Amir Husaynning singlisiga", correct = false },
+      { text = "Xorazmshohlar avlodidan bo'lgan malikaga", correct = false },
+    },
+  },
+  {
+    question = "Amir Temur poytaxt qilib qaysi shaharni tanladi?",
+    answers = {
+      { text = "Samarqandni", correct = true },
+      { text = "Keshni (Shahrisabzni)", correct = false },
+      { text = "Balxni", correct = false },
+      { text = "Buxoroni", correct = false },
+    },
+  },
+  {
+    question = "1370-1385 yillar davomida Amir Temur nima ishni amalga oshirdi?",
+    answers = {
+      { text = "Movarounnahr va unga yondosh hududlarni yagona davlatga birlashtirdi", correct = true },
+      { text = "Oltin O'rdani butunlay bosib oldi", correct = false },
+      { text = "Hindistonga yurish qildi", correct = false },
+      { text = "Anqarada Usmonlilar bilan urush qildi", correct = false },
+    },
+  },
+  {
+    question = "Movarounnahrni birlashtirish jarayonida Amir Temur Xorazmga necha marta yurish qilishga majbur bo'ldi?",
+    answers = {
+      { text = "5 marta (1372-1388 yillar orasida)", correct = true },
+      { text = "3 marta", correct = false },
+      { text = "7 marta", correct = false },
+      { text = "1 marta", correct = false },
+    },
+  },
+  {
+    question = "Xorazmni Amir Temur davlatiga uzil-kesil qo'shib olinishi nechanchi yilda sodir bo'ldi?",
+    answers = {
+      { text = "1388-yilda", correct = true },
+      { text = "1372-yilda", correct = false },
+      { text = "1380-yilda", correct = false },
+      { text = "1395-yilda", correct = false },
+    },
+  },
+  {
+    question = "Amir Temurning yoshlikdagi eng yaqin do'sti, lekin keyinchalik asosiy siyosiy raqibiga aylangan shaxs kim?",
+    answers = {
+      { text = "Amir Husayn", correct = true },
+      { text = "Tug'luq Temur", correct = false },
+      { text = "To'xtamish", correct = false },
+      { text = "Suyurg'otmish", correct = false },
+    },
+  },
+  {
+    question = "Amir Temur 1380-yilda o'zining ona shahri Kesh (Shahrisabz)da qaysi ulkan inshoot qurilishini boshlatadi?",
+    answers = {
+      { text = "Oqsaroy", correct = true },
+      { text = "Go'ri Amir maqbarasi", correct = false },
+      { text = "Bibixonim jome masjidi", correct = false },
+      { text = "Ahmad Yassaviy maqbarasi", correct = false },
+    },
+  },
+  {
+    question = "Movarounnahr xavfsizligini ta'minlash maqsadida Amir Temur Mo'g'ulistonning qaysi amiriga qarshi zarbalar berdi?",
+    answers = {
+      { text = "Amir Qamariddin", correct = true },
+      { text = "Ilyosxo'ja", correct = false },
+      { text = "Tug'luq Temur", correct = false },
+      { text = "To'g'luq Temurning o'g'li Xizrxo'ja", correct = false },
+    },
+  },
+  {
+    question = "1360-yillarda Amir Temurning ilk siyosiy va harbiy maydonga chiqishi qanday lavozimni egallash bilan bog'liq?",
+    answers = {
+      { text = "Kesh (Qashqadaryo) dorug'asi etib tayinlanishi", correct = true },
+      { text = "Samarqand hokimi etib tayinlanishi", correct = false },
+      { text = "Balx hokimi bo'lishi", correct = false },
+      { text = "Chig'atoy xoni etib e'lon qilinishi", correct = false },
+    },
+  }
+}
+
