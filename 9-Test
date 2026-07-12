@@ -1,0 +1,731 @@
+questions = {
+  -- 26-mavzu: Somoniylar davlatining tashkil topishi bo'yicha 16 ta savol
+  {
+    question = "Somoniylar sulolasining ajdodi bo'lmish Somonxudot asli qayerlik nufuzli dehqonlardan (zodagonlardan) bo'lgan?",
+    answers = {
+      { text = "Buxoro", correct = false },
+      { text = "Balx va Termiz tevaragi", correct = true },
+      { text = "Samarqand", correct = false },
+      { text = "Xorazm", correct = false },
+    },
+  },
+  {
+    question = "Somonxudot VIII asrning birinchi yarmida Xurosonda arab noibi bo'lgan qaysi shaxsning ta'siri ostida islom dinini qabul qilgan?",
+    answers = {
+      { text = "Qutayba ibn Muslim", correct = false },
+      { text = "Abu Muslim", correct = false },
+      { text = "Asad ibn Abdulla", correct = true },
+      { text = "Xalifa Horun ar-Rashid", correct = false },
+    },
+  },
+  {
+    question = "819-yilda Movarounnahr va Xurosondagi isyonni bostirishda ko'rsatgan yordamlari uchun Asad ibn Somonning to'rt o'g'liga qaysi shaharlar boshqaruvi topshirildi?",
+    answers = {
+      { text = "Faqat Buxoro va Samarqand", correct = false },
+      { text = "Samarqand, Farg'ona, Shosh (Ustrushona) va Hirot", correct = true },
+      { text = "Marv, Nishopur, Balx va Kesh", correct = false },
+      { text = "Xiva, Urganch, Kat va Termiz", correct = false },
+    },
+  },
+  {
+    question = "Somoniylardan bo'lgan Nuh ibn Asadga qaysi qadimiy va yirik shaharning amirligi (boshqaruvi) berilgan edi?",
+    answers = {
+      { text = "Hirot", correct = false },
+      { text = "Farg'ona", correct = false },
+      { text = "Samarqand", correct = true },
+      { text = "Shosh", correct = false },
+    },
+  },
+  {
+    question = "892-yilda o'zaro kurashlarga barham berib, butun Movarounnahrni yagona mustaqil davlatga birlashtirgan Somoniy hukmdor kim?",
+    answers = {
+      { text = "Ahmad ibn Asad", correct = false },
+      { text = "Nasr ibn Ahmad", correct = false },
+      { text = "Ismoil Somoniy", correct = true },
+      { text = "Nuh ibn Mansur", correct = false },
+    },
+  },
+  {
+    question = "Ismoil Somoniy 893-yilda shimolga qarab katta zafarli yurish qilib, qaysi ko'chmanchi turkiy xalqni mag'lub etadi va Talas (Taroz) shahrini egallaydi?",
+    answers = {
+      { text = "Qarluqlarni", correct = true },
+      { text = "O'g'uzlarni", correct = false },
+      { text = "Qipchoqlarni", correct = false },
+      { text = "Xazarlarni", correct = false },
+    },
+  },
+  {
+    question = "Ismoil Somoniy qaysi yili o'zining asosiy raqibi — Safforiylar hukmdori Amr ibn Lays qo'shinlarini tor-mor keltirib, Xurosonni ham o'z davlatiga qo'shib oladi?",
+    answers = {
+      { text = "892-yilda", correct = false },
+      { text = "900-yilda", correct = true },
+      { text = "907-yilda", correct = false },
+      { text = "874-yilda", correct = false },
+    },
+  },
+  {
+    question = "Markazlashgan Somoniylar davlatining poytaxti qilib qaysi shahar belgilangan va u Islom sharqining eng yirik markazlaridan biriga aylangan?",
+    answers = {
+      { text = "Buxoro", correct = true },
+      { text = "Samarqand", correct = false },
+      { text = "Nishopur", correct = false },
+      { text = "Marv", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davlati xalifalikka nomigagina tobe bo'lib, amalda qanday huquqqa ega mustaqil davlat edi?",
+    answers = {
+      { text = "Arab tilini davlat tili qilish huquqi", correct = false },
+      { text = "Faqat soliq yig'ish huquqi", correct = false },
+      { text = "Xutbada xalifa nomini aytib, biroq o'z nomidan tanga pul zarb qilish huquqiga", correct = true },
+      { text = "Xalifa qo'shinlariga doimiy rahbarlik qilish huquqi", correct = false },
+    },
+  },
+  {
+    question = "Arab xalifasi Mo'tazid 900-yildagi g'alabadan so'ng Ismoil Somoniyga Xuroson va Movarounnahrni boshqarish huquqini berib, qanday unvonni in'om etgan?",
+    answers = {
+      { text = "Sulton", correct = false },
+      { text = "Amir", correct = true },
+      { text = "Xoqon", correct = false },
+      { text = "Ixshid", correct = false },
+    },
+  },
+  {
+    question = "Ismoil Somoniy mamlakat xavfsizligini ta'minlash va ko'chmanchilar hujumidan saqlanish uchun qanday inshootlar barpo ettirgan?",
+    answers = {
+      { text = "Buxoro vohasi atrofida yuzlab chaqirim uzunlikdagi mudofaa devori (Kampir devor)", correct = true },
+      { text = "Er osti yo'llari va g'orlar shahri", correct = false },
+      { text = "Faqat chegara minoralari", correct = false },
+      { text = "Amu va Sirdaryo bo'ylab yirik kemasozlik portlari", correct = false },
+    },
+  },
+  {
+    question = "X asrning oxiriga kelib ichki nizolar tufayli zaiflashgan Somoniylar davlatiga 999-yilda kimlar tomonidan uzil-kesil barham berildi?",
+    answers = {
+      { text = "Saljuqiylar", correct = false },
+      { text = "Qoraxoniylar", correct = true },
+      { text = "G'aznaviylar", correct = false },
+      { text = "Qoraxitoylar", correct = false },
+    },
+  },
+  {
+    question = "Ismoil Somoniydan keyin taxtga chiqqan uning o'g'li qaysi ism bilan tarixda qolgan?",
+    answers = {
+      { text = "Ahmad", correct = true },
+      { text = "Nuh", correct = false },
+      { text = "Yahyo", correct = false },
+      { text = "Mansur", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davrida Islom olamida \"Amir ul-umarosi\" (Amirlar amiri) deb ataladigan amaldor qanday lavozimni anglatgan?",
+    answers = {
+      { text = "Din ishlari vaziri", correct = false },
+      { text = "Viloyatlarning bosh hokimi yoki qo'shinning bosh qo'mondoni", correct = true },
+      { text = "Oliy qozikalon", correct = false },
+      { text = "Saroy me'mori", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar o'z nasabini qadimiy Eron va Turonning qaysi mashhur sulolalariga, xususan qaysi mashhur shaxsga bog'lashga harakat qilganlar?",
+    answers = {
+      { text = "Afrosiyobga", correct = false },
+      { text = "Sosoniylar sarkardasi Bahrom Cho'binga", correct = true },
+      { text = "Makedoniyalik Iskandarga", correct = false },
+      { text = "Xusrav Parvizga", correct = false },
+    },
+  },
+  {
+    question = "Tarixchi Narshaxiyning yozishicha, Ismoil Somoniy Buxoroni zabt etishdan oldin bu shahar qanday holatda edi?",
+    answers = {
+      { text = "Juda boy va tinch", correct = false },
+      { text = "O'zaro ichki urushlar, o'g'rilik va qaroqchilik avj olgan holatda edi", correct = true },
+      { text = "Xitoy istilosi ostida", correct = false },
+      { text = "To'liq vayron qilingan tashlandiq xaroba", correct = false },
+    },
+  },
+
+  -- 27-mavzu: Somoniylar davlatining boshqaruv tizimi va iqtisodiy hayoti bo'yicha 16 ta savol
+  {
+    question = "Somoniylar davlatining markaziy boshqaruvi asosan ikkita katta guruhga bo'lingan. Ular qaysilar edi?",
+    answers = {
+      { text = "Viloyatlar va tumanlar", correct = false },
+      { text = "Dargoh (saroy boshqaruvi) va Devon (hukumat/vazirliklar)", correct = true },
+      { text = "Harbiylar va ruhoniylar", correct = false },
+      { text = "Zodagonlar va dehqonlar", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davlatida amirdan keyingi eng yuqori davlat lavozimi — bosh vazir qanday faxriy unvon bilan atalgan?",
+    answers = {
+      { text = "Xoja Buzurg", correct = true },
+      { text = "Sohib as-shurat", correct = false },
+      { text = "Mushrif", correct = false },
+      { text = "Amir ul-umaro", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davrida faoliyat ko'rsatgan 10 ta markaziy idoradan biri bo'lib, davlat moliya ishlari, xazina va soliqlarni yig'ishga qaysi devon mas'ul bo'lgan?",
+    answers = {
+      { text = "Devoni barid", correct = false },
+      { text = "Devoni ariz", correct = false },
+      { text = "Devoni amil (yoki mustavfiy)", correct = true },
+      { text = "Devoni muhtasib", correct = false },
+    },
+  },
+  {
+    question = "Pochta aloqasi, xabarlar yetkazish va davlat ichidagi maxfiy ma'lumotlarni yig'uvchi (razvedka) mahkamasi qanday atalgan?",
+    answers = {
+      { text = "Devoni mushrif", correct = false },
+      { text = "Devoni barid", correct = true },
+      { text = "Devoni qozi", correct = false },
+      { text = "Devoni shurt", correct = false },
+    },
+  },
+  {
+    question = "Bozorlardagi narx-navoni, tosh va tarozilarning to'g'riligini hamda jamoat joylaridagi axloq qoidalarini nazorat qiluvchi amaldor kim edi?",
+    answers = {
+      { text = "Qozi", correct = false },
+      { text = "Oqsoqol", correct = false },
+      { text = "Muhtasib", correct = true },
+      { text = "Rais", correct = false },
+    },
+  },
+  {
+    question = "O'rta asrlarda davlat (sulton) ixtiyorida bo'lgan, ijaraga beriladigan va hosilining bir qismi xazinaga to'lanadigan yirik davlat yerlari qanday nomlangan?",
+    answers = {
+      { text = "Mulk", correct = false },
+      { text = "Mulki sultoniy (yoki amloki sultoniy)", correct = true },
+      { text = "Vaqf", correct = false },
+      { text = "Iqto", correct = false },
+    },
+  },
+  {
+    question = "Harbiy xizmat amaldorlari va sipohiylarga maosh o'rniga qishloq yoki viloyatlardan olinadigan soliqning bir qismini olish huquqini beruvchi shartli yer egaligi nima deyilgan?",
+    answers = {
+      { text = "Iqto", correct = true },
+      { text = "Tanho", correct = false },
+      { text = "Soyurg'ol", correct = false },
+      { text = "Vaqf", correct = false },
+    },
+  },
+  {
+    question = "Madrasalar, masjidlar, xonaqohlar va shifoxonalar ta'minoti uchun xayriya qilingan daxlsiz yer-mulklar qanday yer turiga kirgan?",
+    answers = {
+      { text = "Iqto yerlari", correct = false },
+      { text = "Vaqf yerlari", correct = true },
+      { text = "Davlat yerlari", correct = false },
+      { text = "Mulk yerlari", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davrida Buxoro, Samarqand kabi shaharlarning tarkibiy tuzilishida, savdogarlar va hunarmandlar yashaydigan shahar atrofi qismi nima deb atalardi?",
+    answers = {
+      { text = "Ark", correct = false },
+      { text = "Shahriston", correct = false },
+      { text = "Rabod", correct = true },
+      { text = "Qal'a", correct = false },
+    },
+  },
+  {
+    question = "Ushbu davrda Movarounnahrda xarojdan tashqari qaysi diniy soliq keng undirilgan bo'lib, u asosan hosilning o'ndan bir qismini tashkil etgan?",
+    answers = {
+      { text = "Jizya", correct = false },
+      { text = "Ushr", correct = true },
+      { text = "Boj", correct = false },
+      { text = "Zakot", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar poytaxti Buxoroning Registon maydonida nimalar joylashgan edi?",
+    answers = {
+      { text = "Faqat bozor va karvonsaroylar", correct = false },
+      { text = "Amir saroyi qoshidagi 10 ta davlat devoni (vazirliklar) binolari", correct = true },
+      { text = "Xalifa noibining qarorgohi", correct = false },
+      { text = "Harbiy poligonlar va kazarmalar", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davrida Iloq (Toshkent vohasi) va Farg'ona vodiysi asosan nimasi bilan butun Islom olamida mashhur bo'lgan?",
+    answers = {
+      { text = "Ipak to'qish sanoati bilan", correct = false },
+      { text = "Kumush, oltin konlari va metallurgiya markazi bo'lganligi bilan", correct = true },
+      { text = "Chinni pishirish texnologiyasi bilan", correct = false },
+      { text = "Zotdor otlar yetishtirishi bilan", correct = false },
+    },
+  },
+  {
+    question = "Somoniylar davrida yuz bergan \"Sharq Uyg'onish davri\" (Renessans) ning asosiy sabablaridan biri nima edi?",
+    answers = {
+      { text = "Xitoydan kelgan olimlarning ko'pligi", correct = false },
+      { text = "Mamlakatdagi tinchlik, markazlashgan hokimiyat va ilm-fan, savdoga homiylik qilinishi", correct = true },
+      { text = "Yevropa olimlari bilan yaqin aloqalar o'rnatilishi", correct = false },
+      { text = "Faqat diniy bilimlarning rag'batlantirilishi", correct = false },
+    },
+  },
+  {
+    question = "Dargohdagi amir tansoqchilari va gvardiyasi asosan qaysi xalqlardan yollangan botir va sadoqatli yigitlardan shakllantirilgan?",
+    answers = {
+      { text = "Turkiy g'ulomlardan", correct = true },
+      { text = "Eronliklardan", correct = false },
+      { text = "Hindlardan", correct = false },
+      { text = "Arablardan", correct = false },
+    },
+  },
+  {
+    question = "Davlat muassasalarida xujjatlarni ko'chirish, yozishma ishlari bilan shug'ullanuvchi ma'lumotli kotiblar nima deb atalgan?",
+    answers = {
+      { text = "Amirlar", correct = false },
+      { text = "Dabirlar (mirzolar)", correct = true },
+      { text = "Shurtalar", correct = false },
+      { text = "Roviylar", correct = false },
+    },
+  },
+  {
+    question = "IX-X asrlarda xalqaro savdoda O'rta Osiyodan Sharqiy Yevropa va Skandinaviya davlatlarigacha yetib borgan eng xaridorgir Movarounnahr tovarlaridan biri nima edi?",
+    answers = {
+      { text = "Zira va qalampir", correct = false },
+      { text = "Yuqori sifatli somoniy kumush tangalari va qurol-yarog'lar", correct = true },
+      { text = "Choy va kofe", correct = false },
+      { text = "Bambukdan yasalgan buyumlar", correct = false },
+    },
+  },
+
+  -- 28-mavzu: Qoraxoniylar davlati bo'yicha 16 ta savol
+  {
+    question = "IX asr oxiri - X asr o'rtalarida Yettisuv va Sharqiy Turkistonda vujudga kelgan Qoraxoniylar davlatiga qaysi turkiy qabilalar asosan asos solganlar?",
+    answers = {
+      { text = "Qarluq, chigil, yag'mo", correct = true },
+      { text = "Qipchoq, o'g'uz, pecheneg", correct = false },
+      { text = "Najman, kereit, merkit", correct = false },
+      { text = "Qorluq, tat, mo'g'ul", correct = false },
+    },
+  },
+  {
+    question = "Qoraxoniylar sulolasining birinchi asoschisi va ilk oliy xoqoni sifatida tarixda kimning nomi tilga olinadi?",
+    answers = {
+      { text = "Satuq Bug'roxon", correct = false },
+      { text = "Hasan Bug'roxon", correct = false },
+      { text = "Bilga Ko'l Qodirxon", correct = true },
+      { text = "Nasr Ilekxon", correct = false },
+    },
+  },
+  {
+    question = "Qoraxoniylar sulolasi vakillaridan birinchi bo'lib islom dinini qabul qilgan va o'z ismini Abdulkarim deb o'zgartirgan hukmdor kim?",
+    answers = {
+      { text = "Ibrohim Tamg'achxon", correct = false },
+      { text = "Satuq Bug'roxon", correct = true },
+      { text = "Nasr ibn Ali", correct = false },
+      { text = "Bilga Ko'l Qodirxon", correct = false },
+    },
+  },
+  {
+    question = "960-yilda islom dini Qoraxoniylar davlatining davlat (rasmiy) dini deb e'lon qilindi. Bu voqea qaysi Qoraxoniy hukmdori davriga to'g'ri keladi?",
+    answers = {
+      { text = "Muso ibn Abdulkarim (Satuq Bug'roxon o'g'li)", correct = true },
+      { text = "Hasan Bug'roxon", correct = false },
+      { text = "Bilga Ko'l Qodirxon", correct = false },
+      { text = "Alp Tegin", correct = false },
+    },
+  },
+  {
+    question = "992-yilda Buxoroni vaqtinchalik bosib olgan va Somoniylar poytaxtiga birinchi marta kirgan Qoraxoniy hukmdor kim edi?",
+    answers = {
+      { text = "Nasr Ilekxon", correct = false },
+      { text = "Hasan Bug'roxon", correct = true },
+      { text = "Ali Tegin", correct = false },
+      { text = "Ahmad Arslonxon", correct = false },
+    },
+  },
+  {
+    question = "999-yilda amalda Somoniylar davlatiga uzil-kesil yakun yasab, Buxoroni jangsiz egallagan Qoraxoniy sarkarda kim?",
+    answers = {
+      { text = "Mahmud G'aznaviy", correct = false },
+      { text = "Nasr Ilekxon", correct = true },
+      { text = "Hasan Bug'roxon", correct = false },
+      { text = "Qodirxon Yusuf", correct = false },
+    },
+  },
+  {
+    question = "1040-yilda (ba'zi manbalarda 1041) Qoraxoniylar davlati uzil-kesil mustaqil ikkita – Sharqiy va G'arbiy qismlarga bo'linib ketdi. Sharqiy xoqonlikning poytaxti qaysi shaharlar bo'ldi?",
+    answers = {
+      { text = "Samarqand va Buxoro", correct = false },
+      { text = "Balasog'un, keyinroq Qashqar", correct = true },
+      { text = "Marv va Nishopur", correct = false },
+      { text = "O'zgan va Toshkent", correct = false },
+    },
+  },
+  {
+    question = "G'arbiy Qoraxoniylar davlatining asosiy markazi (poytaxti) qilib qaysi shahar belgilangan?",
+    answers = {
+      { text = "Samarqand", correct = true },
+      { text = "O'tror", correct = false },
+      { text = "Buxoro", correct = false },
+      { text = "Tirmiz", correct = false },
+    },
+  },
+  {
+    question = "Qoraxoniylar davlatida ijtimoiy munosabatlarda qaysi tizim keng quloch yozib, davlatning bo'linishiga va markaziy hokimiyat zaiflashuviga olib keldi?",
+    answers = {
+      { text = "Quldorlik tizimi", correct = false },
+      { text = "Vaqf yerlarining yo'q qilinishi", correct = false },
+      { text = "Iqto tizimi va iqtodorlarning (muqto') merosiy amirliklarga aylanishi", correct = true },
+      { text = "Faqat bir kishining yakkahokimligi", correct = false },
+    },
+  },
+  {
+    question = "Qoraxoniylar davlatida oliy hukmdor qanday ulug' unvonlar bilan yuritilgan?",
+    answers = {
+      { text = "Xoqon (yoxud Tamg'achxon, Arslonxon)", correct = true },
+      { text = "Faqat Sulton deb", correct = false },
+      { text = "Amir ul-umaro", correct = false },
+      { text = "Vazir", correct = false },
+    },
+  },
+  {
+    question = "G'arbiy Qoraxoniylarning eng mashhur va adolatli hukmdorlaridan biri, Samarqandda bemoriston (shifoxona) va madrasa qurdirgan Ibrohim Tamg'achxon qaysi yillarda hukmronlik qilgan?",
+    answers = {
+      { text = "999-1010 yillarda", correct = false },
+      { text = "1040-1068 yillarda", correct = true },
+      { text = "1102-1130 yillarda", correct = false },
+      { text = "1200-1212 yillarda", correct = false },
+    },
+  },
+  {
+    question = "1089-yilda G'arbiy Qoraxoniylar davlati qaysi yirik imperiyaning vassali (qaram davlati) ga aylanib qoldi?",
+    answers = {
+      { text = "G'aznaviylar", correct = false },
+      { text = "Saljuqiylar", correct = true },
+      { text = "Mo'g'ullar", correct = false },
+      { text = "Sosoniylar", correct = false },
+    },
+  },
+  {
+    question = "1141-yil Samarqand yaqinidagi Qatvon dashtida yuz bergan jangda Qoraxoniylar va Saljuqiylar birlashgan qo'shini kimlardan yengildi?",
+    answers = {
+      { text = "Qoraxitoylardan (Lyao)", correct = true },
+      { text = "Xorazmshohlardan", correct = false },
+      { text = "G'uriylardan", correct = false },
+      { text = "O'g'uzlardan", correct = false },
+    },
+  },
+  {
+    question = "Qoraxoniylar davrida jamiyatdagi chorvachilik bilan shug'ullanuvchi erkin aholi (ko'chmanchilar) umumiy qilib qanday atalardi?",
+    answers = {
+      { text = "Dehqonlar", correct = false },
+      { text = "Kadivarlar", correct = false },
+      { text = "El (yoki elat)", correct = true },
+      { text = "Chokarlar", correct = false },
+    },
+  },
+  {
+    question = "1212-yilda Samarqandda yuz bergan qo'zg'olon bostirilgach, G'arbiy Qoraxoniylar sulolasini butunlay tugatgan hukmdor kim?",
+    answers = {
+      { text = "Chingizxon", correct = false },
+      { text = "Saljuqiy sulton Sanjar", correct = false },
+      { text = "Xorazmshoh Muhammad", correct = true },
+      { text = "G'aznaviy sulton Mahmud", correct = false },
+    },
+  },
+  {
+    question = "Qoraxoniylar davrida turkiy tildagi ilk yirik yozma adabiyot durdonalari yaratildi. Ular qatoriga qaysi asarlar kiradi?",
+    answers = {
+      { text = "\"Qutadg'u bilig\" (Yusuf Xos Hojib) va \"Devonu lug'otit turk\" (Mahmud Qoshg'ariy)", correct = true },
+      { text = "\"Shohnoma\" va \"Zafarnoma\"", correct = false },
+      { text = "\"Tarixi Tabariy\" va \"Siyosatnoma\"", correct = false },
+      { text = "\"Qobusnoma\" va \"Sino tibbiyoti\"", correct = false },
+    },
+  },
+
+  -- 29-mavzu: G'aznaviylar davlati bo'yicha 16 ta savol
+  {
+    question = "G'aznaviylar davlatiga 962-yilda asos solgan Alptegin o'z faoliyatini Somoniylar saroyida qanday lavozimdan boshlagan edi?",
+    answers = {
+      { text = "Oddiy turkiy g'ulom (qul-askariy) bo'lib", correct = true },
+      { text = "Moliya vaziri bo'lib", correct = false },
+      { text = "Oliy qozi bo'lib", correct = false },
+      { text = "To'g'ridan-to'g'ri Xuroson amiri bo'lib", correct = false },
+    },
+  },
+  {
+    question = "G'aznaviylar davlatining ilk poytaxti va sulolaga nom bergan shahar G'azna hozirgi qaysi davlat hududida joylashgan?",
+    answers = {
+      { text = "Pokiston", correct = false },
+      { text = "Afg'oniston", correct = true },
+      { text = "Eron", correct = false },
+      { text = "O'zbekiston", correct = false },
+    },
+  },
+  {
+    question = "G'aznaviylar amirligini amalda mustaqil, mustahkam davlatga aylantirgan (977-997 yillar) va o'z sulolasini boshlagan hukmdor kim?",
+    answers = {
+      { text = "Alptegin", correct = false },
+      { text = "Sabuktegin", correct = true },
+      { text = "Mahmud G'aznaviy", correct = false },
+      { text = "Mas'ud", correct = false },
+    },
+  },
+  {
+    question = "G'aznaviylar davlati o'zining eng oliy rivojlanish va qudrat cho'qqisiga qaysi hukmdor davrida erishdi (998-1030)?",
+    answers = {
+      { text = "Sabuktegin", correct = false },
+      { text = "Sulton Mahmud G'aznaviy", correct = true },
+      { text = "Sulton Mas'ud", correct = false },
+      { text = "To'g'rulbek", correct = false },
+    },
+  },
+  {
+    question = "Tarixda birinchi bo'lib rasman va keng miqyosda \"Sulton\" unvonini qo'llagan islom hukmdori kim hisoblanadi?",
+    answers = {
+      { text = "Ismoil Somoniy", correct = false },
+      { text = "Mahmud G'aznaviy", correct = true },
+      { text = "Tog'rulbek", correct = false },
+      { text = "Nasr Ilekxon", correct = false },
+    },
+  },
+  {
+    question = "Sulton Mahmud G'aznaviy g'azovat (diniy urush) bahonasida katta o'lja topish maqsadida Hindistonga necha marta harbiy yurish qilgan?",
+    answers = {
+      { text = "5 marta", correct = false },
+      { text = "12 marta", correct = false },
+      { text = "17 marta", correct = true },
+      { text = "22 marta", correct = false },
+    },
+  },
+  {
+    question = "G'aznaviylar davlatining doimiy, maxsus tayyorgarlikdan o'tgan harbiy kuchlarining markaziy qismini kimlar tashkil qilgan?",
+    answers = {
+      { text = "Faqat arab ko'ngillilari", correct = false },
+      { text = "Viloyatlardan yig'ilgan dehqon chokarlari", correct = false },
+      { text = "Turli elatlardan, asosan turkiy asirlardan iborat g'ulomlar gvardiyasi", correct = true },
+      { text = "Mo'g'ul yollanmalari", correct = false },
+    },
+  },
+  {
+    question = "Sulton Mahmud Hindiston yurishlaridan G'aznaviy armiyasi uchun qanday dahshatli maxsus harbiy kuch (jonivorlar) ni olib kelib, undan faol foydalangan?",
+    answers = {
+      { text = "Tuyalar kavaleryasi", correct = false },
+      { text = "Jangovar fillar qismlari", correct = true },
+      { text = "Pahlavon itlar", correct = false },
+      { text = "Zirhli xachirlar", correct = false },
+    },
+  },
+  {
+    question = "1017-yilda Sulton Mahmud qaysi mustaqil hududni zabt etib, u yerdagi ko'plab olimlar va hunarmandlarni G'aznaga olib ketadi?",
+    answers = {
+      { text = "Xorazmni", correct = true },
+      { text = "Bag'dodni", correct = false },
+      { text = "Buxoroni", correct = false },
+      { text = "Ozarbayjonni", correct = false },
+    },
+  },
+  {
+    question = "Mahmud G'aznaviy tomonidan G'aznaga olib ketilgan va u yerda ilmiy faoliyatini davom ettirgan xorazmlik mashhur qomusiy olim kim edi?",
+    answers = {
+      { text = "Ibn Sino", correct = false },
+      { text = "Abu Nasr Forobiy", correct = false },
+      { text = "Abu Rayhon Beruniy", correct = true },
+      { text = "Al-Xorazmiy", correct = false },
+    },
+  },
+  {
+    question = "Sulton Mahmud saroyida yashab, 30 yil davomida mashhur doston – \"Shohnoma\"ni yaratgan fors-tojik shoiri kim?",
+    answers = {
+      { text = "Umar Xayyom", correct = false },
+      { text = "Abulqosim Firdavsiy", correct = true },
+      { text = "Sa'diy Sheroziy", correct = false },
+      { text = "Rudakiy", correct = false },
+    },
+  },
+  {
+    question = "1040-yilda G'aznaviylar va Saljuqiylar o'rtasida Xuroson taqdirini hal qilgan tarixiy jang qaysi hududda bo'lib o'tdi?",
+    answers = {
+      { text = "Qatvon dashtida", correct = false },
+      { text = "Talas daryosi bo'yida", correct = false },
+      { text = "Dandanaqon mavzesida", correct = true },
+      { text = "Malazgirt maydonida", correct = false },
+    },
+  },
+  {
+    question = "Dandanaqon jangida saljuqiylardan og'ir mag'lubiyatga uchragan va jang maydonidan qochishga majbur bo'lgan G'aznaviy sultoni kim edi?",
+    answers = {
+      { text = "Sulton Mahmud", correct = false },
+      { text = "Sulton Mas'ud", correct = true },
+      { text = "Sabuktegin", correct = false },
+      { text = "Mavdud", correct = false },
+    },
+  },
+  {
+    question = "Dandanaqon mag'lubiyatidan so'ng G'aznaviylar davlati qanday iqlim va jug'rofiy hududga chekinishga majbur bo'ldi?",
+    answers = {
+      { text = "Movarounnahrga", correct = false },
+      { text = "G'arbiy Eronga", correct = false },
+      { text = "Afg'onistonning sharqiy qismi va Shimoliy Hindistonga", correct = true },
+      { text = "Kavkazga", correct = false },
+    },
+  },
+  {
+    question = "G'aznaviylar davlatidagi muhim davlat xujjatlari, yozishmalar asosan qaysi tilda olib borilardi?",
+    answers = {
+      { text = "Turkiy tilda", correct = false },
+      { text = "Arab tilida", correct = false },
+      { text = "Fors (fors-tojik) tilida", correct = true },
+      { text = "Urdu tilida", correct = false },
+    },
+  },
+  {
+    question = "XII asrning oxirida (1186-yilda) zaiflashib qolgan G'aznaviylar sulolasini uzil-kesil tugatgan va poytaxt Lohurni egallaganlar kimlar?",
+    answers = {
+      { text = "G'uriylar", correct = true },
+      { text = "Saljuqiylar", correct = false },
+      { text = "Mo'g'ullar", correct = false },
+      { text = "Qoraxoniylar", correct = false },
+    },
+  },
+
+  -- 30-mavzu: Saljuqiylar davlati bo'yicha 16 ta savol
+  {
+    question = "Buyuk Saljuqiylar sulolasi turkiy xalqlarning qaysi katta qabilalar ittifoqiga, aynan qaysi urug'ga mansub edi?",
+    answers = {
+      { text = "Qarluqlarning yag'mo urug'iga", correct = false },
+      { text = "O'g'uzlarning qiniq urug'iga", correct = true },
+      { text = "Qipchoqlarning qiyat urug'iga", correct = false },
+      { text = "Naymanlarning kereit urug'iga", correct = false },
+    },
+  },
+  {
+    question = "XI asrning boshlarida Saljuqiylarni birlashtirgan va G'aznaviylarga qarshi mustaqillik uchun kurashni boshlagan ikki aka-uka kimlar edi?",
+    answers = {
+      { text = "Saljuq va Mikoil", correct = false },
+      { text = "To'g'rulbek va Chaqirbek", correct = true },
+      { text = "Alp Arslon va Malikshoh", correct = false },
+      { text = "Bilga Qodirxon va Satuq", correct = false },
+    },
+  },
+  {
+    question = "1040-yilda Dandanaqon jangidagi yirik g'alabadan so'ng To'g'rulbek Saljuqiylar davlatining ilk poytaxti etib qaysi shaharni tanladi?",
+    answers = {
+      { text = "Marvni", correct = false },
+      { text = "Isfahonni", correct = false },
+      { text = "Nishopurni", correct = true },
+      { text = "Bag'dodni", correct = false },
+    },
+  },
+  {
+    question = "1055-yilda To'g'rulbek qaysi mashhur va qadimiy shaharni jangsiz egallab, Arab xalifaligini Saljuqiylar himoyasiga oldi?",
+    answers = {
+      { text = "Qohirani", correct = false },
+      { text = "Damashqni", correct = false },
+      { text = "Bag'dodni", correct = true },
+      { text = "Makkani", correct = false },
+    },
+  },
+  {
+    question = "Bag'dodni egallagach, Abbosiy xalifasi To'g'rulbekka qanday oliy unvonni hadya qildi?",
+    answers = {
+      { text = "Amir ul-Mo'minin", correct = false },
+      { text = "Sharq va G'arb sultoni", correct = true },
+      { text = "Buyuk Xoqon", correct = false },
+      { text = "Oliy Mujaddid", correct = false },
+    },
+  },
+  {
+    question = "Buyuk Saljuqiylar imperiyasi qaysi ikki sultonning hukmronlik yillarida o'zining eng qudratli cho'qqisiga va keng sarhadlarga erishdi?",
+    answers = {
+      { text = "To'g'rulbek va Chaqirbek", correct = false },
+      { text = "Alp Arslon va Malikshoh", correct = true },
+      { text = "Sulton Sanjar va Berk-Yoruq", correct = false },
+      { text = "Sulton Mas'ud va Mahmud", correct = false },
+    },
+  },
+  {
+    question = "1071-yilda Sulton Alp Arslon boshchiligidagi Saljuqiy qo'shinlari Malazgirt (Manzikert) jangida qaysi qudratli davlat qo'shinini tor-mor qildi?",
+    answers = {
+      { text = "Xuroson G'aznaviylarini", correct = false },
+      { text = "Vizantiya imperiyasini", correct = true },
+      { text = "Misr Fotimiylarini", correct = false },
+      { text = "Gruziya qirolligini", correct = false },
+    },
+  },
+  {
+    question = "Malazgirt jangining tarixiy oqibati nimadan iborat bo'ldi?",
+    answers = {
+      { text = "Kichik Osiyo (hozirgi Turkiya hududi) turklar uchun ochildi va keng egallana boshlandi", correct = true },
+      { text = "Saljuqiylar Yevropaga to'liq kirib bordilar", correct = false },
+      { text = "Vizantiya imperiyasi o'sha kunning o'zida butunlay quladi", correct = false },
+      { text = "Saljuqiylar dengiz flotiga ega bo'ldilar", correct = false },
+    },
+  },
+  {
+    question = "Sulton Alp Arslon va Sulton Malikshoh davrida qariyb o'ttiz yil davomida mamlakatni amalda oqilona boshqargan mashhur vazir kim?",
+    answers = {
+      { text = "Xoja Axror", correct = false },
+      { text = "Nizomulmulk", correct = true },
+      { text = "Bal'amiy", correct = false },
+      { text = "Mahmud Yalavoch", correct = false },
+    },
+  },
+  {
+    question = "Vazir Nizomulmulk tomonidan yozilgan, davlat boshqaruvi prinsiplari, shoh va amaldorlar odobi bayon qilingan mashhur asar qanday nomlanadi?",
+    answers = {
+      { text = "\"Qutadg'u bilig\"", correct = false },
+      { text = "\"Siyosatnoma\" (Siyar ul-muluk)", correct = true },
+      { text = "\"Zafarnoma\"", correct = false },
+      { text = "\"Tarixi jahongushoy\"", correct = false },
+    },
+  },
+  {
+    question = "Sulton Malikshoh davrida (1072-1092) Saljuqiylar poytaxti Marv va Nishopurdan Erondagi qaysi ko'rkam shaharga ko'chirildi?",
+    answers = {
+      { text = "Tabrizga", correct = false },
+      { text = "Isfahonga", correct = true },
+      { text = "Tehronga", correct = false },
+      { text = "Sherozga", correct = false },
+    },
+  },
+  {
+    question = "Saljuqiylar imperiyasida qo'shin askarlari va amaldorlariga xizmati evaziga yer-mulkdan tushadigan daromadni berish bo'yicha qaysi tizim yanada takomillashdi?",
+    answers = {
+      { text = "Vaqf tizimi", correct = false },
+      { text = "Iqto tizimi", correct = true },
+      { text = "Amlok tizimi", correct = false },
+      { text = "Uluse tizimi", correct = false },
+    },
+  },
+  {
+    question = "Buyuk Saljuqiylar imperiyasining qulashi va mayda davlatlarga (Suriya, Rum, Kermon va Xuroson saljuqiylariga) bo'linib ketishi qaysi voqeadan so'ng tezlashdi?",
+    answers = {
+      { text = "1092-yilda Sulton Malikshoh va vazir Nizomulmulkning o'limidan so'ng", correct = true },
+      { text = "1040-yil Dandanaqon jangidan so'ng", correct = false },
+      { text = "Salib yurishlari tugagandan so'ng", correct = false },
+      { text = "Mo'g'ullar hujumidan so'ng", correct = false },
+    },
+  },
+  {
+    question = "Saljuqiylarning Xurosondagi so'nggi yirik hukmdori Sulton Sanjar qachon va qayerda qoraxitoylardan dahshatli mag'lubiyatga uchraydi?",
+    answers = {
+      { text = "1141-yilda Qatvon dashtida", correct = true },
+      { text = "1153-yilda Balxda", correct = false },
+      { text = "1071-yilda Malazgirtda", correct = false },
+      { text = "1212-yilda Samarqandda", correct = false },
+    },
+  },
+  {
+    question = "Bag'dod, Isfahon, Nishopur, Hirot kabi shaharlarda vazir homiyligida bunyod etilgan va o'z davrining ilk universitetlari hisoblangan oliy o'quv yurtlari qanday atalardi?",
+    answers = {
+      { text = "Nizomiya madrasalari", correct = true },
+      { text = "Bayt ul-hikma", correct = false },
+      { text = "Mir Arab madrasasi", correct = false },
+      { text = "Dor ush-shifo", correct = false },
+    },
+  },
+  {
+    question = "Saljuqiylar davlatining Yaqin Sharqda erishgan siyosiy hukmronligi evaziga o'sha asrlarda Yevropa manbalarida va harakatlarida saljuqiylarga qarshi qanday katta diniy-harbiy kampaniya boshlandi?",
+    answers = {
+      { text = "Yuz yillik urushlar", correct = false },
+      { text = "Salib yurishlari (Xristianlarning Quddusni qaytarish harakati)", correct = true },
+      { text = "Rekonkista harakati", correct = false },
+      { text = "Shimoliy urush", correct = false },
+    },
+  },
+}
