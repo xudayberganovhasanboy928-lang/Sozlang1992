@@ -1,0 +1,731 @@
+questions = {
+-- 1-MAVZU: O'RTA ASRLAR TARIXI VA BUYUK XALQLAR KO'CHISHI
+{
+question = "Jahon tarixida o'rta asrlar davri nechanchi asrlarni o'z ichiga oladi?",
+answers = {
+{text = "Uchinchi asrdan o'ninchi asrgacha", correct = false},
+{text = "Beshinchi asrdan o'n beshinchi asrgacha", correct = true},
+{text = "To'rtinchi asrdan o'n to'rtinchi asrgacha", correct = false},
+{text = "Oltinchi asrdan o'n oltinchi asrgacha", correct = false},
+}
+},
+{
+question = "O'rta asrlar tarixi davr nuqtayi nazaridan jami nechta bosqichga bo'linib o'rganiladi?",
+answers = {
+{text = "Ikki bosqichga", correct = false},
+{text = "To'rt bosqichga", correct = false},
+{text = "Uch bosqichga", correct = true},
+{text = "Besh bosqichga", correct = false},
+}
+},
+{
+question = "Ilk o'rta asrlar davri bashariyat tarixida qaysi asrlarni qamrab olgan?",
+answers = {
+{text = "Beshinchi asr oxiridan to'qqizinchi asrgacha", correct = false},
+{text = "To'rtinchi asrdan o'ninchi asrgacha", correct = false},
+{text = "Oltinchi asrdan o'n ikkinchi asrgacha", correct = false},
+{text = "Beshinchi asrdan o'n birinchi asrning o'rtalarigacha", correct = true},
+}
+},
+{
+question = "Yevropa tarixida Rivojlangan o'rta asrlar qachon hukm surgan?",
+answers = {
+{text = "O'n birinchi asr o'rtalaridan o'n beshinchi asrgacha", correct = true},
+{text = "O'ninchi asrdan o'n uchinchi asrgacha", correct = false},
+{text = "O'n ikkinchi asrdan o'n oltinchi asrgacha", correct = false},
+{text = "Sakkizinchi asrdan o'n birinchi asrgacha", correct = false},
+}
+},
+{
+question = "O'rta asrlar tarixini o'rganishda davr voqealarini yilma-yil bayon etuvchi muhim yozma manba qanday ataladi?",
+answers = {
+{text = "Dostonlar", correct = false},
+{text = "Xronika yoki solnomalar", correct = true},
+{text = "Memuarlar", correct = false},
+{text = "Farmonlar", correct = false},
+}
+},
+{
+question = "Tarix faniga «O'rta asrlar» atamasini ilk bora qaysi davr mutafakkirlari kiritganlar?",
+answers = {
+{text = "Qadimgi yunon faylasuflari", correct = false},
+{text = "Oqartuvchilik asri arboblari", correct = false},
+{text = "Uyg'onish davri gumanist olimlari", correct = true},
+{text = "Yangi davr tarixchilari", correct = false},
+}
+},
+{
+question = "Gumanist olimlar qadimgi va o'zlarining davri o'rtasidagi bu asrlarni qanday atagan edilar?",
+answers = {
+{text = "Jaholat davri", correct = false},
+{text = "Sukunat asri", correct = false},
+{text = "Oltin asr", correct = false},
+{text = "Qorong'ulik davri", correct = true},
+}
+},
+{
+question = "To'rt yuz yetmish oltinchi yilda qaysi buyuk imperiyaning qulashi bilan o'rta asrlar davri boshlangan?",
+answers = {
+{text = "G'arbiy Rim imperiyasining", correct = true},
+{text = "Fors imperiyasining", correct = false},
+{text = "Aleksandr Makedonskiy davlatining", correct = false},
+{text = "Sharqiy Rim imperiyasining", correct = false},
+}
+},
+{
+question = "G'arbiy Rim imperiyasining so'nggi hukmdori bo'lgan tarixiy shaxs kim edi?",
+answers = {
+{text = "Odoakr", correct = false},
+{text = "Romul Avgustul", correct = true},
+{text = "Yuliy Sezar", correct = false},
+{text = "Konstantin", correct = false},
+}
+},
+{
+question = "To'rt yuz yetmish oltinchi yilda G'arbiy Rim imperatorini taxtdan ag'dargan german qo'mondoni kim bo'lgan?",
+answers = {
+{text = "Alarix", correct = false},
+{text = "Attila", correct = false},
+{text = "Odoakr", correct = true},
+{text = "Geyzerix", correct = false},
+}
+},
+{
+question = "Qadimgi rimliklar o'z madaniyatidan yiroq bo'lgan barcha qabilalarni qanday atashardi?",
+answers = {
+{text = "Keltlar", correct = false},
+{text = "Ko'chmanchilar", correct = false},
+{text = "Chet elliklar", correct = false},
+{text = "Varvarlar", correct = true},
+}
+},
+{
+question = "Buyuk xalqlar ko'chishi deb atalgan tarixiy jarayon nechanchi asrlarni o'z ichiga olgan?",
+answers = {
+{text = "To'rtinchi — yettinchi asrlar", correct = true},
+{text = "Beshinchi — sakkizinchi asrlar", correct = false},
+{text = "Uchinchi — oltinchi asrlar", correct = false},
+{text = "Ikkinchi — beshinchi asrlar", correct = false},
+}
+},
+{
+question = "To'rtinchi asrning yetmishinchi yillarida Yevropaga bostirib kirib, xalqlar ko'chishini boshlab bergan qabila qaysi edi?",
+answers = {
+{text = "Vandallar", correct = false},
+{text = "Xunnlar", correct = true},
+{text = "Vestgotlar", correct = false},
+{text = "Franklar", correct = false},
+}
+},
+{
+question = "To'rt yuz o'ninchi yilda qaysi hukmdor boshchiligidagi german qabilalari Rim shahrini egallagan edilar?",
+answers = {
+{text = "Teodorix", correct = false},
+{text = "Xlodvig", correct = false},
+{text = "Alarix", correct = true},
+{text = "Odoakr", correct = false},
+}
+},
+{
+question = "To'rt yuz ellik beshinchi yilda ajoyib me'moriy obidalarga boy Rimni ayovsiz vayron qilgan qabila kimlar edi?",
+answers = {
+{text = "Vestgotlar", correct = false},
+{text = "Ostgotlar", correct = false},
+{text = "Sakslar", correct = false},
+{text = "Vandallar", correct = true},
+}
+},
+{
+question = "Ostgotlar qabilasi beshinchi asr oxirida qaysi hududda o'zining qudratli davlatini barpo etdi?",
+answers = {
+{text = "Italiyada", correct = true},
+{text = "Ispaniyada", correct = false},
+{text = "Galliyada", correct = false},
+{text = "Shimoliy Afrikada", correct = false},
+}
+},
+
+-- 2-MAVZU: FRANKLAR DAVLATINING TASHKIL TOPISHI
+{
+question = "Beshinchi asrda german qabilalaridan biri bo'lgan franklar qaysi daryo hududlarida yashar edilar?",
+answers = {
+{text = "Dunay daryosi bo'ylarida", correct = false},
+{text = "Reyn daryosining quyi oqimida", correct = true},
+{text = "Temza daryosi vodiysida", correct = false},
+{text = "Sena daryosi atrofida", correct = false},
+}
+},
+{
+question = "Frank qabilalarini yagona davlat tevaragiga birlashtirishga muvaffaq bo'lgan hukmdor kim?",
+answers = {
+{text = "Xlodvig", correct = true},
+{text = "Karl Martell", correct = false},
+{text = "Pipin Pakana", correct = false},
+{text = "Buyuk Karl", correct = false},
+}
+},
+{
+question = "Xlodvig asos solgan sulola franklar tarixida qanday nom bilan ataladi?",
+answers = {
+{text = "Karolinglar sulolasi", correct = false},
+{text = "Kapetinglar sulolasi", correct = false},
+{text = "Merovinglar sulolasi", correct = true},
+{text = "Plantagenetlar sulolasi", correct = false},
+}
+},
+{
+question = "To'rt yuz sakson oltinchi yilda franklar va rimliklar o'rtasidagi hal qiluvchi jang qayerda bo'lib o'tdi?",
+answers = {
+{text = "Parij ostonalarida", correct = false},
+{text = "Orlean yaqinida", correct = false},
+{text = "Katalon dalalarida", correct = false},
+{text = "Suason shahri yaqinida", correct = true},
+}
+},
+{
+question = "Franklar davlatida qadimiy urf-odatlarni o'zida jamlagan ilk yozma qonunlar to'plami qanday atalgan?",
+answers = {
+{text = "Muqaddas bitiklar", correct = false},
+{text = "Salik haqiqati", correct = true},
+{text = "Yustinian kodeksi", correct = false},
+{text = "Varvarlar huquqi", correct = false},
+}
+},
+{
+question = "Xlodvig davrida mamlakatdagi barcha viloyatlarni boshqarish uchun qirol nomidan tayinlangan amaldorlar kim edi?",
+answers = {
+{text = "Gersoglar", correct = false},
+{text = "Markgraflar", correct = false},
+{text = "Graflar", correct = true},
+{text = "Vassallar", correct = false},
+}
+},
+{
+question = "To'rt yuz to'qson oltinchi yilda Xlodvig o'z qo'shini bilan birgalikda qaysi dinni qabul qildi?",
+answers = {
+{text = "Xristian dinini", correct = true},
+{text = "Islom dinini", correct = false},
+{text = "Yahudiylikni", correct = false},
+{text = "Buddizmni", correct = false},
+}
+},
+{
+question = "Franklar o'rtasida katta yer egalarining paydo bo'lishi natijasida in'om etilgan yerlar nima deb atalgan?",
+answers = {
+{text = "Domen", correct = false},
+{text = "Feod", correct = true},
+{text = "Iqto", correct = false},
+{text = "Vaqf", correct = false},
+}
+},
+{
+question = "Sakkizinchi asr boshlariga kelib Franklar davlatidagi barcha amaliy hokimiyat kimlarning qo'liga o'tib qoldi?",
+answers = {
+{text = "Cherkov ruxoniylariga", correct = false},
+{text = "Qo'mondonlarga", correct = false},
+{text = "Graflarga", correct = false},
+{text = "Mayordomlarga", correct = true},
+}
+},
+{
+question = "Sakkizinchi asrning birinchi yarmida Franklar davlatini mustahkamlagan va kuchli qo'shin tuzgan mayordom kim edi?",
+answers = {
+{text = "Karl Martell", correct = true},
+{text = "Xlodvig", correct = false},
+{text = "Pipin Pakana", correct = false},
+{text = "Gugo Kapet", correct = false},
+}
+},
+{
+question = "Yetti yuz o'ttiz ikkinchi yilda arablar va franklar o'rtasida bo'lib o'tgan mashhur jang qayerda yuz bergan?",
+answers = {
+{text = "Tuluza yaqinida", correct = false},
+{text = "Puate shahri yaqinida", correct = true},
+{text = "Kordova atrofida", correct = false},
+{text = "Parij ostonasida", correct = false},
+}
+},
+{
+question = "Karl Martell Puate jangidagi g'alabasi orqali arablarning qayerga yurishini to'xtatib qoldi?",
+answers = {
+{text = "Osiyoga", correct = false},
+{text = "Italiyaga", correct = false},
+{text = "Markaziy Yevropaga", correct = true},
+{text = "Shimoliy Afrikaga", correct = false},
+}
+},
+{
+question = "Karl Martell xizmat o'tagan jangchilariga nimalarni tortiq qilar edi?",
+answers = {
+{text = "Qimmatbaho qurollar", correct = false},
+{text = "Oltin tangalar", correct = false},
+{text = "Faqat unvonlar", correct = false},
+{text = "Yer va qaram dehqonlarni", correct = true},
+}
+},
+{
+question = "Yetti yuz ellik birinchi yilda o'zini butun franklarning qonuniy qiroli deb e'lon qilgan shaxs kim?",
+answers = {
+{text = "Pipin Pakana", correct = true},
+{text = "Buyuk Karl", correct = false},
+{text = "Karl Martell", correct = false},
+{text = "Lyudovik", correct = false},
+}
+},
+{
+question = "Pipin Pakana asos solgan yangi sulola tarixda qaysi nom ostida ma'lum?",
+answers = {
+{text = "Valualar sulolasi", correct = false},
+{text = "Merovinglar sulolasi", correct = false},
+{text = "Karolinglar sulolasi", correct = true},
+{text = "Shtaufenlar sulolasi", correct = false},
+}
+},
+{
+question = "Pipin Pakana Rim papasi bilan ittifoq tuzib, unga qaysi hududlarni tortiq qildi?",
+answers = {
+{text = "Parij va Orleanni", correct = false},
+{text = "Rim va Ravenna shaharlarini", correct = true},
+{text = "Neapol viloyatini", correct = false},
+{text = "Venetsiyani", correct = false},
+}
+},
+
+-- 3-MAVZU: BUYUK KARL VA KAROLINGLAR IMPERIYASI
+{
+question = "Franklar davlatini eng qudratli imperiyaga aylantirgan hukmdor Buyuk Karl qaysi yillarda taxtni boshqardi?",
+answers = {
+{text = "Yetti yuz ellik birinchi — yetti yuz oltmish sakkizinchi yillar", correct = false},
+{text = "Sakkiz yuzinchi — sakkiz yuz yigirma to'rtinchi yillar", correct = false},
+{text = "Yetti yuz oltmish sakkizinchi — sakkiz yuz o'n to'rtinchi yillar", correct = true},
+{text = "Sakkiz yuz o'n to'rtinchi — sakkiz yuz qirq uchinchi yillar", correct = false},
+}
+},
+{
+question = "Buyuk Karl necha yillik hukmronligi davomida jami ellikdan ortiq harbiy yurishlarni amalga oshirdi?",
+answers = {
+{text = "Qirq olti yil", correct = true},
+{text = "Ellik yil", correct = false},
+{text = "O'ttiz besh yil", correct = false},
+{text = "Qirq yil", correct = false},
+}
+},
+{
+question = "Buyuk Karl qo'shini eng og'ir va ko'p yillik urushni qaysi qabilaga qarshi olib bordi?",
+answers = {
+{text = "Vandallarga qarshi", correct = false},
+{text = "Gotlarga qarshi", correct = false},
+{text = "Sakslarga qarshi", correct = true},
+{text = "Slavyanlarga qarshi", correct = false},
+}
+},
+{
+question = "Buyuk Karlning sakslarga qarshi olib borgan tinimsiz harbiy yurishlari necha yil davom etdi?",
+answers = {
+{text = "Yigirma yil", correct = false},
+{text = "O'n besh yil", correct = false},
+{text = "O'ttiz yildan ortiq", correct = true},
+{text = "Ellik yil", correct = false},
+}
+},
+{
+question = "Rim papasiga yordam berish maqsadida Buyuk Karl qaysi xalqqa qarshi Italiyaga yurish qildi?",
+answers = {
+{text = "Langobardlarga qarshi", correct = true},
+{text = "Ostgotlarga qarshi", correct = false},
+{text = "Normannlarga qarshi", correct = false},
+{text = "Arablarga qarshi", correct = false},
+}
+},
+{
+question = "Buyuk Karl janubda Ispaniya hududlariga qo'shin tortib, u yerda kimlar bilan shiddatli janglar qildi?",
+answers = {
+{text = "Vestgotlar bilan", correct = false},
+{text = "Arablar bilan", correct = true},
+{text = "Rimliklar bilan", correct = false},
+{text = "Keltlar bilan", correct = false},
+}
+},
+{
+question = "Sakkiz yuzinchi yilda Buyuk Karl qaysi shaharda o'ziga imperatorlik tojini kiydirdi?",
+answers = {
+{text = "Parijda", correct = false},
+{text = "Aaxenda", correct = false},
+{text = "Reymsda", correct = false},
+{text = "Rim shahrida", correct = true},
+}
+},
+{
+question = "Imperatorlik toji Buyuk Karlning boshiga qaysi ibodatxonada yuksak tantana bilan kiydirildi?",
+answers = {
+{text = "Avliyo Pyotr ibodatxonasida", correct = true},
+{text = "Notr-Dam soborida", correct = false},
+{text = "Avliyo Sofiya ibodatxonasida", correct = false},
+{text = "Panteonda", correct = false},
+}
+},
+{
+question = "Sakkiz yuzinchi yilda Karlga imperatorlik unvonini topshirgan tarixiy shaxs kim edi?",
+answers = {
+{text = "Patriarx Kirill", correct = false},
+{text = "Rim papasi Lev uchinchi", correct = true},
+{text = "Pipin Pakana", correct = false},
+{text = "Yepiskop Avgustin", correct = false},
+}
+},
+{
+question = "Buyuk Karl qaram xalqlarni bo'ysundirib turish uchun chegara hududlarida qanday viloyatlar tashkil etdi?",
+answers = {
+{text = "Domenlar", correct = false},
+{text = "Markalar", correct = true},
+{text = "Provinsiyalar", correct = false},
+{text = "Kantonlar", correct = false},
+}
+},
+{
+question = "Buyuk Karlning ulkan imperiyasi tarkibiga hozirgi qaysi davlatlar hududi to'liq kiritilgan edi?",
+answers = {
+{text = "Fransiya, Germaniya, Italiya", correct = true},
+{text = "Angliya, Fransiya, Ispaniya", correct = false},
+{text = "Polsha, Vengriya, Chexiya", correct = false},
+{text = "Italiya, Yunoniston, Bolgariya", correct = false},
+}
+},
+{
+question = "Buyuk Karl vafotidan so'ng uning imperiyasi tobora zaiflashib, o'zaro urushlar boshlangan davr qachon edi?",
+answers = {
+{text = "Sakkiz yuzinchi yildan keyin", correct = false},
+{text = "Yetti yuz oltmish sakkizinchi yildan keyin", correct = false},
+{text = "Sakkiz yuz o'n to'rtinchi yildan keyin", correct = true},
+{text = "Sakkiz yuz qirq uchinchi yildan keyin", correct = false},
+}
+},
+{
+question = "Sakkiz yuz qirq uchinchi yilda Karlning nabiralari o'rtasida imperiyani bo'lib olish bo'yicha tuzilgan shartnoma qanday ataladi?",
+answers = {
+{text = "Verden shartnomasi", correct = true},
+{text = "Aaxen kelishuvi", correct = false},
+{text = "Parij bitimi", correct = false},
+{text = "Rim shartnomasi", correct = false},
+}
+},
+{
+question = "Verden shartnomasiga asosan ulkan imperiya yerlari nabiralar o'rtasida necha qismga taqsimlandi?",
+answers = {
+{text = "Ikki qismga", correct = false},
+{text = "To'rt qismga", correct = false},
+{text = "Uch qismga", correct = true},
+{text = "Besh qismga", correct = false},
+}
+},
+{
+question = "Karolinglar imperiyasining bo'linib ketishi natijasida Yevropada qaysi mustaqil davlatlarning asosi yaratildi?",
+answers = {
+{text = "Angliya, Fransiya, Ispaniya", correct = false},
+{text = "Fransiya, Germaniya va Italiya", correct = true},
+{text = "Ispaniya, Italiya, Portugaliya", correct = false},
+{text = "Polsha, Germaniya, Avstriya", correct = false},
+}
+},
+{
+question = "Buyuk Karl davrida fan va ta'limga qaratilgan yuksak e'tibor natijasida madaniy ko'tarilish qanday nomlangan?",
+answers = {
+{text = "Karolinglar uyg'onishi", correct = true},
+{text = "Ilk renessans", correct = false},
+{text = "Franklar taraqqiyoti", correct = false},
+{text = "Yevropa oqartuvchiligi", correct = false},
+}
+},
+
+-- 4-MAVZU: VIZANTIYA IMPERIYASI
+{
+question = "Qadimgi Rim imperiyasi Sharqiy va G'arbiy qismlarga bo'linib ketgan sana qachon edi?",
+answers = {
+{text = "To'rt yuz yetmish oltinchi yil", correct = false},
+{text = "Uch yuz to'qson beshinchi yil", correct = true},
+{text = "Uch yuz yigirma to'rtinchi yil", correct = false},
+{text = "Besh yuz o'ttiz ikkinchi yil", correct = false},
+}
+},
+{
+question = "Sharqiy Rim imperiyasining qadimiy poytaxti bo'lmish Konstantinopol shahri qaysi bo'g'oz bo'yida qad rostlagan?",
+answers = {
+{text = "Lamanche bo'g'ozida", correct = false},
+{text = "Gibraltar bo'g'ozida", correct = false},
+{text = "Dardanell bo'g'ozida", correct = false},
+{text = "Bosfor bo'g'ozi sohilida", correct = true},
+}
+},
+{
+question = "Vizantiya imperiyasi qaysi uzoqni ko'ra biluvchi imperator davrida eng qudratli davlatga aylandi?",
+answers = {
+{text = "Yustinian birinchi", correct = true},
+{text = "Feodosiy ikkinchi", correct = false},
+{text = "Konstantin Buyuk", correct = false},
+{text = "Aleksey Komnin", correct = false},
+}
+},
+{
+question = "Imperator Yustinian birinchi qaysi yillar oralig'ida Vizantiya taxtini boshqargan?",
+answers = {
+{text = "Olti yuzinchi — olti yuz qirqinchi yillar", correct = false},
+{text = "To'rt yuz saksoninchi — besh yuz o'ninchi yillar", correct = false},
+{text = "Besh yuz yigirma yettinchi — besh yuz oltmish beshinchi yillar", correct = true},
+{text = "Besh yuzinchi — besh yuz elliginchi yillar", correct = false},
+}
+},
+{
+question = "Yustinian birinchi buyrug'i bilan tuzilgan va butun Yevropa qonunshunosligiga asos bo'lgan kitob qanday atalgan?",
+answers = {
+{text = "Muqaddas qonunlar majmuasi", correct = false},
+{text = "Fuqarolik huquqlari to'plami", correct = true},
+{text = "O'n ikki jadval qonunlari", correct = false},
+{text = "Salik haqiqati", correct = false},
+}
+},
+{
+question = "Yustinian hukmronligi davrida poytaxtda o'zining salobati bilan barchani lol qoldirgan ibodatxona qaysi edi?",
+answers = {
+{text = "Avliyo Pyotr sobori", correct = false},
+{text = "Avliyo Sofiya ibodatxonasi", correct = true},
+{text = "Avliyo Mark ibodatxonasi", correct = false},
+{text = "Isoning qabri ibodatxonasi", correct = false},
+}
+},
+{
+question = "Vizantiya qo'shini Yustinian boshchiligida Shimoliy Afrikada qaysi qabilalar davlatiga barham berdi?",
+answers = {
+{text = "Vestgotlarga", correct = false},
+{text = "Ostgotlarga", correct = false},
+{text = "Vandallarga", correct = true},
+{text = "Franklarga", correct = false},
+}
+},
+{
+question = "Italiya hududida hukmronlik qilgan qaysi qabilalar Yustinianning qudratli armiyasi tomonidan tor-mor etildi?",
+answers = {
+{text = "Ostgotlar", correct = true},
+{text = "Angllar", correct = false},
+{text = "Vandallar", correct = false},
+{text = "Gunnlar", correct = false},
+}
+},
+{
+question = "Vizantiyada imperatorlarni va ularning cheksiz hokimiyatini ifodalovchi maxsus unvon qanday atalar edi?",
+answers = {
+{text = "Kesar", correct = false},
+{text = "Vasilevs", correct = true},
+{text = "Avgust", correct = false},
+{text = "Xalifa", correct = false},
+}
+},
+{
+question = "Besh yuz o'ttiz ikkinchi yilda soliqlar va amaldorlar zulmiga qarshi Konstantinopolda ko'tarilgan qo'zg'olon qanday nomlandi?",
+answers = {
+{text = "Nika qo'zg'oloni", correct = true},
+{text = "Bagaudlar harakati", correct = false},
+{text = "Spartak qo'zg'oloni", correct = false},
+{text = "Gezlar qo'zg'oloni", correct = false},
+}
+},
+{
+question = "Vizantiya davlati hududida joylashgan yirik hunarmandchilik markazlaridan biri bo'lgan shahar qaysi edi?",
+answers = {
+{text = "Parij", correct = false},
+{text = "Kordova", correct = false},
+{text = "Iskandariya", correct = true},
+{text = "London", correct = false},
+}
+},
+{
+question = "Yettinchi asrda Vizantiya saltanatiga janubi-sharqdan tahdid sola boshlagan yangi kuch kimlar edi?",
+answers = {
+{text = "Turklar", correct = false},
+{text = "Arablar", correct = true},
+{text = "Forslar", correct = false},
+{text = "Mo'g'ullar", correct = false},
+}
+},
+{
+question = "Slavyan qabilalari qaysi asrdan boshlab Vizantiya yerlariga, xususan Bolqon yarim oroliga ommaviy ko'chib o'ta boshladilar?",
+answers = {
+{text = "Oltinchi asrdan", correct = true},
+{text = "To'rtinchi asrdan", correct = false},
+{text = "Sakkizinchi asrdan", correct = false},
+{text = "O'ninchi asrdan", correct = false},
+}
+},
+{
+question = "O'rta asrlarda Vizantiyada ilm-fan yuksak qadrlanib, bolalar maktabga qanday yoshdan qabul qilingan?",
+answers = {
+{text = "Besh yoshdan", correct = false},
+{text = "Sakkiz yoshdan", correct = false},
+{text = "Yetti yoshdan", correct = true},
+{text = "O'n yoshdan", correct = false},
+}
+},
+{
+question = "Vizantiyada xristian cherkovi peshvolari davlat ishlarida katta ta'sirga ega bo'lib, eng yuqori diniy unvon qanday atalardi?",
+answers = {
+{text = "Papa", correct = false},
+{text = "Yepiskop", correct = false},
+{text = "Kardinal", correct = false},
+{text = "Patriarx", correct = true},
+}
+},
+{
+question = "O'n birinchi asrga kelib Vizantiyaning sharqiy hududlariga xavf solgan va uni kuchsizlantirgan qabilalar kimlar edi?",
+answers = {
+{text = "Xunnlar", correct = false},
+{text = "Saljuqiy turklar", correct = true},
+{text = "Avarlar", correct = false},
+{text = "Slavyanlar", correct = false},
+}
+},
+
+-- 5-MAVZU: ILK O'RTA ASRLARDA ANGLIYA
+{
+question = "To'rtinchi asr oxirigacha Britaniya orollari ustidan qaysi qudratli imperiya o'z hukmronligini o'rnatgan edi?",
+answers = {
+{text = "Makedoniya imperiyasi", correct = false},
+{text = "Fors imperiyasi", correct = false},
+{text = "Rim imperiyasi", correct = true},
+{text = "Franklar davlati", correct = false},
+}
+},
+{
+question = "To'rt yuz yettinchi yilda rimliklar o'z legionlarini Britaniyadan olib chiqib ketgach, orolga kimlar bostirib kirdi?",
+answers = {
+{text = "Angllar va sakslar", correct = true},
+{text = "Vandallar", correct = false},
+{text = "Gotlar", correct = false},
+{text = "Hunlar", correct = false},
+}
+},
+{
+question = "Angllar, sakslar va yutlar kabi german qabilalarining asl vatani Yevropaning qaysi hududlari hisoblanardi?",
+answers = {
+{text = "Apennin va Bolqon", correct = false},
+{text = "Yutlandiya yarim oroli va Elba qirg'oqlari", correct = true},
+{text = "Pireney yarim oroli", correct = false},
+{text = "Dunyo bo'ylari", correct = false},
+}
+},
+{
+question = "Beshinchi — oltinchi asrlarda Britaniyaga bostirib kirgan germanlarga qattiq qarshilik ko'rsatgan mahalliy xalq kim edi?",
+answers = {
+{text = "Gallar", correct = false},
+{text = "Slavyanlar", correct = false},
+{text = "Britlar", correct = true},
+{text = "Normannlar", correct = false},
+}
+},
+{
+question = "Bosqinchilarga qarshi mardonavor jang qilgan britlarning dostonlarda ulug'langan afsonaviy podshohi kim bo'lgan?",
+answers = {
+{text = "Qirol Artur", correct = true},
+{text = "Qirol Lir", correct = false},
+{text = "Gersog Vilgelm", correct = false},
+{text = "Richard Sheryurak", correct = false},
+}
+},
+{
+question = "Britaniyaning asosiy qismini bosib olgan angllar va sakslar hududda jami nechta mustaqil qirollik tashkil qildilar?",
+answers = {
+{text = "Beshta", correct = false},
+{text = "O'nta", correct = false},
+{text = "Uchta", correct = false},
+{text = "Yettita", correct = true},
+}
+},
+{
+question = "Sakkizinchi asr oxirlaridan boshlab Angliya sohillariga qaysi dengizchi va jangchi xalqlar hujum qila boshladi?",
+answers = {
+{text = "Arablar", correct = false},
+{text = "Normannlar (daniyaliklar)", correct = true},
+{text = "Turklar", correct = false},
+{text = "Rimliklar", correct = false},
+}
+},
+{
+question = "Angliya davlati tarixida daniyaliklar hujumiga qarshi kurashgan va xalqni birlashtirgan e'tiborli hukmdor kim?",
+answers = {
+{text = "Alfred Buyuk", correct = true},
+{text = "Yakov birinchi", correct = false},
+{text = "Buyuk Karl", correct = false},
+{text = "Geynrix to'rtinchi", correct = false},
+}
+},
+{
+question = "Podsho Alfred Buyuk qaysi yillarda Angliya taxtini boshqarib, uni chet el bosqinlaridan himoya qilgan?",
+answers = {
+{text = "Sakkiz yuzinchi — sakkiz yuz elliginchi yillar", correct = false},
+{text = "Sakkiz yuz yetmish birinchi — sakkiz yuz to'qson to'qqizinchi yillar", correct = true},
+{text = "To'qqiz yuzinchi — to'qqiz yuz o'ninchi yillar", correct = false},
+{text = "Yetti yuz oltmishinchi — sakkiz yuzinchi yillar", correct = false},
+}
+},
+{
+question = "Alfred Buyuk dushmanlarga munosib zarba berish uchun nimalar qurilishini jadal olib bordi?",
+answers = {
+{text = "Faqat bozorlar va maktablar", correct = false},
+{text = "Keng saroylar", correct = false},
+{text = "Qal'alar va dengiz floti", correct = true},
+{text = "Katta ibodatxonalar", correct = false},
+}
+},
+{
+question = "To'qqizinchi — o'ninchi asrlarda parchalangan Britaniya qirolliklari birlashib, qanday yagona nom bilan atala boshlandi?",
+answers = {
+{text = "Birlashgan Qirollik", correct = false},
+{text = "Angliya", correct = true},
+{text = "Shotlandiya", correct = false},
+{text = "Uels", correct = false},
+}
+},
+{
+question = "Alfred Buyukning bevosita buyrug'i bilan yozila boshlangan va mamlakat tarixini yorituvchi asar nima deb atalgan?",
+answers = {
+{text = "Anglosaks xronikasi", correct = true},
+{text = "Qirollik yilnomasi", correct = false},
+{text = "Britaniya afsonalari", correct = false},
+{text = "Lordlar kundaligi", correct = false},
+}
+},
+{
+question = "Angliyada yirik feodallar, ya'ni katta yer egalarining ijtimoiy toifasi qanday atalar edi?",
+answers = {
+{text = "Baronlar", correct = false},
+{text = "Gersoglar", correct = false},
+{text = "Gvardiyachilar", correct = false},
+{text = "Lordlar", correct = true},
+}
+},
+{
+question = "Daniyalik bosqinchilar xavfini bartaraf etish uchun ingliz xalqidan undiriladigan maxsus soliq qanday atalgan?",
+answers = {
+{text = "Cherkov ushri", correct = false},
+{text = "Daniya puli", correct = true},
+{text = "O'lpon", correct = false},
+{text = "Qirol solig'i", correct = false},
+}
+},
+{
+question = "Alfred Buyuk yoshlarni va amaldorlarni savodxon qilish uchun qayerlarda maxsus maktablar ochgan?",
+answers = {
+{text = "Har bir qishloqda", correct = false},
+{text = "O'zining shaxsiy saroyida", correct = false},
+{text = "Monastirlar va cherkovlar qoshida", correct = true},
+{text = "Faqat poytaxt ko'chalarida", correct = false},
+}
+},
+{
+question = "Ilk o'rta asrlarda ingliz tilining shakllanishida qaysi tillarning aralashuvi muhim o'rin tutgan?",
+answers = {
+{text = "Lotin va yunon tillarining", correct = false},
+{text = "Anglosaks va kelt tillarining", correct = true},
+{text = "Arab va fors tillarining", correct = false},
+{text = "Slavyan va german tillarining", correct = false},
+}
+}
+}
