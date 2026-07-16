@@ -1,975 +1,193 @@
-questions = {
 {
-question = "O'n uchinchi asr boshlarida Sulton Muhammad Xorazmshoh Movarounnahrda qaysi sulola boshqaruviga chek qo'ydi?",
-answers = {
-{text = "G'aznaviylar", correct = false},
-{text = "Somoniylar", correct = false},
-{text = "Qoraxoniylar", correct = true},
-{text = "Saljuqiylar", correct = false},
+  "questions": [
+    {
+      "question": "Xo‘jand hokimi kim edi va u qanday jasorat ko‘rsatgan?",
+      "answers": [
+        {"text": "Temur Malik", "correct": true},
+        {"text": "G‘oyirxon", "correct": false},
+        {"text": "Tog‘ayxon", "correct": false},
+        {"text": "Najmiddin Kubro", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik Xo‘jand qal’asini qanday tabiiy mudofaa bilan himoya qilgan?",
+      "answers": [
+        {"text": "Sirdaryo va tik jarliklar", "correct": true},
+        {"text": "Faqat devorlar", "correct": false},
+        {"text": "Fillar", "correct": false},
+        {"text": "Otliq qo‘shin", "correct": false}
+      ]
+    },
+    {
+      "question": "Mo‘g‘ullar Xo‘jand qamalida daryo o‘zaniga nima tashlagan?",
+      "answers": [
+        {"text": "Toshlar", "correct": true},
+        {"text": "O‘tlar", "correct": false},
+        {"text": "Qum", "correct": false},
+        {"text": "Suv", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik 12 ta qayiqni qanday himoya qilgan?",
+      "answers": [
+        {"text": "Namat va sirka shimdirilgan loy bilan", "correct": true},
+        {"text": "Temir bilan", "correct": false},
+        {"text": "Yog‘och bilan", "correct": false},
+        {"text": "Hech qanday himoyasiz", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik qayiqlar bilan qanday harakat qilgan?",
+      "answers": [
+        {"text": "Sirdaryoning ikki tomonida suzib o‘q yog‘dirgan", "correct": true},
+        {"text": "Daryodan o‘tib ketgan", "correct": false},
+        {"text": "Mo‘g‘ullarga taslim bo‘lgan", "correct": false},
+        {"text": "Shaharni tark etgan", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning so‘nggi jangida nechta kamon o‘qi qolgan edi?",
+      "answers": [
+        {"text": "Uchta", "correct": true},
+        {"text": "Bittasi", "correct": false},
+        {"text": "O‘nta", "correct": false},
+        {"text": "Hech biri", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik paykonsiz o‘q bilan kimning ko‘zini ko‘r qilgan?",
+      "answers": [
+        {"text": "Uch mo‘g‘uldan birini", "correct": true},
+        {"text": "Chingizxonni", "correct": false},
+        {"text": "Jo‘chini", "correct": false},
+        {"text": "Subutoyni", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik keyinchalik qanday kiyimda Shomga yo‘l olgan?",
+      "answers": [
+        {"text": "So‘fiy kiyimida", "correct": true},
+        {"text": "Harbiy kiyimda", "correct": false},
+        {"text": "Savdogar kiyimida", "correct": false},
+        {"text": "Xorazmshoh libosida", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning jasorati haqida “Zafarnoma” muqaddimasida kim yozgan?",
+      "answers": [
+        {"text": "Sharafuddin Ali Yazdi", "correct": true},
+        {"text": "Juvayniy", "correct": false},
+        {"text": "Rashiduddin", "correct": false},
+        {"text": "Nasaviy", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik Xo‘janddan keyin qayerga yetguncha jang qilgan?",
+      "answers": [
+        {"text": "Jand va Barchinlig‘kentgacha", "correct": true},
+        {"text": "Xorazmgacha", "correct": false},
+        {"text": "Samarqandgacha", "correct": false},
+        {"text": "Hindistongacha", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning asosiy maqsadi Xo‘jand qamalida nima edi?",
+      "answers": [
+        {"text": "Ko‘tarmani buzishga imkon berish", "correct": true},
+        {"text": "Mo‘g‘ullarni mag‘lub etish", "correct": false},
+        {"text": "Shaharni tark etish", "correct": false},
+        {"text": "Taslim bo‘lish", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning jasorati haqida Mirkarim Osimning qanday asari bor?",
+      "answers": [
+        {"text": "“Temur Malik” hikoyasi", "correct": true},
+        {"text": "“Zafarnoma”", "correct": false},
+        {"text": "“Tarixi jahongusho”", "correct": false},
+        {"text": "“Shajarayi turk”", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik Xo‘jand qal’asini nech kun mudofaa qilgan?",
+      "answers": [
+        {"text": "Bir necha kun qattiq qarshilik", "correct": true},
+        {"text": "Bir kun", "correct": false},
+        {"text": "Yetti oy", "correct": false},
+        {"text": "Besh oy", "correct": false}
+      ]
+    },
+    {
+      "question": "Mo‘g‘ullar Xo‘jand qamalida nechta odamni safarbar qilgan?",
+      "answers": [
+        {"text": "50 mingga yaqin", "correct": true},
+        {"text": "20 ming", "correct": false},
+        {"text": "10 ming", "correct": false},
+        {"text": "100 ming", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning qayiqlarida qanday shinaklar bo‘lgan?",
+      "answers": [
+        {"text": "O‘q otish uchun maxsus shinaklar", "correct": true},
+        {"text": "Hech qanday", "correct": false},
+        {"text": "Faqat suzish uchun", "correct": false},
+        {"text": "Yuk tashish uchun", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malik keyinchalik qayerda yashagan?",
+      "answers": [
+        {"text": "O‘sh shahrida", "correct": true},
+        {"text": "Xorazmda", "correct": false},
+        {"text": "Samarqandda", "correct": false},
+        {"text": "Hindistonda", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning so‘nggi taqdiri qanday bo‘lgan?",
+      "answers": [
+        {"text": "Mo‘g‘ul amaldorlari tomonidan tanilib qatl etilgan", "correct": true},
+        {"text": "Tabiiy o‘lim bilan vafot etgan", "correct": false},
+        {"text": "Jaloliddin bilan birga jang qilgan", "correct": false},
+        {"text": "Xorazmshoh bo‘lgan", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning jasorati qaysi daryo bo‘yida namoyon bo‘lgan?",
+      "answers": [
+        {"text": "Sirdaryo", "correct": true},
+        {"text": "Amudaryo", "correct": false},
+        {"text": "Sind daryosi", "correct": false},
+        {"text": "Zarafshon", "correct": false}
+      ]
+    },
+    {
+      "question": "Xo‘jand qal’asi qayerda joylashgan edi?",
+      "answers": [
+        {"text": "Sirdaryoning ikkiga ajralgan joyida", "correct": true},
+        {"text": "Amudaryo bo‘yida", "correct": false},
+        {"text": "Xorazmda", "correct": false},
+        {"text": "Samarqand yaqinida", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning harakatlari natijasida mo‘g‘ullar qanday zarar ko‘rgan?",
+      "answers": [
+        {"text": "Ko‘tarma buzilgan", "correct": true},
+        {"text": "G‘alaba qozongan", "correct": false},
+        {"text": "Hech qanday zarar ko‘rmagan", "correct": false},
+        {"text": "Shaharni egallagan", "correct": false}
+      ]
+    },
+    {
+      "question": "Temur Malikning jasorati qaysi asarda hikoya qilingan?",
+      "answers": [
+        {"text": "Mirkarim Osimning “Temur Malik” asarida", "correct": true},
+        {"text": "Faqat “Zafarnoma”da", "correct": false},
+        {"text": "Hech qayerda", "correct": false},
+        {"text": "Xorazmshoh yilnomalarida", "correct": false}
+      ]
+    }
+  ]
 }
-},
-{
-question = "Sulton Muhammad Xorazmshoh Movarounnahrni egallagach, qaysi shaharni o'z poytaxti deb e'lon qildi?",
-answers = {
-{text = "Urganch", correct = false},
-{text = "Samarqand", correct = true},
-{text = "Buxoro", correct = false},
-{text = "Hirot", correct = false},
-}
-},
-{
-question = "Sulton Muhammad Xorazmshoh 1212-yili qaysi hududlarni egallashga muvaffaq bo'ldi?",
-answers = {
-{text = "G'azna, G'ur, Bomiyon", correct = false},
-{text = "Ozarbayjon, Shirvon, Fors", correct = false},
-{text = "Xuroson, Kirmon, Mikron, Balujiston", correct = true},
-{text = "Tabriz, Ray, Hamadon", correct = false},
-}
-},
-{
-question = "Xorazmshohning Bag'dod xalifaligi bilan kurashi natijasida xalifa kim bilan maxfiy ravishda yaqinlashishga urindi?",
-answers = {
-{text = "Salibchilar", correct = false},
-{text = "Ko'niya sultoni", correct = false},
-{text = "Chingizxon", correct = true},
-{text = "Hindiston rojasi", correct = false},
-}
-},
-{
-question = "1216-yilga kelib Sulton Muhammad Xorazmshoh davlati qaysi daryo bo'yigacha cho'zilib, Hindiston bilan chegaradosh bo'lib qoldi?",
-answers = {
-{text = "Hind (Sind)", correct = true},
-{text = "Sirdaryo", correct = false},
-{text = "Amudaryo", correct = false},
-{text = "Irtish", correct = false},
-}
-},
-{
-question = "Xorazmshoh qo'shinining katta qismini tashkil qilgan nomuntazam armiya qanday nomlangan?",
-answers = {
-{text = "Xaros", correct = false},
-{text = "Keshik", correct = false},
-{text = "Maysara", correct = false},
-{text = "Lashkari berun", correct = true},
-}
-},
-{
-question = "Xorazmshohning mamluklar (jangchi qullar)dan iborat 10 ming kishilik tansoqchilar qismi qanday atalgan?",
-answers = {
-{text = "Xaros", correct = true},
-{text = "Xofiya", correct = false},
-{text = "G'ulomlar", correct = false},
-{text = "Choriklar", correct = false},
-}
-},
-{
-question = "Xorazmshoh askarlari soni nechaga yetgan va mo'g'ullar qo'shiniga nisbatan necha baravar ko'p bo'lgan?",
-answers = {
-{text = "200 mingga yetib, teng bo'lgan", correct = false},
-{text = "300 mingga yetib, uch baravar ko'p", correct = false},
-{text = "400 mingga yetib, ikki baravar ko'p", correct = true},
-{text = "500 mingga yetib, to'rt baravar ko'p", correct = false},
-}
-},
-{
-question = "Xorazmshoh qo'shinida raqibni tor-mor etishni yakunlovchi zaxira qismi qanday nomlangan?",
-answers = {
-{text = "Avang'or", correct = false},
-{text = "Xofiya", correct = true},
-{text = "Maymana", correct = false},
-{text = "Qalb", correct = false},
-}
-},
-{
-question = "Qal'alarga hujum qilishda foydalanilgan tosh irg'ituvchi moslama manbalarda qanday ataladi?",
-answers = {
-{text = "Dabbobat", correct = false},
-{text = "Mataris", correct = false},
-{text = "Katapulta-manjaniq", correct = true},
-{text = "Salolim", correct = false},
-}
-},
-{
-question = "O'rta asrlarda xorazmliklar qamal mashinalarini qanday nomlashgan?",
-answers = {
-{text = "Jamoluqot", correct = false},
-{text = "Dabbobat", correct = true},
-{text = "Mataris", correct = false},
-{text = "Salolim", correct = false},
-}
-},
-{
-question = "Xorazm mudofaa tizimida devorteshar mashinalar qanday atalgan?",
-answers = {
-{text = "Jamoluqot", correct = true},
-{text = "Mataris", correct = false},
-{text = "Manjaniq", correct = false},
-{text = "Dabbobat", correct = false},
-}
-},
-{
-question = "Xorazmshoh Sulton Muhammadning onasi Turkon Xotun qaysi turkiy urug'ga mansub edi?",
-answers = {
-{text = "Nayman", correct = false},
-{text = "Qarluq", correct = false},
-{text = "Qang'li", correct = true},
-{text = "Merkit", correct = false},
-}
-},
-{
-question = "Turkon Xotun davlat boshqaruvida o'zining qang'li urug'idan bo'lgan kelinining o'g'li hisoblangan qaysi shaxsni taxt vorisi etib tayinlatdi?",
-answers = {
-{text = "Jaloliddin Manguberdini", correct = false},
-{text = "Qutbiddin O'zloqshohni", correct = true},
-{text = "Rukniddin G'ursanchtini", correct = false},
-{text = "Oqshohni", correct = false},
-}
-},
-{
-question = "Xorazmshoh qo'shinining jangovar tartibida markaz qismi nima deb atalgan?",
-answers = {
-{text = "Maymana", correct = false},
-{text = "Qalb", correct = true},
-{text = "Avang'or", correct = false},
-{text = "Maysara", correct = false},
-}
-},
-{
-question = "Xorazmshoh qo'shinlari asosan qanday askarlardan tashkil topgan edi?",
-answers = {
-{text = "Faqat piyodalardan", correct = false},
-{text = "Arava mingan jangchilardan", correct = false},
-{text = "Asosan otliq va qisman piyodalardan", correct = true},
-{text = "Faqat tuya mingan askarlardan", correct = false},
-}
-},
-{
-question = "Sulton Muhammad 1216-yili Xitoyga kim boshchiligida elchilar jo'natdi?",
-answers = {
-{text = "Umarxo'ja O'troriy", correct = false},
-{text = "Sayyid Bahouddin Roziy", correct = true},
-{text = "Faxriddin Dizakiy Buxoriy", correct = false},
-{text = "Mahmud Yalavoch", correct = false},
-}
-},
-{
-question = "Chingizxon Sulton Muhammadga yuborgan maktubida unga qanday murojaat qiladi?",
-answers = {
-{text = "Sen kunbotar tomon podshosisan...", correct = true},
-{text = "Sen mening dushmanimsan...", correct = false},
-{text = "Sen islom olamining xalifasisan...", correct = false},
-{text = "Sen faqat Xorazm hokimisan...", correct = false},
-}
-},
-{
-question = "Xorazmshoh Chingizxon huzuridan kelgan elchilardan kim orqali maxfiy ma'lumotlarni so'rab oldi?",
-answers = {
-{text = "Ibn Kafroj Bug'ro", correct = false},
-{text = "Sayyid Bahouddin", correct = false},
-{text = "Mahmud Yalavoch", correct = true},
-{text = "Jamol Marog'iy", correct = false},
-}
-},
-{
-question = "Chingizxon Xorazmshohga atab yuborgan ulkan karvonda nechta musulmon savdogari bor edi?",
-answers = {
-{text = "100 ta", correct = false},
-{text = "350 ta", correct = false},
-{text = "450 ta", correct = true},
-{text = "500 ta", correct = false},
-}
-},
-{
-question = "O'tror shahrining hokimi Inolchiq karvon a'zolarini nimada aybladi?",
-answers = {
-{text = "Soliq to'lamaslikda", correct = false},
-{text = "Josuslikda", correct = true},
-{text = "Davlatga xiyonatda", correct = false},
-{text = "Bojxona qoidalarini buzishda", correct = false},
-}
-},
-{
-question = "O'tror voqeasidan so'ng Chingizxon qanday talab bilan elchi yubordi?",
-answers = {
-{text = "Xorazmshohning taxtdan voz kechishini", correct = false},
-{text = "Buxoroni unga topshirishni", correct = false},
-{text = "O'tror hokimi G'oyirxonni uning qo'liga topshirishni", correct = true},
-{text = "Qayta savdo karvoni jo'natishni", correct = false},
-}
-},
-{
-question = "Sulton Muhammad Chingizxonning elchisi Ibn Kafroj Bug'roga nisbatan qanday yo'l tutdi?",
-answers = {
-{text = "Katta in'omlar berib ortga qaytardi", correct = false},
-{text = "Uni hibsga oldi", correct = false},
-{text = "Elchini o'ldirtirdi", correct = true},
-{text = "Muzokara olib bordi", correct = false},
-}
-},
-{
-question = "O'tror hokimi Inolchiqqa Xorazmshoh qanday unvon (ism) bergan edi?",
-answers = {
-{text = "G'oyirxon", correct = true},
-{text = "Xorazmshoh", correct = false},
-{text = "Bahodirxon", correct = false},
-{text = "Qutluqtegin", correct = false},
-}
-},
-{
-question = "Abulg'oziy Bahodirxonning qaysi asarida O'tror voqeasi haqida ma'lumot beriladi?",
-answers = {
-{text = "Tarixi jahongusho", correct = false},
-{text = "Shajarayi turk", correct = true},
-{text = "Jome at-tavorix", correct = false},
-{text = "Zafarnoma", correct = false},
-}
-},
-{
-question = "1206-yilda qaysi daryo bo'yida chaqirilgan qurultoyda Temuchin Chingizxon deb e'lon qilindi?",
-answers = {
-{text = "Irtish", correct = false},
-{text = "Sirdaryo", correct = false},
-{text = "Onon", correct = true},
-{text = "Yenisey", correct = false},
-}
-},
-{
-question = "Chingizxon qo'shinidagi 10 ming nafar xos soqchilar qismi nima deb atalgan?",
-answers = {
-{text = "Xaros", correct = false},
-{text = "Kezik (Keshik)", correct = true},
-{text = "Avang'or", correct = false},
-{text = "Bahodirlar", correct = false},
-}
-},
-{
-question = "Temuchin tomonidan tashkil etilgan ilk mo'g'ul davlati tarixda qanday atalgan?",
-answers = {
-{text = "Oltin O'rda", correct = false},
-{text = "Yeke mong'ol ulus", correct = true},
-{text = "Chig'atoy ulusi", correct = false},
-{text = "Elxoniylar", correct = false},
-}
-},
-{
-question = "1216-yilda mo'g'ullar va Xorazmshoh qo'shinlari o'rtasidagi ilk yirik to'qnashuv qayerda bo'lib o'tdi?",
-answers = {
-{text = "Irg'iz daryosi bo'yida", correct = true},
-{text = "Sind daryosi bo'yida", correct = false},
-{text = "Onon daryosi bo'yida", correct = false},
-{text = "Parvon dashtida", correct = false},
-}
-},
-{
-question = "Irg'iz daryosi bo'yidagi jangda Xorazm qo'shinini muqarrar mag'lubiyatdan kim saqlab qoldi?",
-answers = {
-{text = "Temur Malik", correct = false},
-{text = "Sulton Muhammad", correct = false},
-{text = "Jaloliddin", correct = true},
-{text = "G'oyirxon", correct = false},
-}
-},
-{
-question = "Mo'g'ullarning jang paytidagi asosiy taktik hiylasi nima bo'lgan?",
-answers = {
-{text = "Soxta chekinish", correct = true},
-{text = "Zaharli o'qlardan foydalanish", correct = false},
-{text = "Fillarni ishlatish", correct = false},
-{text = "Tungi qotilliklar", correct = false},
-}
-},
-{
-question = "Xorazmshoh qadimiy mo'g'ullar elchiligini kuzatar ekan, qaysi asarda bu haqida ishonchli xabarlar kelgani aytiladi?",
-answers = {
-{text = "Tabaqoti Nosiriy", correct = true},
-{text = "Shajarayi turk", correct = false},
-{text = "Zafarnoma", correct = false},
-{text = "Boburnoma", correct = false},
-}
-},
-{
-question = "Chingizxon qaysi yili Xorazmshoh davlati ustiga asosiy harbiy yurishini boshladi?",
-answers = {
-{text = "1218-yili", correct = false},
-{text = "1219-yili", correct = true},
-{text = "1220-yili", correct = false},
-{text = "1221-yili", correct = false},
-}
-},
-{
-question = "Chingizxonning Sirdaryo tomon yurishida qaysi uyg'ur ediquti (xoni) o'z qo'shini bilan unga kelib qo'shildi?",
-answers = {
-{text = "Baurchak", correct = true},
-{text = "Arslonxon", correct = false},
-{text = "Sig'noqtegin", correct = false},
-{text = "Jo'chixon", correct = false},
-}
-},
-{
-question = "O'tror mudofaasi vaqtida G'oyirxonga yordam uchun Sulton Muhammad tomonidan yuborilgan \"Lashkari berun\" askarlarining soni qancha edi?",
-answers = {
-{text = "10 ming", correct = false},
-{text = "20 ming", correct = false},
-{text = "50 ming", correct = true},
-{text = "110 ming", correct = false},
-}
-},
-{
-question = "Mo'g'ullar qamaliga tushib qolgan O'tror shahri himoyachilari mudofaani necha oy davom ettirdilar?",
-answers = {
-{text = "Besh oy", correct = true},
-{text = "Olti oy", correct = false},
-{text = "Yetti oy", correct = false},
-{text = "Sakkiz oy", correct = false},
-}
-},
-{
-question = "1220-yilning fevral oyida Chingizxon qaysi shaharni qamal qilib uni taladi va yondirib yubordi?",
-answers = {
-{text = "Samarqand", correct = false},
-{text = "Buxoro", correct = true},
-{text = "Urganch", correct = false},
-{text = "Xo'jand", correct = false},
-}
-},
-{
-question = "Buxoro qamali paytida shahar ahlini saqlab qolish maqsadida Chingizxon huzuriga chiqqan oqsoqollarga kim boshchilik qilgan?",
-answers = {
-{text = "Najmiddin Kubro", correct = false},
-{text = "Temur Malik", correct = false},
-{text = "Qozi Badriddin", correct = true},
-{text = "Mahmud Yalavoch", correct = false},
-}
-},
-{
-question = "Buxoro yong'ini paytida xalq dushmandan asrash uchun qaysi me'moriy yodgorlikni qumga ko'mib tashlagan edi?",
-answers = {
-{text = "Kalon minorasi", correct = false},
-{text = "Chashmai Ayub maqbarasi", correct = false},
-{text = "Somoniylar maqbarasi", correct = true},
-{text = "Ark qo'rg'oni", correct = false},
-}
-},
-{
-question = "Buxoro olingach, 1220-yil mart oyida mo'g'ullar qaysi yirik shahar tomon yo'l oldilar?",
-answers = {
-{text = "Urganch", correct = false},
-{text = "Samarqand", correct = true},
-{text = "Jand", correct = false},
-{text = "Xo'jand", correct = false},
-}
-},
-{
-question = "Sulton Muhammad Samarqand mudofaasi uchun qancha g'ur jangchisini mas'ul qilib qoldirdi?",
-answers = {
-{text = "30 ming", correct = false},
-{text = "40 ming", correct = true},
-{text = "50 ming", correct = false},
-{text = "110 ming", correct = false},
-}
-},
-{
-question = "Samarqand himoyachilarini suvsiz qoldirish uchun mo'g'ullar shaharning qaysi bosh suv inshootini buzib tashladilar?",
-answers = {
-{text = "Jo'yi arziz", correct = true},
-{text = "Shohrud kanali", correct = false},
-{text = "Darg'om kanali", correct = false},
-{text = "Zarafshon to'g'oni", correct = false},
-}
-},
-{
-question = "Urganch shahri mudofaasi necha oy davom etgan?",
-answers = {
-{text = "Besh oy", correct = false},
-{text = "Olti oy", correct = false},
-{text = "Yetti oy", correct = true},
-{text = "Sakkiz oy", correct = false},
-}
-},
-{
-question = "Jaloliddin Urganchni tark etgach, shahar mudofaasi asosan kimning qo'lida qoldi?",
-answers = {
-{text = "Temur Malik", correct = false},
-{text = "Xumortegin", correct = true},
-{text = "Najmiddin Kubro", correct = false},
-{text = "Tog'ayxon", correct = false},
-}
-},
-{
-question = "Urganch mudofaasida «Yo Vatan, yo sharofatli o'lim!» xitobi bilan xalqni kurashga undagan 76 yoshli alloma kim edi?",
-answers = {
-{text = "Mahmud az-Zamaxshariy", correct = false},
-{text = "Badriddin qozi", correct = false},
-{text = "Najmiddin Kubro", correct = true},
-{text = "Burhoniddin Marg'inoniy", correct = false},
-}
-},
-{
-question = "Urganch qamaliga tayyorgarlik jarayonida mo'g'ullar tut daraxti g'o'lasidan qanday maqsadda foydalanishgan?",
-answers = {
-{text = "Kema yasash uchun", correct = false},
-{text = "O'q-yoy yasash uchun", correct = false},
-{text = "Qal'a eshigini buzish uchun", correct = false},
-{text = "Manjaniq uchun tosh o'rnida", correct = true},
-}
-},
-{
-question = "Urganchni butunlay vayron qilish uchun mo'g'ullar qaysi daryoning to'g'onini buzib, shaharni suvga bostirdilar?",
-answers = {
-{text = "Sirdaryo", correct = false},
-{text = "Zarafshon", correct = false},
-{text = "Amudaryo", correct = true},
-{text = "Murg'ob", correct = false},
-}
-},
-{
-question = "Samarqand egallangach, mo'g'ullar jonlari omon qolgan shahar aholisiga qancha tovon to'lash shartini qo'yishdi?",
-answers = {
-{text = "100 ming dinor", correct = false},
-{text = "200 ming dinor", correct = true},
-{text = "300 ming dinor", correct = false},
-{text = "400 ming dinor", correct = false},
-}
-},
-{
-question = "1220-yil bahorida mo'g'ullar qo'shini hujumiga uchragan va 3 kun ichida taslim bo'lgan Fanokat shahri hokimi kim edi?",
-answers = {
-{text = "G'oyirxon", correct = false},
-{text = "Tog'ayxon", correct = false},
-{text = "Malik Ingu", correct = true},
-{text = "Temur Malik", correct = false},
-}
-},
-{
-question = "Xo'jand shahrini 20 minglik mo'g'ul qo'shinidan mohirlik bilan mudofaa qilgan sarkarda kim?",
-answers = {
-{text = "Jaloliddin", correct = false},
-{text = "Xumortegin", correct = false},
-{text = "Temur Malik", correct = true},
-{text = "G'oyirxon", correct = false},
-}
-},
-{
-question = "Xo'jand qamali vaqtida mo'g'ullarga o'q otish uchun Temur Malik nechta maxsus qayiq yasattirgan edi?",
-answers = {
-{text = "O'nta", correct = false},
-{text = "O'n ikkita", correct = true},
-{text = "O'n beshta", correct = false},
-{text = "Yigirmata", correct = false},
-}
-},
-{
-question = "Temur Malik o'z qayiqlari yonib ketmasligi uchun ularning ustini nima bilan qoplagan edi?",
-answers = {
-{text = "Temir qalqonlar bilan", correct = false},
-{text = "Sut va loy aralashmasi bilan", correct = false},
-{text = "Namat va sirka shimdirilgan loy bilan", correct = true},
-{text = "Qalin teri va moy bilan", correct = false},
-}
-},
-{
-question = "Muhammad Xorazmshoh umrining so'nggi kunlarini qaysi dengiz orolidagi qochqinlikda o'tkazdi?",
-answers = {
-{text = "Orol dengizi", correct = false},
-{text = "Kaspiy dengizi", correct = true},
-{text = "Qora dengiz", correct = false},
-{text = "O'rta dengiz", correct = false},
-}
-},
-{
-question = "Xorazmshoh Sulton Muhammad Kaspiy dengizidagi orolda qaysi xastalikdan vafot etdi?",
-answers = {
-{text = "Vabo kasalligidan", correct = false},
-{text = "Bezgak kasalligidan", correct = false},
-{text = "Yurak xurujidan", correct = false},
-{text = "Plevrit (o'pkaga suv yig'ilishi) kasalidan", correct = true},
-}
-},
-{
-question = "Sulton Muhammad Xorazmshoh 1220-yil dekabrida vafoti oldidan kimni valiahd deb e'lon qildi?",
-answers = {
-{text = "Qutbiddin O'zloqshohni", correct = false},
-{text = "Jaloliddinni", correct = true},
-{text = "Oqshohni", correct = false},
-{text = "G'iyosiddin Pirshohni", correct = false},
-}
-},
-{
-question = "Sulton Jaloliddinga xiyonat qilib, keyinchalik Kirmon hokimi Baroq tomonidan qatl etilgan ukasi kim edi?",
-answers = {
-{text = "O'zloqshoh", correct = false},
-{text = "Oqshoh", correct = false},
-{text = "G'iyosiddin Pirshoh", correct = true},
-{text = "Rukniddin", correct = false},
-}
-},
-{
-question = "Najmiddin Kubroning asl ismi to'liq holida manbalarda qanday keltirilgan?",
-answers = {
-{text = "Ahmad ibn Umar Xivaqiy", correct = true},
-{text = "Umar ibn Xayyom", correct = false},
-{text = "Muhammad ibn Muso Xorazmiy", correct = false},
-{text = "Burhoniddin Ahmad", correct = false},
-}
-},
-{
-question = "Mo'g'ullarga qarshi jangda qahramonlarcha halok bo'lgan shayx Najmiddin Kubro o'sha vaqtda necha yoshda edi?",
-answers = {
-{text = "Oltmish besh yoshda", correct = false},
-{text = "Yetmish yoshda", correct = false},
-{text = "Yetmish olti yoshda", correct = true},
-{text = "Sakson ikki yoshda", correct = false},
-}
-},
-{
-question = "Temur Malik keyinchalik so'fiylar kiyimida Shomga ketib, yillar o'tib qaytib kelgach qaysi shaharda yashagan?",
-answers = {
-{text = "O'sh shahrida", correct = true},
-{text = "Andijon shahrida", correct = false},
-{text = "Buxoro shahrida", correct = false},
-{text = "Samarqand shahrida", correct = false},
-}
-},
-{
-question = "Temur Malikning bitta paykonsiz o'q bilan mo'g'ul jangchisini ko'r qilgani qaysi asar muqaddimasida yozib qoldirilgan?",
-answers = {
-{text = "Siyrat as-sulton Jaloliddin Mangburni", correct = false},
-{text = "Zafarnoma", correct = true},
-{text = "Tarixi jahongusho", correct = false},
-{text = "Jome at-tavorix", correct = false},
-}
-},
-{
-question = "Temur Malik boshliq qahramonlar hikoyasida mo'g'ul lashkarboshisining ismi qanday berilgan?",
-answers = {
-{text = "Shiki Xutuxu", correct = false},
-{text = "Aloq no'yon", correct = false},
-{text = "So'ktu no'yon", correct = true},
-{text = "Suketu Cherbi", correct = false},
-}
-},
-{
-question = "Xo'jand qamali uchun Jaloliddinning sarkardalaridan biri Temur Malikni ta'qib qilib kelgan mo'g'ullar orasida nechtasiga u o'q uzgani haqida afsona yozilgan?",
-answers = {
-{text = "Besh mo'g'uldan ikkitasiga", correct = false},
-{text = "Uch mo'g'uldan biriga", correct = true},
-{text = "To'rt mo'g'uldan uchtasiga", correct = false},
-{text = "O'n mo'g'uldan barchasiga", correct = false},
-}
-},
-{
-question = "Xumortegin Urganch mudofaasida qaysi urug' yoki guruh vakillarining xo'jako'rsin ishlariga qaramay rahnamolik qildi?",
-answers = {
-{text = "Turkman sarkardalarining", correct = false},
-{text = "Qarluq askarlarining", correct = false},
-{text = "Turkon Xotun qarindoshlarining", correct = true},
-{text = "G'ur qabilasining", correct = false},
-}
-},
-{
-question = "O'zloqshoh va Oqshohlar qanday taqdirga yuz tutdilar?",
-answers = {
-{text = "Xurosonda sultonlik qildilar", correct = false},
-{text = "Hindistonga qochib ketdilar", correct = false},
-{text = "Mo'g'ullarga asir tushib yashadilar", correct = false},
-{text = "Mo'g'ullarga qarshi kurashda halok bo'ldilar", correct = true},
-}
-},
-{
-question = "Jaloliddin Manguberdi Urganchni tashlab chiqqach, Xurosondagi qaysi qo'rg'on atrofida o'zining 300 nafar askari bilan mo'g'ullarning pistirmasini tor-mor etdi?",
-answers = {
-{text = "Niso qo'rg'oni", correct = true},
-{text = "Marv qo'rg'oni", correct = false},
-{text = "Xuroson qal'asi", correct = false},
-{text = "Valiyon qal'asi", correct = false},
-}
-},
-{
-question = "Jaloliddin Manguberdi mo'g'ullarga qarshi o'n bir yil davomida jami necha marta jang qilgan?",
-answers = {
-{text = "O'n marotaba", correct = false},
-{text = "O'n yetti marotaba", correct = true},
-{text = "Yigirma marta", correct = false},
-{text = "O'n uch marta", correct = false},
-}
-},
-{
-question = "Sulton Jaloliddin o'zining o'n yetti marotaba olib borgan janglarining nechtasida mo'g'ullar ustidan g'alaba qozondi?",
-answers = {
-{text = "O'ntasida", correct = false},
-{text = "O'n ikkitasida", correct = false},
-{text = "O'n to'rttasida", correct = true},
-{text = "O'n beshtasida", correct = false},
-}
-},
-{
-question = "Jaloliddinning mo'g'ullar ustidan qozongan dastlabki yirik g'alabasi qaysi qal'ani qamal qilayotgan dushmanga qarshi jangda yuz berdi?",
-answers = {
-{text = "Niso qal'asi", correct = false},
-{text = "Valiyon qal'asi", correct = true},
-{text = "Bomiyon qal'asi", correct = false},
-{text = "O'tror qal'asi", correct = false},
-}
-},
-{
-question = "Jaloliddin Parvon dashtidagi jangda Chingizxonning qaysi mohir sarkardasi boshchiligidagi qo'shinni yengdi?",
-answers = {
-{text = "Jebe no'yon", correct = false},
-{text = "Shiki Xutuxu no'yon", correct = true},
-{text = "Subutoy no'yon", correct = false},
-{text = "Aloq no'yon", correct = false},
-}
-},
-{
-question = "Parvon jangida Shiki Xutuxu boshchiligidagi mo'g'ul qo'shinining soni qancha edi?",
-answers = {
-{text = "20 ming", correct = false},
-{text = "30 ming", correct = false},
-{text = "45 ming", correct = true},
-{text = "50 ming", correct = false},
-}
-},
-{
-question = "Parvon jangidagi g'alabadan keyin Jaloliddin lashkarboshilari orasida nima ustida janjal kelib chiqdi?",
-answers = {
-{text = "Qal'a hokimligi ustida", correct = false},
-{text = "Bir qimmatbaho arabi ot ustida", correct = true},
-{text = "Tillolarga to'la sandiq ustida", correct = false},
-{text = "Qurol-aslahalar ustida", correct = false},
-}
-},
-{
-question = "Lashkarboshilar o'rtasidagi janjal vaqtida Amin Malik kimning boshiga qamchi bilan urib, uni xafa qildi?",
-answers = {
-{text = "Muzaffar Malikning", correct = false},
-{text = "A'zam Malikning", correct = false},
-{text = "Temur Malikning", correct = false},
-{text = "Sayfiddin Ig'roqning", correct = true},
-}
-},
-{
-question = "Janjal natijasida arazlab Jaloliddin qo'shinini tark etgan turkmanlar yo'lboshchisi kim edi?",
-answers = {
-{text = "Sayfiddin Ig'roq", correct = true},
-{text = "Amin Malik", correct = false},
-{text = "Xumortegin", correct = false},
-{text = "G'oyirxon", correct = false},
-}
-},
-{
-question = "Sulton Jaloliddin Chingizxon bilan bo'lgan eng shiddatli jangini qachon va qaysi daryo bo'yida o'tkazdi?",
-answers = {
-{text = "1220-yil Sirdaryo bo'yida", correct = false},
-{text = "1221-yil noyabrida Sind (Hind) daryosi bo'yida", correct = true},
-{text = "1222-yil Amudaryo bo'yida", correct = false},
-{text = "1223-yil Irtish daryosi bo'yida", correct = false},
-}
-},
-{
-question = "Sind jangida Chingizxon qancha zaxira qo'shinini (keshik) jangga kiritib vaziyatni o'zgartirdi?",
-answers = {
-{text = "Besh ming", correct = false},
-{text = "O'n ming", correct = true},
-{text = "O'n besh ming", correct = false},
-{text = "Yigirma ming", correct = false},
-}
-},
-{
-question = "Jaloliddin Manguberdi Sind daryosiga taxminan necha metrlik jarlikdan otda sakragan?",
-answers = {
-{text = "O'n metr", correct = false},
-{text = "O'n to'rt-o'n besh metr", correct = false},
-{text = "O'n sakkiz-yigirma metr", correct = true},
-{text = "O'ttiz metr", correct = false},
-}
-},
-{
-question = "Jaloliddinning sadoqatli oti keyinchalik necha yil unga xizmat qildi va qayerda halok bo'ldi?",
-answers = {
-{text = "Uch yil, Hindistonda", correct = false},
-{text = "Besh yil, Tbilisini egallashda", correct = true},
-{text = "Yetti yil, Ozarbayjonda", correct = false},
-{text = "O'n yil, Iroqda", correct = false},
-}
-},
-{
-question = "Sulton Jaloliddinning jasoratiga qoyil qolgan Chingizxon o'z o'g'illariga qanday xitob qilgan?",
-answers = {
-{text = "Uni tezroq o'ldiring!", correct = false},
-{text = "Unga tegmang, u devonadir!", correct = false},
-{text = "Otaning faqat shunday o'g'li bo'lishi lozim!", correct = true},
-{text = "U hech qachon taslim bo'lmaydi!", correct = false},
-}
-},
-{
-question = "Shihobiddin Nasaviyning Sulton Jaloliddin haqidagi tarixiy asari qanday ataladi?",
-answers = {
-{text = "Siyrat as-sulton Jaloliddin Mangburni", correct = true},
-{text = "Tarixi jahongusho", correct = false},
-{text = "Zafarnoma", correct = false},
-{text = "Jome at-tavorix", correct = false},
-}
-},
-{
-question = "Sulton Jaloliddin daryoning narigi tomoniga o'tib olgan joy bugungi kunda ham qanday nomlanadi?",
-answers = {
-{text = "Sulton o'tish joyi", correct = false},
-{text = "Cho'li Jaloliy", correct = true},
-{text = "Manguberdi soxili", correct = false},
-{text = "Xorazmshoh qo'rg'oni", correct = false},
-}
-},
-{
-question = "Jaloliddin Manguberdi Hindistonda o'ziga raqib bo'lgan qaysi hudud rojasini tor-mor keltirdi?",
-answers = {
-{text = "Dehli rojasi", correct = false},
-{text = "Panjob rojasi", correct = false},
-{text = "Shatra rojasi", correct = true},
-{text = "Mo'lton rojasi", correct = false},
-}
-},
-{
-question = "Jaloliddin Manguberdi Xorazmshohlar davlatini tiklash maqsadida Hindistondan keyin qaysi hududlarda yangi davlat tuzdi?",
-answers = {
-{text = "Movarounnahr va Xorazm", correct = false},
-{text = "Eron va Ozarbayjon", correct = true},
-{text = "Xuroson va G'azna", correct = false},
-{text = "Iroq va Suriya", correct = false},
-}
-},
-{
-question = "1225-yili Ozarbayjonni qo'lga kiritgan Jaloliddin poytaxtni qaysi shaharga o'tkazdi?",
-answers = {
-{text = "Sheroz", correct = false},
-{text = "Isfahon", correct = false},
-{text = "Tabriz", correct = true},
-{text = "Ray", correct = false},
-}
-},
-{
-question = "Jaloliddin mo'g'ullarga qarshi kurashda kimlardan ittifoqchi bo'lishni so'radi, biroq rad javobini oldi?",
-answers = {
-{text = "Xitoy va Hindiston hukmdorlaridan", correct = false},
-{text = "Bag'dod xalifasi va Kichik Osiyo hukmdorlaridan", correct = true},
-{text = "Yettisuv va Qashqar hokimlaridan", correct = false},
-{text = "Turkiston xonlaridan", correct = false},
-}
-},
-{
-question = "O'n uchinchi asrning 20-yillari oxiriga kelib, Kichik Osiyoda Jaloliddinga qarshi urush olib borgan hukmdor kim edi?",
-answers = {
-{text = "Salohiddin Ayyubiy", correct = false},
-{text = "Alovuddin Kaykubod", correct = true},
-{text = "Al-Ashraf", correct = false},
-{text = "Horun ar-Rashid", correct = false},
-}
-},
-{
-question = "Sulton Jaloliddin Gurdjistonni (Gruziya) bo'ysundirib, uning poytaxti Tbilisini qaysi yili egalladi?",
-answers = {
-{text = "1224-yili", correct = false},
-{text = "1226-yili", correct = true},
-{text = "1228-yili", correct = false},
-{text = "1230-yili", correct = false},
-}
-},
-{
-question = "Jaloliddinning Eronning g'arbiy hududlarida o'ziga qarshi chiqqan isyonchi ukasi kim edi?",
-answers = {
-{text = "Oqshoh", correct = false},
-{text = "G'iyosiddin Pirshoh", correct = true},
-{text = "O'zloqshoh", correct = false},
-{text = "Qutbiddin", correct = false},
-}
-},
-{
-question = "1231-yili Jaloliddin Manguberdi qanday halok bo'ldi?",
-answers = {
-{text = "Mo'g'ullar bilan bo'lgan jangda o'ldirildi", correct = false},
-{text = "Xastalikdan vafot etdi", correct = false},
-{text = "Kurd tog'liklari (qaroqchilar) tomonidan xiyonatkorona o'ldirildi", correct = true},
-{text = "Zaharlanib o'ldirildi", correct = false},
-}
-},
-{
-question = "Jaloliddin qo'shinidan Sayfiddin Ig'roq ajralib ketganidan so'ng Chingizxon G'aznaga askar tortib nima qildi?",
-answers = {
-{text = "Ularni ittifoqqa chaqirdi", correct = false},
-{text = "Ajralib chiqqanlarni alohida-alohida tor-mor etdi", correct = true},
-{text = "Ularni o'z qo'shiniga qo'shib oldi", correct = false},
-{text = "Hindistonga chekindi", correct = false},
-}
-},
-{
-question = "Sind jangi arafasida Jaloliddin Manguberdining mo'g'ullarga qarshi kurashdagi taktikasi qanday nom olgan?",
-answers = {
-{text = "Yarim oy shaklida daryoga tayanish", correct = true},
-{text = "Dashtda pistirma qo'yish", correct = false},
-{text = "O'ziyurar minoralar qo'llash", correct = false},
-{text = "Tungi vaqtda shaharga hujum", correct = false},
-}
-},
-{
-question = "Chingizxon vafotidan so'ng mo'g'ullar taxtiga kim o'tirdi?",
-answers = {
-{text = "Jo'chi", correct = false},
-{text = "Chig'atoy", correct = false},
-{text = "O'qtoy", correct = true},
-{text = "Botu", correct = false},
-}
-},
-{
-question = "Bag'dod xalifasining Jaloliddinga qarshi mo'g'ullar bilan hatto til biriktirishigacha borganligiga nima sabab bo'lgan?",
-answers = {
-{text = "O'zaro shartnomani buzgani", correct = false},
-{text = "Uning taxtni tortib olishidan xavfsiragani", correct = true},
-{text = "Diniy qarashlardagi ixtiloflar", correct = false},
-{text = "Soliq to'lashdan bosh tortgani", correct = false},
-}
-},
-{
-question = "Chig'atoy ulusi tarkibiga Turonning qaysi hududlari kirgan edi?",
-answers = {
-{text = "Faqat Buxoro va Samarqand", correct = false},
-{text = "Movarounnahr, Yettisuv va Sharqiy Turkiston", correct = true},
-{text = "Hindiston, Xuroson va Eron", correct = false},
-{text = "Oltin o'rda, Dashti Qipchoq", correct = false},
-}
-},
-{
-question = "Chig'atoy ulusining poytaxti (qarorgohi) qaysi shahar bo'lgan?",
-answers = {
-{text = "Samarqand", correct = false},
-{text = "Olmaliq", correct = true},
-{text = "Urganch", correct = false},
-{text = "Qarshi", correct = false},
-}
-},
-{
-question = "Chingizxon vafotidan keyin Movarounnahrda ma'muriy va fuqarolik boshqaruvini qaysi amaldor olib borgan?",
-answers = {
-{text = "Chig'atoyning o'zi", correct = false},
-{text = "Mas'udbek", correct = false},
-{text = "Mahmud Yalavoch", correct = true},
-{text = "Kapakxon", correct = false},
-}
-},
-{
-question = "Mahmud Yalavochdan so'ng Movarounnahr boshqaruvi kimning qo'liga o'tdi?",
-answers = {
-{text = "Muborakshoh", correct = false},
-{text = "Tarmashirin", correct = false},
-{text = "Kapakxon", correct = false},
-{text = "Mas'udbek", correct = true},
-}
-},
-{
-question = "Chig'atoy xonlari ichida birinchi bo'lib islom dinini qabul qilgan hukmdor kim edi?",
-answers = {
-{text = "Chig'atoy", correct = false},
-{text = "Qorahulagu", correct = false},
-{text = "Muborakshoh", correct = true},
-{text = "Kapakxon", correct = false},
-}
-},
-{
-question = "O'n to'rtinchi asrda Chig'atoy ulusida poytaxtni Movarounnahrga (Qarshiga) ko'chirgan va islohotlar o'tkazgan xon kim?",
-answers = {
-{text = "Tarmashirin", correct = false},
-{text = "Kapakxon", correct = true},
-{text = "Muborakshoh", correct = false},
-{text = "Buroqxon", correct = false},
-}
-},
-{
-question = "Kapakxon davrida zarb etilgan pullar xalq orasida qanday atalgan?",
-answers = {
-{text = "Dinor", correct = false},
-{text = "Dirham", correct = false},
-{text = "Tanga", correct = false},
-{text = "Kupaki", correct = true},
-}
-},
-{
-question = "Chig'atoy ulusining qaysi xoni islom dinini ulusning rasmiy dini deb e'lon qilgan?",
-answers = {
-{text = "Tarmashirin", correct = true},
-{text = "Chig'atoy", correct = false},
-{text = "Muborakshoh", correct = false},
-{text = "Kapakxon", correct = false},
-}
-},
-{
-question = "Tarmashirin xonga qarshi isyon ko'targan mo'g'ul ko'chmanchi amirlarining asosiy noroziligi nimadan edi?",
-answers = {
-{text = "Soliqlarning ko'payishidan", correct = false},
-{text = "Harbiy yurishlar to'xtaganidan", correct = false},
-{text = "O'troqlashish va islom qoidalari joriy qilinishidan", correct = true},
-{text = "Yangi poytaxt qurilganidan", correct = false},
-}
-},
-{
-question = "O'n to'rtinchi asrning 40-yillarida (1340-yillar) Chig'atoy ulusi nechta mustaqil davlatga bo'linib ketdi?",
-answers = {
-{text = "Ikki qismga (Movarounnahr va Mo'g'uliston)", correct = true},
-{text = "Uch qismga", correct = false},
-{text = "To'rt qismga", correct = false},
-{text = "Besh viloyatga", correct = false},
-}
-},
-{
-question = "Chig'atoy ulusining parchalanishidan so'ng uning sharqiy hududlarida qanday davlat yuzaga keldi?",
-answers = {
-{text = "Xorazm", correct = false},
-{text = "Oltin O'rda", correct = false},
-{text = "Elxoniylar", correct = false},
-{text = "Mo'g'uliston (Jete)", correct = true},
-}
-},
-{
-question = "Chig'atoyning vafotidan so'ng hokimiyat uning qaysi nevarasi qo'liga o'tdi?",
-answers = {
-{text = "Qorahulagu", correct = true},
-{text = "Kapakxon", correct = false},
-{text = "Muborakshoh", correct = false},
-{text = "To'g'luq Temur", correct = false},
-}
-},
-{
-question = "Mo'g'ullar istilosi davrida va Chig'atoy ulusida o'troq dehqonlardan olinadigan hosil solig'i nima deb atalgan?",
-answers = {
-{text = "Zakot", correct = false},
-{text = "Ushr", correct = false},
-{text = "Xiroj", correct = true},
-{text = "Qopchur", correct = false},
-}
-},
-{
-question = "Chig'atoy ulusida ko'chmanchi chorvador aholidan olinadigan maxsus soliq nima deb nomlangan?",
-answers = {
-{text = "Tamg'a", correct = false},
-{text = "Xiroj", correct = false},
-{text = "Qopchur", correct = true},
-{text = "Jizya", correct = false},
-}
-},
-{
-question = "Savdo va hunarmandchilikdan olinadigan boj solig'i qanday atalgan?",
-answers = {
-{text = "Tamg'a", correct = true},
-{text = "Qopchur", correct = false},
-{text = "Ulong", correct = false},
-{text = "Kalan", correct = false},
-}
-},
-{
-question = "Chig'atoy ulusi asosan qaysi tillarda o'z ish yurituvini olib borgan?",
-answers = {
-{text = "Faqat mo'g'ul tilida", correct = false},
-{text = "Turkiy va forsiy tillarda", correct = true},
-{text = "Arab va fors tillarida", correct = false},
-{text = "Mo'g'ul va xitoy tillarida", correct = false},
-}
-}
-}
-
