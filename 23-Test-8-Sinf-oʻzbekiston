@@ -1,0 +1,905 @@
+-- ================================================================
+-- O'ZBEKISTON TARIXI (XIII-XV asrlar), 8-sinf, 2023
+-- 12, 13, 14, 15, 16, 17-mavzular bo'yicha test savollari
+-- Har bir mavzudan 16 tadan savol
+-- ================================================================
+
+-- ============================================================
+-- 12-MAVZU: AMIR TEMURNING TASHQI SIYOSATI
+-- ============================================================
+questions_12 = {
+{
+question = "Amir Temur 1402-yil yozida maxsus elchilari orqali maktublar yuborgan ikki Yevropa davlati qaysilar edi?",
+answers = {
+{text = "Ispaniya va Italiya", correct = false},
+{text = "Fransiya va Angliya", correct = true},
+{text = "Vengriya va Polsha", correct = false},
+{text = "Vizantiya va Venetsiya", correct = false},
+}
+},
+{
+question = "Amir Temur elchilari Fransiyaga, Parij shahriga qaysi yilning may oyida yetib bordi?",
+answers = {
+{text = "1401-yilda", correct = false},
+{text = "1402-yilda", correct = false},
+{text = "1403-yilda", correct = true},
+{text = "1404-yilda", correct = false},
+}
+},
+{
+question = "Fransiya qiroli Karl Oltinchi Amir Temurga javob maktubini qaysi sanada yo'lladi?",
+answers = {
+{text = "1402-yil 15-iyunda", correct = false},
+{text = "1403-yil 15-iyunda", correct = true},
+{text = "1404-yil 15-iyunda", correct = false},
+{text = "1405-yil 15-iyunda", correct = false},
+}
+},
+{
+question = "Amir Temur Fransiya qiroli Karl Oltinchiga yozgan maktubida asosan nimani taklif qildi?",
+answers = {
+{text = "Harbiy ittifoq tuzishni", correct = false},
+{text = "Erkin savdo-sotiq yuritishni", correct = true},
+{text = "Diniy birlashishni", correct = false},
+{text = "Hududiy chegara belgilashni", correct = false},
+}
+},
+{
+question = "G'arbiy Eron, Iroq, Ozarbayjon va Armanistonni o'z ichiga olgan mulklar hokimi sifatida Yevropa davlatlari bilan diplomatik munosabatlarda kim faol qatnashgan?",
+answers = {
+{text = "Shohrux", correct = false},
+{text = "Jahongir", correct = false},
+{text = "Mironshoh", correct = true},
+{text = "Ulug'bek", correct = false},
+}
+},
+{
+question = "Mironshoh G'arbda qanday nom bilan mashhur bo'lgan edi?",
+answers = {
+{text = "\"Islom homiysi\"", correct = false},
+{text = "\"Sharq elchisi\"", correct = false},
+{text = "\"Katolik oqimining homiysi\"", correct = true},
+{text = "\"Yevropa xaloskori\"", correct = false},
+}
+},
+{
+question = "Sharq bilan juda qiziqib qolgan Kastiliya (Ispaniya) qiroli kim edi?",
+answers = {
+{text = "Genrix Beshinchi", correct = false},
+{text = "Genrix Uchinchi", correct = true},
+{text = "Karl Oltinchi", correct = false},
+{text = "Filipp Ikkinchi", correct = false},
+}
+},
+{
+question = "Ispaniya qiroli Amir Temur huzuriga ikkinchi marta yuborgan elchilar boshlig'i etib kim tayinlangan edi?",
+answers = {
+{text = "Klavixo", correct = true},
+{text = "Ioann Grinlo", correct = false},
+{text = "Muhammadqozi", correct = false},
+{text = "Perondino", correct = false},
+}
+},
+{
+question = "Ispaniya elchilari Samarqandda qaysi yili tantanavor qabul qilingan va hurmat-ehtirom ko'rsatilgan?",
+answers = {
+{text = "1402-yilda", correct = false},
+{text = "1403-yilda", correct = false},
+{text = "1404-yilda", correct = true},
+{text = "1405-yilda", correct = false},
+}
+},
+{
+question = "Amir Temur o'zining vakili sifatida Ispaniyaga kimni elchi qilib yuborgan?",
+answers = {
+{text = "Muhammadqozi", correct = true},
+{text = "Sayyid Bahouddin Roziy", correct = false},
+{text = "Klavixo", correct = false},
+{text = "Ibn Arabshoh", correct = false},
+}
+},
+{
+question = "Klavixoning Samarqandga sayohati taassurotlari asosida yozilgan asari qanday nomlanadi?",
+answers = {
+{text = "\"Zafarnoma\"", correct = false},
+{text = "\"Matlai sa'dayn\"", correct = false},
+{text = "\"Samarqandga sayohat kundaligi\"", correct = true},
+{text = "\"Temur tuzuklari\"", correct = false},
+}
+},
+{
+question = "Amir Temur Samarqand atrofida qad ko'targan yangi qishloqlarni qaysi mashhur Sharq shaharlari nomi bilan atagan?",
+answers = {
+{text = "London va Rim", correct = false},
+{text = "Dimishq va Bag'dod", correct = true},
+{text = "Venetsiya va Marsel", correct = false},
+{text = "Afina va Kordova", correct = false},
+}
+},
+{
+question = "Klavixo o'z kundaligida Xitoy poytaxti Xonbaliqdan Samarqandga kelgan savdo karvonining necha tuyalik ekanini qayd etgan?",
+answers = {
+{text = "500 tuyalik", correct = false},
+{text = "800 tuyalik", correct = true},
+{text = "1000 tuyalik", correct = false},
+{text = "300 tuyalik", correct = false},
+}
+},
+{
+question = "Amir Temur Boyazid Birinchi Yildirim ustidan g'alaba qozonganidan so'ng, Usmoniylar davlati boshqaruvini kim ixtiyorida qoldirdi?",
+answers = {
+{text = "O'z nabiralaridan biri ixtiyorida", correct = false},
+{text = "Mironshoh ixtiyorida", correct = false},
+{text = "Usmoniylar sulolasi ixtiyorida", correct = true},
+{text = "Vizantiya imperatori ixtiyorida", correct = false},
+}
+},
+{
+question = "Amir Temurning Boyazid ustidan qozongan g'alabasi natijasida qaysi shaharning turklar tomonidan qamal qilinishi 50 yilga to'xtadi?",
+answers = {
+{text = "Bag'dod", correct = false},
+{text = "Damashq", correct = false},
+{text = "Qohira", correct = false},
+{text = "Konstantinopol", correct = true},
+}
+},
+{
+question = "Nikopolda asir tushgan qaysi kishilar Amir Temur tayin etgan yangi Usmonli hukmdorlari tomonidan ozod qilindi?",
+answers = {
+{text = "Xitoy elchilari", correct = false},
+{text = "Salib yurishi ishtirokchilari", correct = true},
+{text = "Ispaniya savdogarlari", correct = false},
+{text = "Fransiya harbiylari", correct = false},
+}
+},
+}
+
+-- ============================================================
+-- 13-MAVZU: AMIR TEMUR DAVLATIDA QO'SHIN TUZILISHI
+-- ============================================================
+questions_13 = {
+{
+question = "Amir Temur qo'shinining yuragi va qo'mondonlik o'zagini qaysi urug' vakillari tashkil etgan?",
+answers = {
+{text = "Jaloyir urug'i", correct = false},
+{text = "Barlos urug'i", correct = true},
+{text = "Qavchin urug'i", correct = false},
+{text = "Qoraxon urug'i", correct = false},
+}
+},
+{
+question = "Amir Temur saroy va devonni qo'riqlash uchun necha ming askarni to'rt tomonlama qo'riqchilikka qo'ygan edi?",
+answers = {
+{text = "O'n ming askar", correct = false},
+{text = "O'n ikki ming askar", correct = true},
+{text = "O'n besh ming askar", correct = false},
+{text = "Yigirma ming askar", correct = false},
+}
+},
+{
+question = "Urush vaqtida o'n ikki ming qurollangan otliq nechta qismga bo'lingan?",
+answers = {
+{text = "Ikki qismga", correct = false},
+{text = "Uch qismga", correct = false},
+{text = "To'rt qismga", correct = true},
+{text = "Besh qismga", correct = false},
+}
+},
+{
+question = "Amir Temur jahon harbiy san'ati tarixida birinchi bo'lib qo'shinni jang maydonida necha qo'lga (korpusga) bo'lib joylashtirish tartibini joriy qildi?",
+answers = {
+{text = "Beshta qo'l", correct = false},
+{text = "Oltita qo'l", correct = false},
+{text = "Yettita qo'l", correct = true},
+{text = "Sakkizta qo'l", correct = false},
+}
+},
+{
+question = "Amir Temur o'z qo'shiniga jang sirlarini biladigan, mard va sadoqatli necha nafar amirni rahbar etib tayinlagan edi?",
+answers = {
+{text = "213 nafar", correct = false},
+{text = "313 nafar", correct = true},
+{text = "413 nafar", correct = false},
+{text = "513 nafar", correct = false},
+}
+},
+{
+question = "Hukmdorning qo'shin to'plashga qaratilgan maxsus buyrug'i (farmoni) qanday atalgan?",
+answers = {
+{text = "Yorliq", correct = false},
+{text = "Yasoq", correct = false},
+{text = "Tunkal", correct = true},
+{text = "Tavochi", correct = false},
+}
+},
+{
+question = "Tunkalni tegishli joylarga tezlik bilan yetkazish vazifasi qaysi amaldorga yuklatilgan edi?",
+answers = {
+{text = "Dorug'aga", correct = false},
+{text = "Tavochiga", correct = true},
+{text = "Kutvolga", correct = false},
+{text = "Arzbegiga", correct = false},
+}
+},
+{
+question = "Amir Temur o'tochar qurol - to'p-ra'dni o'z qo'shiniga ilk bora qaysi qamal vaqtida olib kirgan?",
+answers = {
+{text = "Samarqand qamalida", correct = false},
+{text = "Urganch qamalida", correct = true},
+{text = "Bag'dod qamalida", correct = false},
+{text = "Damashq qamalida", correct = false},
+}
+},
+{
+question = "Amir Temur to'plarni ilk marta qaysi yili jangga solgan?",
+answers = {
+{text = "1370-yili", correct = false},
+{text = "1379-yili", correct = true},
+{text = "1385-yili", correct = false},
+{text = "1391-yili", correct = false},
+}
+},
+{
+question = "Zahiriddin Muhammad Boburning ma'lumotiga ko'ra, Samarqand istehkom devorining uzunligi necha qadamni tashkil etgan?",
+answers = {
+{text = "8 600 qadam", correct = false},
+{text = "9 600 qadam", correct = false},
+{text = "10 600 qadam", correct = true},
+{text = "11 600 qadam", correct = false},
+}
+},
+{
+question = "Keyinchalik ta'mirlangan Samarqand istehkom devorining qalinligi necha metr bo'lgan?",
+answers = {
+{text = "3,5 metr", correct = false},
+{text = "4 metr", correct = false},
+{text = "4,5 metr", correct = true},
+{text = "5 metr", correct = false},
+}
+},
+{
+question = "1392-yili Amir Temur o'g'li sharafiga Binokat o'rnida qaysi mustahkam qal'ani qayta qurdirdi?",
+answers = {
+{text = "Shohruxiyani", correct = true},
+{text = "Oqsaroyni", correct = false},
+{text = "Ko'ksaroyni", correct = false},
+{text = "Dilkushoni", correct = false},
+}
+},
+{
+question = "Amir Temur lashkarlari orasida ayollar bo'lgani va ular dushman bilan to'qnashuvlarda matonat ko'rsatgani haqida qaysi muallif ma'lumot bergan?",
+answers = {
+{text = "Klavixo", correct = false},
+{text = "Ibn Arabshoh", correct = true},
+{text = "Sharafuddin Ali Yazdiy", correct = false},
+{text = "Nizomiddin Shomiy", correct = false},
+}
+},
+{
+question = "Amir Temur qo'shinining tuzilishi va taktik usullarini sinchiklab o'rgangan mashhur fransuz sarkardasi kim bo'lgan?",
+answers = {
+{text = "Napoleon", correct = true},
+{text = "Karl Oltinchi", correct = false},
+{text = "Genrix To'rtinchi", correct = false},
+{text = "Filipp Avguste", correct = false},
+}
+},
+{
+question = "Amir Temur armiyasi haqida \"...Temurning to'g'ri saflangan, kuchli zaxiraga ega mustahkam armiyasi bor edi\" degan fikrni bildirgan o'n to'qqizinchi asr rus harbiy tarixchisi kim edi?",
+answers = {
+{text = "B. D. Grekov", correct = false},
+{text = "A. Y. Yakubovskiy", correct = false},
+{text = "F. Shlosser", correct = false},
+{text = "M. Ivanin", correct = true},
+}
+},
+{
+question = "Amir Temur davrida biror amir dushman lashkarini yensa yoki mamlakatni egallasa, unga uchta narsa bilan taqdirlangan: faxriy nom, tug' va nog'ora. Quyidagilardan qaysi biri ushbu uch mukofot tarkibiga kirmaydi?",
+answers = {
+{text = "Faxriy nom", correct = false},
+{text = "Tug'", correct = false},
+{text = "Ot", correct = true},
+{text = "Nog'ora", correct = false},
+}
+},
+}
+
+-- ============================================================
+-- 14-MAVZU: AMIR TEMUR DAVLATINING BOSHQARUVI
+-- ============================================================
+questions_14 = {
+{
+question = "Amir Temur davlatida boshqaruv nechta idoradan iborat bo'lgan?",
+answers = {
+{text = "Bitta idoradan", correct = false},
+{text = "Ikkita idoradan", correct = true},
+{text = "Uchta idoradan", correct = false},
+{text = "To'rtta idoradan", correct = false},
+}
+},
+{
+question = "Amir Temur davlatida boshqaruvning ikki idorasi qanday nomlangan?",
+answers = {
+{text = "Dargoh va vazirlik (devon)", correct = true},
+{text = "Devon va kengash", correct = false},
+{text = "Majlis va devon", correct = false},
+{text = "Xolisa va devon", correct = false},
+}
+},
+{
+question = "Amir Temur davlatida dargohni kim boshqargan?",
+answers = {
+{text = "Devonbegi", correct = false},
+{text = "Arkbegi", correct = false},
+{text = "Qozikalon", correct = false},
+{text = "Oliy hukmdor", correct = true},
+}
+},
+{
+question = "Amir Temur davlatining devonxonasida nechta vazir devonbegiga bo'ysungan bo'lgan?",
+answers = {
+{text = "Beshta vazir", correct = false},
+{text = "Oltita vazir", correct = false},
+{text = "Yettita vazir", correct = true},
+{text = "Sakkizta vazir", correct = false},
+}
+},
+{
+question = "Devonxonadagi qaysi vazir egasiz qolgan, o'lib ketgan yoki qochganlarga tegishli mol-mulk hamda savdogarlardan olinadigan zakot va bojlarni boshqargan?",
+answers = {
+{text = "Sipoh vaziri", correct = false},
+{text = "Davlat daromadlarini omonat saqlovchi vazir", correct = true},
+{text = "Saltanat ishlarini yurituvchi vazir", correct = false},
+{text = "Mamlakat va raiyat vaziri", correct = false},
+}
+},
+{
+question = "Devonbegi yonida bo'lib, turli rasmiy marosimlarni uyushtirgan va o'tkazgan amaldor qanday atalgan?",
+answers = {
+{text = "Tavochi", correct = false},
+{text = "Arkbegi", correct = true},
+{text = "Kutvol", correct = false},
+{text = "Muhtasib", correct = false},
+}
+},
+{
+question = "Sipoh, raiyat yoki ariza-shikoyat bilan kelganlarning ahvolini va mamlakat obodonchiligini nazorat qiluvchi mansab qanday atalgan?",
+answers = {
+{text = "Arzbegi", correct = true},
+{text = "Dorug'a", correct = false},
+{text = "Qorovulbegi", correct = false},
+{text = "Mirshab", correct = false},
+}
+},
+{
+question = "Har bir shahar va qishloqqa tayinlanib, sipoh-u raiyatga soqchilik qilgan qal'a boshlig'i (komendant) qanday nomlangan?",
+answers = {
+{text = "Kutvol", correct = true},
+{text = "Tavochi", correct = false},
+{text = "Devonbegi", correct = false},
+{text = "Arzbegi", correct = false},
+}
+},
+{
+question = "Har bir viloyat, tuman va shaharda moliya ishlarini nechta vazir yuritgan?",
+answers = {
+{text = "Ikkita vazir", correct = false},
+{text = "Uchta vazir", correct = true},
+{text = "To'rtta vazir", correct = false},
+{text = "Beshta vazir", correct = false},
+}
+},
+{
+question = "Amir Temur davlatida sud hokimiyati nechta ko'rinishda bo'lgan?",
+answers = {
+{text = "Ikkita", correct = false},
+{text = "Uchta", correct = true},
+{text = "To'rtta", correct = false},
+{text = "Beshta", correct = false},
+}
+},
+{
+question = "Shariat talablariga asoslanib ish yurituvchi sudya qanday nomlangan?",
+answers = {
+{text = "Ahdos qozisi", correct = false},
+{text = "Shariat qozisi", correct = true},
+{text = "Qozikalon", correct = false},
+{text = "Muhtasib", correct = false},
+}
+},
+{
+question = "Odat huquqi asosida ish ko'ruvchi sudya qanday atalgan?",
+answers = {
+{text = "Ahdos qozisi", correct = true},
+{text = "Shariat qozisi", correct = false},
+{text = "Qozikalon", correct = false},
+{text = "Arzbegi", correct = false},
+}
+},
+{
+question = "Butun imperiya bo'yicha odil sudlov holatiga javob bergan, raiyat qozilari faoliyatini nazorat qilgan oliy sudya qanday atalgan?",
+answers = {
+{text = "Muhtasib", correct = false},
+{text = "Devonbegi", correct = false},
+{text = "Qozikalon", correct = true},
+{text = "Arkbegi", correct = false},
+}
+},
+{
+question = "Diniy marosimlar, urf-odatlar va shariat qonunlarining bajarilishi ustidan nazorat olib boruvchi mansabdorlar qanday atalgan?",
+answers = {
+{text = "Muhtasiblar", correct = true},
+{text = "Kutvollar", correct = false},
+{text = "Arzbeglar", correct = false},
+{text = "Tavochilar", correct = false},
+}
+},
+{
+question = "Davlatni boshqarish tartibiga qarshi qaratilgan hamda mansablarni suiiste'mol qilish jinoyatlari bo'yicha sud ishlarini yurituvchi maxsus organ qanday nomlangan?",
+answers = {
+{text = "Xolisa", correct = false},
+{text = "Oliy devon", correct = false},
+{text = "Adolat devoni", correct = true},
+{text = "Shariat devoni", correct = false},
+}
+},
+{
+question = "Amir Temurning maxfiy harbiy qismi tarkibida necha nafar tezyurar tuya mingan chopqinchi bo'lgan?",
+answers = {
+{text = "Besh yuz nafar", correct = false},
+{text = "Ming nafar", correct = true},
+{text = "Ikki ming nafar", correct = false},
+{text = "Uch ming nafar", correct = false},
+}
+},
+}
+
+-- ============================================================
+-- 15-MAVZU: AMIR TEMURNING JAHON TARIXIDA TUTGAN O'RNI
+-- ============================================================
+questions_15 = {
+{
+question = "Rim papasi va Fransiya qiroli Karl Oltinchining elchisi bo'lib, Amir Temur bilan suhbatlarda ishtirok etgan hamda uning saltanatini o'z ko'zi bilan ko'rib asar yozgan yevropalik birinchi muallif kim edi?",
+answers = {
+{text = "Klavixo", correct = false},
+{text = "Ioann Grinlo", correct = true},
+{text = "Perondino", correct = false},
+{text = "Xristofor Marlo", correct = false},
+}
+},
+{
+question = "Ioann Grinlo Amir Temur bilan qaysi yilning avgust oyida uchrashgan?",
+answers = {
+{text = "1400-yilda", correct = false},
+{text = "1401-yilda", correct = true},
+{text = "1402-yilda", correct = false},
+{text = "1403-yilda", correct = false},
+}
+},
+{
+question = "Ioann Grinloning \"Temur va uning saroyiga oid xotiralar\" asari nechta bobdan iborat?",
+answers = {
+{text = "20 bobdan", correct = false},
+{text = "21 bobdan", correct = false},
+{text = "22 bobdan", correct = false},
+{text = "23 bobdan", correct = true},
+}
+},
+{
+question = "1402-yilda Boyazid Birinchi Yildirim tor-mor keltirilganidan so'ng fransuzlar nima qildilar?",
+answers = {
+{text = "Amir Temurga saroy qurib berishdi", correct = false},
+{text = "Amir Temurning oltin haykalchasini quydirib, \"Yevropa xaloskoriga\" deb yozib qo'ydilar", correct = true},
+{text = "Amir Temurga elchi yuborishdi", correct = false},
+{text = "Amir Temur haqida qonun chiqarishdi", correct = false},
+}
+},
+{
+question = "Yevropa olimlarining Amir Temur shaxsi va faoliyatiga qiziqishi qaysi asrdan boshlangan edi?",
+answers = {
+{text = "O'n to'rtinchi asrdan", correct = false},
+{text = "O'n beshinchi asrdan", correct = false},
+{text = "O'n oltinchi asrdan", correct = true},
+{text = "O'n yettinchi asrdan", correct = false},
+}
+},
+{
+question = "1553-yili Italiyaning Florensiya shahrida \"Skifiyalik Tamerlanning ulug'vorligi\" asarini kim bosib chiqardi?",
+answers = {
+{text = "Klavixo", correct = false},
+{text = "Perondino", correct = true},
+{text = "Pero Meksika", correct = false},
+{text = "M. Dagen Hort", correct = false},
+}
+},
+{
+question = "1582-yili Sevilyada nashrdan chiqqan \"Esdaliklar\" kitobining muallifi kim edi?",
+answers = {
+{text = "Ioann Grinlo", correct = false},
+{text = "Perondino", correct = false},
+{text = "Rui Gonsales de Klavixo", correct = true},
+{text = "Ibn Arabshoh", correct = false},
+}
+},
+{
+question = "Ingliz dramaturgi Xristofor Marlo qaysi nomdagi sahna asarini yaratdi?",
+answers = {
+{text = "\"Skifiyalik Tamerlan\"", correct = false},
+{text = "\"Buyuk Temur\"", correct = true},
+{text = "\"Sohibqiron\"", correct = false},
+{text = "\"Zafarnoma\"", correct = false},
+}
+},
+{
+question = "Luvr muzeyi binosi Fransiya qiroli Filipp Avguste tomonidan qal'a sifatida qaysi yili bunyod etilgan?",
+answers = {
+{text = "1090-yilda", correct = false},
+{text = "1190-yilda", correct = true},
+{text = "1290-yilda", correct = false},
+{text = "1390-yilda", correct = false},
+}
+},
+{
+question = "Luvr qal'asi qaysi yili muzeyga aylantirilgan?",
+answers = {
+{text = "1693-yilda", correct = false},
+{text = "1793-yilda", correct = true},
+{text = "1893-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+}
+},
+{
+question = "Sharafuddin Ali Yazdiyning \"Zafarnoma\" asari qaysi yili yozilgan?",
+answers = {
+{text = "1415-yili", correct = false},
+{text = "1425-yili", correct = true},
+{text = "1435-yili", correct = false},
+{text = "1445-yili", correct = false},
+}
+},
+{
+question = "Rui Gonsales de Klavixoning \"Samarqandga - Temur saroyiga sayohat kundaligi\" kitobi qaysi yillarni qamrab oladi?",
+answers = {
+{text = "1401-1403-yillarni", correct = false},
+{text = "1403-1406-yillarni", correct = true},
+{text = "1404-1407-yillarni", correct = false},
+{text = "1405-1408-yillarni", correct = false},
+}
+},
+{
+question = "Nemis olimi M. Dagen Hort Yevropa sharqshunoslarining Amir Temur davriga bag'ishlangan asarlar bibliografiyasini qaysi yili chop ettirdi?",
+answers = {
+{text = "1903-yilda", correct = false},
+{text = "1913-yilda", correct = true},
+{text = "1923-yilda", correct = false},
+{text = "1933-yilda", correct = false},
+}
+},
+{
+question = "Abulhay Habibiy 1018 sahifadan iborat \"Temur davri san'atlari\" asarini qaysi yili va qayerda chop ettirgan?",
+answers = {
+{text = "1964-yili Bag'dodda", correct = false},
+{text = "1974-yili Tehronda", correct = true},
+{text = "1984-yili Qohirada", correct = false},
+{text = "1994-yili Damashqda", correct = false},
+}
+},
+{
+question = "Toshkentdagi Amir Temur xiyobonida Temuriylar tarixi davlat muzeyi qaysi yili barpo etilgan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+{text = "1997-yilda", correct = false},
+}
+},
+{
+question = "Nemis kompozitori Georg Fridrix Hendel qaysi yili \"Temur\" operasini yaratdi?",
+answers = {
+{text = "1704-yilda", correct = false},
+{text = "1714-yilda", correct = false},
+{text = "1724-yilda", correct = true},
+{text = "1734-yilda", correct = false},
+}
+},
+}
+
+-- ============================================================
+-- 16-MAVZU: AMIR TEMUR DAVLATIDA OBODONLASHTIRISH VA BUNYODKORLIK
+-- ============================================================
+questions_16 = {
+{
+question = "Amir Temur Qashqadaryo viloyatidagi Eski Anhor kanalini kim ustidan qozongan g'alabasi sharafiga qurdirgan?",
+answers = {
+{text = "To'xtamishxon ustidan", correct = false},
+{text = "Sulton Boyazid ustidan", correct = true},
+{text = "Boysung'ur ustidan", correct = false},
+{text = "Xalil Sulton ustidan", correct = false},
+}
+},
+{
+question = "Amir Temur Xurosondagi Murg'ob vodiysida daryodan necha ta kanal qazdirib, suv chiqartirgan?",
+answers = {
+{text = "10 ta", correct = false},
+{text = "15 ta", correct = false},
+{text = "20 ta", correct = true},
+{text = "25 ta", correct = false},
+}
+},
+{
+question = "Qorabog'da necha kilometrlik kanal qazilgan?",
+answers = {
+{text = "32 km", correct = false},
+{text = "42 km", correct = true},
+{text = "52 km", correct = false},
+{text = "62 km", correct = false},
+}
+},
+{
+question = "Ozarbayjondagi Mug'on shahrida nechta bog' barpo etilgan?",
+answers = {
+{text = "8 ta bog'", correct = false},
+{text = "10 ta bog'", correct = false},
+{text = "12 ta bog'", correct = true},
+{text = "14 ta bog'", correct = false},
+}
+},
+{
+question = "Amir Temur davrida Samarqand va uning atrofida nechtadan ortiq betakror bog' yaratilgan?",
+answers = {
+{text = "5 tadan ortiq", correct = false},
+{text = "8 tadan ortiq", correct = false},
+{text = "10 tadan ortiq", correct = true},
+{text = "12 tadan ortiq", correct = false},
+}
+},
+{
+question = "Sohibqiron Bog'i Balandni Samarqand shimolidagi Cho'ponota maqbarasi yaqinida kimga atab qurdirgan?",
+answers = {
+{text = "Xotini Xayrunnisoga", correct = false},
+{text = "Nabirasiga (Mironshohning qiziga)", correct = true},
+{text = "Tukal xonimga", correct = false},
+{text = "O'g'li Jahongirga", correct = false},
+}
+},
+{
+question = "Bog'i Behisht 1378-yilda Amir Temurning kim uchun qurilgan?",
+answers = {
+{text = "Suyukli xotini Xayrunnisoga", correct = true},
+{text = "Tukal xonimga", correct = false},
+{text = "Gavharshod begimga", correct = false},
+{text = "Saroymulkxonimga", correct = false},
+}
+},
+{
+question = "Bog'i Dilkusho 1397-yilda kim sharafiga qurilgan?",
+answers = {
+{text = "Xayrunniso sharafiga", correct = false},
+{text = "Tukal xonim sharafiga", correct = true},
+{text = "Gavharshod begim sharafiga", correct = false},
+{text = "Saroymulkxonim sharafiga", correct = false},
+}
+},
+{
+question = "Bog'i Nav (Yangi bog') qaysi yili qurilgan?",
+answers = {
+{text = "1394-yilda", correct = false},
+{text = "1399-yilda", correct = false},
+{text = "1404-yilda", correct = true},
+{text = "1409-yilda", correct = false},
+}
+},
+{
+question = "Bog'i Jahonnamo Samarqanddan yetti farsax, ya'ni necha kilometr narida qurilgan?",
+answers = {
+{text = "30 km", correct = false},
+{text = "42 km", correct = true},
+{text = "54 km", correct = false},
+{text = "66 km", correct = false},
+}
+},
+{
+question = "Kesh shahri Amir Temur davrida madaniy markazga aylantirilib, qanday unvonga ega bo'lgan?",
+answers = {
+{text = "\"Qubbat ul-ilm val-adab\"", correct = true},
+{text = "\"Yevropaning xaloskori\"", correct = false},
+{text = "\"Adolat maskani\"", correct = false},
+{text = "\"Ilm-fan poytaxti\"", correct = false},
+}
+},
+{
+question = "Samarqand shahri atrofida qanday nomlar bilan atalgan nechta darvoza o'rnatilgan edi?",
+answers = {
+{text = "4 ta darvoza", correct = false},
+{text = "5 ta darvoza", correct = false},
+{text = "6 ta darvoza", correct = true},
+{text = "7 ta darvoza", correct = false},
+}
+},
+{
+question = "Zahiriddin Muhammad Bobur \"Boburnoma\" asarida Samarqandning poytaxt qilinishi haqida qanday fikr bildirgan?",
+answers = {
+{text = "Kesh Samarqanddan yaxshiroq bo'lgan", correct = false},
+{text = "Temurbekdan burun hech kim Samarqandni poytaxt qilmagan edi", correct = true},
+{text = "Buxoro poytaxt bo'lishi kerak edi", correct = false},
+{text = "Hirot poytaxt bo'lishi kerak edi", correct = false},
+}
+},
+{
+question = "Hindistondan Amir Temur saltanatiga qanday hunarmandlar olib kelingan?",
+answers = {
+{text = "Musavvirlar va xattotlar", correct = false},
+{text = "G'isht teruvchi me'morlar, binokorlar va zargarlar", correct = true},
+{text = "Qurolsozlar va to'pchi muhandislar", correct = false},
+{text = "Pillachilar va to'quvchilar", correct = false},
+}
+},
+{
+question = "O'sha davrda hunarmandchilikning nechtaga yaqin turi mavjud bo'lgan?",
+answers = {
+{text = "300 taga yaqin", correct = false},
+{text = "400 taga yaqin", correct = false},
+{text = "500 taga yaqin", correct = true},
+{text = "600 taga yaqin", correct = false},
+}
+},
+{
+question = "Amir Temur davrida joriy etilib, keyinchalik Ulug'bek tomonidan tiklangan soliq turi qaysi edi?",
+answers = {
+{text = "Xiroj solig'i", correct = false},
+{text = "Tamg'a solig'i", correct = true},
+{text = "Zakot solig'i", correct = false},
+{text = "Boj solig'i", correct = false},
+}
+},
+}
+
+-- ============================================================
+-- 17-MAVZU: TEMURIYLAR DAVRIDA MOVAROUNNAHR VA XUROSON
+-- ============================================================
+questions_17 = {
+{
+question = "Amir Temur barpo etgan buyuk saltanat jami nechta o'lka va viloyatni o'z ichiga olgan edi?",
+answers = {
+{text = "17 ta", correct = false},
+{text = "27 ta", correct = true},
+{text = "37 ta", correct = false},
+{text = "47 ta", correct = false},
+}
+},
+{
+question = "Amir Temur Xitoyga yurishi vaqtida O'tror shahrida qaysi sanada vafot etdi?",
+answers = {
+{text = "1404-yil 18-fevralda", correct = false},
+{text = "1405-yil 18-fevralda", correct = true},
+{text = "1406-yil 18-fevralda", correct = false},
+{text = "1407-yil 18-fevralda", correct = false},
+}
+},
+{
+question = "Amir Temur vafotidan oldin o'ziga voris va taxt valiahdi etib kimni vasiyat qilib qoldirgan edi?",
+answers = {
+{text = "Xalil Sulton Mirzoni", correct = false},
+{text = "Shohruxni", correct = false},
+{text = "Pirmuhammad Jahongirni", correct = true},
+{text = "Ulug'bekni", correct = false},
+}
+},
+{
+question = "1405-yil 18-mart kuni Samarqandni o'zboshimchalik bilan egallab, o'zini Movarounnahr hukmdori deb e'lon qilgan shaxs kim edi?",
+answers = {
+{text = "Pirmuhammad", correct = false},
+{text = "Xalil Sulton Mirzo", correct = true},
+{text = "Shohrux", correct = false},
+{text = "Sulton Husayn Mirzo", correct = false},
+}
+},
+{
+question = "Xalil Sulton Mirzo kimning o'g'li edi?",
+answers = {
+{text = "Mironshohning", correct = true},
+{text = "Shohruxning", correct = false},
+{text = "Jahongirning", correct = false},
+{text = "Umarshayxning", correct = false},
+}
+},
+{
+question = "1407-yil 22-fevralda taxt valiahdi Pirmuhammad kim uyushtirgan suiqasd natijasida o'ldirildi?",
+answers = {
+{text = "Amir Xudoydot tomonidan", correct = false},
+{text = "O'z vaziri Pirali Toz tomonidan", correct = true},
+{text = "Qora Yusuf tomonidan", correct = false},
+{text = "Xalil Sulton tomonidan", correct = false},
+}
+},
+{
+question = "1408-yil 22-aprelda Mironshoh Ozarbayjon va Iroq uchun bo'lgan jangda kim tomonidan o'ldirildi?",
+answers = {
+{text = "Amir Xudoydot tomonidan", correct = false},
+{text = "Qoraqo'yunli Qora Yusuf tomonidan", correct = true},
+{text = "Pirali Toz tomonidan", correct = false},
+{text = "Shayx Nuriddin tomonidan", correct = false},
+}
+},
+{
+question = "1409-yil bahorida Amir Xudoydot Xalil Sultonni qayerda mag'lubiyatga uchratib, asirlikka oldi?",
+answers = {
+{text = "Nasaf qishlog'ida", correct = false},
+{text = "Sheroz qishlog'ida", correct = true},
+{text = "Damashq qishlog'ida", correct = false},
+{text = "Tarnob yaqinida", correct = false},
+}
+},
+{
+question = "Shohrux Amir Temurning nechanchi o'g'li bo'lgan?",
+answers = {
+{text = "Ikkinchi o'g'li", correct = false},
+{text = "Uchinchi o'g'li", correct = false},
+{text = "To'rtinchi o'g'li", correct = true},
+{text = "Beshinchi o'g'li", correct = false},
+}
+},
+{
+question = "Shohrux qaysi yili tavallud topgan?",
+answers = {
+{text = "1367-yilda", correct = false},
+{text = "1377-yilda", correct = true},
+{text = "1387-yilda", correct = false},
+{text = "1397-yilda", correct = false},
+}
+},
+{
+question = "Amudaryodan janubda joylashgan Shohrux boshchiligidagi davlatning markazi qaysi shahar bo'lgan?",
+answers = {
+{text = "Samarqand", correct = false},
+{text = "Hirot", correct = true},
+{text = "Buxoro", correct = false},
+{text = "Marv", correct = false},
+}
+},
+{
+question = "Amudaryodan shimolda joylashgan Movarounnahr va Turkiston hududidagi davlatga kim boshchilik qilgan?",
+answers = {
+{text = "Shohrux", correct = false},
+{text = "Ulug'bek", correct = true},
+{text = "Xalil Sulton", correct = false},
+{text = "Sulton Husayn Mirzo", correct = false},
+}
+},
+{
+question = "Shohrux jami necha yilga yaqin hukmronlik qilib, Amir Temur davlati o'zagini saqlab qolishga muvaffaq bo'ldi?",
+answers = {
+{text = "20 yilga yaqin", correct = false},
+{text = "30 yilga yaqin", correct = false},
+{text = "40 yilga yaqin", correct = true},
+{text = "50 yilga yaqin", correct = false},
+}
+},
+{
+question = "Shohruxning siyosiy faoliyati qaysi yili Xuroson hokimi etib tayinlanishidan boshlangan?",
+answers = {
+{text = "1387-yilda", correct = false},
+{text = "1392-yilda", correct = false},
+{text = "1397-yilda", correct = true},
+{text = "1402-yilda", correct = false},
+}
+},
+{
+question = "Shohrux 1419-yili Xitoyga yuborgan elchilari qaysi yili Hirotga qaytib kelishdi?",
+answers = {
+{text = "1420-yilda", correct = false},
+{text = "1421-yilda", correct = false},
+{text = "1422-yilda", correct = true},
+{text = "1423-yilda", correct = false},
+}
+},
+{
+question = "1441-1444 yillarda Hindistonga elchi qilib yuborilgan, o'z safar xotiralarini asarida yozib qoldirgan diplomat va tarixchi kim edi?",
+answers = {
+{text = "Klavixo", correct = false},
+{text = "Abdurazzoq Samarqandiy", correct = true},
+{text = "Ibn Arabshoh", correct = false},
+{text = "Sharafuddin Ali Yazdiy", correct = false},
+}
+},
+}
