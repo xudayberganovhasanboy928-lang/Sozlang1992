@@ -1,0 +1,748 @@
+-- 1-MAVZU. FRANSIYADA MARKAZLASHGAN DAVLATNING TASHKIL TOPISHI. GENERAL SHTATLAR
+
+questions_mavzu1 = {
+{
+question = "Franklar imperiyasining bo'linishini boshlab bergan Verden shartnomasi qaysi yilda tuzilgan?",
+answers = {
+{text = "800-yilda", correct = false},
+{text = "843-yilda", correct = true},
+{text = "878-yilda", correct = false},
+{text = "987-yilda", correct = false},
+}
+},
+{
+question = "Karolinglar sulolasining so'nggi vakili kim bo'lgan?",
+answers = {
+{text = "Lyudovik oltinchi", correct = false},
+{text = "Gugo Kapet", correct = false},
+{text = "Lyudovik beshinchi", correct = true},
+{text = "Lyudovik yettinchi", correct = false},
+}
+},
+{
+question = "Kapetinglar sulolasining dastlabki vakili kim bo'lgan?",
+answers = {
+{text = "Gugo Kapet", correct = true},
+{text = "Lyudovik beshinchi", correct = false},
+{text = "Filipp ikkinchi", correct = false},
+{text = "Karl Jasur", correct = false},
+}
+},
+{
+question = "Karolinglar sulolasining so'nggi vakili Lyudovik beshinchi qaysi yilda vafot etgan?",
+answers = {
+{text = "843-yilda", correct = false},
+{text = "962-yilda", correct = false},
+{text = "987-yilda", correct = true},
+{text = "1060-yilda", correct = false},
+}
+},
+{
+question = "Feodal tarqoqlik davrida Fransiya nechta mustaqil mulkka bo'linib ketgan edi?",
+answers = {
+{text = "10 ta", correct = false},
+{text = "12 ta", correct = false},
+{text = "14 ta", correct = true},
+{text = "20 ta", correct = false},
+}
+},
+{
+question = "Fransiyani birlashtirish jarayoni qaysi qirol davrida boshlangan?",
+answers = {
+{text = "Lyudovik oltinchi", correct = true},
+{text = "Lyudovik yettinchi", correct = false},
+{text = "Filipp ikkinchi Avgust", correct = false},
+{text = "Filipp to'rtinchi", correct = false},
+}
+},
+{
+question = "Qirol Lyudovik oltinchi hukmronligi davrida qaysi shaharlarni qirollik hokimiyatiga bo'ysundirgan?",
+answers = {
+{text = "Parij va Orlean", correct = false},
+{text = "Burj va Sans", correct = true},
+{text = "Normandiya va Anju", correct = false},
+{text = "Lion va Marsel", correct = false},
+}
+},
+{
+question = "Qirol Lyudovik yettinchi o'g'lini kimga uylantirish orqali Akvitaniyani o'ziga qaram qilgan?",
+answers = {
+{text = "Akvitaniya malikasi Eleonoraga", correct = true},
+{text = "Burgundiya malikasiga", correct = false},
+{text = "Flandriya malikasiga", correct = false},
+{text = "Angliya malikasiga", correct = false},
+}
+},
+{
+question = "Fransiyada mamlakatni birlashtirish siyosatini izchil olib borib, Normandiya, Anju, Tyuren hududlarini qo'shib olgan qirol kim edi?",
+answers = {
+{text = "Lyudovik oltinchi", correct = false},
+{text = "Filipp ikkinchi Avgust", correct = true},
+{text = "Filipp to'rtinchi", correct = false},
+{text = "Lyudovik o'n birinchi", correct = false},
+}
+},
+{
+question = "Filipp ikkinchi Avgust o'tkazgan ma'muriy islohotga ko'ra qirol mulklari nechta viloyatga bo'lingan?",
+answers = {
+{text = "14 taga", correct = false},
+{text = "20 taga", correct = true},
+{text = "25 taga", correct = false},
+{text = "30 taga", correct = false},
+}
+},
+{
+question = "Fransiya aholisining uchinchi toifasini kimlar tashkil etgan?",
+answers = {
+{text = "Ruhoniylar va zodagonlar", correct = false},
+{text = "Faqat dehqonlar", correct = false},
+{text = "Boy shaharliklar, dehqonlar, hunarmandlar va shahar kambag'allari", correct = true},
+{text = "Faqat boy shaharliklar", correct = false},
+}
+},
+{
+question = "Qirol Filipp to'rtinchi qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1226–1270-yillarda", correct = false},
+{text = "1285–1314-yillarda", correct = true},
+{text = "1314–1337-yillarda", correct = false},
+{text = "1337–1360-yillarda", correct = false},
+}
+},
+{
+question = "Qirol Filipp to'rtinchiga qarshi Flandriyaga harbiy yurishni to'xtatishni talab qilgan Rim papasi kim edi va qachon papalik qilgan?",
+answers = {
+{text = "Kliment beshinchi (1305–1314)", correct = false},
+{text = "Innokentiy uchinchi (1198–1216)", correct = false},
+{text = "Bonifatsiy sakkizinchi (1294–1303)", correct = true},
+{text = "Lev uchinchi (795–816)", correct = false},
+}
+},
+{
+question = "Qirol Filipp to'rtinchi ta'sirida yangi Rim papasi etib saylangan fransuz arxiyepiskopi qanday nom olgan?",
+answers = {
+{text = "Bonifatsiy sakkizinchi", correct = false},
+{text = "Innokentiy uchinchi", correct = false},
+{text = "Lev uchinchi", correct = false},
+{text = "Kliment beshinchi", correct = true},
+}
+},
+{
+question = "\"Papalarning Avinyon tutqunligi\" deb nomlangan davr qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "1285–1314-yillar", correct = false},
+{text = "1309–1377-yillar", correct = true},
+{text = "1337–1453-yillar", correct = false},
+{text = "1378–1417-yillar", correct = false},
+}
+},
+{
+question = "Birinchi General shtatlar qaysi yilda va qayerda chaqirilgan?",
+answers = {
+{text = "1265-yilda Londonda", correct = false},
+{text = "1302-yilda Parijning bosh ibodatxonasida", correct = true},
+{text = "1357-yilda Reymsda", correct = false},
+{text = "1215-yilda Vestminsterda", correct = false},
+}
+},
+}
+
+
+-- 2-MAVZU. YUZ YILLIK URUSH: SABABLARI, YAKUNLARI VA OQIBATLARI
+
+questions_mavzu2 = {
+{
+question = "Yuz yillik urush qaysi yillar oralig'ida bo'lib o'tgan?",
+answers = {
+{text = "1302–1420-yillarda", correct = false},
+{text = "1337–1453-yillarda", correct = true},
+{text = "1346–1431-yillarda", correct = false},
+{text = "1358–1461-yillarda", correct = false},
+}
+},
+{
+question = "Angliya qiroli Eduard uchinchi Fransiya qiroli Filipp to'rtinchiga qanday qarindosh bo'lgan?",
+answers = {
+{text = "Ukasi", correct = false},
+{text = "Kuyovi", correct = false},
+{text = "Qizining o'g'li, ya'ni nabirasi", correct = true},
+{text = "Amakivachchasi", correct = false},
+}
+},
+{
+question = "Filipp to'rtinchi 1314-yilda vafot etgach, Valualar xonadonidan qaysi qirol Fransiya taxtiga o'tirgan?",
+answers = {
+{text = "Filipp beshinchi", correct = false},
+{text = "Ioann Saxiy", correct = false},
+{text = "Filipp oltinchi", correct = true},
+{text = "Karl beshinchi", correct = false},
+}
+},
+{
+question = "Yuz yillik urush rasman qaysi yilda va qaysi tomonning hujumi bilan boshlangan?",
+answers = {
+{text = "1337-yilda Angliyaning Fransiyaga hujumi bilan", correct = true},
+{text = "1346-yilda Fransiyaning Angliyaga hujumi bilan", correct = false},
+{text = "1356-yilda Angliyaning Fransiyaga hujumi bilan", correct = false},
+{text = "1360-yilda Fransiyaning Angliyaga hujumi bilan", correct = false},
+}
+},
+{
+question = "Kresi jangi qaysi yilda bo'lib o'tgan va qaysi tomon g'alaba qozongan?",
+answers = {
+{text = "1340-yilda, Fransiya g'alaba qozongan", correct = false},
+{text = "1346-yilda, Angliya g'alaba qozongan", correct = true},
+{text = "1356-yilda, Angliya g'alaba qozongan", correct = false},
+{text = "1360-yilda, Fransiya g'alaba qozongan", correct = false},
+}
+},
+{
+question = "Angliya qiroli Eduard uchinchi 1347-yilda qaysi port shahrini bosib olgan?",
+answers = {
+{text = "Bordo", correct = false},
+{text = "Kale", correct = true},
+{text = "Ruan", correct = false},
+{text = "Orlean", correct = false},
+}
+},
+{
+question = "Puatye jangi qaysi yilda bo'lib o'tgan?",
+answers = {
+{text = "1346-yilda", correct = false},
+{text = "1356-yilda", correct = true},
+{text = "1369-yilda", correct = false},
+{text = "1415-yilda", correct = false},
+}
+},
+{
+question = "Puatye jangida ko'pchilik ritsarlar bilan birga qaysi fransuz qiroli inglizlarga asir tushgan?",
+answers = {
+{text = "Filipp oltinchi", correct = false},
+{text = "Ioann Saxiy", correct = true},
+{text = "Karl beshinchi", correct = false},
+{text = "Karl oltinchi", correct = false},
+}
+},
+{
+question = "Jakeriya qo'zg'oloni qaysi yilda va Fransiyaning qaysi viloyatida boshlangan?",
+answers = {
+{text = "1356-yilda Puatye viloyatida", correct = false},
+{text = "1358-yilda Bove viloyatida", correct = true},
+{text = "1381-yilda Esseks viloyatida", correct = false},
+{text = "1360-yilda Shampan viloyatida", correct = false},
+}
+},
+{
+question = "Jakeriya qo'zg'oloniga kim boshchilik qilgan?",
+answers = {
+{text = "Gilyom Kal", correct = true},
+{text = "Uot Tayler", correct = false},
+{text = "Jon Boll", correct = false},
+{text = "Janna d'Ark", correct = false},
+}
+},
+{
+question = "Fransuz qiroli Karl beshinchi inglizlar bilan sulh shartnomasini qaysi yilda imzolagan?",
+answers = {
+{text = "1356-yilda", correct = false},
+{text = "1360-yilda", correct = true},
+{text = "1369-yilda", correct = false},
+{text = "1377-yilda", correct = false},
+}
+},
+{
+question = "Azenkur yaqinida bo'lib o'tgan va fransuz qo'shinlari qaqshatqich mag'lubiyatga uchragan jang qaysi yilga to'g'ri keladi?",
+answers = {
+{text = "1369-yilga", correct = false},
+{text = "1415-yilga", correct = true},
+{text = "1420-yilga", correct = false},
+{text = "1428-yilga", correct = false},
+}
+},
+{
+question = "Fransiya uchun haqoratomuz bo'lgan, unga ko'ra ingliz shahzodasi qirol bo'lishi belgilangan Trua shartnomasi qaysi yilda imzolangan?",
+answers = {
+{text = "1415-yilda", correct = false},
+{text = "1420-yilda", correct = true},
+{text = "1428-yilda", correct = false},
+{text = "1429-yilda", correct = false},
+}
+},
+{
+question = "Inglizlar Fransiyaning muhim strategik shahri Orleanni qamal qilishga qaysi yilda kirishgan?",
+answers = {
+{text = "1415-yilda", correct = false},
+{text = "1420-yilda", correct = false},
+{text = "1428-yilda", correct = true},
+{text = "1431-yilda", correct = false},
+}
+},
+{
+question = "Janna d'Ark cherkov sudi hukmi bilan qaysi yilda va qayerda gulxanda yoqilgan?",
+answers = {
+{text = "1429-yil Orleanda", correct = false},
+{text = "1430-yil Kompen qal'asida", correct = false},
+{text = "1431-yil 30-mayda Ruan shahrida", correct = true},
+{text = "1456-yil Reymsda", correct = false},
+}
+},
+{
+question = "Yuz yillik urush qaysi yilda va qanday yakunlangan?",
+answers = {
+{text = "1436-yilda, Karl yettinchining Parijga kirib kelishi bilan", correct = false},
+{text = "1453-yilda, inglizlarning Bordoda so'zsiz taslim bo'lishi bilan", correct = true},
+{text = "1429-yilda, Orleanning ozod qilinishi bilan", correct = false},
+{text = "1420-yilda, Trua shartnomasi imzolanishi bilan", correct = false},
+}
+},
+}
+
+
+-- 3-MAVZU. FRANSIYANI BIRLASHTIRISHNING TUGALLANISHI VA UNING NATIJALARI
+
+questions_mavzu3 = {
+{
+question = "Qirol Lyudovik o'n birinchi qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1422–1461-yillarda", correct = false},
+{text = "1461–1483-yillarda", correct = true},
+{text = "1483–1515-yillarda", correct = false},
+{text = "1453–1485-yillarda", correct = false},
+}
+},
+{
+question = "Frank-Burgund urushlari nomi bilan tarixga kirgan to'qnashuvlar qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1461–1465-yillarda", correct = false},
+{text = "1471–1475-yillarda", correct = true},
+{text = "1475–1483-yillarda", correct = false},
+{text = "1483–1491-yillarda", correct = false},
+}
+},
+{
+question = "Qirol Lyudovik o'n birinchiga qarshi zodagonlar tomonidan tashkil etilgan ittifoq qanday nomlangan?",
+answers = {
+{text = "\"Mayl End\" ittifoqi", correct = false},
+{text = "\"Jamiyat baxt-saodati\" ittifoqi", correct = true},
+{text = "\"Smitfild\" ittifoqi", correct = false},
+{text = "\"Namunali\" ittifoq", correct = false},
+}
+},
+{
+question = "Zodagonlar ittifoqiga kim rahbarlik qilgan?",
+answers = {
+{text = "Burgundiya gersogi Karl Jasur", correct = true},
+{text = "Bretan gersogi", correct = false},
+{text = "Angliya qiroli Eduard uchinchi", correct = false},
+{text = "Papa Bonifatsiy sakkizinchi", correct = false},
+}
+},
+{
+question = "Lyudovik o'n birinchi va Karl Jasur o'rtasidagi kurash natijasida kim halok bo'lgan?",
+answers = {
+{text = "Lyudovik o'n birinchi", correct = false},
+{text = "Karl Jasur", correct = true},
+{text = "Filipp to'rtinchi", correct = false},
+{text = "Genrix yettinchi", correct = false},
+}
+},
+{
+question = "Burgundiya gersogi Karl Jasur halok bo'lganidan so'ng qaysi shahar butunlay qirolga bo'ysundirilgan?",
+answers = {
+{text = "Marsel", correct = true},
+{text = "Lion", correct = false},
+{text = "Bordo", correct = false},
+{text = "Reyms", correct = false},
+}
+},
+{
+question = "Fransiyani birlashtirish jarayonida faqat qaysi gersoglik o'z mustaqilligini saqlab qolgan edi?",
+answers = {
+{text = "Normandiya gersogligi", correct = false},
+{text = "Burgundiya gersogligi", correct = false},
+{text = "Bretan gersogligi", correct = true},
+{text = "Akvitaniya gersogligi", correct = false},
+}
+},
+{
+question = "Fransiyani birlashtirish jarayoni qachonga kelib yakunlangan?",
+answers = {
+{text = "XIII asr oxiriga kelib", correct = false},
+{text = "XIV asr oxiriga kelib", correct = false},
+{text = "XV asr oxiriga kelib", correct = true},
+{text = "XVI asr boshiga kelib", correct = false},
+}
+},
+{
+question = "Qirol Lyudovik o'n birinchi hukmronligi davrida General shtatlar necha marotaba chaqirilgan?",
+answers = {
+{text = "Umuman chaqirilmagan", correct = false},
+{text = "Bir marotaba", correct = true},
+{text = "Ikki marotaba", correct = false},
+{text = "Har yili", correct = false},
+}
+},
+{
+question = "Lyudovik o'n birinchi doimiy qo'shin ta'minoti uchun qanday chora ko'rgan?",
+answers = {
+{text = "Cherkov mulkini musodara qilgan", correct = false},
+{text = "Aholidan yig'ib olinadigan yillik soliq joriy qilgan", correct = true},
+{text = "General shtatlarni har yili chaqirgan", correct = false},
+{text = "Yollanma askarlarni bekor qilgan", correct = false},
+}
+},
+{
+question = "Mutlaq monarxiya atamasi nimani anglatadi?",
+answers = {
+{text = "Toifa vakillari yig'ini boshqaruvini", correct = false},
+{text = "Monarxning cheklanmagan hokimiyat va vakolatlarga ega bo'lgan yakka boshqaruv shaklini", correct = true},
+{text = "Feodallarning mustaqil boshqaruvini", correct = false},
+{text = "Cherkov boshqaruvini", correct = false},
+}
+},
+{
+question = "Italiyadan ipak gazlama to'qiydigan mohir ustalar Fransiyaning qaysi shahriga joylashtirilgan?",
+answers = {
+{text = "Parij", correct = false},
+{text = "Marsel", correct = false},
+{text = "Lion", correct = true},
+{text = "Bordo", correct = false},
+}
+},
+{
+question = "Fransiya birlashtirilgandan so'ng Lion shahri qaysi soha markaziga aylangan?",
+answers = {
+{text = "Vinochilik markaziga", correct = false},
+{text = "Shoyi ishlab chiqarish va to'qimachilik markaziga", correct = true},
+{text = "Kemasozlik markaziga", correct = false},
+{text = "Temirchilik markaziga", correct = false},
+}
+},
+{
+question = "Feodal tarqoqlik yoki siyosiy parokandalik nimani anglatadi?",
+answers = {
+{text = "Davlatning mayda mulklarga yoki mustaqil hududlarga bo'linib ketishini", correct = true},
+{text = "Butun mamlakatning yagona hokimiyatga bo'ysunishini", correct = false},
+{text = "Qirolning cheklanmagan hokimiyatini", correct = false},
+{text = "Toifalar o'rtasidagi tenglikni", correct = false},
+}
+},
+{
+question = "Markazlashgan davlat atamasi nimani bildiradi?",
+answers = {
+{text = "Mamlakatning viloyatlarga bo'linishini", correct = false},
+{text = "Butun mamlakatning yagona hokimiyat qo'l ostida birlashtirilishini", correct = true},
+{text = "Feodallar o'rtasidagi urushlarni", correct = false},
+{text = "General shtatlar tuzilishini", correct = false},
+}
+},
+{
+question = "Fransiya birlashtirilgandan so'ng mamlakatda nima joriy etilgan?",
+answers = {
+{text = "Yagona pul, o'lchov va og'irlik birliklari", correct = true},
+{text = "General shtatlarning muntazam chaqirilishi", correct = false},
+{text = "Uch toifaning tengligi", correct = false},
+{text = "Papaning mutlaq hokimiyati", correct = false},
+}
+},
+}
+
+
+-- 4-MAVZU. ANGLIYADA MARKAZLASHGAN DAVLATNING TASHKIL TOPISHI
+
+questions_mavzu4 = {
+{
+question = "Angliyani istilo qilgan Normandiyalik qirol kim edi?",
+answers = {
+{text = "Genrix birinchi", correct = false},
+{text = "Vilgelm birinchi", correct = true},
+{text = "Richard birinchi Sheryurak", correct = false},
+{text = "Ioann", correct = false},
+}
+},
+{
+question = "\"Angliya\" nomi qadimgi ingliz tilidagi qaysi so'zdan olingan bo'lib, qanday ma'noni bildiradi?",
+answers = {
+{text = "\"England\" so'zidan olingan bo'lib, \"angllar yeri\" ma'nosini bildiradi", correct = true},
+{text = "\"Britannia\" so'zidan olingan bo'lib, \"orollar yurti\" ma'nosini bildiradi", correct = false},
+{text = "\"Normandi\" so'zidan olingan bo'lib, \"shimol yurti\" ma'nosini bildiradi", correct = false},
+{text = "\"Albion\" so'zidan olingan bo'lib, \"oq qirg'oq\" ma'nosini bildiradi", correct = false},
+}
+},
+{
+question = "O'z xo'jayinlaridan o'rmonlarga qochib, zodagonlarga hujum qilgan dehqonlarni xalq qanday atagan?",
+answers = {
+{text = "Yomenlar", correct = false},
+{text = "Erkin merganlar", correct = true},
+{text = "Baronlar", correct = false},
+{text = "Ritsarlar", correct = false},
+}
+},
+{
+question = "Zolim zodagonlarning raqibi, mazlum xalqning sevimli qahramoni haqidagi ballada qaysi asrlarga tegishli?",
+answers = {
+{text = "X–XI asrlarga", correct = false},
+{text = "XII–XIV asrlarga", correct = true},
+{text = "XIV–XV asrlarga", correct = false},
+{text = "XV–XVI asrlarga", correct = false},
+}
+},
+{
+question = "Robin Gudning eng ashaddiy raqibi kim bo'lgan?",
+answers = {
+{text = "Kenterberi arxiyepiskopi", correct = false},
+{text = "Nottingem sherifi", correct = true},
+{text = "Papa Innokentiy uchinchi", correct = false},
+{text = "Simon de Monfor", correct = false},
+}
+},
+{
+question = "Qirol Genrix ikkinchining qaysi vorislari davrida Angliyada qirol hokimiyati zaiflashib qolgan?",
+answers = {
+{text = "Richard birinchi Sheryurak va Ioann", correct = true},
+{text = "Genrix uchinchi va Eduard", correct = false},
+{text = "Ioann va Genrix uchinchi", correct = false},
+{text = "Vilgelm birinchi va Genrix birinchi", correct = false},
+}
+},
+{
+question = "Kenterberi grafligi arxiyepiskopini saylash masalasida qirol Ioann bilan qaysi Rim papasining munosabatlari buzilgan?",
+answers = {
+{text = "Bonifatsiy sakkizinchi bilan", correct = false},
+{text = "Innokentiy uchinchi bilan", correct = true},
+{text = "Kliment beshinchi bilan", correct = false},
+{text = "Lev uchinchi bilan", correct = false},
+}
+},
+{
+question = "Angliyada qirolga qarshi qo'zg'olon qaysi yilda ko'tarilgan va qirol Ioann \"Erkinlikning buyuk xartiyasi\"ga imzo chekishga majbur bo'lgan?",
+answers = {
+{text = "1199-yilda", correct = false},
+{text = "1215-yilda", correct = true},
+{text = "1265-yilda", correct = false},
+{text = "1295-yilda", correct = false},
+}
+},
+{
+question = "\"Erkinlikning buyuk xartiyasi\" nechta moddadan iborat bo'lgan va qaysi tilda yozilgan?",
+answers = {
+{text = "40 moddadan, fransuz tilida", correct = false},
+{text = "63 moddadan, lotin tilida", correct = true},
+{text = "100 moddadan, ingliz tilida", correct = false},
+{text = "25 moddadan, lotin tilida", correct = false},
+}
+},
+{
+question = "Qirol Ioanndan keyingi qaysi qirol \"Erkinlikning buyuk xartiyasi\"ga deyarli rioya qilmagan?",
+answers = {
+{text = "Richard birinchi Sheryurak", correct = false},
+{text = "Genrix uchinchi", correct = true},
+{text = "Eduard birinchi", correct = false},
+{text = "Genrix ikkinchi", correct = false},
+}
+},
+{
+question = "1265-yilda uch toifa vakillari ishtirokidagi majlisni kim chaqirgan va bu majlis nima nomi bilan tarixga kirgan?",
+answers = {
+{text = "Genrix uchinchi, \"General shtatlar\" nomi bilan", correct = false},
+{text = "Simon de Monfor, \"Parlament\" nomi bilan", correct = true},
+{text = "Ioann, \"Xartiya\" nomi bilan", correct = false},
+{text = "Eduard, \"Kengash\" nomi bilan", correct = false},
+}
+},
+{
+question = "Simon de Monfor tomonidan asirga olingan shahzoda asirlikdan qochib, tez orada taxtga o'tirgan. Bu shahzoda kim edi?",
+answers = {
+{text = "Richard birinchi", correct = false},
+{text = "Genrix uchinchi", correct = false},
+{text = "Eduard", correct = true},
+{text = "Ioann", correct = false},
+}
+},
+{
+question = "Angliyada parlament qaysi yildan boshlab doimiy chaqiriladigan bo'lgan?",
+answers = {
+{text = "1215-yildan", correct = false},
+{text = "1265-yildan", correct = false},
+{text = "1295-yildan", correct = true},
+{text = "1343-yildan", correct = false},
+}
+},
+{
+question = "Angliya parlamentiga soliqlarni tasdiqlash huquqi qaysi yilda berilgan?",
+answers = {
+{text = "1265-yilda", correct = false},
+{text = "1295-yilda", correct = false},
+{text = "1297-yilda", correct = true},
+{text = "1343-yilda", correct = false},
+}
+},
+{
+question = "Angliya parlamenti ikki palataga qaysi yilda bo'lingan?",
+answers = {
+{text = "1297-yilda", correct = false},
+{text = "1343-yilda", correct = true},
+{text = "1377-yilda", correct = false},
+{text = "1381-yilda", correct = false},
+}
+},
+{
+question = "\"Xartiya\" so'zi lotin tilidan olingan bo'lib, qanday ma'noni bildiradi?",
+answers = {
+{text = "Qonun, farmon ma'nosini", correct = false},
+{text = "Qog'oz, yorliq ma'nosini", correct = true},
+{text = "Kengash, majlis ma'nosini", correct = false},
+{text = "Ahd, shartnoma ma'nosini", correct = false},
+}
+},
+}
+
+
+-- 5-MAVZU. XIV–XV ASRLARDA ANGLIYA
+
+questions_mavzu5 = {
+{
+question = "Angliya tarixida birinchi marotaba jon solig'i qaysi yilda va qaysi qirol hukmronligi davrida joriy etilgan?",
+answers = {
+{text = "1360-yilda, Eduard uchinchi davrida", correct = false},
+{text = "1377-yilda, Richard ikkinchi davrida", correct = true},
+{text = "1381-yilda, Genrix to'rtinchi davrida", correct = false},
+{text = "1399-yilda, Genrix to'rtinchi davrida", correct = false},
+}
+},
+{
+question = "1380-yilda jon solig'i necha barobarga oshirilgan?",
+answers = {
+{text = "2 barobarga", correct = false},
+{text = "3 barobarga", correct = true},
+{text = "4 barobarga", correct = false},
+{text = "5 barobarga", correct = false},
+}
+},
+{
+question = "Injilni ingliz tiliga tarjima qilgan, Oksford universiteti professori, faylasuf va ruhoniy kim edi?",
+answers = {
+{text = "Jon Boll", correct = false},
+{text = "Jon Viklif", correct = true},
+{text = "Uot Tayler", correct = false},
+{text = "Simon de Monfor", correct = false},
+}
+},
+{
+question = "Jon Viklif g'oyalarining tarafdori bo'lib, dvoryanlarga qarshi keskin targ'ibot olib borgan va xalq orasida katta nufuzga ega bo'lgan kishi kim edi?",
+answers = {
+{text = "Uot Tayler", correct = false},
+{text = "Gilyom Kal", correct = false},
+{text = "Jon Boll", correct = true},
+{text = "Richard II", correct = false},
+}
+},
+{
+question = "Jon Boll kimning buyrug'i bilan qamoqqa olingan?",
+answers = {
+{text = "Qirol Richard ikkinchining", correct = false},
+{text = "Kenterberi arxiyepiskopining", correct = true},
+{text = "Nottingem sherifining", correct = false},
+{text = "Papa Innokentiy uchinchining", correct = false},
+}
+},
+{
+question = "Uot Tayler qo'zg'oloni qaysi yilda va Angliyaning qaysi grafligida boshlangan?",
+answers = {
+{text = "1358-yilda Bove grafligida", correct = false},
+{text = "1377-yilda Kent grafligida", correct = false},
+{text = "1381-yilda Esseks grafligida", correct = true},
+{text = "1399-yilda London grafligida", correct = false},
+}
+},
+{
+question = "Ingliz tilida \"tayler\" so'zi qanday ma'noni bildiradi?",
+answers = {
+{text = "Tunukasoz", correct = true},
+{text = "Kamonchi", correct = false},
+{text = "Hunarmand ustasi", correct = false},
+{text = "Dehqon", correct = false},
+}
+},
+{
+question = "Uot Tayler qo'zg'oloniga Angliyaning 40 ta grafligidan nechtasi qatnashgan?",
+answers = {
+{text = "15 tasi", correct = false},
+{text = "20 tasi", correct = false},
+{text = "25 tasi", correct = true},
+{text = "30 tasi", correct = false},
+}
+},
+{
+question = "Uot Tayler qo'zg'oloni chog'ida qo'rqib ketgan yosh qirol Richard ikkinchi qaysi qal'aga yashiringan?",
+answers = {
+{text = "Kompen qal'asiga", correct = false},
+{text = "Tauer qal'asiga", correct = true},
+{text = "Vindzor qal'asiga", correct = false},
+{text = "Dover qal'asiga", correct = false},
+}
+},
+{
+question = "\"Mayl End\" dasturiga ko'ra 1 akr yer uchun qancha miqdorda ijara haqi belgilangan?",
+answers = {
+{text = "2 pens", correct = false},
+{text = "4 pens", correct = true},
+{text = "6 pens", correct = false},
+{text = "10 pens", correct = false},
+}
+},
+{
+question = "Ikkinchi muzokara vaqtida Londonda o'ldirilgan qo'zg'olon rahbari kim edi?",
+answers = {
+{text = "Jon Boll", correct = false},
+{text = "Gilyom Kal", correct = false},
+{text = "Uot Tayler", correct = true},
+{text = "Simon de Monfor", correct = false},
+}
+},
+{
+question = "Angliya taxtiga 1399-yilda qaysi sulola kelgan?",
+answers = {
+{text = "Yorklar sulolasi", correct = false},
+{text = "Lankasterlar sulolasi", correct = true},
+{text = "Tyudorlar sulolasi", correct = false},
+{text = "Normandlar sulolasi", correct = false},
+}
+},
+{
+question = "\"Oq va qizil gullar urushi\" nomi bilan tarixga kirgan sulolaviy kurashlar qaysi yillarda va necha yil davom etgan?",
+answers = {
+{text = "1399–1420-yillarda, 21 yil", correct = false},
+{text = "1420–1450-yillarda, 30 yil", correct = false},
+{text = "1455–1485-yillarda, 30 yil", correct = true},
+{text = "1453–1483-yillarda, 30 yil", correct = false},
+}
+},
+{
+question = "Lankasterlar sulolasi bayrog'ida qaysi gul tasviri tushirilgan edi?",
+answers = {
+{text = "Oq atirgul", correct = false},
+{text = "Qizil atirgul", correct = true},
+{text = "Sariq lola", correct = false},
+{text = "Ko'k nilufar", correct = false},
+}
+},
+{
+question = "Bosvort shahri yaqinida bo'lib o'tgan hal qiluvchi jang qaysi yilda bo'lib, unda qaysi xonadon mag'lubiyatga uchragan?",
+answers = {
+{text = "1471-yilda, Burgundiya xonadoni", correct = false},
+{text = "1485-yilda, Yorklar xonadoni", correct = true},
+{text = "1461-yilda, Lankasterlar xonadoni", correct = false},
+{text = "1399-yilda, Tyudorlar xonadoni", correct = false},
+}
+},
+{
+question = "Oq va qizil gullar urushidan so'ng Angliya taxtiga o'tirib, Yorklar sulolasidan Eduard to'rtinchining qiziga uylangan va yangi sulolaga asos solgan qirol kim edi?",
+answers = {
+{text = "Genrix beshinchi", correct = false},
+{text = "Genrix oltinchi", correct = false},
+{text = "Genrix yettinchi Tyudor", correct = true},
+{text = "Richard uchinchi", correct = false},
+}
+},
+}
