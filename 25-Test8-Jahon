@@ -444,7 +444,7 @@ answers = {
 question = "\"Angliya\" nomi qadimgi ingliz tilidagi qaysi so'zdan olingan bo'lib, qanday ma'noni bildiradi?",
 answers = {
 {text = "\"England\" so'zidan olingan bo'lib, \"angllar yeri\" ma'nosini bildiradi", correct = true},
-{text "\"Britannia\" so'zidan olingan bo'lib, \"orollar yurti\" ma'nosini bildiradi", correct = false},
+{text = "\"Britannia\" so'zidan olingan bo'lib, \"orollar yurti\" ma'nosini bildiradi", correct = false},
 {text = "\"Normandi\" so'zidan olingan bo'lib, \"shimol yurti\" ma'nosini bildiradi", correct = false},
 {text = "\"Albion\" so'zidan olingan bo'lib, \"oq qirg'oq\" ma'nosini bildiradi", correct = false},
 }
