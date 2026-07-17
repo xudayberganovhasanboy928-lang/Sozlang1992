@@ -1,0 +1,677 @@
+questions = {
+{
+question = "Kiyev Rusi qaysi asrning birinchi yarmida o'nlab mustaqil knyazliklarga bo'linib ketgan?",
+answers = {
+{text = "XI asrning", correct = false},
+{text = "XII asrning", correct = true},
+{text = "XIII asrning", correct = false},
+{text = "XIV asrning", correct = false},
+}
+},
+{
+question = "Novgorodda respublika boshqaruv shakli qaysi yilda paydo bo'lgan?",
+answers = {
+{text = "1130-yilda", correct = false},
+{text = "1136-yilda", correct = true},
+{text = "1147-yilda", correct = false},
+{text = "1240-yilda", correct = false},
+}
+},
+{
+question = "Novgoroddagi oliy hokimiyatni nima boshqargan?",
+answers = {
+{text = "Kortes", correct = false},
+{text = "Seym", correct = false},
+{text = "Xalq vechesi", correct = true},
+{text = "Qurultoy", correct = false},
+}
+},
+{
+question = "Moskva knyazi Ivan III ning yurishi natijasida Novgorod mustaqilligi qaysi yilda tugatilgan?",
+answers = {
+{text = "1380-yilda", correct = false},
+{text = "1382-yilda", correct = false},
+{text = "1478-yilda", correct = true},
+{text = "1480-yilda", correct = false},
+}
+},
+{
+question = "Vladimir-Suzdal o'lkasi Kiyev Rusidan qaysi yilda mustaqil bo'lgan?",
+answers = {
+{text = "1130-yilda", correct = true},
+{text = "1136-yilda", correct = false},
+{text = "1147-yilda", correct = false},
+{text = "1263-yilda", correct = false},
+}
+},
+{
+question = "Knyaz Yuriy Dolgorukiy Moskva shahriga qaysi yilda asos solgan?",
+answers = {
+{text = "1130-yilda", correct = false},
+{text = "1136-yilda", correct = false},
+{text = "1147-yilda", correct = true},
+{text = "1263-yilda", correct = false},
+}
+},
+{
+question = "Moskva knyazligiga qaysi yilda va kim tomonidan asos solingan?",
+answers = {
+{text = "1147-yilda, Yuriy Dolgorukiy tomonidan", correct = false},
+{text = "1263-yilda, Daniil Aleksandrovich tomonidan", correct = true},
+{text = "1327-yilda, Ivan Kalita tomonidan", correct = false},
+{text = "1380-yilda, Dmitriy Donskoy tomonidan", correct = false},
+}
+},
+{
+question = "Moskva knyazi Ivan Kalita Oltin O'rda hukmdoridan rus yerlarida soliq yig'ish huquqini qaysi yilda olgan?",
+answers = {
+{text = "1263-yilda", correct = false},
+{text = "1327-yilda", correct = true},
+{text = "1380-yilda", correct = false},
+{text = "1382-yilda", correct = false},
+}
+},
+{
+question = "Kulikovo jangi qaysi yilda va qaysi daryo bo'yida bo'lib o'tgan?",
+answers = {
+{text = "1327-yilda, Volga daryosi bo'yida", correct = false},
+{text = "1380-yilda, Don daryosi bo'yida", correct = true},
+{text = "1382-yilda, Moskva daryosi bo'yida", correct = false},
+{text = "1395-yilda, Tarak daryosi bo'yida", correct = false},
+}
+},
+{
+question = "Kulikovo jangidagi g'alaba sharafiga knyaz Dmitriy qanday nom bilan atala boshlangan?",
+answers = {
+{text = "Dmitriy Nevskiy", correct = false},
+{text = "Dmitriy Donskoy", correct = true},
+{text = "Dmitriy Kalita", correct = false},
+{text = "Dmitriy Suzdal", correct = false},
+}
+},
+{
+question = "Oltin O'rdaning yangi xoni To'xtamishxon Moskvani qaysi yilda bosib olgan?",
+answers = {
+{text = "1380-yilda", correct = false},
+{text = "1382-yilda", correct = true},
+{text = "1389-yilda", correct = false},
+{text = "1395-yilda", correct = false},
+}
+},
+{
+question = "Amir Temur va To'xtamishxon o'rtasidagi hal qiluvchi jang qaysi yilda va qayerda bo'lib o'tgan?",
+answers = {
+{text = "1389-yilda, Kosovoda", correct = false},
+{text = "1391-yilda, Volga bo'yida", correct = false},
+{text = "1395-yilda, Tarak daryosi bo'yida", correct = true},
+{text = "1402-yilda, Anqara yaqinida", correct = false},
+}
+},
+{
+question = "Ruslar Oltin O'rdaga soliq to'lashni qaysi yilda butunlay to'xtatgan?",
+answers = {
+{text = "1382-yilda", correct = false},
+{text = "1395-yilda", correct = false},
+{text = "1478-yilda", correct = false},
+{text = "1480-yilda", correct = true},
+}
+},
+{
+question = "Neva daryosi bo'yidagi jangda shvedlarni mag'lub etgan Novgorod knyazi kim edi?",
+answers = {
+{text = "Yuriy Dolgorukiy", correct = false},
+{text = "Aleksandr Yaroslavich (Nevskiy)", correct = true},
+{text = "Dmitriy Donskoy", correct = false},
+{text = "Vsevolod Mstislavich", correct = false},
+}
+},
+{
+question = "\"Muz ustidagi jang\" qaysi yilda va qaysi ko'l ustida bo'lib o'tgan?",
+answers = {
+{text = "1237-yilda, Volga ko'lida", correct = false},
+{text = "1240-yilda, Ladoga ko'lida", correct = false},
+{text = "1242-yilda, Chud ko'lida", correct = true},
+{text = "1380-yilda, Baykal ko'lida", correct = false},
+}
+},
+{
+question = "Moskva knyazi Ivan IV qaysi yilda podshoh unvonini olgan?",
+answers = {
+{text = "1480-yilda", correct = false},
+{text = "1502-yilda", correct = false},
+{text = "1547-yilda", correct = true},
+{text = "1478-yilda", correct = false},
+}
+},
+{
+question = "Bolgariyaning Vizantiyaga qaramligi qaysi yillar oralig'ida davom etgan?",
+answers = {
+{text = "918–1087-yillarda", correct = false},
+{text = "1018–1187-yillarda", correct = true},
+{text = "1118–1287-yillarda", correct = false},
+{text = "1187–1396-yillarda", correct = false},
+}
+},
+{
+question = "Ikkinchi Bolgariya podshohligining birinchi hukmdori kim bo'lgan?",
+answers = {
+{text = "Asen", correct = true},
+{text = "Asen II", correct = false},
+{text = "Stefan Dushan", correct = false},
+{text = "Murod I", correct = false},
+}
+},
+{
+question = "Ikkinchi Bolgariya podshohligi qaysi yilda tugatilgan?",
+answers = {
+{text = "1187-yilda", correct = false},
+{text = "1355-yilda", correct = false},
+{text = "1396-yilda", correct = true},
+{text = "1459-yilda", correct = false},
+}
+},
+{
+question = "Serbiyani Vizantiyadan mustaqil qilib, qirollikka aylantirgan hukmdor kim edi?",
+answers = {
+{text = "Stefan II", correct = true},
+{text = "Stefan Dushan", correct = false},
+{text = "Milosh Obilich", correct = false},
+{text = "Murod I", correct = false},
+}
+},
+{
+question = "Qirol Stefan Dushan qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1187–1218-yillarda", correct = false},
+{text = "1331–1355-yillarda", correct = true},
+{text = "1389–1402-yillarda", correct = false},
+{text = "1396–1459-yillarda", correct = false},
+}
+},
+{
+question = "1389-yilgi Kosovo jangida turk sultoni Murod I kim tomonidan o'ldirilgan?",
+answers = {
+{text = "Milosh Obilich tomonidan", correct = true},
+{text = "Stefan Dushan tomonidan", correct = false},
+{text = "Yan Gus tomonidan", correct = false},
+{text = "Kazimir III tomonidan", correct = false},
+}
+},
+{
+question = "Serbiyaning oxirgi hududi Usmoniy turklar tomonidan qaysi yilda ishg'ol etilgan?",
+answers = {
+{text = "1389-yilda", correct = false},
+{text = "1396-yilda", correct = false},
+{text = "1419-yilda", correct = false},
+{text = "1459-yilda", correct = true},
+}
+},
+{
+question = "Chexiya hududi Adriatika dengizining janubigacha yetib borgan, qudratli davlatga aylangan davr qaysi qirol nomi bilan bog'liq?",
+answers = {
+{text = "Pshemisl II", correct = true},
+{text = "Yan Lyuksemburg", correct = false},
+{text = "Kazimir III", correct = false},
+{text = "Andrash II", correct = false},
+}
+},
+{
+question = "Yan Gus qaysi yilda tug'ilgan?",
+answers = {
+{text = "1355-yilda", correct = false},
+{text = "1371-yilda", correct = true},
+{text = "1396-yilda", correct = false},
+{text = "1402-yilda", correct = false},
+}
+},
+{
+question = "Yan Gus qaysi yilda gulxanda yoqilgan?",
+answers = {
+{text = "1400-yilda", correct = false},
+{text = "1409-yilda", correct = false},
+{text = "1415-yilda", correct = true},
+{text = "1434-yilda", correct = false},
+}
+},
+{
+question = "Yan Gus o'limidan so'ng Pragada qo'zg'olon qaysi yilda ko'tarilgan?",
+answers = {
+{text = "1415-yilda", correct = false},
+{text = "1419-yilda", correct = true},
+{text = "1434-yilda", correct = false},
+{text = "1385-yilda", correct = false},
+}
+},
+{
+question = "Guschilar harakati deb nomlangan xalq harakati qaysi yilda bostirilgan?",
+answers = {
+{text = "1415-yilda", correct = false},
+{text = "1419-yilda", correct = false},
+{text = "1434-yilda", correct = true},
+{text = "1385-yilda", correct = false},
+}
+},
+{
+question = "960–1385-yillarda Polshani qaysi sulola idora qilgan?",
+answers = {
+{text = "Piastlar sulolasi", correct = true},
+{text = "Anjuy sulolasi", correct = false},
+{text = "Arpadlar sulolasi", correct = false},
+{text = "Nemanya sulolasi", correct = false},
+}
+},
+{
+question = "Polshada qirollik mavqeyini birinchi bo'lib qayta tiklab, mamlakatni birlashtirgan knyaz kim edi?",
+answers = {
+{text = "Boleslav III", correct = false},
+{text = "Vladislav I", correct = true},
+{text = "Kazimir III", correct = false},
+{text = "Andrash II", correct = false},
+}
+},
+{
+question = "Vengriyaning birinchi qiroli kim bo'lgan va u milodiy qaysi yilda toj kiygan?",
+answers = {
+{text = "Ishtvan (Stefan), 1000-yilda", correct = true},
+{text = "Andrash II, 1222-yilda", correct = false},
+{text = "Layosh, 1308-yilda", correct = false},
+{text = "Arpad, 896-yilda", correct = false},
+}
+},
+{
+question = "Vengriyaning muhim huquqiy hujjati bo'lgan Oltin bulla qaysi qirol davrida qabul qilingan?",
+answers = {
+{text = "Ishtvan Buyuk davrida", correct = false},
+{text = "Andrash II davrida", correct = true},
+{text = "Layosh davrida", correct = false},
+{text = "Arpad davrida", correct = false},
+}
+},
+{
+question = "Usmon beyligining ilk hukmdori kim edi?",
+answers = {
+{text = "Ertug'rul", correct = true},
+{text = "Usmon I", correct = false},
+{text = "O'rxon", correct = false},
+{text = "Murod I", correct = false},
+}
+},
+{
+question = "Usmoniylar davlatining asoschisi kim hisoblanadi va u qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "Ertug'rul, 1280–1299-yillarda", correct = false},
+{text = "Usmon I, 1299–1326-yillarda", correct = true},
+{text = "O'rxon, 1326–1362-yillarda", correct = false},
+{text = "Murod I, 1362–1389-yillarda", correct = false},
+}
+},
+{
+question = "Usmon o'z beyligini mustaqil davlat deb qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1291-yilda", correct = false},
+{text = "1299-yilda", correct = true},
+{text = "1326-yilda", correct = false},
+{text = "1362-yilda", correct = false},
+}
+},
+{
+question = "O'rxon davrida Usmoniylar tomonidan qaysi shaharlar bosib olingan?",
+answers = {
+{text = "Bursa va Melangiya", correct = false},
+{text = "Nikeya va Nikomediya", correct = true},
+{text = "Adrianopol va Edirna", correct = false},
+{text = "Konstantinopol va Ankara", correct = false},
+}
+},
+{
+question = "Bursa shahrida birinchi marta kumush tanga qaysi yilda zarb qilingan?",
+answers = {
+{text = "1299-yilda", correct = false},
+{text = "1327-yilda", correct = true},
+{text = "1362-yilda", correct = false},
+{text = "1389-yilda", correct = false},
+}
+},
+{
+question = "Turk armiyasining zarbdor bo'linmasi yanichar qo'shini qaysi sulton tomonidan va qaysi yilda tuzilgan?",
+answers = {
+{text = "Usmon I tomonidan, 1299-yilda", correct = false},
+{text = "O'rxon tomonidan, 1327-yilda", correct = false},
+{text = "Murod I tomonidan, 1365-yilda", correct = true},
+{text = "Boyazid tomonidan, 1389-yilda", correct = false},
+}
+},
+{
+question = "Adrianopol shahri qaysi yilda egallanib, keyinchalik qanday nomlangan?",
+answers = {
+{text = "1352-yilda, Rumeliya", correct = false},
+{text = "1362-yilda, Edirna", correct = true},
+{text = "1389-yilda, Istanbul", correct = false},
+{text = "1453-yilda, Konstantinopol", correct = false},
+}
+},
+{
+question = "1389-yilgi Kosovo jangida g'alaba qozongan, biroq jang chog'ida vafot etgan Usmoniy sultoni kim edi?",
+answers = {
+{text = "Usmon I", correct = false},
+{text = "O'rxon", correct = false},
+{text = "Murod I", correct = true},
+{text = "Boyazid", correct = false},
+}
+},
+{
+question = "Murod I vafotidan so'ng Usmoniylar taxtiga kim o'tirgan?",
+answers = {
+{text = "O'rxon", correct = false},
+{text = "Boyazid", correct = true},
+{text = "Mehmed I", correct = false},
+{text = "Mehmed II", correct = false},
+}
+},
+{
+question = "Anqara jangi qaysi yilda bo'lib o'tgan?",
+answers = {
+{text = "1389-yilda", correct = false},
+{text = "1395-yilda", correct = false},
+{text = "1402-yilda", correct = true},
+{text = "1413-yilda", correct = false},
+}
+},
+{
+question = "Anqara jangida Amir Temur tomonidan qaysi Usmoniy sultoni mag'lub etilib, asirga olingan?",
+answers = {
+{text = "Murod I", correct = false},
+{text = "Boyazid", correct = true},
+{text = "Mehmed I", correct = false},
+{text = "Mehmed II", correct = false},
+}
+},
+{
+question = "Konstantinopolni egallashga muvaffaq bo'lgan Usmoniy sultoni kim edi?",
+answers = {
+{text = "Boyazid", correct = false},
+{text = "Mehmed I", correct = false},
+{text = "Murod II", correct = false},
+{text = "Mehmed II", correct = true},
+}
+},
+{
+question = "Konstantinopol qaysi yilda egallangan?",
+answers = {
+{text = "1402-yilda", correct = false},
+{text = "1413-yilda", correct = false},
+{text = "1453-yilda", correct = true},
+{text = "1481-yilda", correct = false},
+}
+},
+{
+question = "Xorazmshohlar davlati Eronni qaysi yilda egallab, Xorazmga qo'shib olgan?",
+answers = {
+{text = "1187-yilda", correct = false},
+{text = "1194-yilda", correct = true},
+{text = "1237-yilda", correct = false},
+{text = "1256-yilda", correct = false},
+}
+},
+{
+question = "Mo'g'ul lashkarboshisi Huloku Eronni to'liq bosib olib, Hulokuiylar davlatiga qaysi yilda asos solgan?",
+answers = {
+{text = "1194-yilda", correct = false},
+{text = "1237-yilda", correct = false},
+{text = "1256-yilda", correct = true},
+{text = "1295-yilda", correct = false},
+}
+},
+{
+question = "Hulokuiylar davlatida hukmdorlar qanday unvon bilan atalgan?",
+answers = {
+{text = "Sulton", correct = false},
+{text = "Elxon", correct = true},
+{text = "Amir", correct = false},
+{text = "Xoqon", correct = false},
+}
+},
+{
+question = "Islohotlar o'tkazgan yettinchi elxon kim edi va qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "Huloku, 1256–1265-yillarda", correct = false},
+{text = "G'ozonxon, 1295–1304-yillarda", correct = true},
+{text = "Abu Said, 1316–1335-yillarda", correct = false},
+{text = "Rashiduddin, 1304–1316-yillarda", correct = false},
+}
+},
+{
+question = "G'ozonxon islomni davlat dini deb qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1256-yilda", correct = false},
+{text = "1295-yilda", correct = true},
+{text = "1304-yilda", correct = false},
+{text = "1337-yilda", correct = false},
+}
+},
+{
+question = "Sabzavor yaqinida sarbadorlar qo'zg'oloni qaysi yilda ko'tarilgan?",
+answers = {
+{text = "1304-yilda", correct = false},
+{text = "1337-yilda", correct = true},
+{text = "1353-yilda", correct = false},
+{text = "1381-yilda", correct = false},
+}
+},
+{
+question = "Amir Temur Sabzavorni egallab, Sarbadorlar davlatiga qaysi yilda barham bergan?",
+answers = {
+{text = "1353-yilda", correct = false},
+{text = "1381-yilda", correct = true},
+{text = "1387-yilda", correct = false},
+{text = "1393-yilda", correct = false},
+}
+},
+{
+question = "Muzaffariylar davlatiga kim asos solgan?",
+answers = {
+{text = "Muboriziddin Muhammad", correct = true},
+{text = "Shayx Hasan Buzurg", correct = false},
+{text = "Qora Yusuf", correct = false},
+{text = "Uzun Hasan", correct = false},
+}
+},
+{
+question = "Muzaffariylar davlatining poytaxti qaysi shahar bo'lgan?",
+answers = {
+{text = "Tabriz", correct = false},
+{text = "Bag'dod", correct = false},
+{text = "Sheroz", correct = true},
+{text = "Isfahon", correct = false},
+}
+},
+{
+question = "Amir Temur Muzaffariylar davlatini qaysi yillarda tugatgan?",
+answers = {
+{text = "1353–1358-yillarda", correct = false},
+{text = "1381–1387-yillarda", correct = false},
+{text = "1387–1393-yillarda", correct = true},
+{text = "1395–1400-yillarda", correct = false},
+}
+},
+{
+question = "Jaloyiriylar davlatiga qaysi yilda va kim tomonidan asos solingan?",
+answers = {
+{text = "1337-yilda, Muboriziddin Muhammad tomonidan", correct = false},
+{text = "1340-yilda, shayx Hasan Buzurg tomonidan", correct = true},
+{text = "1356-yilda, sulton Uvays I tomonidan", correct = false},
+{text = "1387-yilda, Qora Yusuf tomonidan", correct = false},
+}
+},
+{
+question = "Jaloyiriylar davlatining poytaxti qaysi shahar bo'lgan?",
+answers = {
+{text = "Sheroz", correct = false},
+{text = "Tabriz", correct = false},
+{text = "Bag'dod", correct = true},
+{text = "Isfahon", correct = false},
+}
+},
+{
+question = "Qora qo'yunlilar davlatiga Tabriz va Bag'dodni egallab, qaysi yilda asos solingan?",
+answers = {
+{text = "1387-yilda", correct = false},
+{text = "1402-yilda", correct = false},
+{text = "1410-yilda", correct = true},
+{text = "1435-yilda", correct = false},
+}
+},
+{
+question = "1469-yilda bo'lib o'tgan jangda Uzun Hasan g'alaba qozonib, qaysi temuriy sulton halok bo'lgan?",
+answers = {
+{text = "Shohrux Mirzo", correct = false},
+{text = "Mironshoh", correct = false},
+{text = "Abu Said", correct = true},
+{text = "Ahmad", correct = false},
+}
+},
+{
+question = "Oq qo'yunlilar davlatiga asos solgan hukmdor kim edi va qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "Qora Yusuf, 1387–1420-yillarda", correct = false},
+{text = "Hasan, 1453–1478-yillarda", correct = true},
+{text = "Uzun Hasan, 1478–1490-yillarda", correct = false},
+{text = "Iskandar, 1420–1435-yillarda", correct = false},
+}
+},
+{
+question = "Botuxon Rus va Sharqiy Yevropada qaysi yillarda katta istilolar amalga oshirgan?",
+answers = {
+{text = "1227–1230-yillarda", correct = false},
+{text = "1237–1242-yillarda", correct = true},
+{text = "1256–1260-yillarda", correct = false},
+{text = "1266–1269-yillarda", correct = false},
+}
+},
+{
+question = "Oltin O'rda davlatiga kim asos solgan?",
+answers = {
+{text = "Jo'ji", correct = false},
+{text = "Botuxon", correct = true},
+{text = "Berkaxon", correct = false},
+{text = "Mangu Temur", correct = false},
+}
+},
+{
+question = "Oltin O'rdada xonni saylash masalasi qaysi yig'inda hal etilgan?",
+answers = {
+{text = "Seymda", correct = false},
+{text = "Kortesda", correct = false},
+{text = "Qurultoyda", correct = true},
+{text = "Vechada", correct = false},
+}
+},
+{
+question = "Oltin O'rdada ijro hokimiyati boshlig'i qanday unvon bilan atalgan?",
+answers = {
+{text = "Vazir", correct = false},
+{text = "Beklarbegi", correct = true},
+{text = "Dorug'a", correct = false},
+{text = "Tumanbegi", correct = false},
+}
+},
+{
+question = "Oltin O'rda qo'shini O'zbekxon davrida necha ming jangchidan oshgan?",
+answers = {
+{text = "100 ming", correct = false},
+{text = "150 ming", correct = false},
+{text = "200 ming", correct = false},
+{text = "300 ming", correct = true},
+}
+},
+{
+question = "Oltin O'rdaning dastlabki poytaxti qaysi shahar bo'lgan?",
+answers = {
+{text = "Saroy Berka", correct = false},
+{text = "Saroy Botu", correct = true},
+{text = "Qoraqurum", correct = false},
+{text = "Samarqand", correct = false},
+}
+},
+{
+question = "Berkaxon davrida Oltin O'rda poytaxti qaysi shaharga ko'chirilgan?",
+answers = {
+{text = "Saroy Botuga", correct = false},
+{text = "Qoraqurumga", correct = false},
+{text = "Saroy Berkaga", correct = true},
+{text = "Astraxanga", correct = false},
+}
+},
+{
+question = "Jonibek davrida Saroy Berka aholisi necha ming kishiga yetgan?",
+answers = {
+{text = "50 ming", correct = false},
+{text = "70 ming", correct = false},
+{text = "100 ming", correct = true},
+{text = "150 ming", correct = false},
+}
+},
+{
+question = "Ulug' xon roziligisiz saroyda hokimiyat tepasiga kelgan Jo'ji ulusining birinchi mustaqil hukmdori kim edi?",
+answers = {
+{text = "Botuxon", correct = false},
+{text = "Berkaxon", correct = true},
+{text = "Mangu Temur", correct = false},
+{text = "O'zbekxon", correct = false},
+}
+},
+{
+question = "Mangu Temur o'z mulklarini Mo'g'ullar imperiyasidan mustaqil deb qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1255-yilda", correct = false},
+{text = "1266-yilda", correct = false},
+{text = "1269-yilda", correct = true},
+{text = "1282-yilda", correct = false},
+}
+},
+{
+question = "Oltin O'rdada O'zbekxon islomni davlat dini deb qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1269-yilda", correct = false},
+{text = "1295-yilda", correct = false},
+{text = "1312-yilda", correct = false},
+{text = "1314-yilda", correct = true},
+}
+},
+{
+question = "Amir Temur yordamida Oltin O'rda taxtida g'alaba qozongan xon kim edi?",
+answers = {
+{text = "Jonibekxon", correct = false},
+{text = "O'zbekxon", correct = false},
+{text = "To'xtamishxon", correct = true},
+{text = "Mengli Garay", correct = false},
+}
+},
+{
+question = "Amir Temur To'xtamishxon ustidan hal qiluvchi g'alabani qaysi yilda qozongan?",
+answers = {
+{text = "1380-yilda", correct = false},
+{text = "1391-yilda", correct = false},
+{text = "1395-yilda", correct = true},
+{text = "1402-yilda", correct = false},
+}
+},
+{
+question = "Oltin O'rdaning Moskva knyazi Ivan IIIni bo'ysundirish urinishi qaysi yilda muvaffaqiyatsiz tugagan?",
+answers = {
+{text = "1382-yilda", correct = false},
+{text = "1395-yilda", correct = false},
+{text = "1478-yilda", correct = false},
+{text = "1480-yilda", correct = true},
+}
+},
+{
+question = "Oltin O'rda qo'shinini 1502-yilda kim uzil-kesil mag'lubiyatga uchratgan?",
+answers = {
+{text = "Ivan III", correct = false},
+{text = "Mengli Garay", correct = true},
+{text = "To'xtamishxon", correct = false},
+{text = "Amir Temur", correct = false},
+}
+},
+}
