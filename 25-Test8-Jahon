@@ -1,6 +1,4 @@
--- 1-MAVZU. FRANSIYADA MARKAZLASHGAN DAVLATNING TASHKIL TOPISHI. GENERAL SHTATLAR
-
-questions_mavzu1 = {
+questions = {
 {
 question = "Franklar imperiyasining bo'linishini boshlab bergan Verden shartnomasi qaysi yilda tuzilgan?",
 answers = {
@@ -145,12 +143,6 @@ answers = {
 {text = "1215-yilda Vestminsterda", correct = false},
 }
 },
-}
-
-
--- 2-MAVZU. YUZ YILLIK URUSH: SABABLARI, YAKUNLARI VA OQIBATLARI
-
-questions_mavzu2 = {
 {
 question = "Yuz yillik urush qaysi yillar oralig'ida bo'lib o'tgan?",
 answers = {
@@ -295,12 +287,6 @@ answers = {
 {text = "1420-yilda, Trua shartnomasi imzolanishi bilan", correct = false},
 }
 },
-}
-
-
--- 3-MAVZU. FRANSIYANI BIRLASHTIRISHNING TUGALLANISHI VA UNING NATIJALARI
-
-questions_mavzu3 = {
 {
 question = "Qirol Lyudovik o'n birinchi qaysi yillarda hukmronlik qilgan?",
 answers = {
@@ -445,12 +431,6 @@ answers = {
 {text = "Papaning mutlaq hokimiyati", correct = false},
 }
 },
-}
-
-
--- 4-MAVZU. ANGLIYADA MARKAZLASHGAN DAVLATNING TASHKIL TOPISHI
-
-questions_mavzu4 = {
 {
 question = "Angliyani istilo qilgan Normandiyalik qirol kim edi?",
 answers = {
@@ -464,7 +444,7 @@ answers = {
 question = "\"Angliya\" nomi qadimgi ingliz tilidagi qaysi so'zdan olingan bo'lib, qanday ma'noni bildiradi?",
 answers = {
 {text = "\"England\" so'zidan olingan bo'lib, \"angllar yeri\" ma'nosini bildiradi", correct = true},
-{text = "\"Britannia\" so'zidan olingan bo'lib, \"orollar yurti\" ma'nosini bildiradi", correct = false},
+{text "\"Britannia\" so'zidan olingan bo'lib, \"orollar yurti\" ma'nosini bildiradi", correct = false},
 {text = "\"Normandi\" so'zidan olingan bo'lib, \"shimol yurti\" ma'nosini bildiradi", correct = false},
 {text = "\"Albion\" so'zidan olingan bo'lib, \"oq qirg'oq\" ma'nosini bildiradi", correct = false},
 }
@@ -595,12 +575,6 @@ answers = {
 {text = "Ahd, shartnoma ma'nosini", correct = false},
 }
 },
-}
-
-
--- 5-MAVZU. XIV–XV ASRLARDA ANGLIYA
-
-questions_mavzu5 = {
 {
 question = "Angliya tarixida birinchi marotaba jon solig'i qaysi yilda va qaysi qirol hukmronligi davrida joriy etilgan?",
 answers = {
@@ -746,3 +720,4 @@ answers = {
 }
 },
 }
+
