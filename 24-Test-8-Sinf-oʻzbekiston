@@ -1,14 +1,4 @@
--- ============================================================
--- 8-SINF "O'ZBEKISTON TARIXI" DARSLIGI ASOSIDA TUZILGAN TESTLAR
--- Manba: 8_O'zbekiston_Tarixi_2023.txt darsligi
--- Har bir mavzudan 21 tadan savol, DTM saviyasida
--- ============================================================
-
-
--- ============================================================
--- 24-MAVZU: XATTOTLIK VA MINIATYURA
--- ============================================================
-questions_24 = {
+questions = {
 {
 question = "Xattotlik san'ati temuriylar sulolasi hukmdorlarining qo'llab-quvvatlashi bilan qaysi asrda yuksak pog'onaga ko'tarilgan?",
 answers = {
@@ -198,13 +188,6 @@ answers = {
 {text = "Firdavsiyning \"Shohnoma\"si uchun", correct = false},
 }
 },
-}
-
-
--- ============================================================
--- 25-MAVZU: TEMURIYLAR DAVRIDA HUNARMANDCHILIK
--- ============================================================
-questions_25 = {
 {
 question = "Temuriylar davrida badiiy hunarmandchilik me'morchilikdan tashqari yana qaysi sohalar bilan bog'liq bo'lgan?",
 answers = {
@@ -394,13 +377,6 @@ answers = {
 {text = "Faqat poytaxtda o'sdi, boshqa hududlarda pasaydi", correct = false},
 }
 },
-}
-
-
--- ============================================================
--- 26-MAVZU: ALISHER NAVOIY
--- ============================================================
-questions_26 = {
 {
 question = "Alisher Navoiy qaysi kuni tug'ilgan?",
 answers = {
@@ -591,3 +567,4 @@ answers = {
 }
 },
 }
+
