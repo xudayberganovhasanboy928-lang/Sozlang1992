@@ -1,0 +1,605 @@
+questions = {
+{
+question = "Dehli sultonligiga qaysi yilda va kim tomonidan asos solingan?",
+answers = {
+{text = "1186-yilda, Muhammad G'uriy tomonidan", correct = false},
+{text = "1206-yilda, Qutbiddin Oyboq tomonidan", correct = true},
+{text = "1236-yilda, Roziya tomonidan", correct = false},
+{text = "1290-yilda, Jaloliddin Feruzshoh tomonidan", correct = false},
+}
+},
+{
+question = "Qutbiddin Oyboqning vafotidan so'ng Dehli sultonligi taxtiga kim o'tirgan?",
+answers = {
+{text = "Shamsiddin Eltutmish", correct = true},
+{text = "Roziya", correct = false},
+{text = "Jaloliddin Feruzshoh", correct = false},
+{text = "Alouddin Xiljiy", correct = false},
+}
+},
+{
+question = "Bag'dod xalifasi Shamsiddin Eltutmishni mustaqil hukmdor deb qaysi yilda e'tirof etgan?",
+answers = {
+{text = "1210-yilda", correct = false},
+{text = "1211-yilda", correct = false},
+{text = "1229-yilda", correct = true},
+{text = "1236-yilda", correct = false},
+}
+},
+{
+question = "Dehli sultonligining yagona ayol hukmdori, Janubiy Osiyoning birinchi musulmon ayol hukmdori kim bo'lgan?",
+answers = {
+{text = "Roziya", correct = true},
+{text = "Shamsiddin Eltutmish qizi Sultona", correct = false},
+{text = "Turkon xotun", correct = false},
+{text = "Nur Jahon", correct = false},
+}
+},
+{
+question = "Roziya sultonlik taxtiga qaysi yilda o'tirgan?",
+answers = {
+{text = "1229-yilda", correct = false},
+{text = "1236-yilda", correct = true},
+{text = "1240-yilda", correct = false},
+{text = "1290-yilda", correct = false},
+}
+},
+{
+question = "Roziya qaysi yilgi isyondan so'ng taxtdan ag'darilgan?",
+answers = {
+{text = "1236-yilda", correct = false},
+{text = "1240-yilda", correct = true},
+{text = "1290-yilda", correct = false},
+{text = "1206-yilda", correct = false},
+}
+},
+{
+question = "Jaloliddin Feruzshoh hokimiyatni egallab, qaysi yilda xiljiylar sulolasiga asos solgan?",
+answers = {
+{text = "1236-yilda", correct = false},
+{text = "1240-yilda", correct = false},
+{text = "1290-yilda", correct = true},
+{text = "1325-yilda", correct = false},
+}
+},
+{
+question = "Dehli sultonligi qaysi yillar oralig'ida mavjud bo'lgan?",
+answers = {
+{text = "1186–1451-yillarda", correct = false},
+{text = "1206–1526-yillarda", correct = true},
+{text = "1236–1451-yillarda", correct = false},
+{text = "1290–1526-yillarda", correct = false},
+}
+},
+{
+question = "O'zini \"Iskandar Zulqarnaynning davomchisi\" deb atagan, deyarli butun Hindistonni bo'ysundirgan sulton kim edi?",
+answers = {
+{text = "Alouddin Xiljiy", correct = false},
+{text = "Sulton Muhammad Tug'luq", correct = true},
+{text = "Feruzshoh Tug'luq", correct = false},
+{text = "Bahlul Lo'diy", correct = false},
+}
+},
+{
+question = "Amir Temur Hindistonga yurish qilib, Dehlini qaysi yilda zabt etgan?",
+answers = {
+{text = "1351-yilda", correct = false},
+{text = "1398-yilda", correct = true},
+{text = "1451-yilda", correct = false},
+{text = "1526-yilda", correct = false},
+}
+},
+{
+question = "Amir Temur Dehlini zabt etganidan so'ng hind mulkiga noib qilib kimni tayinlagan?",
+answers = {
+{text = "Xizr Xonni", correct = true},
+{text = "Bahlul Lo'diyni", correct = false},
+{text = "Sulton Mahmudxonni", correct = false},
+{text = "Iskandarni", correct = false},
+}
+},
+{
+question = "Sayyidlar sulolasiga kim asos solgan?",
+answers = {
+{text = "Sulton Mahmudxon", correct = false},
+{text = "Xizr Xon", correct = true},
+{text = "Bahlul Lo'diy", correct = false},
+{text = "Ibrohim Lo'diy", correct = false},
+}
+},
+{
+question = "Afg'on urug'i boshlig'i Bahlul Lo'diy Dehlini egallab, o'zini sulton deb qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1398-yilda", correct = false},
+{text = "1451-yilda", correct = true},
+{text = "1489-yilda", correct = false},
+{text = "1526-yilda", correct = false},
+}
+},
+{
+question = "Poytaxtni Dehlidan Agraga ko'chirgan hukmdor kim edi?",
+answers = {
+{text = "Bahlul Lo'diy", correct = false},
+{text = "Iskandar", correct = true},
+{text = "Ibrohim Lo'diy", correct = false},
+{text = "Xizr Xon", correct = false},
+}
+},
+{
+question = "Dehli sultonligining so'nggi hukmdori kim bo'lgan?",
+answers = {
+{text = "Bahlul Lo'diy", correct = false},
+{text = "Iskandar", correct = false},
+{text = "Ibrohim Lo'diy", correct = true},
+{text = "Xizr Xon", correct = false},
+}
+},
+{
+question = "Zahiriddin Muhammad Bobur Ibrohim Lo'diy qo'shinini qaysi yilda tor-mor etib, Dehli sultonligini parchalab yuborgan?",
+answers = {
+{text = "1451-yilda", correct = false},
+{text = "1489-yilda", correct = false},
+{text = "1517-yilda", correct = false},
+{text = "1526-yilda", correct = true},
+}
+},
+{
+question = "Tuluxonning o'g'li Xubilay ulug' xoqon deb qaysi yilda e'lon qilingan?",
+answers = {
+{text = "1206-yilda", correct = false},
+{text = "1260-yilda", correct = true},
+{text = "1279-yilda", correct = false},
+{text = "1368-yilda", correct = false},
+}
+},
+{
+question = "Xubilay Xitoyni to'liq egallab, qaysi sulolaga asos solgan?",
+answers = {
+{text = "Sun sulolasiga", correct = false},
+{text = "Yuan sulolasiga", correct = true},
+{text = "Min sulolasiga", correct = false},
+{text = "Chin sulolasiga", correct = false},
+}
+},
+{
+question = "Yuan sulolasi qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1260–1350-yillarda", correct = false},
+{text = "1279–1368-yillarda", correct = true},
+{text = "1368–1644-yillarda", correct = false},
+{text = "1402–1424-yillarda", correct = false},
+}
+},
+{
+question = "Min sulolasiga kim asos solgan?",
+answers = {
+{text = "Xubilay", correct = false},
+{text = "Chju Yuan Chjan", correct = true},
+{text = "Imperator Yongle", correct = false},
+{text = "Chjan Xe", correct = false},
+}
+},
+{
+question = "1351-yilda Xenan va Shandun viloyatlarida boshlangan, sarosimaga solgan xalq qo'zg'oloni qanday nom bilan tarixga kirgan?",
+answers = {
+{text = "\"Oq nilufar\" qo'zg'oloni", correct = false},
+{text = "\"Qizil peshonabog'lilar\" qo'zg'oloni", correct = true},
+{text = "Jakeriya qo'zg'oloni", correct = false},
+{text = "Uot Tayler qo'zg'oloni", correct = false},
+}
+},
+{
+question = "Rohib Chju Yuan Chjan Nankinni egallab, o'zini imperator deb qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1351-yilda", correct = false},
+{text = "1360-yilda", correct = false},
+{text = "1368-yilda", correct = true},
+{text = "1402-yilda", correct = false},
+}
+},
+{
+question = "Xitoy sivilizatsiyasi to'plami hisoblangan mashhur ensiklopediya qaysi yilda va qaysi imperator davrida yozilgan?",
+answers = {
+{text = "1368-yilda, Chju Yuan Chjan davrida", correct = false},
+{text = "1408-yilda, Yongle davrida", correct = true},
+{text = "1421-yilda, Cheng Xua davrida", correct = false},
+{text = "1433-yilda, Chjan Xe davrida", correct = false},
+}
+},
+{
+question = "Imperator Yongle qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1368–1398-yillarda", correct = false},
+{text = "1402–1424-yillarda", correct = true},
+{text = "1424–1450-yillarda", correct = false},
+{text = "1450–1470-yillarda", correct = false},
+}
+},
+{
+question = "Beypin shahri Min imperiyasi poytaxtiga aylanib, qaysi yilda Pekin (Beyszin) deb atala boshlagan?",
+answers = {
+{text = "1402-yilda", correct = false},
+{text = "1408-yilda", correct = false},
+{text = "1421-yilda", correct = true},
+{text = "1433-yilda", correct = false},
+}
+},
+{
+question = "Admiral Chjan Xening ulkan dengiz ekspeditsiyalari qaysi yillar oralig'ida amalga oshirilgan?",
+answers = {
+{text = "1387–1388-yillarda", correct = false},
+{text = "1402–1421-yillarda", correct = false},
+{text = "1405–1433-yillarda", correct = true},
+{text = "1421–1450-yillarda", correct = false},
+}
+},
+{
+question = "Mo'g'ullarning asosiy harbiy kuchlari yanchib tashlanib, Yuan davlati qaysi yillarda butunlay tugatilgan?",
+answers = {
+{text = "1368–1370-yillarda", correct = false},
+{text = "1387–1388-yillarda", correct = true},
+{text = "1402–1404-yillarda", correct = false},
+{text = "1421–1424-yillarda", correct = false},
+}
+},
+{
+question = "Amir Temur Xitoyga yurish boshlagan, biroq yo'lda vafot etib, yurish amalga oshmay qolgan yil qaysi edi?",
+answers = {
+{text = "1398-yil", correct = false},
+{text = "1402-yil", correct = false},
+{text = "1404-yil", correct = true},
+{text = "1408-yil", correct = false},
+}
+},
+{
+question = "Tayra va Minamoto xonadonlari o'rtasidagi urush qaysi yilda boshlangan?",
+answers = {
+{text = "1156-yilda", correct = true},
+{text = "1185-yilda", correct = false},
+{text = "1192-yilda", correct = false},
+{text = "1274-yilda", correct = false},
+}
+},
+{
+question = "Minamoto Yoritomo barcha raqiblarini mag'lub etib, o'z hokimiyatini qaysi yilda o'rnatgan?",
+answers = {
+{text = "1156-yilda", correct = false},
+{text = "1185-yilda", correct = true},
+{text = "1192-yilda", correct = false},
+{text = "1333-yilda", correct = false},
+}
+},
+{
+question = "Minamoto imperator nomidan Yaponiyani boshqaruvchi harbiy qo'mondon – syogun unvonini qaysi yilda olgan?",
+answers = {
+{text = "1156-yilda", correct = false},
+{text = "1185-yilda", correct = false},
+{text = "1192-yilda", correct = true},
+{text = "1274-yilda", correct = false},
+}
+},
+{
+question = "Kamakura syogunligi qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1156–1185-yillarda", correct = false},
+{text = "1192–1333-yillarda", correct = true},
+{text = "1274–1281-yillarda", correct = false},
+{text = "1338–1573-yillarda", correct = false},
+}
+},
+{
+question = "Xubilay Yaponiya orollarini zabt etish uchun birinchi bor qaysi yilda katta dengiz flotini yuborgan?",
+answers = {
+{text = "1231-yilda", correct = false},
+{text = "1260-yilda", correct = false},
+{text = "1274-yilda", correct = true},
+{text = "1281-yilda", correct = false},
+}
+},
+{
+question = "Mo'g'ullar Yaponiyaga ikkinchi marta qaysi yilda ulkan qo'shin bilan bostirib kirishgan?",
+answers = {
+{text = "1274-yilda", correct = false},
+{text = "1281-yilda", correct = true},
+{text = "1333-yilda", correct = false},
+{text = "1338-yilda", correct = false},
+}
+},
+{
+question = "Kamakura syogunligi Asikaga xonadoni bilan birlashgan oilalar tomonidan qaysi yilda ag'darib tashlangan?",
+answers = {
+{text = "1281-yilda", correct = false},
+{text = "1333-yilda", correct = true},
+{text = "1338-yilda", correct = false},
+{text = "1467-yilda", correct = false},
+}
+},
+{
+question = "Asikaga syogun unvonini olib, Kioto syogunligiga qaysi yilda asos solgan?",
+answers = {
+{text = "1281-yilda", correct = false},
+{text = "1333-yilda", correct = false},
+{text = "1338-yilda", correct = true},
+{text = "1467-yilda", correct = false},
+}
+},
+{
+question = "Asikagalar xonadoni ichidagi taxt uchun kurash bo'lgan \"Onin urushi\" qaysi yillarda yuz bergan?",
+answers = {
+{text = "1333–1338-yillarda", correct = false},
+{text = "1338–1350-yillarda", correct = false},
+{text = "1467–1477-yillarda", correct = true},
+{text = "1477–1500-yillarda", correct = false},
+}
+},
+{
+question = "Koryo qo'shinlari mo'g'ullarga qarshi Anbuk qal'asidagi hal qiluvchi jangda qaysi yilda yengilgan?",
+answers = {
+{text = "1206-yilda", correct = false},
+{text = "1231-yilda", correct = true},
+{text = "1274-yilda", correct = false},
+{text = "1356-yilda", correct = false},
+}
+},
+{
+question = "Koryo hukmdori Konmin mo'g'ullar tarafdori bo'lgan amaldorlarni o'z lavozimidan qaysi yilda chetlatgan?",
+answers = {
+{text = "1231-yilda", correct = false},
+{text = "1281-yilda", correct = false},
+{text = "1356-yilda", correct = true},
+{text = "1392-yilda", correct = false},
+}
+},
+{
+question = "Koryo Yuan imperiyasiga qaramlikdan qaysi yilda xalos bo'lgan?",
+answers = {
+{text = "1356-yilda", correct = false},
+{text = "1368-yilda", correct = true},
+{text = "1392-yilda", correct = false},
+{text = "1402-yilda", correct = false},
+}
+},
+{
+question = "Koryo harbiy sarkardasi Li Son Ge davlat to'ntarishini amalga oshirib, Li sulolasiga qaysi yilda asos solgan?",
+answers = {
+{text = "1356-yilda", correct = false},
+{text = "1368-yilda", correct = false},
+{text = "1392-yilda", correct = true},
+{text = "1400-yilda", correct = false},
+}
+},
+{
+question = "Choson qirolligida qirol Taejong qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1392–1400-yillarda", correct = false},
+{text = "1400–1418-yillarda", correct = true},
+{text = "1418–1450-yillarda", correct = false},
+{text = "1469–1494-yillarda", correct = false},
+}
+},
+{
+question = "Choson qirolligining \"Buyuk Sejong\" unvonini olgan uchinchi hukmdori qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1400–1418-yillarda", correct = false},
+{text = "1418–1450-yillarda", correct = true},
+{text = "1450–1469-yillarda", correct = false},
+{text = "1469–1494-yillarda", correct = false},
+}
+},
+{
+question = "Salohiddin Ayyubiy Ayyubiylar sulolasiga qaysi asrda asos solgan?",
+answers = {
+{text = "XI asrning birinchi yarmida", correct = false},
+{text = "XII asrning ikkinchi yarmida", correct = true},
+{text = "XIII asrning birinchi yarmida", correct = false},
+{text = "XIV asrning ikkinchi yarmida", correct = false},
+}
+},
+{
+question = "Mamluklar Ayyubiylar sulolasini ag'darib, o'z davlatlariga qaysi yilda asos solganlar?",
+answers = {
+{text = "1206-yilda", correct = false},
+{text = "1229-yilda", correct = false},
+{text = "1250-yilda", correct = true},
+{text = "1260-yilda", correct = false},
+}
+},
+{
+question = "Sayfiddin Qutuz boshchiligidagi mamluklar mo'g'ullar bosqinini qaysi yilda to'xtatgan?",
+answers = {
+{text = "1229-yilda", correct = false},
+{text = "1250-yilda", correct = false},
+{text = "1260-yilda", correct = true},
+{text = "1290-yilda", correct = false},
+}
+},
+{
+question = "G'arbiy Sudandagi eng qudratli davlat Gana qaysi asrda vujudga kelgan?",
+answers = {
+{text = "VII asrda", correct = false},
+{text = "VIII asrda", correct = true},
+{text = "IX asrda", correct = false},
+{text = "X asrda", correct = false},
+}
+},
+{
+question = "Marokash sultoni Abu Bakr Ganaga yurish qilib, uni qaysi yilda bosib olgan?",
+answers = {
+{text = "1050-yilda", correct = false},
+{text = "1076-yilda", correct = true},
+{text = "1094-yilda", correct = false},
+{text = "1120-yilda", correct = false},
+}
+},
+{
+question = "Niger daryosining yuqori oqimida Mali davlati qaysi asrda vujudga kelgan?",
+answers = {
+{text = "VII asrda", correct = false},
+{text = "VIII asrda", correct = true},
+{text = "IX asrda", correct = false},
+{text = "X asrda", correct = false},
+}
+},
+{
+question = "Mali davlati qaysi hukmdor davrida, XIII asrda yuksala boshlagan?",
+answers = {
+{text = "Mansa Muso davrida", correct = false},
+{text = "Sundiata Keyta davrida", correct = true},
+{text = "Sunni Ali davrida", correct = false},
+{text = "Muhammad I davrida", correct = false},
+}
+},
+{
+question = "Mali imperiyasi qaysi hukmdor davrida qudratining eng yuqori cho'qqisiga chiqqan?",
+answers = {
+{text = "Sundiata Keyta", correct = false},
+{text = "Mansa Muso", correct = true},
+{text = "Sunni Ali", correct = false},
+{text = "Muhammad I", correct = false},
+}
+},
+{
+question = "Mansa Muso qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1076–1100-yillarda", correct = false},
+{text = "1200–1250-yillarda", correct = false},
+{text = "1312–1337-yillarda", correct = true},
+{text = "1350–1400-yillarda", correct = false},
+}
+},
+{
+question = "Songay davlati qaysi davrda Sunni Ali va Muhammad I hukmronligida har tomonlama rivojlangan?",
+answers = {
+{text = "XIII asrda", correct = false},
+{text = "XIV asrda", correct = false},
+{text = "XV–XVI asrning birinchi yarmida", correct = true},
+{text = "XVI asrning ikkinchi yarmida", correct = false},
+}
+},
+{
+question = "Monomotapa davlati Zimbabve va Limpopo daryolari bo'yida qaysi asrda vujudga kelgan?",
+answers = {
+{text = "XI asrda", correct = false},
+{text = "XII asrda", correct = true},
+{text = "XIII asrda", correct = false},
+{text = "XIV asrda", correct = false},
+}
+},
+{
+question = "Monomotapa poytaxti Buyuk Zimbabve shahrida taxminan necha ming kishi yashagan?",
+answers = {
+{text = "5 ming", correct = false},
+{text = "10 ming", correct = false},
+{text = "15 ming", correct = true},
+{text = "20 ming", correct = false},
+}
+},
+{
+question = "Monomotapaning eng rivojlangan davri qaysi asrga to'g'ri keladi?",
+answers = {
+{text = "XIII asrga", correct = false},
+{text = "XIV asrga", correct = false},
+{text = "XV asrga", correct = true},
+{text = "XVI asrga", correct = false},
+}
+},
+{
+question = "Buyuk ko'llar yaqinida yashagan irokez qabilalari qanday nomdagi qabila ittifoqini tuzgan?",
+answers = {
+{text = "\"Irokezlar ligasi\" (Besh qabila ittifoqi)", correct = true},
+{text = "\"Pueblo ittifoqi\"", correct = false},
+{text = "\"Missisipi ittifoqi\"", correct = false},
+{text = "\"Kaliforniya ittifoqi\"", correct = false},
+}
+},
+{
+question = "Yukatanning asosiy markaziga aylangan Mayyapan shahriga qaysi yilda asos solingan?",
+answers = {
+{text = "1206-yilda", correct = false},
+{text = "1263-yilda", correct = true},
+{text = "1325-yilda", correct = false},
+{text = "1376-yilda", correct = false},
+}
+},
+{
+question = "Ispan konkistadorlari shimoliy Yukatanni egallashga qaysi yildan kirishgan?",
+answers = {
+{text = "1428-yildan", correct = false},
+{text = "1521-yildan", correct = false},
+{text = "1528-yildan", correct = true},
+{text = "1532-yildan", correct = false},
+}
+},
+{
+question = "Mayyalar davlati ispanlar tomonidan qaysi yilga kelib to'liq bo'ysundirilgan?",
+answers = {
+{text = "1521-yilga", correct = false},
+{text = "1572-yilga", correct = false},
+{text = "1621-yilga", correct = false},
+{text = "1697-yilga", correct = true},
+}
+},
+{
+question = "Atsteklar Tenochtitlan shahriga qaysi yilda asos solgan?",
+answers = {
+{text = "1263-yilda", correct = false},
+{text = "1325-yilda", correct = true},
+{text = "1376-yilda", correct = false},
+{text = "1429-yilda", correct = false},
+}
+},
+{
+question = "Tenochtitlan shahrining birinchi tlatoanisi (oliy hukmdori) qaysi yilda saylangan?",
+answers = {
+{text = "1325-yilda", correct = false},
+{text = "1376-yilda", correct = true},
+{text = "1429-yilda", correct = false},
+{text = "1521-yilda", correct = false},
+}
+},
+{
+question = "Atsteklar tepaneklarga qarshi qo'zg'olon ko'tarib, qaysi yilda mustaqillikka erishgan?",
+answers = {
+{text = "1325-yilda", correct = false},
+{text = "1376-yilda", correct = false},
+{text = "1429-yilda", correct = true},
+{text = "1451-yilda", correct = false},
+}
+},
+{
+question = "Ispan konkistadori Ernan Kortes Tenochtitlanni egallab, atsteklar davlatini qaysi yilda tugatgan?",
+answers = {
+{text = "1429-yilda", correct = false},
+{text = "1521-yilda", correct = true},
+{text = "1528-yilda", correct = false},
+{text = "1532-yilda", correct = false},
+}
+},
+{
+question = "Inklar davlatining markazi, Quyosh shahri deb atalgan poytaxt qaysi shahar bo'lgan?",
+answers = {
+{text = "Tenochtitlan", correct = false},
+{text = "Chichen itsa", correct = false},
+{text = "Kusko", correct = true},
+{text = "Mayyapan", correct = false},
+}
+},
+{
+question = "Konkistadorlar inklar qo'shinini tor-mor etib, Oliy Inkani qaysi yilda asir olgan?",
+answers = {
+{text = "1521-yilda", correct = false},
+{text = "1528-yilda", correct = false},
+{text = "1532-yilda", correct = true},
+{text = "1572-yilda", correct = false},
+}
+},
+{
+question = "Inklar davlati qaysi yilda so'nggi hukmdori taxtdan ag'darilib, butunlay tugatilgan?",
+answers = {
+{text = "1521-yilda", correct = false},
+{text = "1532-yilda", correct = false},
+{text = "1572-yilda", correct = true},
+{text = "1592-yilda", correct = false},
+}
+},
+}
