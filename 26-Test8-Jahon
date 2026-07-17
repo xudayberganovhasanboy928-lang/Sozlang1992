@@ -1,0 +1,434 @@
+questions = {
+{
+question = "Shtaufenlar sulolasining eng ko'zga ko'ringan vakili, kelib chiqishi nemis va italyan millatlariga mansub bo'lgan imperator kim edi?",
+answers = {
+{text = "Otton I", correct = false},
+{text = "Fridrix II", correct = true},
+{text = "Rudolf Gabsburg", correct = false},
+{text = "Fridrix I Barbarossa", correct = false},
+}
+},
+{
+question = "Imperator Fridrix II qaysi yillarda yashab, hukmronlik qilgan?",
+answers = {
+{text = "1152–1190-yillarda", correct = false},
+{text = "1194–1250-yillarda", correct = true},
+{text = "1220–1273-yillarda", correct = false},
+{text = "1250–1310-yillarda", correct = false},
+}
+},
+{
+question = "Imperator Fridrix II qirollar va hukmdorlar tomonidan asos solingan birinchi universitetni qaysi shaharda tashkil etgan?",
+answers = {
+{text = "Palermoda", correct = false},
+{text = "Rimda", correct = false},
+{text = "Neapolda", correct = true},
+{text = "Sitsiliyada", correct = false},
+}
+},
+{
+question = "Ovga bo'lgan qiziqishi va muhabbati tufayli Fridrix II qanday nomli kitob yozgan?",
+answers = {
+{text = "\"Qushlar bilan ov qilish san'ati\"", correct = true},
+{text = "\"Jahon hayrati\"", correct = false},
+{text = "\"Tibbiyot kodeksi\"", correct = false},
+{text = "\"Sharq siyosati\"", correct = false},
+}
+},
+{
+question = "Imperator Fridrix IIni yeretik, ya'ni dindan qaytgan deb e'lon qilgan Rim papasi kim edi?",
+answers = {
+{text = "Innokentiy III", correct = false},
+{text = "Bonifatsiy VIII", correct = false},
+{text = "Grigoriy IX", correct = true},
+{text = "Kliment V", correct = false},
+}
+},
+{
+question = "Fridrix IIni shakkoklikda aybladi va u bilan chinakam urush boshlagan keyingi Rim papasi kim edi?",
+answers = {
+{text = "Grigoriy IX", correct = false},
+{text = "Innokentiy IV", correct = true},
+{text = "Lev III", correct = false},
+{text = "Martin V", correct = false},
+}
+},
+{
+question = "Papa bilan bo'lgan urushda 1248-yilda mag'lubiyatga uchragan Fridrix II qaysi yili vafot etgan?",
+answers = {
+{text = "1248-yilda", correct = false},
+{text = "1250-yilda", correct = true},
+{text = "1254-yilda", correct = false},
+{text = "1273-yilda", correct = false},
+}
+},
+{
+question = "Xristian katolik cherkovi homiyligi ostida bo'lganligi uchun ramziy ma'noda shu nom berilgan, Otton I asos solgan imperiya qanday nomlangan?",
+answers = {
+{text = "Franklar imperiyasi", correct = false},
+{text = "Muqaddas Rim imperiyasi", correct = true},
+{text = "Vizantiya imperiyasi", correct = false},
+{text = "Karolinglar imperiyasi", correct = false},
+}
+},
+{
+question = "Germaniyada 1254–1273-yillar davomida qanday holat kuzatilgan?",
+answers = {
+{text = "Umuman imperator saylanmagan", correct = true},
+{text = "Ganza ittifoqi tuzilgan", correct = false},
+{text = "Shvabiya ittifoqi barham topgan", correct = false},
+{text = "Kurfyurstlar soni kamaytirilgan", correct = false},
+}
+},
+{
+question = "1273-yilda Germaniya knyazlari kimni imperator etib saylashdi?",
+answers = {
+{text = "Fridrix IIni", correct = false},
+{text = "Rudolf Gabsburgni", correct = true},
+{text = "Otton Ini", correct = false},
+{text = "Martin Vni", correct = false},
+}
+},
+{
+question = "Gabsburglar sulolasi hukmronligi taxtni qaysi yilda o'z davrining qudratli xonadoni Lyuksemburglarga bo'shatib bergan?",
+answers = {
+{text = "1273-yilda", correct = false},
+{text = "1310-yilda", correct = false},
+{text = "1347-yilda", correct = true},
+{text = "1437-yilda", correct = false},
+}
+},
+{
+question = "Germaniyada imperatorni saylagan, to'rt nafari dunyoviy knyaz va uch nafari ruhoniy arxiyepiskoplardan iborat yetti nafar oliy darajadagi saylovchilar qanday nomlangan?",
+answers = {
+{text = "Senatorlar", correct = false},
+{text = "Kurfyurstlar", correct = true},
+{text = "Markgraflar", correct = false},
+{text = "Kardinallar", correct = false},
+}
+},
+{
+question = "Germaniyada Lyuksemburglar sulolasi hukmronligi qaysi yilda barham topib, taxtga yana Gabsburglar sulolasi vakillari o'tirgan?",
+answers = {
+{text = "1347-yilda", correct = false},
+{text = "1409-yilda", correct = false},
+{text = "1437-yilda", correct = true},
+{text = "1470-yilda", correct = false},
+}
+},
+{
+question = "1437-yildan e'tiboran Germaniyada Gabsburglar sulolasi necha yil, ya'ni qaysi yilgacha (Napoleon I davrigacha) hukmronlik qilgan?",
+answers = {
+{text = "200 yil, 1637-yilgacha", correct = false},
+{text = "369 yil, 1806-yilgacha", correct = true},
+{text = "150 yil, 1587-yilgacha", correct = false},
+{text = "300 yil, 1737-yilgacha", correct = false},
+}
+},
+{
+question = "Shimoliy Germaniyaning Lyubek, Gamburg, Bremen kabi shaharlari XIV asr o'rtalarida qaysi savdo ittifoqiga birlashgan?",
+answers = {
+{text = "Shvabiya ittifoqiga", correct = false},
+{text = "Reyn savdo va sanoat ittifoqiga", correct = false},
+{text = "Ganza savdo ittifoqiga", correct = true},
+{text = "Kortes ittifoqiga", correct = false},
+}
+},
+{
+question = "Frankfurt, Mayns, Kyoln, Vorms, Strasburg kabi yirik shaharlarni birlashtirgan Reyn savdo va sanoat ittifoqi qaysi yilda tashkil topgan?",
+answers = {
+{text = "1254-yilda", correct = true},
+{text = "1298-yilda", correct = false},
+{text = "1331-yilda", correct = false},
+{text = "1370-yilda", correct = false},
+}
+},
+{
+question = "1282-yilda sitsiliyaliklarning fransuz amaldorlariga qarshi ko'targan qo'zg'oloni tarixga qanday nom bilan kirgan?",
+answers = {
+{text = "\"Buyuk bo'linish\"", correct = false},
+{text = "\"Sitsiliya oqshomi\"", correct = true},
+{text = "\"Adriatika g'alabasi\"", correct = false},
+{text = "\"Rekonkista\"", correct = false},
+}
+},
+{
+question = "Venetsiya respublikasi XIII asrdayoq ulkan dengiz davlati mavqeyiga erishib, qanday nom bilan atalgan?",
+answers = {
+{text = "\"Italiya Afinasi\"", correct = false},
+{text = "\"Adriatika malikasi\"", correct = true},
+{text = "\"O'rta dengiz gavhari\"", correct = false},
+{text = "\"Ko'hna qit'a marvaridi\"", correct = false},
+}
+},
+{
+question = "Venetsiya respublikasida taxminan necha ming aholi istiqomat qilgan?",
+answers = {
+{text = "90 ming", correct = false},
+{text = "120 ming", correct = false},
+{text = "200 ming", correct = true},
+{text = "300 ming", correct = false},
+}
+},
+{
+question = "1298-yilda genuyaliklar Venetsiya flotini mag'lub etgan to'qnashuvda venetsiyalik doj bilan birga qaysi mashhur sayyoh asir tushgan?",
+answers = {
+{text = "Rui Gonsales de Klavixo", correct = false},
+{text = "Vasko da Gama", correct = false},
+{text = "Marko Polo", correct = true},
+{text = "Pedro Kabral", correct = false},
+}
+},
+{
+question = "Venetsiya respublikasi Genuya flotini tamomila mag'lub qilgan hal qiluvchi to'qnashuv qaysi yilda bo'lib o'tgan?",
+answers = {
+{text = "1298-yilda", correct = false},
+{text = "1330-yilda", correct = false},
+{text = "1380-yilda", correct = true},
+{text = "1409-yilda", correct = false},
+}
+},
+{
+question = "Venetsiya savdo-oligarxiya respublikasini saylab qo'yiladigan qanday amaldor boshqargan?",
+answers = {
+{text = "Kurfyurst", correct = false},
+{text = "Sinyor", correct = false},
+{text = "Doj", correct = true},
+{text = "Markgraf", correct = false},
+}
+},
+{
+question = "Venetsiyadagi dojlar saroyi qaysi yillarda hozirgi ko'rinishiga keltirilgan?",
+answers = {
+{text = "1284–1298-yillarda", correct = false},
+{text = "1309–1424-yillarda", correct = true},
+{text = "1370–1380-yillarda", correct = false},
+{text = "1409–1418-yillarda", correct = false},
+}
+},
+{
+question = "Maftunkor go'zalligi, noyob me'morchiligi va jozibador madaniyati uchun Florensiya shahri qanday ta'riflangan?",
+answers = {
+{text = "\"Adriatika malikasi\"", correct = false},
+{text = "\"Italiya Afinasi\"", correct = true},
+{text = "\"Ko'hna qit'a beshigi\"", correct = false},
+{text = "\"Sharq va G'arb ko'prigi\"", correct = false},
+}
+},
+{
+question = "1330-yilda Florensiyada taxminan necha ming aholi istiqomat qilgan?",
+answers = {
+{text = "60 ming", correct = false},
+{text = "90 ming", correct = true},
+{text = "120 ming", correct = false},
+{text = "200 ming", correct = false},
+}
+},
+{
+question = "Italiya shahar-respublikalari orasida birinchi bo'lib 1252-yilda oltin tanga zarb qilgan shahar qaysi edi?",
+answers = {
+{text = "Venetsiya", correct = false},
+{text = "Genuya", correct = false},
+{text = "Florensiya", correct = true},
+{text = "Milan", correct = false},
+}
+},
+{
+question = "Florensiyada yirik mulkdorlar o'rtasidagi hokimiyat uchun kurash natijasida yirik qo'zg'olon qaysi yilda yuz bergan?",
+answers = {
+{text = "1330-yilda", correct = false},
+{text = "1370-yilda", correct = false},
+{text = "1378-yilda", correct = true},
+{text = "1409-yilda", correct = false},
+}
+},
+{
+question = "Genuya dengiz respublikasi qaysi asrda asos solingan va qachongacha mavjud bo'lgan?",
+answers = {
+{text = "X asrda asos solinib, 1494-yilgacha", correct = false},
+{text = "XI asrda asos solinib, 1797-yilgacha", correct = true},
+{text = "XII asrda asos solinib, 1650-yilgacha", correct = false},
+{text = "XIII asrda asos solinib, 1830-yilgacha", correct = false},
+}
+},
+{
+question = "Italiyaning shimolida dehqonlar qaramligi bekor qilinishi qaysi asrda amalga oshgan?",
+answers = {
+{text = "XI asrda", correct = false},
+{text = "XIII asrda", correct = true},
+{text = "XIV asrda", correct = false},
+{text = "XV asrda", correct = false},
+}
+},
+{
+question = "Papa Grigoriy XI Avinyondan Rimga qaysi yilda ko'chib kelgan va qaysi yilda vafot etgan?",
+answers = {
+{text = "1370-yilda ko'chib, 1377-yilda vafot etgan", correct = false},
+{text = "1377-yilda ko'chib, 1378-yilda vafot etgan", correct = true},
+{text = "1378-yilda ko'chib, 1409-yilda vafot etgan", correct = false},
+{text = "1380-yilda ko'chib, 1418-yilda vafot etgan", correct = false},
+}
+},
+{
+question = "1409-yilda Piza shahridagi yig'ilishda uchinchi papa etib kim saylangan va bu voqea qanday nom bilan tarixga kirgan?",
+answers = {
+{text = "Martin V, \"Buyuk bo'linish\" nomi bilan", correct = false},
+{text = "Urban VI, \"Sitsiliya oqshomi\" nomi bilan", correct = false},
+{text = "Aleksandr V, \"Buyuk bo'linish\" nomi bilan", correct = true},
+{text = "Kliment VII, \"Rekonkista\" nomi bilan", correct = false},
+}
+},
+{
+question = "Katolik cherkovidagi \"buyuk bo'linish\"ga qaysi yilda va kim yangi papa etib saylanishi bilan barham berilgan?",
+answers = {
+{text = "1409-yilda, Aleksandr V", correct = false},
+{text = "1418-yilda, Martin V", correct = true},
+{text = "1378-yilda, Urban VI", correct = false},
+{text = "1380-yilda, Kliment VII", correct = false},
+}
+},
+{
+question = "Arab xalifaligi Pireney yarimorolidagi Vestgot qirolligini qaysi yillarda bo'ysundirgan?",
+answers = {
+{text = "700–705-yillarda", correct = false},
+{text = "711–714-yillarda", correct = true},
+{text = "718–722-yillarda", correct = false},
+{text = "756–760-yillarda", correct = false},
+}
+},
+{
+question = "Ispaniyada arab xalifaligidan ilk mustaqil amirlik qaysi yilda tashkil topgan?",
+answers = {
+{text = "714-yilda", correct = false},
+{text = "756-yilda", correct = true},
+{text = "868-yilda", correct = false},
+{text = "1076-yilda", correct = false},
+}
+},
+{
+question = "Yevropadagi so'nggi islom davlati bo'lgan Granada amirligi qaysi yillar oralig'ida mavjud bo'lgan?",
+answers = {
+{text = "1076–1238-yillarda", correct = false},
+{text = "1137–1402-yillarda", correct = false},
+{text = "1238–1492-yillarda", correct = true},
+{text = "1300–1500-yillarda", correct = false},
+}
+},
+{
+question = "Poytaxti Pamplona bo'lgan Navarra davlati qaysi yillar oralig'ida mavjud bo'lgan?",
+answers = {
+{text = "868–1238-yillarda", correct = false},
+{text = "905–1512-yillarda", correct = true},
+{text = "1076–1469-yillarda", correct = false},
+{text = "1137–1402-yillarda", correct = false},
+}
+},
+{
+question = "Navarra davlatining birinchi qiroli kim bo'lgan?",
+answers = {
+{text = "Sancho Garsiya", correct = true},
+{text = "Alfonso X", correct = false},
+{text = "Afonso Enrikesh", correct = false},
+{text = "Ferdinand", correct = false},
+}
+},
+{
+question = "Yevropada toifa vakillarining ilk yig'ini bo'lgan kortesning birinchi yig'ilishi qaysi yilda va qayerda chaqirilgan?",
+answers = {
+{text = "1137-yilda Kastiliyada", correct = true},
+{text = "1265-yilda Angliyada", correct = false},
+{text = "1302-yilda Fransiyada", correct = false},
+{text = "1188-yilda Aragonda", correct = false},
+}
+},
+{
+question = "XIII asrda Rim huquqi asos qilib olingan \"Huquqning yetti bo'limi\" nomli qonunlar to'plamini qaysi qirol yaratgan?",
+answers = {
+{text = "Alfonso X", correct = true},
+{text = "Pedro I", correct = false},
+{text = "Ferdinand", correct = false},
+{text = "Genrix III de Trastamara", correct = false},
+}
+},
+{
+question = "Qirol Pedro I Yuz yillik urushda qaysi davlatning ittifoqchisi sifatida ishtirok etgan?",
+answers = {
+{text = "Fransiyaning", correct = false},
+{text = "Angliyaning", correct = true},
+{text = "Portugaliyaning", correct = false},
+{text = "Aragonning", correct = false},
+}
+},
+{
+question = "Aragonlik shahzoda Ferdinand va kastiliyalik malika Izabellaning turmush qurishi qaysi yilda bo'lib o'tgan?",
+answers = {
+{text = "1409-yilda", correct = false},
+{text = "1437-yilda", correct = false},
+{text = "1469-yilda", correct = true},
+{text = "1492-yilda", correct = false},
+}
+},
+{
+question = "Granada va Navarra amirliklari qaysi yillarda Ispaniyaga qo'shib olingan?",
+answers = {
+{text = "1469 va 1492-yillarda", correct = false},
+{text = "1492 va 1512-yillarda", correct = true},
+{text = "1512 va 1520-yillarda", correct = false},
+{text = "1450 va 1469-yillarda", correct = false},
+}
+},
+{
+question = "868-yilda Vimara Peresh boshchiligida qanday davlat tuzilgan bo'lib, u keyinchalik Portugaliyaga aylandi?",
+answers = {
+{text = "Portugaliya qirolligi", correct = false},
+{text = "Portugaliya grafligi", correct = true},
+{text = "Lissabon amirligi", correct = false},
+{text = "Koimbra knyazligi", correct = false},
+}
+},
+{
+question = "1139-yilda Portugaliyaning mustaqilligini e'lon qilib, uning birinchi qiroli bo'lgan hukmdor kim edi?",
+answers = {
+{text = "Qirol Dinish", correct = false},
+{text = "Qirol Sancho I", correct = false},
+{text = "Qirol Afonso Enrikesh", correct = true},
+{text = "Qirol Xuan I", correct = false},
+}
+},
+{
+question = "1225-yildan boshlab qaysi shahar Portugaliyaning poytaxtiga aylangan?",
+answers = {
+{text = "Porto", correct = false},
+{text = "Koimbra", correct = false},
+{text = "Lissabon", correct = true},
+{text = "Braga", correct = false},
+}
+},
+{
+question = "Portugaliya flotiga va Yevropadagi nufuzli Koimbra universitetiga qaysi qirol asos solgan?",
+answers = {
+{text = "Qirol Sancho I", correct = false},
+{text = "Qirol Afonso II", correct = false},
+{text = "Qirol Dinish", correct = true},
+{text = "Qirol Xuan I", correct = false},
+}
+},
+{
+question = "Portugaliyalik dengizchi Vasko da Gama Hindistonni qaysi yilda kashf etgan?",
+answers = {
+{text = "1492-yilda", correct = false},
+{text = "1498-yilda", correct = true},
+{text = "1500-yilda", correct = false},
+{text = "1512-yilda", correct = false},
+}
+},
+{
+question = "Ispan elchisi Rui Gonsales de Klavixo Amir Temur qarorgohi bo'lgan Samarqandga qaysi yilda yetib borgan?",
+answers = {
+{text = "1402-yil bahorida", correct = false},
+{text = "1403-yil may oyida", correct = false},
+{text = "1404-yil avgustda", correct = true},
+{text = "1406-yil mart oyida", correct = false},
+}
+},
+}
