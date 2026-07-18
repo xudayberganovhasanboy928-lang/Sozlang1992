@@ -1,0 +1,542 @@
+questions = {
+{
+question = "“Renessans” so‘zi qanday ma’noni anglatadi?",
+answers = {
+{text = "Tanazzul", correct = false},
+{text = "Uyg‘onish, qayta tiklanish", correct = true},
+{text = "Inqilob", correct = false},
+{text = "Qadimiylik", correct = false},
+}
+},
+{
+question = "Renessans davri qaysi mamlakatda boshlangan?",
+answers = {
+{text = "Fransiyada", correct = false},
+{text = "Germaniyada", correct = false},
+{text = "Italiyada", correct = true},
+{text = "Ispaniyada", correct = false},
+}
+},
+{
+question = "Ilk Uyg‘onish bosqichi qaysi yillarni o‘z ichiga oladi?",
+answers = {
+{text = "1420–1500-yillar", correct = true},
+{text = "1500–1527-yillar", correct = false},
+{text = "1530–1620-yillar", correct = false},
+{text = "1400–1450-yillar", correct = false},
+}
+},
+{
+question = "Rivojlangan Uyg‘onish bosqichi qaysi yillarni o‘z ichiga oladi?",
+answers = {
+{text = "1420–1500-yillar", correct = false},
+{text = "1500–1527-yillar", correct = true},
+{text = "1530–1620-yillar", correct = false},
+{text = "1450–1500-yillar", correct = false},
+}
+},
+{
+question = "So‘nggi Uyg‘onish bosqichi qaysi yillarni o‘z ichiga oladi?",
+answers = {
+{text = "1420–1500-yillar", correct = false},
+{text = "1500–1527-yillar", correct = false},
+{text = "1530–1620-yillar", correct = true},
+{text = "1600–1650-yillar", correct = false},
+}
+},
+{
+question = "Qaysi asrga kelib Italiyaning Florensiya, Genuya, Milan va Venetsiya kabi shaharlari savdo markazlariga aylangan?",
+answers = {
+{text = "O‘n ikkinchi asrga", correct = false},
+{text = "O‘n uchinchi asrga", correct = false},
+{text = "O‘n to‘rtinchi asrga", correct = true},
+{text = "O‘n beshinchi asrga", correct = false},
+}
+},
+{
+question = "Yangi madaniyatning dastlabki kurtaklari qaysi davrda namoyon bo‘la boshlagan?",
+answers = {
+{text = "O‘n ikkinchi asrning ikkinchi yarmi – o‘n uchinchi asr boshlarida", correct = false},
+{text = "O‘n uchinchi asrning ikkinchi yarmi – o‘n to‘rtinchi asr boshlarida", correct = true},
+{text = "O‘n to‘rtinchi asrning ikkinchi yarmi – o‘n beshinchi asr boshlarida", correct = false},
+{text = "O‘n beshinchi asrning ikkinchi yarmi – o‘n oltinchi asr boshlarida", correct = false},
+}
+},
+{
+question = "Insonparvarlik dunyoqarashini shakllantirish va rivojlantirishda qaysi mashhur shoir, faylasuf va olimlarning alohida o‘rni bor?",
+answers = {
+{text = "Leonardo da Vinchi va Mikelanjelo", correct = false},
+{text = "Dante Aligyeri, Franchesko Petrarka, Jovanni Bokkachcho, Koluchcho Salutati", correct = true},
+{text = "Nikolay Kopernik va Galileo Galiley", correct = false},
+{text = "Rafael Santi va Ticiano", correct = false},
+}
+},
+{
+question = "Dante Aligyeri o‘z asarlarini qaysi tilda yozgan?",
+answers = {
+{text = "Lotin tilida", correct = false},
+{text = "Yunon tilida", correct = false},
+{text = "Italyan tilida", correct = true},
+{text = "Fransuz tilida", correct = false},
+}
+},
+{
+question = "Uyg‘onish davri arxitekturasining asoschisi kim bo‘lgan?",
+answers = {
+{text = "Tommazo Mazachcho", correct = false},
+{text = "Filippo Brunelleski", correct = true},
+{text = "Andrea del Verrokkio", correct = false},
+{text = "Leonardo da Vinchi", correct = false},
+}
+},
+{
+question = "Filippo Brunelleski qaysi yillarda yashagan?",
+answers = {
+{text = "1367–1436", correct = false},
+{text = "1377–1446", correct = true},
+{text = "1387–1456", correct = false},
+{text = "1397–1466", correct = false},
+}
+},
+{
+question = "Filippo Brunelleski qaysi shahar vakili bo‘lgan?",
+answers = {
+{text = "Venetsiyalik", correct = false},
+{text = "Milanlik", correct = false},
+{text = "Florensiyalik", correct = true},
+{text = "Rimlik", correct = false},
+}
+},
+{
+question = "Filippo Brunelleskining eng mashhur ijod namunalaridan biri qaysi sobor gumbazi hisoblanadi?",
+answers = {
+{text = "Milan sobori", correct = false},
+{text = "Santa Mariya sobori", correct = true},
+{text = "Notr-Dam sobori", correct = false},
+{text = "Sen-Pyer sobori", correct = false},
+}
+},
+{
+question = "Ilk Uyg‘onish davrining birinchi rassomi kim hisoblanadi?",
+answers = {
+{text = "Sandro Bottichelli", correct = false},
+{text = "Tommazo Mazachcho", correct = true},
+{text = "Leonardo da Vinchi", correct = false},
+{text = "Andrea del Verrokkio", correct = false},
+}
+},
+{
+question = "Tommazo Mazachcho qaysi yillarda yashagan?",
+answers = {
+{text = "1391–1418", correct = false},
+{text = "1401–1428", correct = true},
+{text = "1411–1438", correct = false},
+{text = "1421–1448", correct = false},
+}
+},
+{
+question = "Tommazo Mazachchoning mashhur asari qanday nomlangan?",
+answers = {
+{text = "“Mona Liza”", correct = false},
+{text = "“Statir mo‘jizasi”", correct = true},
+{text = "“Iso Masihning tug‘ilishi”", correct = false},
+{text = "“Oxirgi kechki taom”", correct = false},
+}
+},
+{
+question = "Jovanni Santi (Rafael Santining otasi) qaysi shaharda ijod qilgan?",
+answers = {
+{text = "Ferrara", correct = false},
+{text = "Mantua", correct = false},
+{text = "Urbino", correct = true},
+{text = "Peruja", correct = false},
+}
+},
+{
+question = "Franchesko del Kossa qaysi shaharda mashhur bo‘lgan?",
+answers = {
+{text = "Ferrara", correct = true},
+{text = "Mantua", correct = false},
+{text = "Urbino", correct = false},
+{text = "Venetsiya", correct = false},
+}
+},
+{
+question = "Andrea Mantenya qaysi shaharda mashhur bo‘lgan?",
+answers = {
+{text = "Ferrara", correct = false},
+{text = "Mantua", correct = true},
+{text = "Peruja", correct = false},
+{text = "Venetsiya", correct = false},
+}
+},
+{
+question = "Pyetro Perujino qaysi shaharda mashhur bo‘lgan?",
+answers = {
+{text = "Ferrara", correct = false},
+{text = "Mantua", correct = false},
+{text = "Peruja", correct = true},
+{text = "Urbino", correct = false},
+}
+},
+{
+question = "Jovanni Bellini qaysi shaharda mashhur bo‘lgan?",
+answers = {
+{text = "Ferrara", correct = false},
+{text = "Mantua", correct = false},
+{text = "Peruja", correct = false},
+{text = "Venetsiya", correct = true},
+}
+},
+{
+question = "Andrea del Verrokkio qaysi yillarda yashagan?",
+answers = {
+{text = "1425–1478", correct = false},
+{text = "1435–1488", correct = true},
+{text = "1445–1498", correct = false},
+{text = "1455–1508", correct = false},
+}
+},
+{
+question = "Andrea del Verrokkioning ustaxonasida qaysi buyuk rassomlar san’at sirlarini o‘rgangan?",
+answers = {
+{text = "Rafael Santi va Ticiano", correct = false},
+{text = "Sandro Bottichelli, Pyetro Perujino va Leonardo da Vinchi", correct = true},
+{text = "Yan van Eyk va Albreht Dyurer", correct = false},
+{text = "Mikelanjelo va Donatello", correct = false},
+}
+},
+{
+question = "Andrea del Verrokkio tomonidan yaratilgan mashhur haykallar qatoriga qaysi asarlar kiradi?",
+answers = {
+{text = "“Mona Liza” va “Oxirgi kechki taom”", correct = false},
+{text = "“David”, “Iso Masih va avliyo Foma”, “Qo‘mondon Bartolomeo Kolleoni”", correct = true},
+{text = "“Pieta” va “Dovud”", correct = false},
+{text = "“Primavera” va “Venera tug‘ilishi”", correct = false},
+}
+},
+{
+question = "Andrea del Verrokkioning “Qo‘mondon Bartolomeo Kolleoni” nomli haykali qaysi shaharda o‘rnatilgan?",
+answers = {
+{text = "Florensiyada", correct = false},
+{text = "Rimda", correct = false},
+{text = "Milanda", correct = false},
+{text = "Venetsiyada", correct = true},
+}
+},
+{
+question = "Shimoliy Yevropada Uyg‘onish davrining yirik vakillaridan biri bo‘lgan rassom kim edi?",
+answers = {
+{text = "Sandro Bottichelli", correct = false},
+{text = "Yan van Eyk", correct = true},
+{text = "Tommazo Mazachcho", correct = false},
+{text = "Andrea Mantenya", correct = false},
+}
+},
+{
+question = "Yan van Eyk rasm san’atida qanday yangilik kiritdi?",
+answers = {
+{text = "Freska texnikasini ixtiro qildi", correct = false},
+{text = "Moybo‘yoqning yangi turlarini ishlab chiqdi", correct = true},
+{text = "Marmar haykaltaroshlikni rivojlantirdi", correct = false},
+{text = "Mozaika texnikasini takomillashtirdi", correct = false},
+}
+},
+{
+question = "Yan van Eyk Flandriyada yashovchi italiyalik tadbirkor uchun qaysi portretni chizgan?",
+answers = {
+{text = "“Mona Liza”", correct = false},
+{text = "“Jovanni Arnolfini”", correct = true},
+{text = "“Venera tug‘ilishi”", correct = false},
+{text = "“Sikstin Madonnasi”", correct = false},
+}
+},
+{
+question = "Uyg‘onish davrida Italiyada musiqa rivojiga hissa qo‘shgan mashhur bastakorlar kimlar edi?",
+answers = {
+{text = "Yan van Eyk va Xuan de Urrede", correct = false},
+{text = "Jovanni Ambrozio va Domeniko da Ferrara", correct = true},
+{text = "Filippo Brunelleski va Mazachcho", correct = false},
+{text = "Dante Aligyeri va Petrarka", correct = false},
+}
+},
+{
+question = "Uyg‘onish davrida Ispaniyada musiqa rivojiga hissa qo‘shgan mashhur san’atkor kim edi?",
+answers = {
+{text = "Domeniko da Ferrara", correct = false},
+{text = "Jovanni Ambrozio", correct = false},
+{text = "Xuan de Urrede", correct = true},
+{text = "Yan van Eyk", correct = false},
+}
+},
+{
+question = "O‘n uchinchi-o‘n beshinchi asrlarda qaysi shaharlarda mashhur rasadxonalar faoliyat yuritgan?",
+answers = {
+{text = "Bag‘dod, Qohira, Damashq", correct = false},
+{text = "Marog‘a, Samarqand, Istanbul", correct = true},
+{text = "Dehli, Lahor, Multon", correct = false},
+{text = "Buxoro, Xiva, Marv", correct = false},
+}
+},
+{
+question = "O‘n uchinchi asrda qaysi olim boshchiligidagi astronomiya maktabi Ptolemey nazariyasini inkor etgan?",
+answers = {
+{text = "Mirzo Ulug‘bek", correct = false},
+{text = "Nosiriddin at-Tusiy", correct = true},
+{text = "Abu Rayhon Beruniy", correct = false},
+{text = "Abu Ali ibn Sino", correct = false},
+}
+},
+{
+question = "Nosiriddin at-Tusiy boshchiligidagi astronomiya maktabi vakillari qatoriga kimlar kirgan?",
+answers = {
+{text = "Qutb Sheroziy, Muayyad al-Urdiy, Muhammad ash-Shotir", correct = true},
+{text = "Ibn Battuta va Mirzo Ulug‘bek", correct = false},
+{text = "Al-Xorazmiy va Al-Farg‘oniy", correct = false},
+{text = "Ibn Sino va Abu Bakr ar-Roziy", correct = false},
+}
+},
+{
+question = "Nosiriddin at-Tusiy boshchiligidagi olimlar Yerning o‘z o‘qi atrofida aylanishini Nikolay Kopernikdan necha yil oldin isbotlab bergan?",
+answers = {
+{text = "100 yil", correct = false},
+{text = "200 yil", correct = false},
+{text = "300 yil", correct = true},
+{text = "400 yil", correct = false},
+}
+},
+{
+question = "Nosiriddin at-Tusiy boshchiligidagi olimlarning kashfiyoti fanda qanday nom bilan mashhur bo‘ldi?",
+answers = {
+{text = "“Samarqand inqilobi”", correct = false},
+{text = "“Marog‘a inqilobi”", correct = true},
+{text = "“Bag‘dod uyg‘onishi”", correct = false},
+{text = "“Sharq falakiyoti”", correct = false},
+}
+},
+{
+question = "Arab sayyohi Ibn Battuta qaysi asrning birinchi yarmida Afrika, O‘rta Osiyo, Hindiston, Xitoy va Ispaniyaga sayohat qilgan?",
+answers = {
+{text = "O‘n ikkinchi asrning", correct = false},
+{text = "O‘n uchinchi asrning", correct = false},
+{text = "O‘n to‘rtinchi asrning", correct = true},
+{text = "O‘n beshinchi asrning", correct = false},
+}
+},
+{
+question = "Mirzo Ulug‘bek Samarqandda akademiya tashkil etganida uning tarkibida nimalar faoliyat yuritgan?",
+answers = {
+{text = "Faqat rasadxona", correct = false},
+{text = "Rasadxona, madrasa va boy kutubxona", correct = true},
+{text = "Faqat madrasa", correct = false},
+{text = "Faqat kutubxona", correct = false},
+}
+},
+{
+question = "Mirzo Ulug‘bek Samarqandda akademiyani qaysi asrda tashkil etgan?",
+answers = {
+{text = "O‘n ikkinchi asrda", correct = false},
+{text = "O‘n uchinchi asrda", correct = false},
+{text = "O‘n to‘rtinchi asrda", correct = true},
+{text = "O‘n beshinchi asrda", correct = false},
+}
+},
+{
+question = "O‘n beshinchi asrda Koreya qirollik akademiyasi qaysi hukmdor davrida tashkil etilgan?",
+answers = {
+{text = "Xubilayxon", correct = false},
+{text = "Sejong", correct = true},
+{text = "Buyuk Askiya", correct = false},
+{text = "Mansa Muso", correct = false},
+}
+},
+{
+question = "Koreys fonetik alifbosi nechta harfdan iborat bo‘lgan?",
+answers = {
+{text = "24 harfdan", correct = false},
+{text = "26 harfdan", correct = false},
+{text = "28 harfdan", correct = true},
+{text = "30 harfdan", correct = false},
+}
+},
+{
+question = "Qutb minor qaysi shaharda va qaysi asrda qurilgan?",
+answers = {
+{text = "Dehlida, o‘n uchinchi asrda", correct = true},
+{text = "Ko‘nyoda, o‘n uchinchi asrda", correct = false},
+{text = "Halabda, o‘n uchinchi asrda", correct = false},
+{text = "Pekinda, o‘n uchinchi asrda", correct = false},
+}
+},
+{
+question = "Sulton Xon karvonsaroyi qaysi shaharda joylashgan?",
+answers = {
+{text = "Dehlida", correct = false},
+{text = "Ko‘nyoda", correct = true},
+{text = "Halabda", correct = false},
+{text = "Shansida", correct = false},
+}
+},
+{
+question = "Al-Firdavs madrasasi qaysi shaharda joylashgan?",
+answers = {
+{text = "Dehlida", correct = false},
+{text = "Ko‘nyoda", correct = false},
+{text = "Halabda", correct = true},
+{text = "Pekinda", correct = false},
+}
+},
+{
+question = "Go‘ri Amir maqbarasi qaysi shaharda va qaysi asrda qurilgan?",
+answers = {
+{text = "Samarqandda, o‘n beshinchi asrda", correct = true},
+{text = "Turkistonda, o‘n beshinchi asrda", correct = false},
+{text = "Istanbulda, o‘n beshinchi asrda", correct = false},
+{text = "Buxoroda, o‘n beshinchi asrda", correct = false},
+}
+},
+{
+question = "Xo‘ja Ahmad Yassaviy maqbarasi qaysi shaharda joylashgan?",
+answers = {
+{text = "Samarqandda", correct = false},
+{text = "Turkistonda", correct = true},
+{text = "Buxoroda", correct = false},
+{text = "Xivada", correct = false},
+}
+},
+{
+question = "To‘pqopi saroyi qaysi shaharda va qaysi asrda qurilgan?",
+answers = {
+{text = "Istanbulda, o‘n beshinchi asrda", correct = true},
+{text = "Samarqandda, o‘n beshinchi asrda", correct = false},
+{text = "Qohirada, o‘n beshinchi asrda", correct = false},
+{text = "Bag‘dodda, o‘n beshinchi asrda", correct = false},
+}
+},
+{
+question = "Oltin pavilyon qaysi shaharda joylashgan?",
+answers = {
+{text = "Pekinda", correct = false},
+{text = "Kiotoda", correct = true},
+{text = "Seulda", correct = false},
+{text = "Tokioda", correct = false},
+}
+},
+{
+question = "Oltin pavilyon qaysi yili va kim tomonidan qurilgan?",
+answers = {
+{text = "1387-yili Sejong tomonidan", correct = false},
+{text = "1397-yili Asikaga Yoshimitsu tomonidan", correct = true},
+{text = "1407-yili Xubilayxon tomonidan", correct = false},
+{text = "1417-yili Chjan Xe tomonidan", correct = false},
+}
+},
+{
+question = "Buyuk Xitoy devorining bugungi kungacha saqlanib qolgan qismlari asosan qaysi sulola davrida qurilgan?",
+answers = {
+{text = "Yuan sulolasi davrida", correct = false},
+{text = "Min sulolasi davrida", correct = true},
+{text = "Tang sulolasi davrida", correct = false},
+{text = "Sung sulolasi davrida", correct = false},
+}
+},
+{
+question = "Min sulolasi qaysi yillar davomida hukmronlik qilgan?",
+answers = {
+{text = "1268–1544-yillarda", correct = false},
+{text = "1368–1644-yillarda", correct = true},
+{text = "1468–1744-yillarda", correct = false},
+{text = "1568–1844-yillarda", correct = false},
+}
+},
+{
+question = "O‘n uchinchi asrda Mali hukmdori Mansa Muso qanday soha rivojiga hissa qo‘shgan?",
+answers = {
+{text = "Dengiz savdosi", correct = false},
+{text = "Ta’lim va islom dinini yoyish", correct = true},
+{text = "Harbiy san’at", correct = false},
+{text = "Kulolchilik", correct = false},
+}
+},
+{
+question = "Songay hukmdori Buyuk Askiya qaysi dinni mustahkamlash yo‘lidan borgan?",
+answers = {
+{text = "Xristianlik dinini", correct = false},
+{text = "Islom dinini", correct = true},
+{text = "Iudaizm dinini", correct = false},
+{text = "Buddizm dinini", correct = false},
+}
+},
+{
+question = "Tombuktu shahridagi qaysi madrasa ayniqsa mashhur bo‘lgan?",
+answers = {
+{text = "Al-Firdavs madrasasi", correct = false},
+{text = "Sankore madrasasi", correct = true},
+{text = "Jenne madrasasi", correct = false},
+{text = "Qohira madrasasi", correct = false},
+}
+},
+{
+question = "Jenne shahridagi madrasa qaysi soha bo‘yicha markaz sifatida mashhur bo‘lgan?",
+answers = {
+{text = "Astronomiya", correct = false},
+{text = "Tibbiyot", correct = true},
+{text = "Huquqshunoslik", correct = false},
+{text = "Matematika", correct = false},
+}
+},
+{
+question = "Madrasani muvaffaqiyatli yakunlagan Afrika talabalari qanday buyum bilan taqdirlangan?",
+answers = {
+{text = "Qilich bilan", correct = false},
+{text = "Salla bilan", correct = true},
+{text = "Tasbeh bilan", correct = false},
+{text = "Medal bilan", correct = false},
+}
+},
+{
+question = "G‘arbiy Afrikada san’atning qaysi turi eng rivojlangan sohalardan biri bo‘lgan?",
+answers = {
+{text = "Kulolchilik", correct = false},
+{text = "To‘qimachilik", correct = false},
+{text = "Haykaltaroshlik", correct = true},
+{text = "Zargarlik", correct = false},
+}
+},
+{
+question = "Afrikalik haykaltaroshlar niqoblarni asosan qanday materialdan yasashgan?",
+answers = {
+{text = "Misdan", correct = false},
+{text = "Loydan", correct = false},
+{text = "Yog‘ochdan", correct = true},
+{text = "Toshdan", correct = false},
+}
+},
+{
+question = "Inklar Mayya taqvimiga o‘xshash o‘z taqvimlarini yaratib, uni nimalar uchun ishlatishgan?",
+answers = {
+{text = "Faqat harbiy yurishlar uchun", correct = false},
+{text = "Jang boshlash, marosim o‘tkazish, ekin ekish va yig‘ish uchun", correct = true},
+{text = "Faqat diniy bayramlar uchun", correct = false},
+{text = "Faqat qurbonlik marosimlari uchun", correct = false},
+}
+},
+{
+question = "Inklar tabobatda necha turdan ortiq o‘simlikni dori sifatida ishlatgan?",
+answers = {
+{text = "50 dan ortiq", correct = false},
+{text = "80 dan ortiq", correct = false},
+{text = "100 dan ortiq", correct = true},
+{text = "150 dan ortiq", correct = false},
+}
+},
+{
+question = "Inklar yozuv o‘rnida qanday tugunli xatlardan foydalanishgan?",
+answers = {
+{text = "Kechua", correct = false},
+{text = "Kipu", correct = true},
+{text = "Mita", correct = false},
+{text = "Chinampa", correct = false},
+}
+},
+}
