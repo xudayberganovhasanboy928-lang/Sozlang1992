@@ -1,0 +1,722 @@
+questions = {
+{
+question = "O‘rta asrlarda G‘arbiy Yevropada shifokorlar tayyorlaydigan birinchi tibbiyot maktabi qaysi asrda paydo bo‘lgan?",
+answers = {
+{text = "To‘qqizinchi asrda", correct = true},
+{text = "O‘n ikkinchi asrda", correct = false},
+{text = "O‘n uchinchi asrda", correct = false},
+{text = "O‘n to‘rtinchi asrda", correct = false},
+}
+},
+{
+question = "Salerno tibbiyot maktabi qaysi yilda universitet maqomini olgan?",
+answers = {
+{text = "1203-yilda", correct = false},
+{text = "1213-yilda", correct = true},
+{text = "1223-yilda", correct = false},
+{text = "1233-yilda", correct = false},
+}
+},
+{
+question = "Salerno tibbiyot maktabi qaysi mamlakatda joylashgan edi?",
+answers = {
+{text = "Fransiyada", correct = false},
+{text = "Angliyada", correct = false},
+{text = "Italiyada", correct = true},
+{text = "Ispaniyada", correct = false},
+}
+},
+{
+question = "“Kasalliklarni davolash to‘g‘risida” risolasi qaysi asrda Salernoda yozilgan?",
+answers = {
+{text = "O‘n birinchi asrda", correct = false},
+{text = "O‘n ikkinchi asrda", correct = true},
+{text = "O‘n uchinchi asrda", correct = false},
+{text = "O‘n to‘rtinchi asrda", correct = false},
+}
+},
+{
+question = "O‘rta asrlarda qaysi Sharq allomalarining asarlari lotin tiliga tarjima qilinib, Yevropa tibbiyotida foydalanila boshlangan?",
+answers = {
+{text = "Abu Rayhon Beruniy va Ahmad Farg‘oniy", correct = false},
+{text = "Abu Ali ibn Sino va Abu Bakr ar-Roziy", correct = true},
+{text = "Mirzo Ulug‘bek va Al-Xorazmiy", correct = false},
+{text = "Imom Buxoriy va Imom Termiziy", correct = false},
+}
+},
+{
+question = "Karantin so‘zi italyan tilida qanday ma’noni bildiradi?",
+answers = {
+{text = "Yigirma kun", correct = false},
+{text = "O‘ttiz kun", correct = false},
+{text = "Qirq kun", correct = true},
+{text = "Ellik kun", correct = false},
+}
+},
+{
+question = "Karantin birinchi marta qaysi asrda Italiyaning port shaharlarida joriy qilingan?",
+answers = {
+{text = "O‘n ikkinchi asrda", correct = false},
+{text = "O‘n uchinchi asrda", correct = false},
+{text = "O‘n to‘rtinchi asrda", correct = true},
+{text = "O‘n beshinchi asrda", correct = false},
+}
+},
+{
+question = "Necha yoshdan oshgan yigitlar ritsarlik unvoniga sazovor bo‘lishi mumkin edi?",
+answers = {
+{text = "O‘n to‘rt yoshdan", correct = false},
+{text = "O‘n olti yoshdan", correct = true},
+{text = "O‘n sakkiz yoshdan", correct = false},
+{text = "Yigirma yoshdan", correct = false},
+}
+},
+{
+question = "Zodagonlarning barcha mulklari va qasrlari jamlangan hudud qanday atalgan?",
+answers = {
+{text = "Fyef", correct = false},
+{text = "Manor", correct = true},
+{text = "Domen", correct = false},
+{text = "Feod", correct = false},
+}
+},
+{
+question = "O‘rta asr qal’a va qasrlarining birinchi qavatida odatda nima joylashgan edi?",
+answers = {
+{text = "Yotoqxonalar", correct = false},
+{text = "Oshxona va katta zal", correct = true},
+{text = "Xizmatkorlar xonasi", correct = false},
+{text = "Bazmlar zali", correct = false},
+}
+},
+{
+question = "Dehqonlar Yevropada odatda qaysi oylarda g‘alla yig‘ib olishgan?",
+answers = {
+{text = "Iyun va iyul oylarida", correct = false},
+{text = "Avgust va sentyabr oylarida", correct = true},
+{text = "Oktyabr va noyabr oylarida", correct = false},
+{text = "Fevral va mart oylarida", correct = false},
+}
+},
+{
+question = "O‘rta asrlarda faqat qirollik sulolasiga mansub kishilarga qanday kiyim-bezaklarni kiyishga ruxsat berilgan?",
+answers = {
+{text = "Zig‘ir matosidan tikilgan kiyimlar", correct = false},
+{text = "Oltin va kumush buyumlar hamda binafsha ipak", correct = true},
+{text = "Jun matodan tikilgan kiyimlar", correct = false},
+{text = "Faqat charm poyabzallar", correct = false},
+}
+},
+{
+question = "G‘arbiy Yevropada o‘rta asrlarda qaysi til rasmiy hujjatlar, cherkov xizmatlari va ibodatda foydalanilgan?",
+answers = {
+{text = "Yunon tili", correct = false},
+{text = "Lotin tili", correct = true},
+{text = "Fransuz tili", correct = false},
+{text = "Nemis tili", correct = false},
+}
+},
+{
+question = "Sharqiy Yevropa aholisi qaysi til guruhida so‘zlashgan?",
+answers = {
+{text = "Roman tillari guruhida", correct = false},
+{text = "German tillari guruhida", correct = false},
+{text = "Slavyan tillari guruhida", correct = true},
+{text = "Fin-ugor tillari guruhida", correct = false},
+}
+},
+{
+question = "O‘rta asrlar tibbiyotida malakali shifokorlar qaysi qadimgi mualliflarning asarlaridan xabardor bo‘lgan?",
+answers = {
+{text = "Aristotel va Suqrot", correct = false},
+{text = "Gippokrat va Galen", correct = true},
+{text = "Evklid va Pifagor", correct = false},
+{text = "Homer va Gerodot", correct = false},
+}
+},
+{
+question = "Frumentiy taomi asosan nimadan tayyorlangan?",
+answers = {
+{text = "Qaynatilgan javdardan", correct = false},
+{text = "Qaynatilgan bug‘doydan", correct = true},
+{text = "Qaynatilgan arpadan", correct = false},
+{text = "Qaynatilgan tariqdan", correct = false},
+}
+},
+{
+question = "Italiya savdogarlari qora o‘latni qaysi yili Kaffa shahridan Sitsiliya oroliga olib kelishdi?",
+answers = {
+{text = "1337-yilda", correct = false},
+{text = "1347-yilda", correct = true},
+{text = "1357-yilda", correct = false},
+{text = "1367-yilda", correct = false},
+}
+},
+{
+question = "Qora o‘lat (vabo) qaysi yil oxiriga kelib butun Yevropaga yoyilgan edi?",
+answers = {
+{text = "1348-yilda", correct = false},
+{text = "1349-yilda", correct = false},
+{text = "1350-yilda", correct = true},
+{text = "1351-yilda", correct = false},
+}
+},
+{
+question = "1347–1351-yillarda Yevropaning necha million aholisi mavjud bo‘lgan?",
+answers = {
+{text = "55 million", correct = false},
+{text = "65 million", correct = false},
+{text = "75 million", correct = true},
+{text = "85 million", correct = false},
+}
+},
+{
+question = "Qora o‘latdan so‘ng Yevropa aholisining tiklanishi uchun taxminan necha yil kerak bo‘lgan?",
+answers = {
+{text = "150 yil", correct = false},
+{text = "200 yil", correct = false},
+{text = "250 yil", correct = true},
+{text = "300 yil", correct = false},
+}
+},
+{
+question = "Vabo qaysi shahardan Sitsiliya oroliga olib kelingan?",
+answers = {
+{text = "Konstantinopoldan", correct = false},
+{text = "Kaffadan", correct = true},
+{text = "Genuyadan", correct = false},
+{text = "Venetsiyadan", correct = false},
+}
+},
+{
+question = "Hunarmandlar o‘z gildiyalarini qaysi asrdan boshlab tashkil qila boshlashgan?",
+answers = {
+{text = "To‘qqizinchi asrdan", correct = false},
+{text = "O‘ninchi asrdan", correct = false},
+{text = "O‘n birinchi asrdan", correct = true},
+{text = "O‘n ikkinchi asrdan", correct = false},
+}
+},
+{
+question = "O‘n uchinchi asrga kelib deyarli har bir hunarmandchilik sohasi bo‘yicha nima mavjud edi?",
+answers = {
+{text = "Fabrikalar", correct = false},
+{text = "Ixtisoslashgan gildiyalar", correct = true},
+{text = "Banklar", correct = false},
+{text = "Birjalar", correct = false},
+}
+},
+{
+question = "Hunarmandchilik gildiyalari qaysi asr o‘rtalarida jiddiy inqirozga yuz tuta boshladi?",
+answers = {
+{text = "O‘n uchinchi asr", correct = false},
+{text = "O‘n to‘rtinchi asr", correct = true},
+{text = "O‘n beshinchi asr", correct = false},
+{text = "O‘n oltinchi asr", correct = false},
+}
+},
+{
+question = "Yirik boylar dastlabki fabrikalarini qaysi asr boshlarida tashkil qila boshladilar?",
+answers = {
+{text = "O‘n to‘rtinchi asr", correct = false},
+{text = "O‘n beshinchi asr", correct = false},
+{text = "O‘n oltinchi asr", correct = true},
+{text = "O‘n yettinchi asr", correct = false},
+}
+},
+{
+question = "Yevropada yarmarkalar savdo va hunarmandchilikning rivojlanishi natijasida qaysi asrlarga kelib vujudga keldi?",
+answers = {
+{text = "Sakkizinchi-to‘qqizinchi asrlarga", correct = false},
+{text = "O‘ninchi-o‘n ikkinchi asrlarga", correct = true},
+{text = "O‘n uchinchi-o‘n to‘rtinchi asrlarga", correct = false},
+{text = "O‘n beshinchi-o‘n oltinchi asrlarga", correct = false},
+}
+},
+{
+question = "Eng yirik yarmarka bo‘lgan Shampan yarmarkasi qaysi asrlarda faoliyat yuritgan?",
+answers = {
+{text = "O‘n birinchi-o‘n ikkinchi asrlarda", correct = false},
+{text = "O‘n ikkinchi-o‘n to‘rtinchi asrlarda", correct = true},
+{text = "O‘n to‘rtinchi-o‘n beshinchi asrlarda", correct = false},
+{text = "O‘n beshinchi-o‘n oltinchi asrlarda", correct = false},
+}
+},
+{
+question = "Shampan yarmarkasi qaysi oyda boshlanib, keyingi yilning qaysi oyida tugagan?",
+answers = {
+{text = "Iyun oyida boshlanib, may oyida tugagan", correct = false},
+{text = "Iyul oyida boshlanib, iyun oyida tugagan", correct = true},
+{text = "Avgust oyida boshlanib, iyul oyida tugagan", correct = false},
+{text = "Sentyabr oyida boshlanib, avgust oyida tugagan", correct = false},
+}
+},
+{
+question = "Yevropadagi dastlabki zamonaviy ko‘rinishdagi bankka qaysi yili Italiyada asos solingan?",
+answers = {
+{text = "1397-yilda", correct = false},
+{text = "1407-yilda", correct = true},
+{text = "1417-yilda", correct = false},
+{text = "1427-yilda", correct = false},
+}
+},
+{
+question = "O‘n beshinchi asrda Germaniyada bank faoliyatiga ixtisoslashgan qaysi savdogar oilasi mashhur bo‘lgan?",
+answers = {
+{text = "Medichilar", correct = false},
+{text = "Fuggerlar", correct = true},
+{text = "Van der Burselar", correct = false},
+{text = "Jak Kyorlar", correct = false},
+}
+},
+{
+question = "Ilk birja qaysi shaharda Van der Burse oilasining uyi yonidagi maydonda bo‘lib o‘tgan?",
+answers = {
+{text = "Venetsiyada", correct = false},
+{text = "Genuyada", correct = false},
+{text = "Bryuggeda", correct = true},
+{text = "Londonda", correct = false},
+}
+},
+{
+question = "Birinchi birja qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1396-yilda", correct = false},
+{text = "1406-yilda", correct = true},
+{text = "1416-yilda", correct = false},
+{text = "1426-yilda", correct = false},
+}
+},
+{
+question = "Xitoyning Yuan sulolasi davrida Suy Yangchyuy boshchiligidagi savdo kemalari qaysi yili Fors ko‘rfaziga yuborilgan?",
+answers = {
+{text = "1297-yili", correct = false},
+{text = "1307-yili", correct = true},
+{text = "1317-yili", correct = false},
+{text = "1327-yili", correct = false},
+}
+},
+{
+question = "Van Dayuan rahbarligidagi savdo kemalari qaysi yili Arabiston yarimoroliga yuborilgan?",
+answers = {
+{text = "1324-yili", correct = false},
+{text = "1334-yili", correct = true},
+{text = "1344-yili", correct = false},
+{text = "1354-yili", correct = false},
+}
+},
+{
+question = "Min sulolasi davrida Chjan Xe necha marta dengiz safariga chiqqan?",
+answers = {
+{text = "Besh marta", correct = false},
+{text = "Olti marta", correct = false},
+{text = "Yetti marta", correct = true},
+{text = "Sakkiz marta", correct = false},
+}
+},
+{
+question = "Mali hukmdori Mansa Muso haj ziyoratiga ketayotib qaysi yili yo‘l-yo‘lakay oltin hadya qilib borgan?",
+answers = {
+{text = "1314-yili", correct = false},
+{text = "1324-yili", correct = true},
+{text = "1334-yili", correct = false},
+{text = "1344-yili", correct = false},
+}
+},
+{
+question = "Mansa Muso haj safari chog‘ida yo‘l-yo‘lakay necha pud oltin hadya qilgan?",
+answers = {
+{text = "200 pud", correct = false},
+{text = "300 pud", correct = true},
+{text = "400 pud", correct = false},
+{text = "500 pud", correct = false},
+}
+},
+{
+question = "Mansa Musoning shon-shuhratini tasvirlab, unga bo‘lgan taassurotni bayon qilgan tarixchi kim bo‘lgan?",
+answers = {
+{text = "Ibn Battuta", correct = false},
+{text = "Shihob al-Umariy", correct = true},
+{text = "Ibn Xaldun", correct = false},
+{text = "At-Tabariy", correct = false},
+}
+},
+{
+question = "Gana imperiyasi qaysi ikki daryo o‘rtasida joylashgan edi?",
+answers = {
+{text = "Nil va Kongo daryolari", correct = false},
+{text = "Niger va Senegal daryolari", correct = true},
+{text = "Zambezi va Limpopo daryolari", correct = false},
+{text = "Volta va Nayjer daryolari", correct = false},
+}
+},
+{
+question = "Gana mintaqasining eng qimmatli boyliklari nimalardan iborat edi?",
+answers = {
+{text = "Kumush va marjon", correct = false},
+{text = "Oltin va tuz", correct = true},
+{text = "Ipak va gazlama", correct = false},
+{text = "Timsoh terisi va fil suyagi", correct = false},
+}
+},
+{
+question = "G‘arbiy Afrikadagi eng yirik shaharlardan biri bo‘lgan Gana poytaxti qanday atalgan?",
+answers = {
+{text = "Tombuktu", correct = false},
+{text = "Jenne", correct = false},
+{text = "Kumbi Sale", correct = true},
+{text = "Gao", correct = false},
+}
+},
+{
+question = "Mansa Muso davrida qaysi shaharlar muhim savdo markazlari sifatida har tomonlama yuksaldi?",
+answers = {
+{text = "Kaffa, Sevilya va Kordova", correct = false},
+{text = "Tombuktu, Gao va Jenne", correct = true},
+{text = "Aleksandriya va Qohira", correct = false},
+{text = "Fes va Marokash", correct = false},
+}
+},
+{
+question = "Atsteklar poytaxti Tenochtitlan qayerda barpo etilgan edi?",
+answers = {
+{text = "Tog‘ etagida", correct = false},
+{text = "Katta orolda", correct = true},
+{text = "Cho‘l o‘rtasida", correct = false},
+{text = "Daryo bo‘yida", correct = false},
+}
+},
+{
+question = "Atsteklar dehqonchilik uchun ko‘proq yerga ega bo‘lish maqsadida qanday “suzuvchi dalalar”ni ixtiro qilishgan?",
+answers = {
+{text = "Terrasa", correct = false},
+{text = "Chinampa", correct = true},
+{text = "Kanal", correct = false},
+{text = "Akveduk", correct = false},
+}
+},
+{
+question = "Inklar davlatida fuqarolar soliq to‘lash o‘rniga qanday tizim orqali mehnat majburiyatini o‘tashgan?",
+answers = {
+{text = "Xarach tizimi", correct = false},
+{text = "Mita tizimi", correct = true},
+{text = "Jizya tizimi", correct = false},
+{text = "Tribut tizimi", correct = false},
+}
+},
+{
+question = "Inklar yashagan hududlarda eng baland tog‘larda yashovchi odamlar go‘sht va jun olish uchun qaysi hayvonlarni boqishgan?",
+answers = {
+{text = "Qo‘ylarni", correct = false},
+{text = "Lamalarni", correct = true},
+{text = "Yaklarni", correct = false},
+{text = "Tuyalarni", correct = false},
+}
+},
+{
+question = "Osiyo mamlakatlaridan Xitoy, Yaponiya va Usmoniy turklar qaysi sohada rivojlanib, iqtisodiy yuksalishga erishgan?",
+answers = {
+{text = "Quruqlik savdosida", correct = false},
+{text = "Dengiz savdosida", correct = true},
+{text = "Konchilikda", correct = false},
+{text = "Dehqonchilikda", correct = false},
+}
+},
+{
+question = "Mo‘g‘ullar bosqinidan so‘ng qaysi hudud shaharlarida ipak va shoyi matolar ishlab chiqarish qayta jonlandi?",
+answers = {
+{text = "Xitoy va Yaponiyada", correct = false},
+{text = "O‘rta Osiyo va Eronda", correct = true},
+{text = "Hindiston va Indoneziyada", correct = false},
+{text = "Afrika va Arabistonda", correct = false},
+}
+},
+{
+question = "Marko Polo qaysi shahar savdogari bo‘lgan?",
+answers = {
+{text = "Genuyalik", correct = false},
+{text = "Venetsiyalik", correct = true},
+{text = "Florensiyalik", correct = false},
+{text = "Milanlik", correct = false},
+}
+},
+{
+question = "Marko Poloni Xitoyda qaysi hukmdor iliq kutib olib, yuqori amaldorlik darajasiga ko‘targan?",
+answers = {
+{text = "Chingizxon", correct = false},
+{text = "Xubilayxon", correct = true},
+{text = "Temuchin", correct = false},
+{text = "Amir Temur", correct = false},
+}
+},
+{
+question = "Marko Polo umrining necha yildan ortiq davrini Osiyoda sayohat qilish bilan o‘tkazgan?",
+answers = {
+{text = "O‘n yildan", correct = false},
+{text = "O‘n besh yildan", correct = false},
+{text = "Yigirma yildan", correct = true},
+{text = "Yigirma besh yildan", correct = false},
+}
+},
+{
+question = "O‘rta asrlar maktablarida o‘qitilgan “Yetti erkin san’at”ning birinchi bosqichi trivium qanday fanlarni o‘z ichiga olgan?",
+answers = {
+{text = "Arifmetika, geometriya, astronomiya", correct = false},
+{text = "Grammatika, ritorika, dialektika", correct = true},
+{text = "Musiqa, falsafa va tarix", correct = false},
+{text = "Huquq, tibbiyot va ilohiyot", correct = false},
+}
+},
+{
+question = "“Yetti erkin san’at”ning ikkinchi bosqichi kvadriviumda qaysi fanlar o‘qitilgan?",
+answers = {
+{text = "Grammatika, ritorika, dialektika", correct = false},
+{text = "Arifmetika, geometriya, astronomiya va musiqa", correct = true},
+{text = "Falsafa, huquq va ilohiyot", correct = false},
+{text = "Tibbiyot, tarix va geografiya", correct = false},
+}
+},
+{
+question = "Angliyada qaysi ikki universitet tashkil etilgan edi?",
+answers = {
+{text = "London va Manchester", correct = false},
+{text = "Oksford va Kembrij", correct = true},
+{text = "York va Bristol", correct = false},
+{text = "Liverpul va Lids", correct = false},
+}
+},
+{
+question = "Yevropadagi eng katta oliy ta’lim muassasasi qanday atalgan?",
+answers = {
+{text = "Bolonya universiteti", correct = false},
+{text = "Oksford universiteti", correct = false},
+{text = "Sorbonna universiteti", correct = true},
+{text = "Salamanka universiteti", correct = false},
+}
+},
+{
+question = "Sorbonna universitetida nechta fakultet mavjud bo‘lgan?",
+answers = {
+{text = "Ikkita", correct = false},
+{text = "Uchta", correct = false},
+{text = "To‘rtta", correct = true},
+{text = "Beshta", correct = false},
+}
+},
+{
+question = "Sorbonna universitetida ilohiyotni o‘rganish kamida necha yil davom etgan?",
+answers = {
+{text = "Besh yil", correct = false},
+{text = "Olti yil", correct = false},
+{text = "Sakkiz yil", correct = true},
+{text = "O‘n yil", correct = false},
+}
+},
+{
+question = "Yevropada qaysi asrga kelib 80 ta universitet mavjud bo‘lgan?",
+answers = {
+{text = "O‘n uchinchi asrga", correct = false},
+{text = "O‘n to‘rtinchi asrga", correct = false},
+{text = "O‘n beshinchi asrga", correct = true},
+{text = "O‘n oltinchi asrga", correct = false},
+}
+},
+{
+question = "Qaysi shaharda tibbiyot fani eng yaxshi o‘rgatilgan?",
+answers = {
+{text = "Bolonyada", correct = false},
+{text = "Oksfordda", correct = false},
+{text = "Salernoda", correct = true},
+{text = "Sorbonnada", correct = false},
+}
+},
+{
+question = "Bolonya universitetida qaysi soha bo‘yicha eng yaxshi dars berilgan?",
+answers = {
+{text = "Tibbiyot", correct = false},
+{text = "Huquq", correct = true},
+{text = "Matematika", correct = false},
+{text = "Ilohiyot", correct = false},
+}
+},
+{
+question = "O‘n uchinchi asr o‘rtalarida Arastu falsafasi va xristianlik ta’limotini tadqiq qilib, ilohiyot asoslarini mustahkamlagan olim kim bo‘lgan?",
+answers = {
+{text = "Rojer Bekon", correct = false},
+{text = "Foma Akvinskiy", correct = true},
+{text = "Buyuk Albert", correct = false},
+{text = "Luka Pacholi", correct = false},
+}
+},
+{
+question = "Rojer Bekon tabiatda qanday hodisani o‘rganib, birinchi optik linzalarni yaratish tajribasini amalga oshirgan?",
+answers = {
+{text = "Elektr hodisasini", correct = false},
+{text = "Rang va yorug‘lik hodisasini", correct = true},
+{text = "Tortishish hodisasini", correct = false},
+{text = "Magnitizm hodisasini", correct = false},
+}
+},
+{
+question = "“Ilohiy nisbat to‘g‘risida” asarining muallifi bo‘lgan mashhur matematik kim edi?",
+answers = {
+{text = "Rojer Bekon", correct = false},
+{text = "Foma Akvinskiy", correct = false},
+{text = "Luka Pacholi", correct = true},
+{text = "Buyuk Albert", correct = false},
+}
+},
+{
+question = "Iogann Gutenberg bosma mashina va harf quyish dastgohini qaysi yili ixtiro qilgan?",
+answers = {
+{text = "1435-yili", correct = false},
+{text = "1445-yili", correct = true},
+{text = "1455-yili", correct = false},
+{text = "1465-yili", correct = false},
+}
+},
+{
+question = "X-XIII asrlar davomida qurilgan cherkovlar qanday uslubda bo‘lgan?",
+answers = {
+{text = "Gotika uslubida", correct = false},
+{text = "Roman uslubida", correct = true},
+{text = "Barokko uslubida", correct = false},
+{text = "Klassitsizm uslubida", correct = false},
+}
+},
+{
+question = "Gotika uslubi qaysi asrda paydo bo‘lgan?",
+answers = {
+{text = "O‘n birinchi asrda", correct = false},
+{text = "O‘n ikkinchi asrda", correct = true},
+{text = "O‘n uchinchi asrda", correct = false},
+{text = "O‘n to‘rtinchi asrda", correct = false},
+}
+},
+{
+question = "Gotika uslubi qaysi asrda mukammallikka erishgan?",
+answers = {
+{text = "O‘n ikkinchi asrda", correct = false},
+{text = "O‘n uchinchi asrda", correct = true},
+{text = "O‘n to‘rtinchi asrda", correct = false},
+{text = "O‘n beshinchi asrda", correct = false},
+}
+},
+{
+question = "Gotika uslubidagi minoralarning balandligi necha metrgacha yetgan?",
+answers = {
+{text = "100 metrgacha", correct = false},
+{text = "120 metrgacha", correct = false},
+{text = "150 metrgacha", correct = true},
+{text = "180 metrgacha", correct = false},
+}
+},
+{
+question = "Angliyada qaysi shaharlarning soborlari roman uslubidagi eng mashhur yodgorliklardan hisoblanadi?",
+answers = {
+{text = "London va Bristol", correct = false},
+{text = "Oksford va Vinchester", correct = true},
+{text = "Kembrij va York", correct = false},
+{text = "Manchester va Liverpul", correct = false},
+}
+},
+{
+question = "Fransiyada roman uslubidagi mashhur soborlar qaysi shaharlarda joylashgan?",
+answers = {
+{text = "Parij va Reyms", correct = false},
+{text = "Puatye, Arl va Tuluza", correct = true},
+{text = "Lan va Bar", correct = false},
+{text = "Lion va Marsel", correct = false},
+}
+},
+{
+question = "Germaniyada qaysi shaharlarning soborlari roman uslubidagi eng mashhur yodgorliklardan hisoblanadi?",
+answers = {
+{text = "Berlin va Myunxen", correct = false},
+{text = "Vorms va Mayns", correct = true},
+{text = "Kyoln va Drezden", correct = false},
+{text = "Gamburg va Frankfurt", correct = false},
+}
+},
+{
+question = "Birinchi g‘ishtli gotika ibodatxonasi qaysi asrda va qaysi shaharda qurilgan?",
+answers = {
+{text = "O‘n ikkinchi asrda Kyolnda", correct = false},
+{text = "O‘n uchinchi asrda Lyubekda", correct = true},
+{text = "O‘n to‘rtinchi asrda Berlinda", correct = false},
+{text = "O‘n beshinchi asrda Gamburgda", correct = false},
+}
+},
+{
+question = "Fransiyada gotika uslubida qurilgan qaysi soborlar eng mashhur yodgorliklar sirasiga kiradi?",
+answers = {
+{text = "Notr-Dam, Reyms va Shartr soborlari", correct = true},
+{text = "Milan sobori", correct = false},
+{text = "Vestminster abbatligi va Linkoln sobori", correct = false},
+{text = "Kyoln sobori", correct = false},
+}
+},
+{
+question = "Angliyada gotika uslubida qurilgan qaysi inshootlar mashhur yodgorliklar sirasiga kiradi?",
+answers = {
+{text = "Notr-Dam sobori", correct = false},
+{text = "Milan sobori", correct = false},
+{text = "Vestminster abbatligi va Linkoln sobori", correct = true},
+{text = "Reyms sobori", correct = false},
+}
+},
+{
+question = "Italiyada gotika uslubida qurilgan qaysi sobor mashhur yodgorliklar sirasiga kiradi?",
+answers = {
+{text = "Milan sobori", correct = true},
+{text = "Florensiya sobori", correct = false},
+{text = "Rim sobori", correct = false},
+{text = "Venetsiya sobori", correct = false},
+}
+},
+{
+question = "O‘n uchinchi asr boshlarida qurilgan Kusi qal’asining markaziy minorasi balandligi necha metr edi?",
+answers = {
+{text = "54 metr", correct = false},
+{text = "64 metr", correct = true},
+{text = "74 metr", correct = false},
+{text = "84 metr", correct = false},
+}
+},
+{
+question = "Kusi qal’asi devorlarining qalinligi necha metrga yetgan?",
+answers = {
+{text = "5 metrga", correct = false},
+{text = "6 metrga", correct = false},
+{text = "7 metrga", correct = true},
+{text = "8 metrga", correct = false},
+}
+},
+{
+question = "Parijdagi Shartr sobori necha mingdan ortiq haykallar va rasmlar bilan bezatilgan?",
+answers = {
+{text = "Sakkiz mingdan", correct = false},
+{text = "O‘n mingdan", correct = true},
+{text = "O‘n ikki mingdan", correct = false},
+{text = "O‘n besh mingdan", correct = false},
+}
+},
+{
+question = "Fransiyada shahar va qishloqlarni kezib yuruvchi sayyor aktyorlar qanday atalgan?",
+answers = {
+{text = "Shpilman", correct = false},
+{text = "Menestrel", correct = false},
+{text = "Jonglyor", correct = true},
+{text = "Truver", correct = false},
+}
+},
+{
+question = "Germaniyada sayyor aktyorlar qanday atalgan?",
+answers = {
+{text = "Jonglyor", correct = false},
+{text = "Menestrel", correct = false},
+{text = "Shpilman", correct = true},
+{text = "Truver", correct = false},
+}
+},
+}
