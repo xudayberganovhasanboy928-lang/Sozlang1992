@@ -1,0 +1,739 @@
+-- MAVZU 16: Mang'itlar davrida ilm-fan va madaniyat
+questions = {
+{
+question = "Ingliz olimi I. Nyuton qaysi yillarda yashagan?",
+answers = {
+{text = "1600-1670-yillarda", correct = false},
+{text = "1643-1727-yillarda", correct = true},
+{text = "1646-1716-yillarda", correct = false},
+{text = "1700-1760-yillarda", correct = false},
+}
+},
+{
+question = "Nemis olimi G. V. Leybnis qaysi yillarda yashagan?",
+answers = {
+{text = "1600-1670-yillarda", correct = false},
+{text = "1643-1727-yillarda", correct = false},
+{text = "1646-1716-yillarda", correct = true},
+{text = "1700-1760-yillarda", correct = false},
+}
+},
+{
+question = "I. Nyuton uchun fan necha yoshida asosiy mashg'ulotga aylangan?",
+answers = {
+{text = "10 yoshida", correct = false},
+{text = "12 yoshida", correct = false},
+{text = "14 yoshida", correct = true},
+{text = "16 yoshida", correct = false},
+}
+},
+{
+question = "I. Nyuton shisha linzali kichkina oynali teleskopni qaysi yilda ixtiro qilgan?",
+answers = {
+{text = "1643-yilda", correct = false},
+{text = "1660-yilda", correct = false},
+{text = "1671-yilda", correct = true},
+{text = "1700-yilda", correct = false},
+}
+},
+{
+question = "I. Nyuton necha yoshga to'lmasdan Qirollik jamiyati a'zosi (akademik) etib saylangan?",
+answers = {
+{text = "25 yoshga", correct = false},
+{text = "30 yoshga", correct = true},
+{text = "35 yoshga", correct = false},
+{text = "40 yoshga", correct = false},
+}
+},
+{
+question = "XIX asrning birinchi yarmida poytaxt Buxoroda ko'chalar soniga mos ravishda nechta masjid faoliyat ko'rsatgan?",
+answers = {
+{text = "150 ta", correct = false},
+{text = "250 ta", correct = false},
+{text = "360 ta", correct = true},
+{text = "500 ta", correct = false},
+}
+},
+{
+question = "Buxoro amiri Shohmurod qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1756-1785-yillarda", correct = false},
+{text = "1785-1800-yillarda", correct = true},
+{text = "1800-1826-yillarda", correct = false},
+{text = "1826-1842-yillarda", correct = false},
+}
+},
+{
+question = "Amir Haydar qaysi yillarda Buxoro amirligini boshqargan?",
+answers = {
+{text = "1785-1800-yillarda", correct = false},
+{text = "1800-1826-yillarda", correct = true},
+{text = "1826-1842-yillarda", correct = false},
+{text = "1842-1860-yillarda", correct = false},
+}
+},
+{
+question = "Amir Shohmurod Mir Arab madrasasining bitta hujrasida kecha-kunduz riyozat chekib ilm olgani uchun xalq orasida qanday nom bilan tanilgan?",
+answers = {
+{text = "\u{201C}Amiri Ma'sum\u{201D}", correct = false},
+{text = "\u{201C}Amiri Jannatmakon\u{201D}", correct = true},
+{text = "\u{201C}Amiri Odil\u{201D}", correct = false},
+{text = "\u{201C}Amiri Sohib\u{201D}", correct = false},
+}
+},
+{
+question = "Amir Shohmurod Samarqandni qayta qurish jarayonida shaharda nechta yangi mavze qurdirgan?",
+answers = {
+{text = "12 ta", correct = false},
+{text = "18 ta", correct = false},
+{text = "24 ta", correct = true},
+{text = "30 ta", correct = false},
+}
+},
+{
+question = "Buxorodagi Xalifa Xudoydod majmuasi qaysi yillarda Shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy tomonidan qurilgan?",
+answers = {
+{text = "1740-1785-yillarda", correct = false},
+{text = "1777-1855-yillarda", correct = true},
+{text = "1800-1850-yillarda", correct = false},
+{text = "1826-1870-yillarda", correct = false},
+}
+},
+{
+question = "Xalifa Xudoydod Amir Shohmurod davrida Buxoro shahridan yer sotib olib, xonaqoh va madrasani qaysi yilda qurdirgan?",
+answers = {
+{text = "1777-yilda", correct = false},
+{text = "1785-yilda", correct = false},
+{text = "1786-yilda", correct = true},
+{text = "1800-yilda", correct = false},
+}
+},
+{
+question = "Xalifa Xudoydod majmuasida nechta bir qavatli hujra qurilgan?",
+answers = {
+{text = "25 ta", correct = false},
+{text = "39 ta", correct = true},
+{text = "45 ta", correct = false},
+{text = "50 ta", correct = false},
+}
+},
+{
+question = "Xalifa Xudoydod majmuasidagi madrasada necha nafar talaba tahsil olgan?",
+answers = {
+{text = "50-100 talaba", correct = false},
+{text = "150-200 talaba", correct = true},
+{text = "250-300 talaba", correct = false},
+{text = "100-150 talaba", correct = false},
+}
+},
+{
+question = "Amir Shohmurod Samarqand shahri markazida bunyod ettirgan olti qirrali Chorsu o'sha davrda qanday nomlangan?",
+answers = {
+{text = "Toqi Zargaron", correct = false},
+{text = "Toqi Sarrofon", correct = false},
+{text = "Toqi musaddas", correct = true},
+{text = "Toqi telpakfurushon", correct = false},
+}
+},
+{
+question = "Buxorodagi Chor Minor me'moriy yodgorligi qaysi yilda YUNESKOning \u{201C}Butunjahon madaniy yodgorliklari\u{201D} ro'yxatiga kiritilgan?",
+answers = {
+{text = "1985-yilda", correct = false},
+{text = "1990-yilda", correct = false},
+{text = "1995-yilda", correct = true},
+{text = "2000-yilda", correct = false},
+}
+},
+}
+
+-- MAVZU 17: Xiva xonligining tashkil topishi
+questions = {
+{
+question = "Muhammad Shayboniyxon Urganchni egallab, Xorazmda temuriylar sulolasi boshqaruviga qaysi yilda chek qo'ygan?",
+answers = {
+{text = "1500-yilda", correct = false},
+{text = "1503-yilda", correct = false},
+{text = "1505-yilda", correct = true},
+{text = "1510-yilda", correct = false},
+}
+},
+{
+question = "Xorazmni safaviylar qaysi yilda bosib olgan?",
+answers = {
+{text = "1505-yilda", correct = false},
+{text = "1508-yilda", correct = false},
+{text = "1510-yilda", correct = true},
+{text = "1511-yilda", correct = false},
+}
+},
+{
+question = "1511-yilda Xorazmda safaviylarga qarshi boshlangan xalq harakatiga Vazir shahrining qozisi sifatida kim boshchilik qilgan?",
+answers = {
+{text = "Elbarsxon", correct = false},
+{text = "Umar Shayx", correct = true},
+{text = "Berka sulton", correct = false},
+{text = "Dinmuhammad sulton", correct = false},
+}
+},
+{
+question = "Xorazm taxtiga taklif qilinib, arabshohiylar sulolasiga asos solgan xon kim bo'lgan?",
+answers = {
+{text = "Abdulazizxon", correct = false},
+{text = "Elbarsxon", correct = true},
+{text = "Arab Muhammadxon", correct = false},
+{text = "Ubaydullaxon", correct = false},
+}
+},
+{
+question = "Xorazmda arabshohiylar sulolasining hukmronligi qaysi yilda boshlangan?",
+answers = {
+{text = "1505-yilda", correct = false},
+{text = "1510-yilda", correct = false},
+{text = "1511-yilda", correct = true},
+{text = "1538-yilda", correct = false},
+}
+},
+{
+question = "Elbarsxon vafotidan keyin Dinmuhammad sulton Ubaydullaxonning o'g'li Abdulazizni o'z yurtiga qochishga qaysi yilda majbur qilgan?",
+answers = {
+{text = "1511-yilda", correct = false},
+{text = "1530-yilda", correct = false},
+{text = "1538-yilda", correct = true},
+{text = "1558-yilda", correct = false},
+}
+},
+{
+question = "Shayboniylardan Abdullaxon ikkinchi Urganchni qaysi yilda bo'ysundirishga erishgan?",
+answers = {
+{text = "1558-yilda", correct = false},
+{text = "1575-yilda", correct = true},
+{text = "1593-yilda", correct = false},
+{text = "1598-yilda", correct = false},
+}
+},
+{
+question = "Abdullaxon ikkinchi butun Xorazmni qaysi yilda bo'ysundirishga erishgan?",
+answers = {
+{text = "1575-yilda", correct = false},
+{text = "1585-yilda", correct = false},
+{text = "1593-yilda", correct = true},
+{text = "1598-yilda", correct = false},
+}
+},
+{
+question = "Arabshohiylar Xorazmda hokimiyatni Abdullaxon ikkinchining vafotidan keyin qaysi yilda qayta qo'lga olgan?",
+answers = {
+{text = "1593-yilda", correct = false},
+{text = "1598-yilda", correct = true},
+{text = "1601-yilda", correct = false},
+{text = "1611-yilda", correct = false},
+}
+},
+{
+question = "Eron shohi Nodirshohning Xorazmga hujumi qaysi yillarda bo'lib, mamlakat vaziyatini og'irlashtirgan?",
+answers = {
+{text = "1710-1721-yillarda", correct = false},
+{text = "1739-1740-yillarda", correct = true},
+{text = "1762-yilda", correct = false},
+{text = "1770-yilda", correct = false},
+}
+},
+{
+question = "Qo'ng'irot qabilasi yetakchisi Muhammad Amin inoq qaysi yildan buyon otaliq lavozimini egallab kelgan?",
+answers = {
+{text = "1740-yildan", correct = false},
+{text = "1758-yildan", correct = false},
+{text = "1762-yildan", correct = true},
+{text = "1770-yildan", correct = false},
+}
+},
+{
+question = "Muhammad Amin inoq raqiblarini yengib, hokimiyatni uzil-kesil qaysi yilda o'z qo'liga olgan?",
+answers = {
+{text = "1762-yilda", correct = false},
+{text = "1765-yilda", correct = false},
+{text = "1770-yilda", correct = true},
+{text = "1780-yilda", correct = false},
+}
+},
+{
+question = "Arabshohiylar sulolasi Xorazmda qaysi yillar oralig'ida hukmronlik qilgan?",
+answers = {
+{text = "1500-1601-yillarda", correct = false},
+{text = "1511-1770-yillarda", correct = true},
+{text = "1601-1756-yillarda", correct = false},
+{text = "1770-1920-yillarda", correct = false},
+}
+},
+{
+question = "Arabshohiylar sulolasi nomi kimning \u{201C}Arabshoh\u{201D} avlodidan ekanligi bilan bog'liq?",
+answers = {
+{text = "Ubaydullaxonning", correct = false},
+{text = "Elbarsxonning", correct = true},
+{text = "Abdullaxon ikkinchining", correct = false},
+{text = "Arab Muhammadxonning", correct = false},
+}
+},
+{
+question = "Arabshohning shajarasi Jo'jixonning nechanchi o'g'li Shaybonga borib taqaladi?",
+answers = {
+{text = "Uchinchi o'g'li", correct = false},
+{text = "To'rtinchi o'g'li", correct = false},
+{text = "Beshinchi o'g'li", correct = true},
+{text = "Oltinchi o'g'li", correct = false},
+}
+},
+{
+question = "O'rta Osiyoda tashkil topgan ikkinchi o'zbek davlati qanday nomlangan?",
+answers = {
+{text = "Buxoro xonligi", correct = false},
+{text = "Xiva xonligi", correct = true},
+{text = "Qo'qon xonligi", correct = false},
+{text = "Qozoq xonligi", correct = false},
+}
+},
+}
+
+-- MAVZU 18: Qo'ng'irotlar davrida tashqi siyosat
+questions = {
+{
+question = "Pyotr I harbiy kuchlarini birinchilardan bo'lib qarshi olgan Xiva xoni kim bo'lgan?",
+answers = {
+{text = "Elbarsxon", correct = false},
+{text = "Arab Muhammadxon", correct = false},
+{text = "Sherg'ozixon", correct = true},
+{text = "Muhammad Aminxon", correct = false},
+}
+},
+{
+question = "Pyotr I topshirig'i bilan Aleksandr Bekovich-Cherkasskiy boshchiligidagi qurolli yurish qaysi yillarda uyushtirilgan?",
+answers = {
+{text = "1710-1712-yillarda", correct = false},
+{text = "1714-1717-yillarda", correct = true},
+{text = "1719-1726-yillarda", correct = false},
+{text = "1739-1740-yillarda", correct = false},
+}
+},
+{
+question = "Bekovich-Cherkasskiy boshchiligidagi qurolli yurish nechta askardan iborat bo'lgan?",
+answers = {
+{text = "3000 askardan", correct = false},
+{text = "5000 askardan", correct = false},
+{text = "6000 askardan", correct = true},
+{text = "8000 askardan", correct = false},
+}
+},
+{
+question = "XVI-XIX asrlar davomida Xivadan Rossiyaga necha marta elchilik yuborilgan?",
+answers = {
+{text = "30 marta", correct = false},
+{text = "40 marta", correct = false},
+{text = "50 marta", correct = true},
+{text = "60 marta", correct = false},
+}
+},
+{
+question = "Rossiyadan Turkistonning siyosiy markazlariga necha ta elchilik yuborilgan?",
+answers = {
+{text = "10 ta", correct = false},
+{text = "12 ta", correct = false},
+{text = "17 ta", correct = true},
+{text = "25 ta", correct = false},
+}
+},
+{
+question = "Abulg'oziy Bahodirxonning otasi Arab Muhammad sultonning Xorazmda xonlik qilgan davri qaysi yillarni o'z ichiga olgan?",
+answers = {
+{text = "1580-1600-yillarni", correct = false},
+{text = "1603-1623-yillarni", correct = true},
+{text = "1623-1645-yillarni", correct = false},
+{text = "1645-1663-yillarni", correct = false},
+}
+},
+{
+question = "Ming nafardan iborat Yoyiq kazak otliqlari Xorazmning qaysi qal'asiga yetib kelib, uni talon-toroj qilgan?",
+answers = {
+{text = "Xiva qal'asiga", correct = false},
+{text = "Vazir qal'asiga", correct = false},
+{text = "Urganch (Ko'hna Urganch) qal'asiga", correct = true},
+{text = "Hazorasp qal'asiga", correct = false},
+}
+},
+{
+question = "1795-1925-yillarda Eronni boshqargan turkiy sulola qanday nomlangan?",
+answers = {
+{text = "Safaviylar", correct = false},
+{text = "Qojarlar", correct = true},
+{text = "Afshoriylar", correct = false},
+{text = "Zandiylar", correct = false},
+}
+},
+{
+question = "1812-1852-yillar oralig'ida Qo'ng'irot xonlari va Eron o'rtasidagi elchilik aloqalari asosan qanday masalalarga qaratilgan bo'lgan?",
+answers = {
+{text = "Savdo yo'llarini rivojlantirishga", correct = false},
+{text = "Asirlarni ozod qilish va qul savdosini to'xtatishga", correct = true},
+{text = "Harbiy ittifoq tuzishga", correct = false},
+{text = "Chegara masalalarini hal qilishga", correct = false},
+}
+},
+{
+question = "1824-yilda rus hukumati tomonidan qaysi qozoq juzidagi xon boshqaruvi tugatilgan?",
+answers = {
+{text = "Katta qozoq juzida", correct = false},
+{text = "O'rta qozoq juzida", correct = false},
+{text = "Kichik qozoq juzida", correct = true},
+{text = "Barcha juzlarda", correct = false},
+}
+},
+{
+question = "Rus asirlarini ozod qilish bo'yicha bir qator muvaffaqiyatsiz muzokaralar qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1812-1824-yillarda", correct = false},
+{text = "1824-1837-yillarda", correct = false},
+{text = "1837-1838-yillarda", correct = true},
+{text = "1839-1842-yillarda", correct = false},
+}
+},
+{
+question = "V. Perovskiy boshchiligidagi 5 ming kishilik harbiy qo'shin Xivaga qaysi yilning kuzida yuborilgan?",
+answers = {
+{text = "1837-yil kuzida", correct = false},
+{text = "1838-yil kuzida", correct = false},
+{text = "1839-yil kuzida", correct = true},
+{text = "1842-yil kuzida", correct = false},
+}
+},
+{
+question = "V. Perovskiy boshchiligidagi harbiy qo'shin qaysi shahardan Xivaga yuborilgan?",
+answers = {
+{text = "Sankt-Peterburgdan", correct = false},
+{text = "Moskvadan", correct = false},
+{text = "Orenburgdan", correct = true},
+{text = "Ashtarxondan", correct = false},
+}
+},
+{
+question = "Xiva va Rossiya davlati o'rtasidagi muzokaralar asosan qanday savdo shaklini yo'lga qo'yishga qaratilgan edi?",
+answers = {
+{text = "Bojli savdoni", correct = false},
+{text = "Bojsiz savdoni", correct = true},
+{text = "Barter savdosini", correct = false},
+{text = "Elchilik savdosini", correct = false},
+}
+},
+{
+question = "Rossiya va Turkiston orasidagi hududlarda o'zaro savdoni rivojlantirish uchun qanday muammoni tugatish masalasiga alohida e'tibor qaratilgan?",
+answers = {
+{text = "Ochlik muammosini", correct = false},
+{text = "Qaroqchilikni", correct = true},
+{text = "Yo'l muammosini", correct = false},
+{text = "Til to'sig'ini", correct = false},
+}
+},
+{
+question = "Xorazm bilan Eron o'rtasidagi iliq munosabatlar qaysi hukmdorning Turkistonga uyushtirgan yurishlari oqibatida buzilgan?",
+answers = {
+{text = "Shoh Abbosning", correct = false},
+{text = "Nodirshohning", correct = true},
+{text = "Shoh Ismoilning", correct = false},
+{text = "Ag'a Muhammad Qojarning", correct = false},
+}
+},
+}
+
+-- MAVZU 19: Qo'ng'irotlar davrida ijtimoiy-iqtisodiy hayot
+questions = {
+{
+question = "Ma'lumotlarga ko'ra, o'zlashtirilgan yerlarning necha foizi xonlikning janubiy qismiga to'g'ri kelgan?",
+answers = {
+{text = "75 foizi", correct = false},
+{text = "85 foizi", correct = false},
+{text = "93 foizi", correct = true},
+{text = "60 foizi", correct = false},
+}
+},
+{
+question = "XVII asrda Balxda (Afg'oniston) meva va sabzavot navini yaxshilash maqsadida Xorazmda yetishtirilgan qaysi qovun navidan foydalanilgan?",
+answers = {
+{text = "Ko'ktarnay navidan", correct = true},
+{text = "Gurvak navidan", correct = false},
+{text = "Amiri navidan", correct = false},
+{text = "Xandalak navidan", correct = false},
+}
+},
+{
+question = "Xorazm dehqonchiligida qaysi ot zoti chavandozlikda, qaysi zoti ishchi kuchi sifatida foydalanilgan?",
+answers = {
+{text = "Turkman oti chavandozlikda, qozoq oti ishchi kuchi sifatida", correct = true},
+{text = "Qozoq oti chavandozlikda, turkman oti ishchi kuchi sifatida", correct = false},
+{text = "Ikkalasi ham faqat chavandozlikda", correct = false},
+{text = "Ikkalasi ham faqat ishchi kuchi sifatida", correct = false},
+}
+},
+{
+question = "\u{201C}Xiva mevalari shu qadar yaxshiki, ularga o'xshashini nafaqat Eron va Turkiyada, balki butun Yevropada ham topish qiyin\u{201D}, deb yozgan muallif kim bo'lgan?",
+answers = {
+{text = "Antoni Jenkinson", correct = false},
+{text = "Arminiy Vamberi", correct = true},
+{text = "A. Byorns", correct = false},
+{text = "V. Perovskiy", correct = false},
+}
+},
+{
+question = "Xonlikning bosh mirobi lavozimida ishlagan, shoir, tarixnavis, tarjimon, xattot va ma'rifatparvar kim bo'lgan?",
+answers = {
+{text = "Ogahiy", correct = false},
+{text = "Munis Xorazmiy", correct = true},
+{text = "Yusufbek Bayoniy", correct = false},
+{text = "Ajiniyoz", correct = false},
+}
+},
+{
+question = "Munis Xorazmiy \u{201C}Firdavs ul-iqbol\u{201D} tarixiy asarini kimning taklifi bilan yozishga kirishgan?",
+answers = {
+{text = "Muhammad Aminxonning taklifi bilan", correct = false},
+{text = "Olloqulixonning taklifi bilan", correct = false},
+{text = "Eltuzarxonning taklifi bilan", correct = true},
+{text = "Arab Muhammadxonning taklifi bilan", correct = false},
+}
+},
+{
+question = "Munis vafot etganidan so'ng \u{201C}Firdavs ul-iqbol\u{201D} asarini kim yakunlagan?",
+answers = {
+{text = "Yusufbek Bayoniy", correct = false},
+{text = "Ogahiy", correct = true},
+{text = "Ajiniyoz", correct = false},
+{text = "Berdaq", correct = false},
+}
+},
+{
+question = "Ogahiyning to'liq ismi nima bo'lgan?",
+answers = {
+{text = "Muhammadrizo Erniyozbek o'g'li", correct = true},
+{text = "Berdimurod Qarg'aboy o'g'li", correct = false},
+{text = "Yusufbek Bayoniy", correct = false},
+{text = "Ajiniyoz Qo'siboy o'g'li", correct = false},
+}
+},
+{
+question = "Munis sug'orish inshootlari va yer-suv munosabatlariga doir qanday nomdagi risola yozgan?",
+answers = {
+{text = "\u{201C}Shajarayi turk\u{201D}", correct = false},
+{text = "\u{201C}Arnalar\u{201D}", correct = true},
+{text = "\u{201C}Shohidi iqbol\u{201D}", correct = false},
+{text = "\u{201C}Firdavs ul-iqbol\u{201D}", correct = false},
+}
+},
+{
+question = "Xorazm o'lkasida maktablarda bolalar necha yoshidan ta'lim olishni boshlagan?",
+answers = {
+{text = "4 yoshdan (ba'zan 3 yoshdan)", correct = false},
+{text = "6 yoshdan (ba'zan 5 yoshdan)", correct = true},
+{text = "8 yoshdan (ba'zan 7 yoshdan)", correct = false},
+{text = "10 yoshdan", correct = false},
+}
+},
+{
+question = "Xorazm o'lkasida maktab ta'limi necha yoshgacha davom etgan?",
+answers = {
+{text = "10-11 yoshgacha", correct = false},
+{text = "12-13 yoshgacha", correct = false},
+{text = "15-16 yoshgacha", correct = true},
+{text = "18-19 yoshgacha", correct = false},
+}
+},
+{
+question = "Xiva xonligida egalik shakliga ko'ra yerlar qanday turlarga bo'lingan?",
+answers = {
+{text = "Davlat yerlari, xususiy yerlar va vaqf yerlari", correct = true},
+{text = "Faqat davlat yerlari va vaqf yerlari", correct = false},
+{text = "Suyurg'ol, tiul va iqto yerlari", correct = false},
+{text = "Amlok va mulki huri xolis yerlari", correct = false},
+}
+},
+{
+question = "Hukmdorga qarashli, hali o'zlashtirilmagan davlat yerlari hujjatlarda qanday atamalar bilan tilga olingan?",
+answers = {
+{text = "\u{201C}Zamini xos\u{201D}, \u{201C}mulki huri xolis\u{201D}", correct = false},
+{text = "\u{201C}Zamini maita\u{201D}, \u{201C}bekor yer\u{201D}, \u{201C}bo'z yerlar\u{201D}", correct = true},
+{text = "\u{201C}Zamini matruka\u{201D}, \u{201C}vaqf yeri\u{201D}", correct = false},
+{text = "\u{201C}Suyurg'ol\u{201D}, \u{201C}tanho\u{201D}", correct = false},
+}
+},
+{
+question = "Shariatga ko'ra, vorisi bo'lmagan vafot etgan shaxsning yeri meros tariqasida kimga o'tgan?",
+answers = {
+{text = "Qo'shni dehqonlarga", correct = false},
+{text = "Xalifa yoki uning noibi - sulton, amir, xonga", correct = true},
+{text = "Mahalla jamoasiga", correct = false},
+{text = "Vaqf muassasalariga", correct = false},
+}
+},
+{
+question = "XVIII asrning ikkinchi yarmiga kelib davlat yer jamg'armasi qanday sabab bilan kengaygan?",
+answers = {
+{text = "Yangi yerlarni harbiy bosqin orqali egallash hisobiga", correct = false},
+{text = "Qo'ng'irotlar hokimiyatiga qarshi muxolif kuchlarning bartaraf etilishi va ularga tegishli mulklarning musodara qilinishi hisobiga", correct = true},
+{text = "Vaqf yerlarining davlat foydasiga o'tkazilishi hisobiga", correct = false},
+{text = "Xorijiy davlatlar bilan yer almashinuvi hisobiga", correct = false},
+}
+},
+{
+question = "Xonlikning xo'jalik hayotida otlar muhim o'rin tutganligi sababli qanday hunarmandchilik sohasi rivojlangan?",
+answers = {
+{text = "Egar-jabduq (egarchilik) tayyorlash", correct = true},
+{text = "Chig'ir yasash", correct = false},
+{text = "Kemasozlik", correct = false},
+{text = "Kigizfurushlik", correct = false},
+}
+},
+}
+
+-- MAVZU 20: Qo'ng'irotlar davrida Xiva me'morchiligi
+questions = {
+{
+question = "1740-yilda Xorazmga kimning qo'shinlari kirib kelib, mamlakatni vayron qilgan?",
+answers = {
+{text = "Rossiya qo'shinlari", correct = false},
+{text = "Eron (Nodirshoh) qo'shinlari", correct = true},
+{text = "Buxoro qo'shinlari", correct = false},
+{text = "Qozoq qo'shinlari", correct = false},
+}
+},
+{
+question = "1768-yilda butun Xorazm mamlakati bo'ylab nima tarqalgan?",
+answers = {
+{text = "Ocharchilik", correct = false},
+{text = "O'lat kasalligi", correct = true},
+{text = "Zilzila", correct = false},
+{text = "Toshqin", correct = false},
+}
+},
+{
+question = "Munis Xorazmiyning yozishicha, 1768-yildagi o'latdan keyin Xivada necha oiladan iborat aholi tirik qolgan?",
+answers = {
+{text = "20 oiladan", correct = false},
+{text = "40 oiladan", correct = true},
+{text = "60 oiladan", correct = false},
+{text = "100 oiladan", correct = false},
+}
+},
+{
+question = "Munisning \u{201C}Firdavs ul-iqbol\u{201D} asari Xorazmning qadimgi davridan qaysi yilgacha bo'lgan tarixini bayon etadi?",
+answers = {
+{text = "1806-yilgacha", correct = false},
+{text = "1811-yilgacha", correct = false},
+{text = "1825-yilgacha", correct = true},
+{text = "1842-yilgacha", correct = false},
+}
+},
+{
+question = "Xiva faqat qaysi hukmdor davrida xonlikning poytaxtiga aylanib, ravnaq topgan?",
+answers = {
+{text = "Elbarsxon davrida", correct = false},
+{text = "Anushaxon davrida", correct = false},
+{text = "Arab Muhammadxon davrida", correct = true},
+{text = "Sherg'ozixon davrida", correct = false},
+}
+},
+{
+question = "Ichan qal'a Xiva shahrining necha gektar qismini egallagan?",
+answers = {
+{text = "15 gektar", correct = false},
+{text = "20 gektar", correct = false},
+{text = "26 gektar", correct = true},
+{text = "35 gektar", correct = false},
+}
+},
+{
+question = "Ichan qal'a me'moriy yodgorliklarining ko'pchiligi qaysi davrda qurilgan?",
+answers = {
+{text = "XVI asrda", correct = false},
+{text = "XVII asrda", correct = false},
+{text = "XIX asrning birinchi yarmida", correct = true},
+{text = "XX asr boshlarida", correct = false},
+}
+},
+{
+question = "Ichan qal'a yaratilish tarixining ikkinchi davri qaysi yildagi mo'g'ullar istilosidan keyingi tiklanish davrini o'z ichiga oladi?",
+answers = {
+{text = "1206-yildagi", correct = false},
+{text = "1220-yildagi", correct = true},
+{text = "1240-yildagi", correct = false},
+{text = "1260-yildagi", correct = false},
+}
+},
+{
+question = "1842-yilda Xiva tevaragida qurilgan yangi qal'a devorining uzunligi qancha bo'lgan?",
+answers = {
+{text = "4 km", correct = false},
+{text = "5 km", correct = false},
+{text = "6 km", correct = true},
+{text = "8 km", correct = false},
+}
+},
+{
+question = "1842-yilda qurilgan yangi qal'a devorida nechta darvoza bo'lgan?",
+answers = {
+{text = "4 ta", correct = false},
+{text = "5 ta", correct = false},
+{text = "6 ta", correct = true},
+{text = "8 ta", correct = false},
+}
+},
+{
+question = "Ichan qal'a majmuasi qaysi yildan YUNESKOning Umumjahon madaniy merosi ro'yxatiga kiritilgan?",
+answers = {
+{text = "1985-yildan", correct = false},
+{text = "1990-yildan", correct = true},
+{text = "1995-yildan", correct = false},
+{text = "2000-yildan", correct = false},
+}
+},
+{
+question = "Ichan qal'a devorlarining balandligi qancha bo'lgan?",
+answers = {
+{text = "5-6 metr", correct = false},
+{text = "8-10 metr", correct = true},
+{text = "12-14 metr", correct = false},
+{text = "15-18 metr", correct = false},
+}
+},
+{
+question = "Ichan qal'a devorlarining tashqi perimetri bo'ylab uzunligi qancha bo'lgan?",
+answers = {
+{text = "4500 metr", correct = false},
+{text = "5000 metr", correct = false},
+{text = "6250 metr", correct = true},
+{text = "7000 metr", correct = false},
+}
+},
+{
+question = "Ichan qal'a ansamblidagi Arab Muhammadxon madrasasi dastlab qaysi yilda qurilib, keyin qaysi yilda qayta qurilgan?",
+answers = {
+{text = "1600-yilda qurilib, 1806-yilda qayta qurilgan", correct = false},
+{text = "1616-yilda qurilib, 1838-yilda qayta qurilgan", correct = true},
+{text = "1623-yilda qurilib, 1842-yilda qayta qurilgan", correct = false},
+{text = "1657-yilda qurilib, 1852-yilda qayta qurilgan", correct = false},
+}
+},
+{
+question = "Arab Muhammadxon o'g'illari Habash va Elbars sultonlar bilan bo'lgan urushda yengilib, qaysi yilda Qum qal'ada vafot etgan?",
+answers = {
+{text = "1616-yilda", correct = false},
+{text = "1623-yilda", correct = true},
+{text = "1638-yilda", correct = false},
+{text = "1657-yilda", correct = false},
+}
+},
+{
+question = "Xiva xonligida Buxoro amirligidan farqli o'laroq, Bosh vazir qanday lavozim bilan atalgan?",
+answers = {
+{text = "Qushbegi", correct = false},
+{text = "Devonbegi", correct = false},
+{text = "Mehtar (vaziri a'zam, dasturi mukarram, nizom ul-mulk)", correct = true},
+{text = "Otaliq", correct = false},
+}
+},
+}

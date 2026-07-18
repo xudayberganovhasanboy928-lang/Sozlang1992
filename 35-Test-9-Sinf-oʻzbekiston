@@ -1,0 +1,739 @@
+-- MAVZU 21: XVI-XIX asrning birinchi yarmida qoraqalpoqlar
+questions = {
+{
+question = "Qoraqalpoqlarning eng qadimgi ajdodlari qaysi qabilalar hisoblanadi?",
+answers = {
+{text = "Bijanak qabilalari", correct = false},
+{text = "Massaget qabilalari", correct = true},
+{text = "No'g'ay qabilalari", correct = false},
+{text = "Qipchoq qabilalari", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarning Amudaryo quyi etagida turkiy bijanak qabilasi negizida xalq sifatida shakllanish jarayoni qaysi asrda nihoyasiga yetgan?",
+answers = {
+{text = "To'qqizinchi asrda", correct = false},
+{text = "O'ninchi asrda", correct = false},
+{text = "O'n birinchi asrda", correct = true},
+{text = "O'n ikkinchi asrda", correct = false},
+}
+},
+{
+question = "No'g'ay ulusida joylashgan qoraqalpoqlar qaysi asr boshida Volga sohillariga ko'chib o'tgan?",
+answers = {
+{text = "O'n ikkinchi asr boshida", correct = false},
+{text = "O'n uchinchi asr boshida", correct = false},
+{text = "O'n to'rtinchi asr boshida", correct = true},
+{text = "O'n beshinchi asr boshida", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar qaysi davrlar oralig'ida No'g'ay xonligi tarkibida bo'lgan?",
+answers = {
+{text = "O'n to'rtinchi asrning birinchi yarmidan o'n beshinchi asrning birinchi yarmigacha", correct = false},
+{text = "O'n beshinchi asrning ikkinchi yarmidan o'n oltinchi asrning ikkinchi yarmigacha", correct = true},
+{text = "O'n oltinchi asrning birinchi yarmidan o'n yettinchi asrning birinchi yarmigacha", correct = false},
+{text = "O'n yettinchi asrning ikkinchi yarmidan o'n sakkizinchi asrgacha", correct = false},
+}
+},
+{
+question = "Rossiya Ashtarxon xonligini qaysi yilda bosib olgan?",
+answers = {
+{text = "1552-yilda", correct = false},
+{text = "1556-yilda", correct = true},
+{text = "1558-yilda", correct = false},
+{text = "1563-yilda", correct = false},
+}
+},
+{
+question = "No'g'ay xonligi hududida ocharchilikka olib kelgan quruq yillar qaysi yillarga to'g'ri keladi?",
+answers = {
+{text = "1552-1553-yillarga", correct = false},
+{text = "1556-1557-yillarga", correct = false},
+{text = "1557-1558-yillarga", correct = true},
+{text = "1563-1564-yillarga", correct = false},
+}
+},
+{
+question = "Sharqshunos P. P. Ivanov qaysi asar orqali XV asrda Xorazmshohlar lashkarida \u{201C}Qalpoq\u{201D} ismli lashkarboshi bo'lganini aniqlagan?",
+answers = {
+{text = "\u{201C}Shajarayi turk\u{201D} asari orqali", correct = false},
+{text = "\u{201C}Tarixi Bayhaqiy\u{201D} asari orqali", correct = true},
+{text = "\u{201C}Boburnoma\u{201D} asari orqali", correct = false},
+{text = "\u{201C}Qoraqalpoqnoma\u{201D} asari orqali", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarning aniq nomi ilk bor qaysi hukmdorning yorliqnomasida uchraydi?",
+answers = {
+{text = "Muhammad Shayboniyxonning", correct = false},
+{text = "Ubaydullaxonning", correct = false},
+{text = "Abdullaxon ikkinchining", correct = true},
+{text = "Abdulazizxonning", correct = false},
+}
+},
+{
+question = "Abdullaxon ikkinchi Sig'noqdagi Ziyovuddin maqbarasiga qoraqalpoq xalqi nomi zikr etilgan yorliqnomani qaysi yilda bergan?",
+answers = {
+{text = "1574-yilda", correct = false},
+{text = "1593-yilda", correct = false},
+{text = "1598-yilda", correct = true},
+{text = "1601-yilda", correct = false},
+}
+},
+{
+question = "Jung'or xonligining Turkistonga hujumi sababli qoraqalpoq xalqi qaysi yilda uch guruhga bo'linib ketgan?",
+answers = {
+{text = "1714-yilda", correct = false},
+{text = "1721-yilda", correct = false},
+{text = "1723-yilda", correct = true},
+{text = "1731-yilda", correct = false},
+}
+},
+{
+question = "\u{201C}Qoraqalpoqnoma\u{201D} kitobining muallifi kim bo'lgan?",
+answers = {
+{text = "Berdaq", correct = false},
+{text = "To'lepbergen Qayipbergenov", correct = true},
+{text = "Ajiniyoz Qo'siboy o'g'li", correct = false},
+{text = "Ibroyim Yusupov", correct = false},
+}
+},
+{
+question = "Sirdaryo bo'yi qoraqalpoqlari Eshmuhammad (Eshimxon) boshchiligida tuzilgan davlatga qaysi yilda birlashganlar?",
+answers = {
+{text = "1709-yilda", correct = false},
+{text = "1714-yilda", correct = true},
+{text = "1721-yilda", correct = false},
+{text = "1723-yilda", correct = false},
+}
+},
+{
+question = "Eshmuhammad boshchiligidagi qoraqalpoq davlati iqtisodiy va siyosiy jihatdan qaysi xonlikka qaram bo'lib qolgan?",
+answers = {
+{text = "Katta juz qozoq xonligiga", correct = false},
+{text = "O'rta juz qozoq xonligiga", correct = false},
+{text = "Kichik juz qozoq xonligiga", correct = true},
+{text = "Xiva xonligiga", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar XVII asrda Xorazmga ko'chib o'tgan o'zbeklar bilan birga Xiva xonligining shimolida qanday davlat barpo etganlar?",
+answers = {
+{text = "Sirdaryo davlati", correct = false},
+{text = "Orol (Aran) davlati", correct = true},
+{text = "Qoraqalpoq ulusi", correct = false},
+{text = "Quvondaryo davlati", correct = false},
+}
+},
+{
+question = "Tarixchi An-Nuvayriyning o'n to'rtinchi asrga mansub xalqlar ro'yxatida polovets-qipchoq toifalari ichida qanday atama uchraydi?",
+answers = {
+{text = "\u{201C}Chyorniye klobuki\u{201D}", correct = false},
+{text = "\u{201C}Qora bo'rkli\u{201D}", correct = true},
+{text = "\u{201C}Qavmi kulohi siyoh\u{201D}", correct = false},
+{text = "\u{201C}Qalpoq\u{201D}", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarning shakllanish jarayoni va nomining paydo bo'lishi qaysi asrlarga to'g'ri keladi?",
+answers = {
+{text = "O'n to'rtinchi - o'n beshinchi asrlarga", correct = false},
+{text = "O'n oltinchi - o'n sakkizinchi asrlarga", correct = true},
+{text = "O'n to'qqizinchi asrga", correct = false},
+{text = "O'n ikkinchi - o'n uchinchi asrlarga", correct = false},
+}
+},
+}
+
+-- MAVZU 22: Qoraqalpoqlarning qo'shni xalqlar bilan munosabatlari
+questions = {
+{
+question = "Qoraqalpoqlar antropologik jihatdan qaysi xalqlarga yaqin?",
+answers = {
+{text = "O'zbeklar, tojiklar va turkmanlarga", correct = false},
+{text = "Qozoqlar, Xorazm mang'itlari va quramalarga", correct = true},
+{text = "Boshqirdlar va tatarlarga", correct = false},
+{text = "Qirg'izlar va uyg'urlarga", correct = false},
+}
+},
+{
+question = "Qoraqalpoq tili qipchoq tillari guruhining qaysi shoxobchasiga kiradi?",
+answers = {
+{text = "Qipchoq-bolg'or shoxobchasiga", correct = false},
+{text = "Qipchoq-no'g'ay shoxobchasiga", correct = true},
+{text = "Qipchoq-qorachoy shoxobchasiga", correct = false},
+{text = "Qarluq-uyg'ur shoxobchasiga", correct = false},
+}
+},
+{
+question = "O'ninchi - o'n birinchi asrlarda qoraqalpoqlar yashagan hududlar dastlab qaysi davlatga bo'ysungan?",
+answers = {
+{text = "Xorazm davlatiga", correct = false},
+{text = "O'g'uz davlatiga", correct = true},
+{text = "Oltin O'rda xonligiga", correct = false},
+{text = "No'g'ay xonligiga", correct = false},
+}
+},
+{
+question = "O'n uchinchi - o'n to'rtinchi asrlarda qoraqalpoqlar yashagan hududlar kimlarning hukmronligi ostida bo'lgan?",
+answers = {
+{text = "Xorazmshohlarning", correct = false},
+{text = "Mo'g'ullarning", correct = true},
+{text = "Temuriylarning", correct = false},
+{text = "Shayboniylarning", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar qaysi asrning ikkinchi yarmida Rossiya davlati tarkibiga kiritilgan?",
+answers = {
+{text = "O'n yettinchi asrning ikkinchi yarmida", correct = false},
+{text = "O'n sakkizinchi asrning ikkinchi yarmida", correct = false},
+{text = "O'n to'qqizinchi asrning ikkinchi yarmida", correct = true},
+{text = "Yigirmanchi asr boshida", correct = false},
+}
+},
+{
+question = "Qoraqalpoq xoni Eshmuhammadxon Rossiyaga o'z elchilarini qaysi yilda yuborgan?",
+answers = {
+{text = "1714-yilda", correct = false},
+{text = "1721-yilda", correct = true},
+{text = "1723-yilda", correct = false},
+{text = "1726-yilda", correct = false},
+}
+},
+{
+question = "Jung'or xonligi qaysi yilda tashkil topib, qaysi yilda Chin imperiyasi tomonidan tugatilgan?",
+answers = {
+{text = "1600-yilda tashkil topib, 1700-yilda tugatilgan", correct = false},
+{text = "1635-yilda tashkil topib, 1758-yilda tugatilgan", correct = true},
+{text = "1650-yilda tashkil topib, 1723-yilda tugatilgan", correct = false},
+{text = "1709-yilda tashkil topib, 1770-yilda tugatilgan", correct = false},
+}
+},
+{
+question = "Qozoq xoni Abulxayrxon Peterburgga qoraqalpoq vakili ham bo'lgan o'z elchilarini qaysi yilda jo'natgan?",
+answers = {
+{text = "1721-yilda", correct = false},
+{text = "1723-yilda", correct = false},
+{text = "1726-yilda", correct = true},
+{text = "1731-yilda", correct = false},
+}
+},
+{
+question = "Rossiya tomonidan M. Tevkelev Abulxayrxon huzuriga qaysi yilda yuborilgan?",
+answers = {
+{text = "1723-yilda", correct = false},
+{text = "1726-yilda", correct = false},
+{text = "1731-yilda", correct = true},
+{text = "1743-yilda", correct = false},
+}
+},
+{
+question = "Atoqli botir Mamanbiy boshchiligidagi elchilik Peterburgga qaysi yilda yuborilgan?",
+answers = {
+{text = "1726-yilda", correct = false},
+{text = "1731-yilda", correct = false},
+{text = "1743-yilda", correct = true},
+{text = "1770-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Amin inoq davrida qoraqalpoqlar ixtiyoriy ravishda Xiva xonligi fuqaroligiga o'ta boshlagan davr qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "1743-1762-yillarni", correct = false},
+{text = "1762-1770-yillarni", correct = false},
+{text = "1770-1790-yillarni", correct = true},
+{text = "1790-1811-yillarni", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar to'la Xiva xonligiga qaysi yilda bo'ysundirilgan?",
+answers = {
+{text = "1790-yilda", correct = false},
+{text = "1800-yilda", correct = false},
+{text = "1811-yilda", correct = true},
+{text = "1827-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Rahimxon birinchi qoraqalpoq biylaridan kimni biylar biyi lavozimiga tayinlab, katta imtiyozlar bergan?",
+answers = {
+{text = "Ernazarbiyni", correct = false},
+{text = "Oydo'stbiyni", correct = true},
+{text = "Mamanbiyni", correct = false},
+{text = "Esangeldi mahramni", correct = false},
+}
+},
+{
+question = "Oydo'stbiy boshchiligidagi qo'zg'olon qaysi yilda yuz bergan?",
+answers = {
+{text = "1811-yilda", correct = false},
+{text = "1820-yilda", correct = false},
+{text = "1827-yilda", correct = true},
+{text = "1842-yilda", correct = false},
+}
+},
+{
+question = "Oydo'stbiy qaysi hukmdorning uni kamsituvchi siyosatidan norozi bo'lib, qo'zg'olon ko'targan?",
+answers = {
+{text = "Muhammad Rahimxon birinchining", correct = false},
+{text = "Olloqulixonning", correct = true},
+{text = "Muhammad Aminxonning", correct = false},
+{text = "Abdullaxon ikkinchining", correct = false},
+}
+},
+{
+question = "Oydo'stbiy qo'zg'oloni bostirilganda kimlar halok bo'lgan?",
+answers = {
+{text = "Faqat Oydo'stbiyning o'zi", correct = false},
+{text = "Oydo'stbiy va uning ikki o'g'li", correct = true},
+{text = "Oydo'stbiy va barcha ovul aholisi", correct = false},
+{text = "Faqat Oydo'stbiyning navkarlari", correct = false},
+}
+},
+}
+
+-- MAVZU 23: Qoraqalpoqlarning turmush tarzi
+questions = {
+{
+question = "Qoraqalpoq jamiyatida ovul - boshlang'ich ma'muriy bo'g'inning hayotiga kim rahbarlik qilgan?",
+answers = {
+{text = "Biylar kengashi", correct = false},
+{text = "Oqsoqollar kengashi", correct = true},
+{text = "Botirlar kengashi", correct = false},
+{text = "Qozilar kengashi", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar Xiva xonligiga bo'ysundirilgach, biylarbiyi kim tomonidan tayinlanadigan bo'lgan?",
+answers = {
+{text = "Urug' oqsoqollari tomonidan", correct = false},
+{text = "Xon tomonidan", correct = true},
+{text = "Biylar yig'ini tomonidan", correct = false},
+{text = "Qozikalon tomonidan", correct = false},
+}
+},
+{
+question = "Amudaryoning so'l sohilidagi qaysi shahar qoraqalpoqlarning bosh ma'muriy markazlaridan biriga aylangan?",
+answers = {
+{text = "Chimboy", correct = false},
+{text = "Qo'ng'irot", correct = true},
+{text = "Xo'jayli", correct = false},
+{text = "Mo'ynoq", correct = false},
+}
+},
+{
+question = "Amudaryoning o'ng sohilidagi qaysi shahar qoraqalpoqlarning bosh ma'muriy markazlaridan biriga aylangan?",
+answers = {
+{text = "Qo'ng'irot", correct = false},
+{text = "Xo'jayli", correct = false},
+{text = "Chimboy", correct = true},
+{text = "Taxiatosh", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarning yerlarni o'zlashtirib, suv inshootlari qurgani va g'alla yetishtirganligi haqida qaysi doston ma'lumot beradi?",
+answers = {
+{text = "\u{201C}Alpomish\u{201D} dostonida", correct = false},
+{text = "\u{201C}Qirqqiz\u{201D} dostonida", correct = true},
+{text = "\u{201C}Edigey\u{201D} dostonida", correct = false},
+{text = "\u{201C}Qublon\u{201D} dostonida", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar tomonidan barpo etilgan kanal va sug'orish inshootlari asosan qaysi ikki daryo havzalarida joylashgan?",
+answers = {
+{text = "Amudaryo va Sirdaryo havzalarida", correct = false},
+{text = "Yangi(Jana)daryo va Quvondaryo havzalarida", correct = true},
+{text = "Zarafshon va Vaxsh havzalarida", correct = false},
+{text = "Norin va Qoradaryo havzalarida", correct = false},
+}
+},
+{
+question = "XVIII asr oxirlarida Amudaryo quyi tarmoqlarida qanday dehqonchilik vohalari vujudga kelgan?",
+answers = {
+{text = "Chimboy va Qo'ng'irot", correct = false},
+{text = "Qalliko'l va Kegayli", correct = true},
+{text = "Xo'jayli va Mo'ynoq", correct = false},
+{text = "Taxiatosh va Beruniy", correct = false},
+}
+},
+{
+question = "XIX asr o'rtalarida Amudaryo quyi tarmoqlarida yana qanday dehqonchilik vohalari vujudga kelgan?",
+answers = {
+{text = "Qalliko'l va Kegayli", correct = false},
+{text = "Chimboy va Qo'ng'irot", correct = true},
+{text = "Xo'jayli va Taxiatosh", correct = false},
+{text = "Mo'ynoq va Beruniy", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar dehqonchilikda qanday mehnat qurollaridan foydalanganlar?",
+answers = {
+{text = "Omoch, mola, ketmon, belkurak, o'roq", correct = true},
+{text = "Faqat ketmon va belkurak", correct = false},
+{text = "Chig'ir va urchuq", correct = false},
+{text = "O'rmak va qolip", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda dehqonlardan olinadigan yer solig'i qanday atalgan?",
+answers = {
+{text = "Xiroj", correct = false},
+{text = "Salg'ut", correct = true},
+{text = "Tanobona", correct = false},
+{text = "Ushr", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda chorvadorlardan olinadigan soliq qanday atalgan?",
+answers = {
+{text = "Salg'ut solig'i", correct = false},
+{text = "Zakot solig'i", correct = true},
+{text = "Qozon solig'i", correct = false},
+{text = "Ushur solig'i", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda ruhoniylar uchun aholidan olinadigan soliq qanday atalgan?",
+answers = {
+{text = "Zakot solig'i", correct = false},
+{text = "Salg'ut solig'i", correct = false},
+{text = "Ushur solig'i", correct = true},
+{text = "Qozon solig'i", correct = false},
+}
+},
+{
+question = "Harbiy xavf yuz berganda qoraqalpoqlardan qanday soliq undirilgan?",
+answers = {
+{text = "Ushur solig'i", correct = false},
+{text = "Zakot solig'i", correct = false},
+{text = "Salg'ut solig'i", correct = false},
+{text = "Qozon (xo'jalik) solig'i", correct = true},
+}
+},
+{
+question = "Qoraqalpoqlar jamiyatida harbiy qismlarni kim boshqargan?",
+answers = {
+{text = "Biylar", correct = false},
+{text = "Botirlar", correct = true},
+{text = "Oqsoqollar", correct = false},
+{text = "Yuzboshilar", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar jamiyatida qanday ma'muriy mansablar mavjud edi?",
+answers = {
+{text = "Yuzboshi, mirobboshi, qozi, rais", correct = true},
+{text = "Devonbegi, qushbegi, otaliq", correct = false},
+{text = "Naqib, parvonachi, dodxoh", correct = false},
+{text = "Shig'ovul, mehtar, munshiy", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda biylar avvallari qanday tayinlangan?",
+answers = {
+{text = "Xon tomonidan tayinlangan", correct = false},
+{text = "Urug' yig'inlarida saylangan", correct = true},
+{text = "Meros tariqasida o'tgan", correct = false},
+{text = "Oqsoqollar kengashi tomonidan tayinlangan", correct = false},
+}
+},
+}
+
+-- MAVZU 24: Qoraqalpoqlarning madaniy hayoti
+questions = {
+{
+question = "O'zbeklarning Afandisi kabi qoraqalpoqlarning ham qiziqchisi qanday nom bilan mashhur bo'lgan?",
+answers = {
+{text = "Berdaq laqqi", correct = false},
+{text = "O'mirbek laqqi", correct = true},
+{text = "Ajiniyoz laqqi", correct = false},
+{text = "Kunxo'ja laqqi", correct = false},
+}
+},
+{
+question = "\u{201C}Edigey\u{201D} dostonida qaysi ikki tarixiy shaxsning faoliyati bilan bog'liq voqealar bayon etiladi?",
+answers = {
+{text = "Chingizxon va Jo'jixon", correct = false},
+{text = "Amir Temur va To'xtamish", correct = true},
+{text = "Shayboniyxon va Bobur", correct = false},
+{text = "Abulxayrxon va Girayxon", correct = false},
+}
+},
+{
+question = "\u{201C}Qirqqiz\u{201D} dostonida Xorazm xalqining qaysi hukmdorga qarshi kurashi o'z badiiy ifodasini topgan?",
+answers = {
+{text = "Chingizxonga qarshi", correct = false},
+{text = "Shoh Ismoilga qarshi", correct = false},
+{text = "Eron shohi Nodirshohga qarshi", correct = true},
+{text = "Rus podshosiga qarshi", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarning xalq qo'shiqlarida ulug'lanadigan el-yurt yo'lboshchilaridan qaysilarini kitobda uchratamiz?",
+answers = {
+{text = "Maman botir, Esangeldi mahram, Oydo'stbiy, Ernazarbiy", correct = true},
+{text = "Berdaq, Ajiniyoz, Kunxo'ja, Jiyen Jirov", correct = false},
+{text = "Elbarsxon, Anushaxon, Sherg'ozixon", correct = false},
+{text = "Muhammad Amin inoq, Olloqulixon, Muhammad Rahimxon", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda doston ijrochilari necha guruhga bo'lingan?",
+answers = {
+{text = "Ikki guruhga", correct = false},
+{text = "Uch guruhga", correct = true},
+{text = "To'rt guruhga", correct = false},
+{text = "Beshta guruhga", correct = false},
+}
+},
+{
+question = "Jirovlar qahramonlik dostonlarini qaysi musiqa asbobi jo'rligida ijro etganlar?",
+answers = {
+{text = "Dutor", correct = false},
+{text = "G'ijjak", correct = false},
+{text = "Qo'biz", correct = true},
+{text = "Surnay", correct = false},
+}
+},
+{
+question = "Baxshilar dostonlarni qaysi ikki musiqa asbobi jo'rligida ijro etganlar?",
+answers = {
+{text = "Qo'biz va nog'ora", correct = false},
+{text = "Dutor va g'ijjak", correct = true},
+{text = "Surnay va nog'ora", correct = false},
+{text = "Qo'biz va surnay", correct = false},
+}
+},
+{
+question = "Mashhur baxshi, hajviy shoir Jiyen Jirov qaysi yillarda yashagan?",
+answers = {
+{text = "1730-1784-yillarda", correct = true},
+{text = "1770-1830-yillarda", correct = false},
+{text = "1799-1880-yillarda", correct = false},
+{text = "1824-1878-yillarda", correct = false},
+}
+},
+{
+question = "\u{201C}O'roqchilar\u{201D}, \u{201C}Cho'ponlar\u{201D}, \u{201C}El bilan\u{201D} she'rlarining muallifi kim bo'lgan?",
+answers = {
+{text = "Jiyen Jirov", correct = false},
+{text = "Kunxo'ja Ibrohim", correct = true},
+{text = "Ajiniyoz Qo'siboy o'g'li", correct = false},
+{text = "Berdaq", correct = false},
+}
+},
+{
+question = "Kunxo'ja Ibrohim qaysi yillarda yashagan?",
+answers = {
+{text = "1730-1784-yillarda", correct = false},
+{text = "1780-1841-yillarda", correct = false},
+{text = "1799-1880-yillarda", correct = true},
+{text = "1824-1878-yillarda", correct = false},
+}
+},
+{
+question = "Ajiniyoz Qo'siboy o'g'li boshlang'ich ta'limni qayerda olgan?",
+answers = {
+{text = "Xivadagi Sherg'ozixon madrasasida", correct = false},
+{text = "Mo'ynoqdagi eski maktabda", correct = true},
+{text = "Buxorodagi Mir Arab madrasasida", correct = false},
+{text = "Qo'ng'irotdagi eski maktabda", correct = false},
+}
+},
+{
+question = "Ajiniyoz keyinchalik Xivadagi qaysi madrasada tahsil olgan?",
+answers = {
+{text = "Arab Muhammadxon madrasasida", correct = false},
+{text = "Olloqulixon madrasasida", correct = false},
+{text = "Sherg'ozixon madrasasida", correct = true},
+{text = "Muhammad Aminxon madrasasida", correct = false},
+}
+},
+{
+question = "Ajiniyozning \u{201C}Bo'zatov\u{201D} dostonida nima katta mahorat bilan tasvirlangan?",
+answers = {
+{text = "Qoraqalpoq xalqining boshqa yurtlarga ko'chib ketishga majbur etilganligi", correct = true},
+{text = "Oydo'stbiy qo'zg'oloni", correct = false},
+{text = "Nodirshohning Xorazmga yurishi", correct = false},
+{text = "Berdaqning hayoti", correct = false},
+}
+},
+{
+question = "Ajiniyozning xalq orasida keng tarqalgan \u{201C}Qiz Mengesh bilan aytishuv\u{201D} asari qaysi yilga oid?",
+answers = {
+{text = "1845-yilga", correct = false},
+{text = "1863-yilga", correct = false},
+{text = "1878-yilga", correct = true},
+{text = "1900-yilga", correct = false},
+}
+},
+{
+question = "Qoraqalpoq xalq adabiyotining asoschisi bo'lgan Berdaqning asl ismi nima edi?",
+answers = {
+{text = "Kunxo'ja Ibrohim", correct = false},
+{text = "Berdimurod Qarg'aboy o'g'li", correct = true},
+{text = "Ajiniyoz Qo'siboy o'g'li", correct = false},
+{text = "Jiyen Jirov", correct = false},
+}
+},
+{
+question = "Berdaq necha yoshida iste'dodli shoir sifatida xalq orasida tanilgan?",
+answers = {
+{text = "18 yoshida", correct = false},
+{text = "20 yoshida", correct = false},
+{text = "25 yoshida", correct = true},
+{text = "30 yoshida", correct = false},
+}
+},
+}
+
+-- MAVZU 25: Qoraqalpoqlarning milliy kiyimlari
+questions = {
+{
+question = "Qoraqalpoq erkaklarining an'anaviy kiyimlari qaysi xalqning kiyimiga o'xshab ketadi?",
+answers = {
+{text = "Qozoqlarnikiga", correct = false},
+{text = "Xorazmliklarnikiga", correct = true},
+{text = "Qirg'izlarnikiga", correct = false},
+{text = "Turkmanlarnikiga", correct = false},
+}
+},
+{
+question = "Qoraqalpoq erkaklari asosan nimalar kiyganlar?",
+answers = {
+{text = "Ko'ylak, shalvar va dambal", correct = true},
+{text = "Faqat chopon va belbog'", correct = false},
+{text = "Kamzul va lozim", correct = false},
+{text = "Munisak va kamzul", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda keyinchalik qanday yoqali ko'ylak kiyish urfga aylangan?",
+answers = {
+{text = "O'zbek yoqali ko'ylak", correct = false},
+{text = "No'g'ay yoqali ko'ylak", correct = true},
+{text = "Qozoq yoqali ko'ylak", correct = false},
+{text = "Turkman yoqali ko'ylak", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda qishki bosh kiyim - qalpoq yana qanday nom bilan atalgan?",
+answers = {
+{text = "Do'ppi", correct = false},
+{text = "Kuloh", correct = false},
+{text = "Takiya", correct = true},
+{text = "Saukele", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlarda deyarli salla o'ralmagan, faqat kimlar bundan mustasno bo'lgan?",
+answers = {
+{text = "Biylar", correct = false},
+{text = "Botirlar", correct = false},
+{text = "Din peshvolari", correct = true},
+{text = "Oqsoqollar", correct = false},
+}
+},
+{
+question = "Qoraqalpoq ayollarining an'anaviy kiyimlari nimalardan iborat bo'lgan?",
+answers = {
+{text = "Ko'ylak, lozim, kamzul va yengsiz chopon", correct = true},
+{text = "Faqat ko'ylak va ro'mol", correct = false},
+{text = "Munisak va kamzul", correct = false},
+{text = "Paranji va chachvon", correct = false},
+}
+},
+{
+question = "Qoraqalpoq ayollari \u{201C}jegde\u{201D} deb ataladigan nimani yopib yurishgan?",
+answers = {
+{text = "Ro'molni", correct = false},
+{text = "Choponni", correct = true},
+{text = "Do'ppini", correct = false},
+{text = "Kamzulni", correct = false},
+}
+},
+{
+question = "Qoraqalpoq ayollarining bayram ko'ylaklari qaysi shahardan olib kelingan ola shoyidan tikilgan?",
+answers = {
+{text = "Xivadan", correct = false},
+{text = "Buxorodan", correct = true},
+{text = "Samarqanddan", correct = false},
+{text = "Qo'qondan", correct = false},
+}
+},
+{
+question = "Ko'ylakning ikki tomonida chillak shaklida keng kashta tikilgan ko'ylaklar qoraqalpoqlarda qanday atalgan?",
+answers = {
+{text = "Sariq ko'ylak", correct = false},
+{text = "Ko'k ko'ylak", correct = false},
+{text = "Halqali ko'ylak", correct = true},
+{text = "Kurte", correct = false},
+}
+},
+{
+question = "Azador (motamdor) qoraqalpoq ayollari qanday ko'ylak kiygan?",
+answers = {
+{text = "Gulli qizil ko'ylak", correct = false},
+{text = "Gulsiz ko'k ko'ylak", correct = true},
+{text = "Oq ko'ylak", correct = false},
+{text = "Sariq ko'ylak", correct = false},
+}
+},
+{
+question = "Qoraqalpoq ayollarining boshqa xalqlarnikidan yaqqol ajralib turadigan, ayniqsa mashhur bo'lgan bosh kiyimlari qanday atalgan?",
+answers = {
+{text = "Do'ppi va ro'mol", correct = false},
+{text = "Kimishek va savkali", correct = true},
+{text = "Kalapo'shak va peshonabog'", correct = false},
+{text = "Turme va oydinli", correct = false},
+}
+},
+{
+question = "Kimishekni odatda kim tikkan va uni qachon kiygan?",
+answers = {
+{text = "Onasi tikkan, tug'ilgan kunida kiygan", correct = false},
+{text = "Qizning o'zi tikkan, ovulga to'yi kuni kiygan", correct = true},
+{text = "Kuyovning onasi tikkan, nikoh kunida kiygan", correct = false},
+{text = "Buvisi tikkan, o'n olti yoshida kiygan", correct = false},
+}
+},
+{
+question = "Kimishekning old tarafi qanday shaklda va qanday matodan tayyorlangan?",
+answers = {
+{text = "Qizil movutdan uchburchak shaklda", correct = true},
+{text = "Ko'k shoyidan yumaloq shaklda", correct = false},
+{text = "Oq matodan to'rtburchak shaklda", correct = false},
+{text = "Sariq gazlamadan ovalsimon shaklda", correct = false},
+}
+},
+{
+question = "Kimishekning orqa kuyrikshasi qaysi mato bilan popukdor qilib bezatilgan?",
+answers = {
+{text = "Xiva shoyisi bilan", correct = false},
+{text = "Buxoro shoyisi bilan", correct = true},
+{text = "Qo'qon adrasi bilan", correct = false},
+{text = "Samarqand baxmali bilan", correct = false},
+}
+},
+{
+question = "Qoraqalpoq kiyimlarining o'ziga xos jihatlaridan biri bo'lgan, alohida tayyorlanib keyin choponga tikiladigan yeng qanday atalgan?",
+answers = {
+{text = "Jengse", correct = true},
+{text = "Kuyrikshe", correct = false},
+{text = "Jigalar", correct = false},
+{text = "Peshonabog'", correct = false},
+}
+},
+{
+question = "Jengse odatda qanday matodan tayyorlangan?",
+answers = {
+{text = "Oq gazlamadan", correct = false},
+{text = "Qizil guldor matodan", correct = true},
+{text = "Ko'k shoyidan", correct = false},
+{text = "Sariq beqasamdan", correct = false},
+}
+},
+}

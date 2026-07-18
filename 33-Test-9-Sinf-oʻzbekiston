@@ -1,0 +1,739 @@
+-- MAVZU 11: Ashtarxoniylar davrida davlat boshqaruvi va tashqi siyosat
+questions = {
+{
+question = "Ashtarxoniylar davrida davlatning asosiy boshqaruv idorasi qanday atalgan?",
+answers = {
+{text = "Devonxona", correct = false},
+{text = "Dargoh (oliy devon)", correct = true},
+{text = "Ark", correct = false},
+{text = "Kengash", correct = false},
+}
+},
+{
+question = "Imomqulixon davrida qimmatbaho sovg'alar bilan elchilar Hindiston hukmdori, Akbar podshohning o'g'li bo'lmish kimning huzuriga yuborilgan?",
+answers = {
+{text = "Ibrohim Lo'diyning", correct = false},
+{text = "Jahongir podshohning", correct = true},
+{text = "Boburning", correct = false},
+{text = "Humoyunning", correct = false},
+}
+},
+{
+question = "Abdulazizxon Hindistonga naqshbandiya tariqati vakilini elchi sifatida qaysi yilda jo'natgan?",
+answers = {
+{text = "1642-yilda", correct = false},
+{text = "1657-yilda", correct = true},
+{text = "1681-yilda", correct = false},
+{text = "1691-yilda", correct = false},
+}
+},
+{
+question = "1691-yilda Subhonqulixon saroyiga usmonli Sulton Ahmad ikkinchi tomonidan qanday nomdagi elchi yuborilgan?",
+answers = {
+{text = "Mustafo", correct = true},
+{text = "Rustambiy", correct = false},
+{text = "Yakkatozxon", correct = false},
+{text = "Mir Quraysh", correct = false},
+}
+},
+{
+question = "Buxorodan Moskvaga yuborilgan Mulla Farrux elchiligi qaysi yilga oid?",
+answers = {
+{text = "1657-yilda", correct = false},
+{text = "1671-yilda", correct = true},
+{text = "1691-yilda", correct = false},
+{text = "1708-yilda", correct = false},
+}
+},
+{
+question = "Pyotr I tomonidan berilgan yo'riqnomaga ko'ra o'zbek davlatini Rossiya bilan harbiy ittifoqqa chaqirish, Buxoro oltinini aniqlash kabi vazifalar yuklangan rus elchisi kim bo'lgan?",
+answers = {
+{text = "Ivan Xoxlov", correct = false},
+{text = "Muhammad Yusuf Qosimov", correct = false},
+{text = "Florio Beneveni", correct = true},
+{text = "Daudov", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida shahzodalar tarbiyasiga mas'ul bo'lgan lavozim qanday atalgan?",
+answers = {
+{text = "Naqib", correct = false},
+{text = "Otaliq", correct = true},
+{text = "Parvonachi", correct = false},
+{text = "Dodxoh", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida oliy hukmdorning yorliqlarini ijrochilarga yetkazuvchi mansab qanday atalgan?",
+answers = {
+{text = "Parvonachi", correct = true},
+{text = "Devonbegi", correct = false},
+{text = "Qushbegi", correct = false},
+{text = "Inoq", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida jabrlanuvchilar arzini oliy hukmdorga yetkazish va javobini olib berishga mas'ul bo'lgan mansab qanday atalgan?",
+answers = {
+{text = "Dodxoh", correct = true},
+{text = "Naqib", correct = false},
+{text = "Miroxur", correct = false},
+{text = "Chuhraboshi", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida moliya vaziri maqomiga ega bo'lgan mansab qanday atalgan?",
+answers = {
+{text = "Qushbegi", correct = false},
+{text = "Otaliq", correct = false},
+{text = "Devonbegi", correct = true},
+{text = "Yasovul", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida ov qushlari, tozi itlar va shu kabilarga mas'ul bo'lgan lavozim qanday atalgan?",
+answers = {
+{text = "Qushbegi", correct = true},
+{text = "Miroxur", correct = false},
+{text = "Eshikog'aboshi", correct = false},
+{text = "Munshiy", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida oliy hukmdor bilan shahzodalar o'rtasidagi aloqalarni o'rnatilgan tartiblar asosida yo'lga qo'yish bilan kim shug'ullangan?",
+answers = {
+{text = "Xon yasovuli", correct = true},
+{text = "Devonbegi", correct = false},
+{text = "Naqib", correct = false},
+{text = "Qurchi", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida poytaxt shahar Buxoro qozisi qanday atalgan?",
+answers = {
+{text = "Harbiy qozi", correct = false},
+{text = "Qozi askar", correct = false},
+{text = "Qozikalon", correct = true},
+{text = "A'lam", correct = false},
+}
+},
+{
+question = "Rus hukumati Buxoro savdogarlarining qanday mahsulotni mamlakatdan olib chiqishini taqiqlagan?",
+answers = {
+{text = "G'alla va paxtani", correct = false},
+{text = "Metall va undan yasalgan buyumlarni", correct = true},
+{text = "Ipak va gazlamalarni", correct = false},
+{text = "Zargarlik buyumlarini", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida Buxoroga kelgan rus elchilari qatoriga kimlar kirgan?",
+answers = {
+{text = "Ivan Xoxlov, aka-uka Pazuxinlar, Daudov va Muhammad Yusuf Qosimov", correct = true},
+{text = "A. Byorns, A. Konolli va Ch. Stoddart", correct = false},
+{text = "U. Murkroft va D. Trebek", correct = false},
+{text = "V. Perovskiy va M. Bekchurin", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida davlat boshqaruv tizimida harbiy ishlar bo'yicha faoliyat yuritgan qozi lavozimi qanday atalgan?",
+answers = {
+{text = "Qozikalon", correct = false},
+{text = "Bosh qozi", correct = false},
+{text = "Harbiy qozi", correct = true},
+{text = "A'lam", correct = false},
+}
+},
+}
+
+-- MAVZU 12: Ashtarxoniylar davrida ijtimoiy-iqtisodiy hayot
+questions = {
+{
+question = "Ashtarxoniy hukmdor Nadr Muhammadning o'zida nechta oti bo'lgan?",
+answers = {
+{text = "5000 ta", correct = false},
+{text = "6000 ta", correct = false},
+{text = "8000 ta", correct = true},
+{text = "10000 ta", correct = false},
+}
+},
+{
+question = "Nadr Muhammadning o'zida qorako'l teri beruvchi nechta qo'yi bo'lgan?",
+answers = {
+{text = "60000 ta", correct = false},
+{text = "70000 ta", correct = false},
+{text = "80000 ta", correct = true},
+{text = "90000 ta", correct = false},
+}
+},
+{
+question = "Nadr Muhammadning o'zida nechta qator tuyasi bo'lgan?",
+answers = {
+{text = "400 qator", correct = false},
+{text = "600 qator", correct = true},
+{text = "800 qator", correct = false},
+{text = "1000 qator", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida davlat yerlari dunyoviy va diniy amaldorlarga qanday shakllarda tortiq etilgan?",
+answers = {
+{text = "Vaqf, mulk, xiroj va zakot tarzida", correct = false},
+{text = "Suyurg'ol, tiul, iqto, tanho tarzida", correct = true},
+{text = "Amlok, mulki huri xolis tarzida", correct = false},
+{text = "Tanobona va ushr tarzida", correct = false},
+}
+},
+{
+question = "Ashtarxoniy hukmdor Ubaydullaxon pul islohotini qaysi yilda o'tkazgan?",
+answers = {
+{text = "1691-yilda", correct = false},
+{text = "1702-yilda", correct = false},
+{text = "1708-yilda", correct = true},
+{text = "1711-yilda", correct = false},
+}
+},
+{
+question = "1708-yilgi pul islohotidan so'ng zarb etilgan yangi tangada necha foiz kumush bo'lgan?",
+answers = {
+{text = "4 foiz", correct = false},
+{text = "9 foiz", correct = true},
+{text = "15 foiz", correct = false},
+{text = "35 foiz", correct = false},
+}
+},
+{
+question = "Yangi zarb etilgan tanga qiymati necha foiz kumush tarkibli eski tangaga teng deb e'lon qilingan?",
+answers = {
+{text = "20 foiz", correct = false},
+{text = "25 foiz", correct = false},
+{text = "35 foiz", correct = true},
+{text = "50 foiz", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida bir oltin tanga (ashrafiy) necha kumush tangaga tenglashtirilgan?",
+answers = {
+{text = "20-30 kumush tangaga", correct = false},
+{text = "35-45 kumush tangaga", correct = false},
+{text = "50-80 kumush tangaga", correct = true},
+{text = "90-100 kumush tangaga", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davri yer huquqiga oid muhim manba bo'lib, vaqf mulki almashtirish va xususiy yer egaligi huquqini tartibga solgan to'plam qanday nomlangan?",
+answers = {
+{text = "\u{201C}Buxoro yer hujjatlari\u{201D}", correct = true},
+{text = "\u{201C}Shajarayi turk\u{201D}", correct = false},
+{text = "\u{201C}Gulshan ul-mulk\u{201D}", correct = false},
+{text = "\u{201C}Dastur al-muluk\u{201D}", correct = false},
+}
+},
+{
+question = "Manbalarga ko'ra qaysi ashtarxoniy hukmdor nochorlar ishini yengillashtirib, uning hukmronligi yillarida mamlakatda birorta ham isyon ko'tarilmagan?",
+answers = {
+{text = "Boqi Muhammadxon", correct = false},
+{text = "Vali Muhammadxon", correct = false},
+{text = "Imomqulixon", correct = true},
+{text = "Abulfayzxon", correct = false},
+}
+},
+{
+question = "XVII asrning ikkinchi yarmida tangalardagi kumush ulushi har safar necha foizdan kamaytirib borilgan?",
+answers = {
+{text = "1-3 foizdan", correct = false},
+{text = "5-10 foizdan", correct = true},
+{text = "15-20 foizdan", correct = false},
+{text = "25-30 foizdan", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida qishloq xo'jaligida yigirmadan ortiq navi mavjud bo'lgan asosiy don ekini qaysi biri edi?",
+answers = {
+{text = "Sholi", correct = false},
+{text = "Bug'doy", correct = true},
+{text = "Arpa", correct = false},
+{text = "Makkajo'xori", correct = false},
+}
+},
+{
+question = "\u{201C}O'zbek davlatchiligi tarixi\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Ziyodulla Muqimov", correct = false},
+{text = "Azamat Ziyo", correct = true},
+{text = "Shodmon Vohidov", correct = false},
+{text = "Akbar Zamonov", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar davrida aholi davom etib to'lagan soliqlar qatoriga qanday soliq turlari kirgan?",
+answers = {
+{text = "Xiroj (mol), ushr, tanob puli, alaf puli va zakot", correct = true},
+{text = "Faqat xiroj va zakot", correct = false},
+{text = "Faqat tanobona va ushr", correct = false},
+{text = "Faqat ixrojot", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar hukmronligi davrida mulkiy munosabatlar, nikoh-oila va jinoyat-jazo masalalari qanday qoidalar asosida belgilangan?",
+answers = {
+{text = "Urf-odat qoidalari asosida", correct = false},
+{text = "Shariat qoidalari asosida", correct = true},
+{text = "Davlat qonunlari asosida", correct = false},
+{text = "Dargoh farmonlari asosida", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar hukmronligi davrida davlatning xalqaro hayotdagi mavqeyi qanday tendensiyaga ega bo'lgan?",
+answers = {
+{text = "Barqaror saqlanib qolgan", correct = false},
+{text = "Susayib borgan", correct = true},
+{text = "Keskin oshgan", correct = false},
+{text = "O'zgarishsiz qolgan", correct = false},
+}
+},
+}
+
+-- MAVZU 13: Ashtarxoniylar davrida me'morchilik va ta'lim
+questions = {
+{
+question = "Samarqanddagi mashhur Sherdor va Tillakori madrasalari kim tomonidan qurdirilgan?",
+answers = {
+{text = "Nodir devonbegi tomonidan", correct = false},
+{text = "Yalangto'sh Bahodir tomonidan", correct = true},
+{text = "Muhammadyor otaliq tomonidan", correct = false},
+{text = "Subhonqulixon tomonidan", correct = false},
+}
+},
+{
+question = "Buxorodagi Abdulazizxon madrasasi zargarlar bozori yaqinida joylashganligi uchun yana qanday nom bilan atalgan?",
+answers = {
+{text = "\u{201C}Zargarlar madrasasi\u{201D}", correct = true},
+{text = "\u{201C}Kotiblar madrasasi\u{201D}", correct = false},
+{text = "\u{201C}Olimlar maskani\u{201D}", correct = false},
+{text = "\u{201C}Tabiblar madrasasi\u{201D}", correct = false},
+}
+},
+{
+question = "Buxorodagi Abdulazizxon madrasasi qaysi yilda va qaysi me'mor tomonidan bunyod etilgan?",
+answers = {
+{text = "1611-yilda Yalangto'sh Bahodir tomonidan", correct = false},
+{text = "1652-yilda Mimxoqon ibn Xo'ja Muhammadamin tomonidan", correct = true},
+{text = "1682-yilda Subhonqulixon tomonidan", correct = false},
+{text = "1708-yilda Ubaydullaxon tomonidan", correct = false},
+}
+},
+{
+question = "XVII asrning birinchi yarmidagi yirik amaldor va vazir bo'lib, o'z mablag'iga xonaqoh, hovuz va madrasadan iborat butun me'moriy ansamblni bunyod ettirgan shaxs kim bo'lgan?",
+answers = {
+{text = "Muhammadyor otaliq", correct = false},
+{text = "Nodir devonbegi", correct = true},
+{text = "Yalangto'sh Bahodir", correct = false},
+{text = "Doniyolbiy", correct = false},
+}
+},
+{
+question = "Nodir devonbegi bundan ilgariroq Buxoro Registonidagi Ark devorlari ostida qaysi masjidni qurdirgan?",
+answers = {
+{text = "Bolohovuz masjidini", correct = false},
+{text = "Mag'oki ko'rpa masjidini", correct = false},
+{text = "Poyandabiy otaliq masjidini", correct = true},
+{text = "Xo'ja Zayniddin masjidini", correct = false},
+}
+},
+{
+question = "Abdulazizxonning amaldori Muhammadyor otaliq Bozori-av joyida nimani qurdirgan?",
+answers = {
+{text = "Madrasa", correct = false},
+{text = "Xonaqoh", correct = true},
+{text = "Hammom", correct = false},
+{text = "Karvonsaroy", correct = false},
+}
+},
+{
+question = "Buxorodagi Jo'ybori Kalon madrasasi kutubxonasida necha mingdan ortiq kitob saqlangan?",
+answers = {
+{text = "5 mingdan ortiq", correct = false},
+{text = "8 mingdan ortiq", correct = true},
+{text = "10 mingdan ortiq", correct = false},
+{text = "3 mingdan ortiq", correct = false},
+}
+},
+{
+question = "Jo'ybori Kalon madrasasida (ayrim manbalarda 21 ta ko'rsatilgan) hujralar soni asosan nechta bo'lgan?",
+answers = {
+{text = "15 ta", correct = false},
+{text = "29 ta", correct = true},
+{text = "40 ta", correct = false},
+{text = "55 ta", correct = false},
+}
+},
+{
+question = "Subhonqulixon Buxoro Registonida sakkiz burchakli, bir qavatli kasalxona (Dor ush-shifo)ni qaysi yilda qurdirgan?",
+answers = {
+{text = "1657-yilda", correct = false},
+{text = "1671-yilda", correct = false},
+{text = "1682-yilda", correct = true},
+{text = "1691-yilda", correct = false},
+}
+},
+{
+question = "Subhonqulixonning tibbiyotga oid asari qanday nomlangan?",
+answers = {
+{text = "\u{201C}Dastur al-iloj\u{201D}", correct = false},
+{text = "\u{201C}Ihyo at-tibbi Subhoniy\u{201D}", correct = true},
+{text = "\u{201C}Isitmani o'rganishga doir\u{201D}", correct = false},
+{text = "\u{201C}Muzakkiri ahbob\u{201D}", correct = false},
+}
+},
+{
+question = "Subhonqulixonning \u{201C}Ihyo at-tibbi Subhoniy\u{201D} asari qo'lyozmasining bir nusxasi hozirda qaysi shahar kutubxonasida saqlanmoqda?",
+answers = {
+{text = "Istanbulda", correct = false},
+{text = "Budapeshtda (Vengriya)", correct = true},
+{text = "Londonda", correct = false},
+{text = "Parijda", correct = false},
+}
+},
+{
+question = "\u{201C}Bahr ul-asror\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Xoja Samandar Termiziy", correct = false},
+{text = "Mahmud ibn Vali", correct = true},
+{text = "Mir Muhammad Amin Buxoriy", correct = false},
+{text = "Abdurahmon Tole", correct = false},
+}
+},
+{
+question = "\u{201C}Muqimxon tarixi\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Muhammad Yusuf Munshiy", correct = true},
+{text = "Hojamqulixon Balxiy", correct = false},
+{text = "Mahmud ibn Vali", correct = false},
+{text = "Xoja Samandar Termiziy", correct = false},
+}
+},
+{
+question = "\u{201C}Ubaydullanoma\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Abdurahmon Tole", correct = false},
+{text = "Mir Muhammad Amin Buxoriy", correct = true},
+{text = "Hojamqulixon Balxiy", correct = false},
+{text = "Muhammad Yusuf Munshiy", correct = false},
+}
+},
+{
+question = "\u{201C}Abulfayzxon tarixi\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Abdurahmon Tole", correct = true},
+{text = "Mahmud ibn Vali", correct = false},
+{text = "Xoja Samandar Termiziy", correct = false},
+{text = "Mir Muhammad Amin Buxoriy", correct = false},
+}
+},
+{
+question = "Muhammad Murod Samarqandiy Firdavsiyning \u{201C}Shohnoma\u{201D} asarining qaysi yilda ko'chirilgan nusxasini 115 ta miniatyura bilan bezagan?",
+answers = {
+{text = "1530-yilda", correct = false},
+{text = "1556-yilda", correct = true},
+{text = "1600-yilda", correct = false},
+{text = "1630-yilda", correct = false},
+}
+},
+}
+
+-- MAVZU 14: Mang'itlar boshqaruvi davri
+questions = {
+{
+question = "Buxoroda hokimiyat tepasiga mang'itlar sulolasi kelib, davlatni qaysi yilgacha idora qilgan?",
+answers = {
+{text = "1900-yilgacha", correct = false},
+{text = "1917-yilgacha", correct = false},
+{text = "1920-yilgacha", correct = true},
+{text = "1924-yilgacha", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar saroyida dastlab miroxur va parvonachi lavozimlarida ishlab, qisqa fursatda mang'itlar qavmining yo'lboshchisiga aylangan shaxs kim bo'lgan?",
+answers = {
+{text = "Muhammad Rahimbiy", correct = false},
+{text = "Doniyolbiy", correct = false},
+{text = "Muhammad Hakimbiy", correct = true},
+{text = "Amir Shohmurod", correct = false},
+}
+},
+{
+question = "Muhammad Hakimbiy qaysi yilda vafot etgan?",
+answers = {
+{text = "1740-yilda", correct = false},
+{text = "1743-yilda", correct = true},
+{text = "1747-yilda", correct = false},
+{text = "1756-yilda", correct = false},
+}
+},
+{
+question = "Eron shohi Nodirshohning o'ldirilishi (bu voqea Muhammad Rahimbiyning Buxoro taxtini egallashiga yo'l ochgan) qaysi yilda sodir bo'lgan?",
+answers = {
+{text = "1740-yilda", correct = false},
+{text = "1743-yilda", correct = false},
+{text = "1747-yilda", correct = true},
+{text = "1756-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Rahimbiy hokimiyatni to'la qaysi yilda egallab, o'zini xon emas, amir deb e'lon qilgan?",
+answers = {
+{text = "1747-yilda", correct = false},
+{text = "1750-yilda", correct = false},
+{text = "1756-yilda", correct = true},
+{text = "1770-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Rahimbiy vafotidan so'ng hokimiyat kimga o'tgan?",
+answers = {
+{text = "O'g'li Shohmurodga", correct = false},
+{text = "Amakisi Doniyolbiyga", correct = true},
+{text = "Amir Nasrullaga", correct = false},
+{text = "Amir Haydarga", correct = false},
+}
+},
+{
+question = "Doniyolbiy o'limidan oldin kimni o'zining vorisi deb e'lon qilgan?",
+answers = {
+{text = "Ukasi Muhammad Rahimbiyni", correct = false},
+{text = "To'ng'ich o'g'li Shohmurodni", correct = true},
+{text = "Nabirasi Amir Haydarni", correct = false},
+{text = "Jiyani Amir Nasrullani", correct = false},
+}
+},
+{
+question = "1785-yilda Buxoro shahrida kelib chiqqan qo'zg'olon natijasida qancha kishi halok bo'lgan?",
+answers = {
+{text = "Yuzdan ortiq kishi", correct = false},
+{text = "Mingdan ortiq kishi", correct = true},
+{text = "O'n mingdan ortiq kishi", correct = false},
+{text = "Ellikdan ortiq kishi", correct = false},
+}
+},
+{
+question = "Amir Shohmurod hokimiyatga kelgach, Buxoro aholisini turli soliqlardan ozod qiluvchi qanday hujjat bergan?",
+answers = {
+{text = "Tarxon yorlig'ini", correct = true},
+{text = "Vaqfnomani", correct = false},
+{text = "Xudoydod mansabini", correct = false},
+{text = "Suyurg'ol yorlig'ini", correct = false},
+}
+},
+{
+question = "1825-1842-yillarda Xiva xonligini boshqargan qo'ng'irotlar yetakchisi kim bo'lgan?",
+answers = {
+{text = "Muhammad Amin inoq", correct = false},
+{text = "Olloqulixon", correct = true},
+{text = "Muhammad Rahimxon birinchi", correct = false},
+{text = "Muhammad Aminxon", correct = false},
+}
+},
+{
+question = "Amir Nasrulla Qo'qon xonligini qaysi yilda zabt etishga muvaffaq bo'lgan?",
+answers = {
+{text = "1826-yilda", correct = false},
+{text = "1836-yilda", correct = false},
+{text = "1842-yilda", correct = true},
+{text = "1852-yilda", correct = false},
+}
+},
+{
+question = "Amir Nasrulla Qo'qonga boshqaruvchi etib kimni tayinlagan?",
+answers = {
+{text = "Ibrohim parvonachini", correct = true},
+{text = "Musulmonqulni", correct = false},
+{text = "Sheralixonni", correct = false},
+{text = "Muhammadyusufni", correct = false},
+}
+},
+{
+question = "Mang'itlar Chingizxon davrida Amudaryoning qaysi sohiliga ko'chirilgan edi?",
+answers = {
+{text = "O'ng sohiliga", correct = false},
+{text = "Chap sohiliga", correct = true},
+{text = "Har ikkala sohiliga", correct = false},
+{text = "Quyi oqimiga", correct = false},
+}
+},
+{
+question = "Mang'itlarning bir qismi qaysi davrda Shayboniyxon bilan birga Movarounnahrga kirib kelgan?",
+answers = {
+{text = "O'n to'rtinchi asr oxirlarida", correct = false},
+{text = "O'n beshinchi asr oxiri - o'n oltinchi asr boshlarida", correct = true},
+{text = "O'n yettinchi asr o'rtalarida", correct = false},
+{text = "O'n sakkizinchi asr boshlarida", correct = false},
+}
+},
+{
+question = "Mang'itlarning kichikroq qismi XVI asr boshlarida qaysi aka-uka shayboniylarning qo'shini tarkibida Xorazmga o'rnashgan?",
+answers = {
+{text = "Elbars va Bilbars", correct = true},
+{text = "Din Muhammad va Boqi Muhammad", correct = false},
+{text = "Sulton Muhammad va Shohbudog'", correct = false},
+{text = "Abu Said va Abdulla", correct = false},
+}
+},
+{
+question = "Buxoro amirligiga yuborilgan rus geografi, sharqshunosi va diplomati yozgan kitobda ilk bor qaysi amirning musavvir tomonidan chizilgan portreti berilgan?",
+answers = {
+{text = "Amir Shohmurodning", correct = false},
+{text = "Amir Haydarning", correct = false},
+{text = "Amir Nasrullaxonning", correct = true},
+{text = "Muhammad Rahimbiyning", correct = false},
+}
+},
+}
+
+-- MAVZU 15: Mang'itlar davrida ijtimoiy-iqtisodiy hayot
+questions = {
+{
+question = "Mang'itlar davrida mang'it qabilasi asosan qaysi hududlarda yashagan?",
+answers = {
+{text = "Buxoro va Qarshi atroflarida", correct = true},
+{text = "Kattaqo'rg'on va Samarqandda", correct = false},
+{text = "Ziyovuddinda", correct = false},
+{text = "Shahrisabzda", correct = false},
+}
+},
+{
+question = "Mang'itlar davrida qipchoqlar asosan qaysi hududlarda yashagan?",
+answers = {
+{text = "Buxoro va Qarshi atroflarida", correct = false},
+{text = "Kattaqo'rg'on va Samarqandda", correct = true},
+{text = "Mirzacho'lda", correct = false},
+{text = "Nurda", correct = false},
+}
+},
+{
+question = "Mang'itlar davrida kenagaslar asosan qaysi hududda yashagan?",
+answers = {
+{text = "Shahrisabzda", correct = true},
+{text = "G'ijduvon atrofida", correct = false},
+{text = "Karmana atrofida", correct = false},
+{text = "Ziyovuddinda", correct = false},
+}
+},
+{
+question = "1832-yili Buxoroda bo'lib, Buxoro qovunlarini hind, fors va afg'on qovunlari bilan qiyoslab ta'riflagan ingliz elchisi kim bo'lgan?",
+answers = {
+{text = "A. Byorns", correct = true},
+{text = "A. Konolli", correct = false},
+{text = "Ch. Stoddart", correct = false},
+{text = "Antoni Jenkinson", correct = false},
+}
+},
+{
+question = "XVIII asrning 50-yillarida Panjikent, Sheroz, Urgut va Samarqand yaqinida qaysi ikki daryodan qazilgan ariqlar tozalangan?",
+answers = {
+{text = "Zarafshon va Norindan", correct = false},
+{text = "Oqdaryo va Qoradaryodan", correct = true},
+{text = "Amudaryo va Sirdaryodan", correct = false},
+{text = "Chirchiq va Vaxshdan", correct = false},
+}
+},
+{
+question = "Mang'itlar davrida pul muomalasidagi tartibsizliklarga barham beruvchi islohot qaysi yilda o'tkazilgan?",
+answers = {
+{text = "1753-yilda", correct = false},
+{text = "1758-yilda", correct = false},
+{text = "1785-yilda", correct = true},
+{text = "1794-yilda", correct = false},
+}
+},
+{
+question = "1753-1758-yillarda amir Muhammad Rahim tomonidan chiqarilgan va 1785-yilgi islohotdan keyin ham muomalada qoldirilgan tanga qanday nom bilan atalgan?",
+answers = {
+{text = "Ashrafiy", correct = false},
+{text = "Dinor", correct = false},
+{text = "Miri", correct = true},
+{text = "Xoniy", correct = false},
+}
+},
+{
+question = "Buxoro amirlari tomonidan rus podshosiga hadya qilingan va hozirda Rossiyaning Ermitaj muzeyida saqlanayotgan buyum nima bo'lgan?",
+answers = {
+{text = "Harbiy chodir", correct = true},
+{text = "Oltin dubulg'a", correct = false},
+{text = "Qimmatbaho gilam", correct = false},
+{text = "Zarhal qilich", correct = false},
+}
+},
+{
+question = "Usmonli sultonligi tomonidan Buxoroga yuborilgan va amir Shohmuroddan rus hukumatiga qarshi chiqishni so'ragan elchi kim bo'lgan?",
+answers = {
+{text = "Mustafo", correct = false},
+{text = "Olamgir Mehmed Sayidog'a", correct = true},
+{text = "Hakim Humom", correct = false},
+{text = "Sadr Jahon", correct = false},
+}
+},
+{
+question = "1863-yili Turkistonda bo'lgan, mahalliy mahsulotlarning arzonligi haqida yozib qoldirgan vengriyalik sayyoh va olim kim bo'lgan?",
+answers = {
+{text = "Antoni Jenkinson", correct = false},
+{text = "Arminiy Vamberi", correct = true},
+{text = "A. Byorns", correct = false},
+{text = "Florio Beneveni", correct = false},
+}
+},
+{
+question = "Qrim rasmiy ravishda Rossiya va Usmonli imperiyalari o'rtasidagi Yassi tinchlik shartnomasiga binoan qaysi sanada Rossiyaga o'tgan?",
+answers = {
+{text = "1783-yil 1-yanvarda", correct = false},
+{text = "1791-yil 29-dekabr (1792-yil 9-yanvar)da", correct = true},
+{text = "1800-yil 1-martda", correct = false},
+{text = "1826-yil 12-fevralda", correct = false},
+}
+},
+{
+question = "Rossiyaning Qrimda mustahkam o'rnashib olishga qaratilgan birinchi urinishi (Azov kampaniyasi) qaysi imperator hukmronligining boshlanishiga to'g'ri keladi?",
+answers = {
+{text = "Yekaterina II ga", correct = false},
+{text = "Pyotr I (Buyuk)ga", correct = true},
+{text = "Aleksandr I ga", correct = false},
+{text = "Ivan Grozniyga", correct = false},
+}
+},
+{
+question = "Qrimni Rossiya tarkibiga qo'shib olishga kim erishgan?",
+answers = {
+{text = "Pyotr I", correct = false},
+{text = "Imperator Yekaterina II", correct = true},
+{text = "Imperator Aleksandr I", correct = false},
+{text = "Ivan Grozniy", correct = false},
+}
+},
+{
+question = "Buxoroga kelib, Ost-Indiya kompaniyasining maxfiy topshiriqlarini bajargan inglizlar orasida kimlar bo'lgan?",
+answers = {
+{text = "U. Murkroft, D. Trebek, A. Byorns, A. Konolli va Ch. Stoddart", correct = true},
+{text = "Ivan Xoxlov va Daudov", correct = false},
+{text = "Florio Beneveni va V. Perovskiy", correct = false},
+{text = "M. Bekchurin va A. Jenkinson", correct = false},
+}
+},
+{
+question = "Mang'itlar davrida naymanlar asosan qaysi hududda yashagan?",
+answers = {
+{text = "Mirzacho'lda", correct = false},
+{text = "Ziyovuddinda", correct = true},
+{text = "Nurda", correct = false},
+{text = "G'ijduvon atrofida", correct = false},
+}
+},
+{
+question = "Mang'itlar davrida do'rmonlar asosan qaysi hudud atrofida yashagan?",
+answers = {
+{text = "G'ijduvon atrofida", correct = true},
+{text = "Karmana atrofida", correct = false},
+{text = "Qarshi atrofida", correct = false},
+{text = "Shahrisabz atrofida", correct = false},
+}
+},
+}
