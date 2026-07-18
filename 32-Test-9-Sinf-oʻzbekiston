@@ -1,0 +1,739 @@
+-- MAVZU 6: Shayboniylar davrida ichki va tashqi savdo
+questions = {
+{
+question = "Ingliz sayyohi, savdo agenti va diplomat bo'lib, XVI asr o'rtalarida Buxoroda bo'lgan va bu haqda muhim ma'lumotlar yozib qoldirgan shaxs kim?",
+answers = {
+{text = "A. Byorns", correct = false},
+{text = "Antoni Jenkinson", correct = true},
+{text = "Florio Beneveni", correct = false},
+{text = "V. Perovskiy", correct = false},
+}
+},
+{
+question = "Shayboniylar davrida muomalada bo'lgan oltin tanga qanday nom bilan atalgan?",
+answers = {
+{text = "Tanga", correct = false},
+{text = "Dinor", correct = false},
+{text = "Ashrafiy", correct = true},
+{text = "Miri", correct = false},
+}
+},
+{
+question = "Shayboniylar davrida kumush va kumushcha tangalar qanday nomlar bilan atalgan?",
+answers = {
+{text = "Ashrafiy va miri", correct = false},
+{text = "Tanga, tangacha va xoniy", correct = true},
+{text = "Dinor va pul", correct = false},
+{text = "Tanobona va ushr", correct = false},
+}
+},
+{
+question = "Kumush va mis aralashmasidan tayyorlangan tangalar qanday atalgan?",
+answers = {
+{text = "Ashrafiy", correct = false},
+{text = "Xoniy", correct = false},
+{text = "Mis dinor (dinor)", correct = true},
+{text = "Tangacha", correct = false},
+}
+},
+{
+question = "Muhammad Shayboniyxon zarb ettirgan kumush tangalarning og'irligi qancha bo'lgan?",
+answers = {
+{text = "3,5 gramm", correct = false},
+{text = "5,2 gramm", correct = true},
+{text = "7,1 gramm", correct = false},
+{text = "4,0 gramm", correct = false},
+}
+},
+{
+question = "Kumush tanganing qiymati necha mis tangaga teng bo'lgan?",
+answers = {
+{text = "10-12 mis tangaga", correct = false},
+{text = "15-17 mis tangaga", correct = false},
+{text = "20-21 mis tangaga", correct = true},
+{text = "25-30 mis tangaga", correct = false},
+}
+},
+{
+question = "Abdullaxon ikkinchi o'tkazgan pul islohoti natijasida qanday tanga zarb ettirilgan?",
+answers = {
+{text = "Yirik mis tanga", correct = false},
+{text = "Juda kichik tanga tarzidagi oltin tanga", correct = true},
+{text = "Kumush va mis aralashmali tanga", correct = false},
+{text = "Yirik kumush tanga", correct = false},
+}
+},
+{
+question = "Shayboniylar davrida asosiy zarbxona qaysi shaharda bo'lgan?",
+answers = {
+{text = "Samarqandda", correct = false},
+{text = "Toshkentda", correct = false},
+{text = "Buxoroda", correct = true},
+{text = "Balxda", correct = false},
+}
+},
+{
+question = "Buxorodan tashqari yana qaysi shaharlarda ham tanga zarb etilgan?",
+answers = {
+{text = "Balx, Samarqand va Toshkentda", correct = true},
+{text = "Xiva, Marv va Hirotda", correct = false},
+{text = "Qarshi, Termiz va Andijonda", correct = false},
+{text = "Farg'ona, Namangan va O'shda", correct = false},
+}
+},
+{
+question = "Shayboniylar davrida asosiy yer solig'i temuriylar zamonidagi kabi qanday atalgan?",
+answers = {
+{text = "Ushr", correct = false},
+{text = "Zakot", correct = false},
+{text = "Xiroj (mol)", correct = true},
+{text = "Tanobona", correct = false},
+}
+},
+{
+question = "Bog' va polizlarning har tanobidan undiriladigan soliq qanday atalgan?",
+answers = {
+{text = "Alaf puli", correct = false},
+{text = "Tanob puli", correct = true},
+{text = "Ixrojot", correct = false},
+{text = "Zakot", correct = false},
+}
+},
+{
+question = "Bedazorlardan undirilgan soliq qanday atalgan?",
+answers = {
+{text = "Tanob puli", correct = false},
+{text = "Xiroj", correct = false},
+{text = "Alaf puli", correct = true},
+{text = "Ushr", correct = false},
+}
+},
+{
+question = "Tanob puli va alaf puli birgalikda qanday yagona nom bilan atalgan?",
+answers = {
+{text = "Xiroj", correct = false},
+{text = "Tanobona", correct = true},
+{text = "Ixrojot", correct = false},
+{text = "Zakot", correct = false},
+}
+},
+{
+question = "Har bir musulmon o'z daromadining necha qismini zakot tarzida to'lashi lozim bo'lgan?",
+answers = {
+{text = "1/10 qismini", correct = false},
+{text = "1/40 qismini", correct = true},
+{text = "1/5 qismini", correct = false},
+{text = "1/20 qismini", correct = false},
+}
+},
+{
+question = "Ko'chmanchi va yarimko'chmanchi aholi zakotni qanday to'lagan?",
+answers = {
+{text = "Pul bilan", correct = false},
+{text = "G'alla bilan", correct = false},
+{text = "Tovar (mol) bilan, ya'ni 40 ta qo'ydan bir qo'y", correct = true},
+{text = "Mehnat majburiyati bilan", correct = false},
+}
+},
+{
+question = "Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun to'plangan turli soliqlar qanday umumiy nom bilan atalgan?",
+answers = {
+{text = "Ixrojot", correct = true},
+{text = "Tanobona", correct = false},
+{text = "Xiroj", correct = false},
+{text = "Ushr", correct = false},
+}
+},
+}
+
+-- MAVZU 7: Shayboniylar davrida madaniy hayot
+questions = {
+{
+question = "\u{201C}Muzakkiri ahbob\u{201D} (Do'stlar yodnomasi) asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Muhammad Solih", correct = false},
+{text = "Hasanxo'ja Nisoriy", correct = true},
+{text = "Sulton Ali", correct = false},
+{text = "Muhammad Yusuf", correct = false},
+}
+},
+{
+question = "Hasanxo'ja Nisoriyning \u{201C}Muzakkiri ahbob\u{201D} asari kimga bag'ishlab yozilgan?",
+answers = {
+{text = "Muhammad Shayboniyxonga", correct = false},
+{text = "Ubaydullaxonga", correct = false},
+{text = "Abdullaxon ikkinchiga", correct = true},
+{text = "Abdulazizxonga", correct = false},
+}
+},
+{
+question = "Abdullaxon ikkinchi davrida bunyod etilgan me'moriy obidalarning soni qanchadan oshgan?",
+answers = {
+{text = "500 tadan", correct = false},
+{text = "1000 tadan", correct = true},
+{text = "2000 tadan", correct = false},
+{text = "300 tadan", correct = false},
+}
+},
+{
+question = "Abdullaxon ikkinchi Buxoroni poytaxtga aylantirib, Sumiton qishlog'ini shaharga qo'shganidan so'ng shahar devoriga qanday darvoza qo'shilgan?",
+answers = {
+{text = "Registon darvozasi", correct = false},
+{text = "Talipoch darvozasi", correct = false},
+{text = "Yangi darvoza (Darvozayi nav)", correct = true},
+{text = "Qorako'l darvozasi", correct = false},
+}
+},
+{
+question = "Abdullaxon ikkinchining portreti qaysi yilga oid?",
+answers = {
+{text = "1560-yilga", correct = false},
+{text = "1570-yilga", correct = true},
+{text = "1580-yilga", correct = false},
+{text = "1590-yilga", correct = false},
+}
+},
+{
+question = "Abdulazizxon kutubxonasida faoliyat yuritgan \u{201C}kotiblar podshosi\u{201D} kim bo'lgan?",
+answers = {
+{text = "Sulton Mirak Munshiy", correct = false},
+{text = "Amir Ali Husayniy", correct = true},
+{text = "Hasanxoja Nisoriy", correct = false},
+{text = "Muhammad Solih", correct = false},
+}
+},
+{
+question = "Muhammad Shayboniyxon Samarqand yaqinidagi Konigilda o'tkazgan ilmiy majlis qaysi yilga oid?",
+answers = {
+{text = "1500-yilga", correct = false},
+{text = "1501-yilga", correct = false},
+{text = "1502-yilga", correct = true},
+{text = "1510-yilga", correct = false},
+}
+},
+{
+question = "Muhammad Shayboniyxonning \u{201C}Bahr ul-hido\u{201D} (\u{201C}Hidoyat dengizi\u{201D}) dostoni hozirda qayerda saqlanadi?",
+answers = {
+{text = "Istanbulning To'pqopi saroyi muzeyida", correct = false},
+{text = "Britaniya muzeyida", correct = true},
+{text = "Sankt-Peterburg kutubxonasida", correct = false},
+{text = "Budapesht kutubxonasida", correct = false},
+}
+},
+{
+question = "Muhammad Shayboniyxonning \u{201C}Devon\u{201D}i hozirda qayerda saqlanadi?",
+answers = {
+{text = "Britaniya muzeyida", correct = false},
+{text = "Istanbulning To'pqopi saroyi muzeyida", correct = true},
+{text = "Qohira kutubxonasida", correct = false},
+{text = "Toshkent kutubxonasida", correct = false},
+}
+},
+{
+question = "\u{201C}Shayboniynoma\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Hasanxo'ja Nisoriy", correct = false},
+{text = "Sulton Ali", correct = false},
+{text = "Muhammad Solih", correct = true},
+{text = "Muhammad Yusuf", correct = false},
+}
+},
+{
+question = "\u{201C}Shayboniynoma\u{201D} asarida Shayboniyxonning tug'ilganidan qaysi yilgacha bo'lgan voqealar hikoya qilinadi?",
+answers = {
+{text = "1500-yilgacha", correct = false},
+{text = "1505-yilgacha", correct = true},
+{text = "1510-yilgacha", correct = false},
+{text = "1520-yilgacha", correct = false},
+}
+},
+{
+question = "Tabib va olim Sulton Ali qanday tibbiy asar yozgan?",
+answers = {
+{text = "\u{201C}Isitmani o'rganishga doir\u{201D}", correct = false},
+{text = "\u{201C}Qon tomiri va peshob\u{201D}", correct = false},
+{text = "\u{201C}Dastur al-iloj\u{201D}", correct = true},
+{text = "\u{201C}Ihyo at-tibbi Subhoniy\u{201D}", correct = false},
+}
+},
+{
+question = "\u{201C}Isitmani o'rganishga doir\u{201D} va \u{201C}Qon tomiri va peshob\u{201D} asarlarining muallifi kim bo'lgan?",
+answers = {
+{text = "Sulton Ali", correct = false},
+{text = "Muhammad Yusuf", correct = true},
+{text = "Hasanxo'ja Nisoriy", correct = false},
+{text = "Mutribiy Samarqandiy", correct = false},
+}
+},
+{
+question = "Shayboniylar davrida bolalar maktabga necha yoshidan qabul qilingan?",
+answers = {
+{text = "5 yoshidan", correct = false},
+{text = "6 yoshidan", correct = true},
+{text = "7 yoshidan", correct = false},
+{text = "8 yoshidan", correct = false},
+}
+},
+{
+question = "Shayboniyxon islohotiga ko'ra joriy etilgan ko'p bosqichli ta'lim tizimida o'qish jami necha yil davom etgan?",
+answers = {
+{text = "20 yil", correct = false},
+{text = "24 yil", correct = false},
+{text = "26 yil", correct = true},
+{text = "30 yil", correct = false},
+}
+},
+{
+question = "Shoir va adabiyotshunos Mutribiy Samarqandiy Xoja Guzorda qaysi hukmdor bilan uchrashib, undan 3 ta savolga to'g'ri javob bergani uchun mukofot olgan?",
+answers = {
+{text = "Muhammad Shayboniyxondan", correct = false},
+{text = "Ubaydullaxondan", correct = false},
+{text = "Abdullaxon ikkinchidan", correct = true},
+{text = "Abdulazizxondan", correct = false},
+}
+},
+}
+
+-- MAVZU 8: Shayboniylar davri me'morchiligi
+questions = {
+{
+question = "Shayboniylar Markaziy Osiyoda necha yil mobaynida (qaysi yillarda) hukmronlik qilgan?",
+answers = {
+{text = "80 yil (1520-1600-yillarda)", correct = false},
+{text = "100 yil (1500-1601-yillarda)", correct = true},
+{text = "150 yil (1500-1650-yillarda)", correct = false},
+{text = "90 yil (1510-1600-yillarda)", correct = false},
+}
+},
+{
+question = "Toshkentdagi Ko'kaldosh madrasasi qaysi yillar orasida qurib ishga tushirilgan?",
+answers = {
+{text = "1500-1520-yillar orasida", correct = false},
+{text = "1530-1550-yillar orasida", correct = false},
+{text = "1551-1575-yillar orasida", correct = true},
+{text = "1580-1601-yillar orasida", correct = false},
+}
+},
+{
+question = "Toshkentdagi Ko'kaldosh madrasasida hujralar soni nechta bo'lgan?",
+answers = {
+{text = "22 ta", correct = false},
+{text = "30 ta", correct = false},
+{text = "38 ta", correct = true},
+{text = "45 ta", correct = false},
+}
+},
+{
+question = "Buxorodagi Mir Arab madrasasi necha qavatdan iborat bo'lib, unda nechta xona bor?",
+answers = {
+{text = "Ikki qavat, 60 ta xona", correct = false},
+{text = "Uch qavat, 90 ta xona", correct = false},
+{text = "To'rt qavat, 114 ta xona", correct = true},
+{text = "Besh qavat, 130 ta xona", correct = false},
+}
+},
+{
+question = "Mir Arab madrasasi qaysi yillarda va kim tomonidan qurdirilgan?",
+answers = {
+{text = "1500-1505-yillarda Muhammad Shayboniyxon tomonidan", correct = false},
+{text = "1530-1536-yillarda shayx Mir Arab tomonidan", correct = true},
+{text = "1551-1575-yillarda Ko'kaldosh tomonidan", correct = false},
+{text = "1531-1532-yillarda Baroqxon tomonidan", correct = false},
+}
+},
+{
+question = "Xalq orasida \u{201C}Mir Arab\u{201D} nomi bilan mashhur bo'lgan olimning asl ismi nima edi?",
+answers = {
+{text = "Sayyid Abdulloh Yamaniy", correct = true},
+{text = "Muhammad Solih", correct = false},
+{text = "Xoja Ahror Valiy", correct = false},
+{text = "Shayx Zakariyo", correct = false},
+}
+},
+{
+question = "Mir Arab necha yoshida ilm izlab Samarqandga kelgan?",
+answers = {
+{text = "18 yoshida", correct = false},
+{text = "20 yoshida", correct = false},
+{text = "22 yoshida", correct = true},
+{text = "25 yoshida", correct = false},
+}
+},
+{
+question = "Samarqandga kelgan Mir Arab kimga shogird tushgan?",
+answers = {
+{text = "Xoja Ahror Valiyga", correct = true},
+{text = "Ubaydullaxonga", correct = false},
+{text = "Muhammad Bakrga", correct = false},
+{text = "Shayx Zakariyoga", correct = false},
+}
+},
+{
+question = "Mir Arab qaysi yilda vafot etib, madrasa qurilishini kim yakunlagan?",
+answers = {
+{text = "1530-yilda, o'g'li yakunlagan", correct = false},
+{text = "1536-yilda, kuyovi Shayx Zakariyo yakunlagan", correct = true},
+{text = "1540-yilda, Ubaydullaxon yakunlagan", correct = false},
+{text = "1550-yilda, Abdullaxon yakunlagan", correct = false},
+}
+},
+{
+question = "Buxorodagi Toqi Zargaron qaysi hukmdor davrida qurilgan?",
+answers = {
+{text = "Muhammad Shayboniyxon davrida", correct = false},
+{text = "Ubaydullaxon davrida", correct = false},
+{text = "Abdullaxon ikkinchi davrida", correct = true},
+{text = "Abdulazizxon davrida", correct = false},
+}
+},
+{
+question = "O'tmishda Toqi Zargaron dalonlarida nechta zargarlik ustaxonasi va do'koni bo'lgan?",
+answers = {
+{text = "20 ta", correct = false},
+{text = "36 ta", correct = true},
+{text = "50 ta", correct = false},
+{text = "60 ta", correct = false},
+}
+},
+{
+question = "Buxorodagi Abdullaxon madrasasi qarshisidagi Modarixon madrasasi kimga atab qurilgan?",
+answers = {
+{text = "Abdullaxon ikkinchining onasiga", correct = true},
+{text = "Ubaydullaxonning rafiqasiga", correct = false},
+{text = "Abdulazizxonning qiziga", correct = false},
+{text = "Shayboniyxonning singlisiga", correct = false},
+}
+},
+{
+question = "Baroqxon madrasasi qaysi yillarda Toshkentda qurilgan?",
+answers = {
+{text = "1500-1505-yillarda", correct = false},
+{text = "1520-1525-yillarda", correct = false},
+{text = "1531-1532-yillarda", correct = true},
+{text = "1551-1575-yillarda", correct = false},
+}
+},
+{
+question = "Baroqxon kim bo'lgan?",
+answers = {
+{text = "Muhammad Shayboniyxonning o'g'li", correct = false},
+{text = "Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing kichik o'g'li", correct = true},
+{text = "Ubaydullaxonning ukasi", correct = false},
+{text = "Abdullaxon ikkinchining amakisi", correct = false},
+}
+},
+{
+question = "Baroqxon madrasasining gumbazi balandligi qancha bo'lgan?",
+answers = {
+{text = "15 metr", correct = false},
+{text = "18 metr", correct = false},
+{text = "22 metr", correct = true},
+{text = "30 metr", correct = false},
+}
+},
+{
+question = "1558-yili Buxoroga tashrif buyurib, u yerdagi hammomlar haqida \u{201C}bunaqasi dunyoning hech qayerida yo'q\u{201D} deb yozgan ingliz sayyohi kim bo'lgan?",
+answers = {
+{text = "A. Byorns", correct = false},
+{text = "Antoni Jenkinson", correct = true},
+{text = "V. Perovskiy", correct = false},
+{text = "Florio Beneveni", correct = false},
+}
+},
+}
+
+-- MAVZU 9: Shayboniylarning tashqi siyosati
+questions = {
+{
+question = "Shahzoda Abdulmo'min Eronga qarshi birga kurashish taklifi bilan qaysi usmonli sultoniga xat yuborgan?",
+answers = {
+{text = "Sulaymon Qonuniyga", correct = false},
+{text = "Murod III ga", correct = true},
+{text = "Sulton Ahmad II ga", correct = false},
+{text = "Mahmud II ga", correct = false},
+}
+},
+{
+question = "1576-yilda Eronda yuzaga kelgan siyosiy inqirozdan foydalanib safaviylarga qarshi urush ochgan usmonli sultoni kim bo'lgan?",
+answers = {
+{text = "Murod III", correct = true},
+{text = "Sulton Ahmad II", correct = false},
+{text = "Mahmud II", correct = false},
+{text = "Sulaymon Qonuniy", correct = false},
+}
+},
+{
+question = "1586-yili Akbarshoh tomonidan Buxoroga qanday elchilar boshchiligida elchilik yuborilgan?",
+answers = {
+{text = "Mir Quraysh boshchiligida", correct = false},
+{text = "Hakim Humom va Sadr Jahon boshchiligida", correct = true},
+{text = "Muhammad Sharif boshchiligida", correct = false},
+{text = "Rustambiy boshchiligida", correct = false},
+}
+},
+{
+question = "1509-yilda Shayboniyxon qaysi qozoq sultonlariga qattiq zarbalar bergan?",
+answers = {
+{text = "Girayxon va Jonibekxonga", correct = false},
+{text = "Jonish Sulton, Burunduqxon va Qosim Sultonga", correct = true},
+{text = "Abulxayrxon va Baroqxonga", correct = false},
+{text = "Isobug'axon va Girayxonga", correct = false},
+}
+},
+{
+question = "1509-yildagi g'alabadan so'ng Shayboniyxon qaysi shaharlarni qo'lga kiritgan?",
+answers = {
+{text = "Sig'noq, Yassi va Savronni", correct = true},
+{text = "Buxoro va Samarqandni", correct = false},
+{text = "Xiva va Urganchni", correct = false},
+{text = "Balx va Hirotni", correct = false},
+}
+},
+{
+question = "Shayboniyxon Turkistondagi qaysi maqbarani ta'mirlashga buyruq bergan?",
+answers = {
+{text = "Xo'ja Ahmad Yassaviy maqbarasini", correct = true},
+{text = "Pahlavon Mahmud maqbarasini", correct = false},
+{text = "Sulton Uvays bobo maqbarasini", correct = false},
+{text = "Sayid Alovuddin maqbarasini", correct = false},
+}
+},
+{
+question = "Kuchumxon Abdullaxon ikkinchining harbiy yordami bilan qaysi yilda Sibir xonligida hokimiyat tepasiga kelgan?",
+answers = {
+{text = "1552-yilda", correct = false},
+{text = "1556-yilda", correct = false},
+{text = "1563-yilda", correct = true},
+{text = "1574-yilda", correct = false},
+}
+},
+{
+question = "Kuchumxon Abdullaxon ikkinchiga o'z hududiga sayyid va shayxlar yuborishni so'rab qaysi yilda xat yozgan?",
+answers = {
+{text = "1563-yilda", correct = false},
+{text = "1574-yilda", correct = true},
+{text = "1581-yilda", correct = false},
+{text = "1583-yilda", correct = false},
+}
+},
+{
+question = "Rossiya hukmdori Ivan Grozniy Qozon xonligini qaysi yilda bosib olgan?",
+answers = {
+{text = "1552-yilda", correct = true},
+{text = "1556-yilda", correct = false},
+{text = "1563-yilda", correct = false},
+{text = "1574-yilda", correct = false},
+}
+},
+{
+question = "Ivan Grozniy Ashtarxon xonligini qaysi yilda bosib olgan?",
+answers = {
+{text = "1552-yilda", correct = false},
+{text = "1556-yilda", correct = true},
+{text = "1563-yilda", correct = false},
+{text = "1581-yilda", correct = false},
+}
+},
+{
+question = "Yermak boshliq kazaklar Kuchumxonga qarshi kurashga qaysi yillarda kirishgan?",
+answers = {
+{text = "1552-1556-yillarda", correct = false},
+{text = "1563-1574-yillarda", correct = false},
+{text = "1581-1583-yillarda", correct = true},
+{text = "1590-1592-yillarda", correct = false},
+}
+},
+{
+question = "Shayboniylarning asosiy raqibi bo'lgan, islomning shialik yo'nalishiga e'tiqod qiluvchi davlat qanday atalgan?",
+answers = {
+{text = "Boburiylar davlati", correct = false},
+{text = "Safaviylar davlati", correct = true},
+{text = "Usmonli sultonligi", correct = false},
+{text = "Qozoq xonligi", correct = false},
+}
+},
+{
+question = "Shayboniylar davlati mustahkam diplomatik va ittifoqchilik aloqalarini qaysi davlat bilan o'rnatgan?",
+answers = {
+{text = "Safaviylar davlati bilan", correct = false},
+{text = "Rossiya bilan", correct = false},
+{text = "Usmonli sultonligi bilan", correct = true},
+{text = "Xitoy bilan", correct = false},
+}
+},
+{
+question = "Uzoq Sibirdagi rus fuqarolari o'z podshosidan qaysi ikki xonlikka savdogarlar yuborishni so'ragan?",
+answers = {
+{text = "Buxoro va No'g'oy xonligiga", correct = true},
+{text = "Xiva va Qozoq xonligiga", correct = false},
+{text = "Sibir va Qrim xonligiga", correct = false},
+{text = "Qozon va Ashtarxon xonligiga", correct = false},
+}
+},
+{
+question = "Shayboniylar munosabatlari turlicha kechgan yana bir o'zbek davlati qaysi edi?",
+answers = {
+{text = "Buxoro amirligi", correct = false},
+{text = "Qo'qon xonligi", correct = false},
+{text = "Xiva xonligi", correct = true},
+{text = "Qoraqalpog'iston", correct = false},
+}
+},
+{
+question = "Shayboniylar tashqi siyosatida Xuroson masalasida qaysi uch tomonning manfaatlari to'qnashgan?",
+answers = {
+{text = "Shayboniylar, safaviylar va boburiylarning", correct = true},
+{text = "Shayboniylar, usmonlilar va Rossiyaning", correct = false},
+{text = "Safaviylar, boburiylar va Xitoyning", correct = false},
+{text = "Shayboniylar, Sibir xonligi va Qozoq xonligining", correct = false},
+}
+},
+}
+
+-- MAVZU 10: Ashtarxoniylarning hukmronlik davri
+questions = {
+{
+question = "Buxoro xonligidagi shayboniylar sulolasining so'nggi hukmdori kim bo'lgan?",
+answers = {
+{text = "Abdullaxon ikkinchi", correct = false},
+{text = "Abdulmo'minxon", correct = false},
+{text = "Pir Muhammadxon ikkinchi", correct = true},
+{text = "Ubaydullaxon", correct = false},
+}
+},
+{
+question = "Hokimiyat shayboniylardan ashtarxoniylar qo'liga qaysi yilda o'tgan?",
+answers = {
+{text = "1556-yilda", correct = false},
+{text = "1598-yilda", correct = false},
+{text = "1601-yilda", correct = true},
+{text = "1611-yilda", correct = false},
+}
+},
+{
+question = "1556-yili Ashtarxon xonligi Rossiya tomonidan bosib olingach, Yor Muhammadxon qaysi shaharga jo'nashga majbur bo'lgan?",
+answers = {
+{text = "Samarqandga", correct = false},
+{text = "Buxoroga", correct = true},
+{text = "Xivaga", correct = false},
+{text = "Balxga", correct = false},
+}
+},
+{
+question = "Shayboniylardan Iskandarxon o'z qizi Zuhrabonuni kimga turmushga bergan?",
+answers = {
+{text = "Yor Muhammadxonga", correct = false},
+{text = "Joni Muhammad sultonga", correct = true},
+{text = "Boqi Muhammadga", correct = false},
+{text = "Vali Muhammadga", correct = false},
+}
+},
+{
+question = "Joni Muhammad sulton va Zuhrabonu nikohidan qaysi uch farzand dunyoga kelgan?",
+answers = {
+{text = "Din Muhammad, Boqi Muhammad va Vali Muhammad", correct = true},
+{text = "Imomquli, Nadr Muhammad va Abdulaziz", correct = false},
+{text = "Subhonquli, Ubaydulla va Abulfayz", correct = false},
+{text = "Yor Muhammad, Iskandar va Boqi", correct = false},
+}
+},
+{
+question = "1601-yilda oliy taxtni shayboniylardan tortib olishga muvaffaq bo'lgan ashtarxoniy hukmdor kim bo'lgan?",
+answers = {
+{text = "Vali Muhammadxon", correct = false},
+{text = "Boqi Muhammadxon", correct = true},
+{text = "Imomqulixon", correct = false},
+{text = "Nadr Muhammadxon", correct = false},
+}
+},
+{
+question = "Yalangto'sh Bahodir qaysi yilda Nurota hokimi oilasida tug'ilgan?",
+answers = {
+{text = "1556-yilda", correct = false},
+{text = "1578-yilda", correct = true},
+{text = "1601-yilda", correct = false},
+{text = "1611-yilda", correct = false},
+}
+},
+{
+question = "Yalangto'sh Bahodir qaysi yildan boshlab Samarqandni amalda mustaqil idora eta boshlagan?",
+answers = {
+{text = "1611-yildan", correct = false},
+{text = "1620-yildan", correct = false},
+{text = "1626-yildan", correct = true},
+{text = "1640-yildan", correct = false},
+}
+},
+{
+question = "Mahalliy zodagonlar Samarqand hokimi Imomquli sultonni oliy taxtga qaysi yilda o'tqazganlar?",
+answers = {
+{text = "1601-yilda", correct = false},
+{text = "1611-yilda", correct = true},
+{text = "1626-yilda", correct = false},
+{text = "1642-yilda", correct = false},
+}
+},
+{
+question = "Imomqulixon Rossiyaga elchilar yuborib, Yalangto'sh Bahodir boshchiligida qo'shin yuborishga tayyorligini qaysi yilda bildirgan?",
+answers = {
+{text = "1611-yilda", correct = false},
+{text = "1626-yilda", correct = false},
+{text = "1640-yilda", correct = true},
+{text = "1648-yilda", correct = false},
+}
+},
+{
+question = "Abdulazizxon 200 ming kishilik qo'shin bilan Balxga qaysi yilning yozida yurish qilib, boburiylardan bu viloyatni qaytarib olgan?",
+answers = {
+{text = "1626-yil yozida", correct = false},
+{text = "1640-yil yozida", correct = false},
+{text = "1648-yil yozida", correct = true},
+{text = "1656-yil yozida", correct = false},
+}
+},
+{
+question = "Nadr Muhammadxon o'zbek davlatini qaysi yillarda boshqargan?",
+answers = {
+{text = "1611-1626-yillarda", correct = false},
+{text = "1626-1642-yillarda", correct = false},
+{text = "1642-1645-yillarda", correct = true},
+{text = "1645-1681-yillarda", correct = false},
+}
+},
+{
+question = "Yalangto'sh Bahodir qaysi yillarda yashagan?",
+answers = {
+{text = "1556-1620-yillarda", correct = false},
+{text = "1578-1656-yillarda", correct = true},
+{text = "1601-1670-yillarda", correct = false},
+{text = "1611-1681-yillarda", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar sulolasining so'nggi vakili kim bo'lgan?",
+answers = {
+{text = "Subhonqulixon", correct = false},
+{text = "Ubaydullaxon", correct = false},
+{text = "Abulfayzxon", correct = true},
+{text = "Abdulazizxon", correct = false},
+}
+},
+{
+question = "Abulfayzxon qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1681-1702-yillarda", correct = false},
+{text = "1702-1711-yillarda", correct = false},
+{text = "1711-1747-yillarda", correct = true},
+{text = "1645-1681-yillarda", correct = false},
+}
+},
+{
+question = "Eron shohi Nodirshoh qo'shinlarining Buxoroga yurishi qaysi yilda boshlangan?",
+answers = {
+{text = "1711-yilda", correct = false},
+{text = "1726-yilda", correct = false},
+{text = "1740-yilda", correct = true},
+{text = "1747-yilda", correct = false},
+}
+},
+}
