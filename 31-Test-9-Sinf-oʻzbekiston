@@ -1,0 +1,739 @@
+-- MAVZU 1: O'n beshinchi asrning oxiri - o'n oltinchi asrning boshlarida Turonda siyosiy vaziyat
+questions = {
+{
+question = "Abulxayrxon qaysi yilda tug'ilgan?",
+answers = {
+{text = "1408-yilda", correct = false},
+{text = "1412-yilda", correct = true},
+{text = "1420-yilda", correct = false},
+{text = "1428-yilda", correct = false},
+}
+},
+{
+question = "Abulxayrxon Tura shahrini bosib olib, uni davlat poytaxtiga qaysi yilda aylantirgan?",
+answers = {
+{text = "1446-yilda", correct = false},
+{text = "1430-yilda", correct = false},
+{text = "1428-yilda", correct = true},
+{text = "1412-yilda", correct = false},
+}
+},
+{
+question = "Abulxayrxon Xorazmni ishg'ol qilib, \u{201C}Ulug' xon\u{201D} unvonini qaysi yilda qabul qilgan?",
+answers = {
+{text = "1430-yilda", correct = true},
+{text = "1446-yilda", correct = false},
+{text = "1465-yilda", correct = false},
+{text = "1468-yilda", correct = false},
+}
+},
+{
+question = "Abulxayrxon davlat poytaxtini Turadan qaysi shaharga ko'chirgan?",
+answers = {
+{text = "Xorazmga", correct = false},
+{text = "Samarqandga", correct = false},
+{text = "Sig'noqqa", correct = true},
+{text = "Buxoroga", correct = false},
+}
+},
+{
+question = "Girayxon va Jonibekxon qaysi yillarda Qozoq xonligiga asos solganlar?",
+answers = {
+{text = "1446-1450-yillarda", correct = false},
+{text = "1465-1466-yillarda", correct = true},
+{text = "1468-1470-yillarda", correct = false},
+{text = "1480-1481-yillarda", correct = false},
+}
+},
+{
+question = "Zahiriddin Muhammad Bobur qachon tavallud topgan?",
+answers = {
+{text = "1483-yil 14-fevralda", correct = true},
+{text = "1494-yil 12-fevralda", correct = false},
+{text = "1497-yil 14-noyabrda", correct = false},
+{text = "1501-yil 14-aprelda", correct = false},
+}
+},
+{
+question = "Umarshayx Mirzo vafotidan so'ng necha yoshli Bobur valiahd sifatida taxtga o'tqazilgan?",
+answers = {
+{text = "10 yoshli", correct = false},
+{text = "14 yoshli", correct = false},
+{text = "12 yoshli", correct = true},
+{text = "16 yoshli", correct = false},
+}
+},
+{
+question = "Bobur 1497-yilning kuzida necha oylik qamaldan keyin Samarqandni egallagan?",
+answers = {
+{text = "5 oylik", correct = false},
+{text = "9 oylik", correct = false},
+{text = "7 oylik", correct = true},
+{text = "4 oylik", correct = false},
+}
+},
+{
+question = "Zarafshon bo'yidagi Saripul qishlog'i yaqinida Bobur qo'shini qachon yengilgan?",
+answers = {
+{text = "1500-yil kuzida", correct = false},
+{text = "1501-yil aprelida", correct = true},
+{text = "1503-yil bahorida", correct = false},
+{text = "1512-yil noyabrida", correct = false},
+}
+},
+{
+question = "1503-yilda Shayboniyxon Sirdaryo bo'yida kimlarning birlashgan qo'shinini tor-mor qilgan?",
+answers = {
+{text = "Toshkent xoni Mahmudxon, Bobur va qalmoqlarning", correct = true},
+{text = "Qozoq sultonlari va Sibir xonining", correct = false},
+{text = "Safaviylar va boburiylarning", correct = false},
+{text = "Ashtarxoniylar va mang'itlarning", correct = false},
+}
+},
+{
+question = "Muhammad Shayboniyxon Marv yaqinida bo'lgan jangda kim tomonidan yengilib halok bo'lgan?",
+answers = {
+{text = "Ibrohim Lo'diy tomonidan", correct = false},
+{text = "Ismoil Safaviy tomonidan", correct = true},
+{text = "Boburiy Humoyun tomonidan", correct = false},
+{text = "Abdullaxon tomonidan", correct = false},
+}
+},
+{
+question = "Bobur Dehli sultoni Ibrohim Lo'diyni Panipat jangida qaysi yilda tor-mor qilgan?",
+answers = {
+{text = "1519-yil bahorida", correct = false},
+{text = "1521-yilda", correct = false},
+{text = "1526-yil aprelida", correct = true},
+{text = "1530-yil dekabrida", correct = false},
+}
+},
+{
+question = "1512-yil noyabrida bo'lib o'tgan qaysi jangdan so'ng Bobur Kobulga qaytishga majbur bo'lgan?",
+answers = {
+{text = "Ko'li Malik jangi", correct = false},
+{text = "G'ijduvon jangi", correct = true},
+{text = "Saripul jangi", correct = false},
+{text = "Marv jangi", correct = false},
+}
+},
+{
+question = "Ubaydullaxon davlat poytaxtini Samarqanddan Buxoro shahriga qaysi yilda ko'chirgan?",
+answers = {
+{text = "1512-yilda", correct = false},
+{text = "1526-yilda", correct = false},
+{text = "1533-yilda", correct = true},
+{text = "1557-yilda", correct = false},
+}
+},
+{
+question = "Buxorodagi Mir Arab madrasasi qaysi yillarda va kim tomonidan qurdirilgan?",
+answers = {
+{text = "1500-1505-yillarda Muhammad Shayboniyxon tomonidan", correct = false},
+{text = "1551-1575-yillarda Ko'kaldosh tomonidan", correct = false},
+{text = "1530-1536-yillarda shayx Mir Arab (Sayyid Abdulloh Yamaniy) tomonidan", correct = true},
+{text = "1531-1532-yillarda Baroqxon tomonidan", correct = false},
+}
+},
+{
+question = "Rossiya podshosi Ivan Grozniy Qozon xonligini qaysi yilda bosib olgan?",
+answers = {
+{text = "1552-yilda", correct = true},
+{text = "1556-yilda", correct = false},
+{text = "1558-yilda", correct = false},
+{text = "1563-yilda", correct = false},
+}
+},
+}
+
+-- MAVZU 2: Mamlakatimiz tarixida ashtarxoniylar va mang'itlar sulolasi
+questions = {
+{
+question = "Hokimiyat shayboniylardan ashtarxoniylar qo'liga qaysi yilda o'tgan?",
+answers = {
+{text = "1598-yilda", correct = false},
+{text = "1601-yilda", correct = true},
+{text = "1611-yilda", correct = false},
+{text = "1620-yilda", correct = false},
+}
+},
+{
+question = "Ashtarxoniylar sulolasi davrining eng yirik davlat va harbiy arbobi Yalangto'sh Bahodir qaysi yilda tug'ilgan?",
+answers = {
+{text = "1578-yilda", correct = true},
+{text = "1601-yilda", correct = false},
+{text = "1611-yilda", correct = false},
+{text = "1626-yilda", correct = false},
+}
+},
+{
+question = "Samarqand hokimi Imomquli sultonni mahalliy zodagonlar oliy taxtga qaysi yilda o'tqazganlar?",
+answers = {
+{text = "1601-yilda", correct = false},
+{text = "1611-yilda", correct = true},
+{text = "1626-yilda", correct = false},
+{text = "1642-yilda", correct = false},
+}
+},
+{
+question = "Nadr Muhammadxon o'zbek davlatini qaysi yillarda boshqargan?",
+answers = {
+{text = "1611-1626-yillarda", correct = false},
+{text = "1626-1642-yillarda", correct = false},
+{text = "1642-1645-yillarda", correct = true},
+{text = "1645-1681-yillarda", correct = false},
+}
+},
+{
+question = "Eron shohi Nodirshoh qo'shinlarining Buxoroga yurishi qaysi yilda boshlangan?",
+answers = {
+{text = "1740-yilda", correct = true},
+{text = "1743-yilda", correct = false},
+{text = "1747-yilda", correct = false},
+{text = "1756-yilda", correct = false},
+}
+},
+{
+question = "Buxorodagi Abdulazizxon madrasasi qaysi yilda va qaysi me'mor tomonidan bunyod etilgan?",
+answers = {
+{text = "1611-yilda Yalangto'sh Bahodir tomonidan", correct = false},
+{text = "1652-yilda Mimxoqon ibn Xo'ja Muhammadamin tomonidan", correct = true},
+{text = "1682-yilda Nodir devonbegi tomonidan", correct = false},
+{text = "1708-yilda Ubaydullaxon tomonidan", correct = false},
+}
+},
+{
+question = "Subhonqulixon Buxoro Registonida Dor ush-shifo nomli kasalxonani qaysi yilda qurdirgan?",
+answers = {
+{text = "1652-yilda", correct = false},
+{text = "1657-yilda", correct = false},
+{text = "1682-yilda", correct = true},
+{text = "1691-yilda", correct = false},
+}
+},
+{
+question = "Ashtarxoniy hukmdor Ubaydullaxon pul islohotini qaysi yilda o'tkazgan?",
+answers = {
+{text = "1691-yilda", correct = false},
+{text = "1702-yilda", correct = false},
+{text = "1708-yilda", correct = true},
+{text = "1711-yilda", correct = false},
+}
+},
+{
+question = "Mang'itlar sulolasining hokimiyatga kelishida asos yaratgan Muhammad Hakimbiy qaysi yilda vafot etgan?",
+answers = {
+{text = "1740-yilda", correct = false},
+{text = "1743-yilda", correct = true},
+{text = "1747-yilda", correct = false},
+{text = "1756-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Rahimbiy Buxoroda hokimiyatni to'la qaysi yilda egallab, o'zini amir deb e'lon qilgan?",
+answers = {
+{text = "1743-yilda", correct = false},
+{text = "1747-yilda", correct = false},
+{text = "1756-yilda", correct = true},
+{text = "1785-yilda", correct = false},
+}
+},
+{
+question = "1785-yilda Buxoro shahrida kelib chiqqan qo'zg'olon natijasida qancha kishi halok bo'lgan?",
+answers = {
+{text = "Yuzdan ortiq kishi", correct = false},
+{text = "Mingdan ortiq kishi", correct = true},
+{text = "O'n mingdan ortiq kishi", correct = false},
+{text = "Ellikdan ortiq kishi", correct = false},
+}
+},
+{
+question = "Amir Nasrulla Qo'qonni qaysi yilda zabt etishga muvaffaq bo'lgan?",
+answers = {
+{text = "1826-yilda", correct = false},
+{text = "1836-yilda", correct = false},
+{text = "1842-yilda", correct = true},
+{text = "1852-yilda", correct = false},
+}
+},
+{
+question = "Amir Shohmurod elchilari huzurida imperator Yekaterina II Buxoroda madrasa qurish uchun qancha oltin rubl xayriya qilgan?",
+answers = {
+{text = "20 ming oltin rubl", correct = false},
+{text = "30 ming oltin rubl", correct = false},
+{text = "50 ming oltin rubl", correct = true},
+{text = "100 ming oltin rubl", correct = false},
+}
+},
+{
+question = "Amir Shohmurod qaysi yillarda Buxoro amirligini boshqargan?",
+answers = {
+{text = "1756-1785-yillarda", correct = false},
+{text = "1785-1800-yillarda", correct = true},
+{text = "1800-1826-yillarda", correct = false},
+{text = "1826-1842-yillarda", correct = false},
+}
+},
+{
+question = "Amir Haydar Buxoro amirligini qaysi yillarda boshqargan?",
+answers = {
+{text = "1785-1800-yillarda", correct = false},
+{text = "1800-1826-yillarda", correct = true},
+{text = "1826-1842-yillarda", correct = false},
+{text = "1842-1860-yillarda", correct = false},
+}
+},
+{
+question = "Buxorodagi Chor Minor me'moriy yodgorligi qaysi yilda qurilgan?",
+answers = {
+{text = "1786-yilda", correct = false},
+{text = "1795-yilda", correct = false},
+{text = "1807-yilda", correct = true},
+{text = "1826-yilda", correct = false},
+}
+},
+}
+
+-- MAVZU 3: Qo'ng'irotlar boshqaruvi (Xiva xonligi)
+questions = {
+{
+question = "Xorazmda arabshohiylar sulolasining hukmronligi qaysi yilda boshlangan?",
+answers = {
+{text = "1505-yilda", correct = false},
+{text = "1510-yilda", correct = false},
+{text = "1511-yilda", correct = true},
+{text = "1538-yilda", correct = false},
+}
+},
+{
+question = "Qo'ng'irot qabilasi yetakchisi Muhammad Amin inoq hokimiyatni uzil-kesil qaysi yilda o'z qo'liga olgan?",
+answers = {
+{text = "1762-yilda", correct = false},
+{text = "1770-yilda", correct = true},
+{text = "1775-yilda", correct = false},
+{text = "1780-yilda", correct = false},
+}
+},
+{
+question = "Shayboniylardan Abdullaxon ikkinchi butun Xorazmni qaysi yilda bo'ysundirishga erishgan?",
+answers = {
+{text = "1575-yilda", correct = false},
+{text = "1593-yilda", correct = true},
+{text = "1598-yilda", correct = false},
+{text = "1601-yilda", correct = false},
+}
+},
+{
+question = "Arabshohiylar Xorazmda hokimiyatni Abdullaxon ikkinchining vafotidan keyin qaysi yilda yana qo'lga olishgan?",
+answers = {
+{text = "1593-yilda", correct = false},
+{text = "1598-yilda", correct = true},
+{text = "1601-yilda", correct = false},
+{text = "1623-yilda", correct = false},
+}
+},
+{
+question = "Aleksandr Bekovich-Cherkasskiy boshchiligidagi qurolli yurish qaysi yillarda uyushtirilgan?",
+answers = {
+{text = "1710-1712-yillarda", correct = false},
+{text = "1714-1717-yillarda", correct = true},
+{text = "1719-1726-yillarda", correct = false},
+{text = "1739-1740-yillarda", correct = false},
+}
+},
+{
+question = "Xorazm hukmdori Arab Muhammadxon o'g'illari bilan bo'lgan urushda yengilib, qaysi yilda vafot etgan?",
+answers = {
+{text = "1603-yilda", correct = false},
+{text = "1611-yilda", correct = false},
+{text = "1623-yilda", correct = true},
+{text = "1657-yilda", correct = false},
+}
+},
+{
+question = "Anushaxon Subhonqulixon bilan bo'lgan jangda qaysi yilda katta talafot bilan chekinib, halok bo'lgan?",
+answers = {
+{text = "1657-yilda", correct = false},
+{text = "1664-yilda", correct = false},
+{text = "1686-yilda", correct = true},
+{text = "1719-yilda", correct = false},
+}
+},
+{
+question = "Xivadagi Sherg'ozixon madrasasi qaysi yillarda qurilgan?",
+answers = {
+{text = "1657-1664-yillarda", correct = false},
+{text = "1719-1726-yillarda", correct = true},
+{text = "1739-1740-yillarda", correct = false},
+{text = "1806-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Aminxon farmoni bilan Kaltaminor minorasining qurilishi qaysi yilda boshlangan?",
+answers = {
+{text = "1842-yilda", correct = false},
+{text = "1852-yilda", correct = true},
+{text = "1855-yilda", correct = false},
+{text = "1861-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Aminxon Saraxs yaqinidagi jangda qaysi yilda halok bo'lgan?",
+answers = {
+{text = "1852-yilda", correct = false},
+{text = "1853-yilda", correct = false},
+{text = "1855-yilda", correct = true},
+{text = "1861-yilda", correct = false},
+}
+},
+{
+question = "Ichan qal'aning sharqiy darvozasi - Polvon darvoza kim tomonidan va qaysi yilda pishiq g'ishtdan qayta qurilgan?",
+answers = {
+{text = "Muhammad Rahimxon birinchi tomonidan 1812-yilda", correct = false},
+{text = "Eltuzarxon tomonidan 1806-yilda", correct = true},
+{text = "Olloqulixon tomonidan 1835-yilda", correct = false},
+{text = "Muhammad Aminxon tomonidan 1852-yilda", correct = false},
+}
+},
+{
+question = "Xivadagi Anushaxon hammomi taxminan qaysi yillarda bunyod etilgan?",
+answers = {
+{text = "1603-1611-yillarda", correct = false},
+{text = "1623-1638-yillarda", correct = false},
+{text = "1657-1664-yillarda", correct = true},
+{text = "1686-1690-yillarda", correct = false},
+}
+},
+{
+question = "1740-yilda Xorazmga qaysi davlat qo'shinlari bostirib kirib, mamlakatni vayron qilgan?",
+answers = {
+{text = "Rossiya qo'shinlari", correct = false},
+{text = "Eron (Nodirshoh) qo'shinlari", correct = true},
+{text = "Buxoro qo'shinlari", correct = false},
+{text = "Jung'or qo'shinlari", correct = false},
+}
+},
+{
+question = "1768-yilda butun Xorazm mamlakati bo'ylab nima tarqalib, aholining katta qismi halok bo'lgan?",
+answers = {
+{text = "Ocharchilik", correct = false},
+{text = "O'lat kasalligi", correct = true},
+{text = "Zilzila", correct = false},
+{text = "Toshqin", correct = false},
+}
+},
+{
+question = "Ichan qal'a majmuasi qaysi yildan YUNESKOning Butunjahon madaniy merosi ro'yxatiga kiritilgan?",
+answers = {
+{text = "1985-yildan", correct = false},
+{text = "1990-yildan", correct = true},
+{text = "1995-yildan", correct = false},
+{text = "2000-yildan", correct = false},
+}
+},
+{
+question = "V. Perovskiy boshchiligidagi 5 ming kishilik rus harbiy qo'shini Xivaga qaysi yilda yuborilgan?",
+answers = {
+{text = "1837-yil kuzida", correct = false},
+{text = "1839-yil kuzida", correct = true},
+{text = "1842-yil bahorida", correct = false},
+{text = "1853-yilda", correct = false},
+}
+},
+}
+
+-- MAVZU 4: O'n oltinchi - o'n to'qqizinchi asrlarda qoraqalpoqlar
+questions = {
+{
+question = "Qoraqalpoqlarning Amudaryo quyi etagida turkiy bijanak qabilasi negizida xalq sifatida shakllanish jarayoni qaysi asrda nihoyasiga yetgan?",
+answers = {
+{text = "To'qqizinchi asrda", correct = false},
+{text = "O'ninchi asrda", correct = false},
+{text = "O'n birinchi asrda", correct = true},
+{text = "O'n ikkinchi asrda", correct = false},
+}
+},
+{
+question = "Rossiya Ashtarxon (Hojitarxon) xonligini qaysi yilda bosib olgan?",
+answers = {
+{text = "1552-yilda", correct = false},
+{text = "1556-yilda", correct = true},
+{text = "1558-yilda", correct = false},
+{text = "1563-yilda", correct = false},
+}
+},
+{
+question = "Qoraqalpoq xalqining nomi ilk bor Abdullaxon ikkinchining Sig'noqdagi Ziyovuddin maqbarasiga bergan yorliqnomasida qaysi yilda uchraydi?",
+answers = {
+{text = "1552-yilda", correct = false},
+{text = "1574-yilda", correct = false},
+{text = "1598-yilda", correct = true},
+{text = "1601-yilda", correct = false},
+}
+},
+{
+question = "Sirdaryo bo'yi qoraqalpoqlari Eshmuhammad (Eshimxon) boshchiligida tuzilgan davlatga qaysi yilda birlashganlar?",
+answers = {
+{text = "1709-yilda", correct = false},
+{text = "1714-yilda", correct = true},
+{text = "1721-yilda", correct = false},
+{text = "1723-yilda", correct = false},
+}
+},
+{
+question = "Jung'or xonligining Turkistonga hujumi natijasida qoraqalpoq xalqi qaysi yilda uch guruhga bo'linib ketgan?",
+answers = {
+{text = "1714-yilda", correct = false},
+{text = "1721-yilda", correct = false},
+{text = "1723-yilda", correct = true},
+{text = "1731-yilda", correct = false},
+}
+},
+{
+question = "Qozoq xoni Abulxayrxon Peterburgga qoraqalpoqlar vakili ham bo'lgan o'z elchilarini qaysi yilda jo'natgan?",
+answers = {
+{text = "1721-yilda", correct = false},
+{text = "1724-yilda", correct = false},
+{text = "1726-yilda", correct = true},
+{text = "1731-yilda", correct = false},
+}
+},
+{
+question = "Rossiya tomonidan M. Tevkelev Abulxayrxon huzuriga qaysi yilda yuborilgan?",
+answers = {
+{text = "1724-yilda", correct = false},
+{text = "1726-yilda", correct = false},
+{text = "1731-yilda", correct = true},
+{text = "1743-yilda", correct = false},
+}
+},
+{
+question = "Botir Mamanbiy boshchiligidagi elchilik Peterburgga qaysi yilda yuborilgan?",
+answers = {
+{text = "1726-yilda", correct = false},
+{text = "1731-yilda", correct = false},
+{text = "1743-yilda", correct = true},
+{text = "1770-yilda", correct = false},
+}
+},
+{
+question = "Qoraqalpoqlar to'la Xiva xonligiga qaysi yilda bo'ysundirilgan?",
+answers = {
+{text = "1770-yilda", correct = false},
+{text = "1790-yilda", correct = false},
+{text = "1811-yilda", correct = true},
+{text = "1827-yilda", correct = false},
+}
+},
+{
+question = "Oydo'stbiy boshchiligidagi qo'zg'olon qaysi yilda yuz bergan?",
+answers = {
+{text = "1811-yilda", correct = false},
+{text = "1820-yilda", correct = false},
+{text = "1827-yilda", correct = true},
+{text = "1839-yilda", correct = false},
+}
+},
+{
+question = "Muhammad Amin inoq davrida qoraqalpoqlar ixtiyoriy ravishda Xiva xonligi fuqaroligiga o'tishni qaysi yillarda boshlaganlar?",
+answers = {
+{text = "1762-1770-yillarda", correct = false},
+{text = "1770-1790-yillarda", correct = true},
+{text = "1790-1811-yillarda", correct = false},
+{text = "1811-1827-yillarda", correct = false},
+}
+},
+{
+question = "Mashhur baxshi, hajviy shoir Jiyen Jirov qaysi yillarda yashagan?",
+answers = {
+{text = "1730-1784-yillarda", correct = true},
+{text = "1770-1830-yillarda", correct = false},
+{text = "1780-1841-yillarda", correct = false},
+{text = "1799-1880-yillarda", correct = false},
+}
+},
+{
+question = "Qoraqalpoq adabiyotining ko'zga ko'ringan vakili Kunxo'ja Ibrohim qaysi yillarda yashagan?",
+answers = {
+{text = "1730-1784-yillarda", correct = false},
+{text = "1780-1841-yillarda", correct = false},
+{text = "1799-1880-yillarda", correct = true},
+{text = "1824-1878-yillarda", correct = false},
+}
+},
+{
+question = "Qoraqalpoq shoiri Ajiniyoz Qo'siboy o'g'li (Zevar) qaysi yillarda yashagan?",
+answers = {
+{text = "1799-1880-yillarda", correct = false},
+{text = "1824-1878-yillarda", correct = true},
+{text = "1827-1900-yillarda", correct = false},
+{text = "1792-1842-yillarda", correct = false},
+}
+},
+{
+question = "Ajiniyozning xalq orasida keng tarqalgan \u{201C}Qiz Mengesh bilan aytishuv\u{201D} asari qaysi yilga oid?",
+answers = {
+{text = "1845-yilga", correct = false},
+{text = "1863-yilga", correct = false},
+{text = "1878-yilga", correct = true},
+{text = "1900-yilga", correct = false},
+}
+},
+{
+question = "Ajiniyoz Qo'siboy o'g'lining tavalludi 200 yilligi qaysi yilda keng nishonlangan?",
+answers = {
+{text = "2020-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2024-yilda", correct = true},
+{text = "2025-yilda", correct = false},
+}
+},
+}
+
+-- MAVZU 5: Minglar hukmronligi davri (Qo'qon xonligi)
+questions = {
+{
+question = "Ming urug'idan bo'lgan Shohruxbiy Farg'onada o'z mustaqil hokimiyatini qaysi yilda o'rnatgan?",
+answers = {
+{text = "1700-yilda", correct = false},
+{text = "1709-yilda", correct = true},
+{text = "1733-yilda", correct = false},
+{text = "1740-yilda", correct = false},
+}
+},
+{
+question = "Shohruxbiyning o'g'li Abdurahimxon Samarqand, Jizzax va Kattaqo'rg'onni qaysi yilda o'z boshqaruviga olgan?",
+answers = {
+{text = "1709-yilda", correct = false},
+{text = "1733-yilda", correct = true},
+{text = "1740-yilda", correct = false},
+{text = "1758-yilda", correct = false},
+}
+},
+{
+question = "Erdonaxon raqiblarini mag'lub etib, Xo'jand va O'ratepani qaysi yilda egallagan?",
+answers = {
+{text = "1745-yilda", correct = false},
+{text = "1758-yilda", correct = true},
+{text = "1760-yilda", correct = false},
+{text = "1763-yilda", correct = false},
+}
+},
+{
+question = "Xo'jagon tariqatiga mansub Maxdumi A'zam (Xo'ja Ahmad) qaysi yillarda yashagan?",
+answers = {
+{text = "1412-1468-yillarda", correct = false},
+{text = "1453-1512-yillarda", correct = false},
+{text = "1463-1542-yillarda", correct = true},
+{text = "1483-1530-yillarda", correct = false},
+}
+},
+{
+question = "Muhammad Alixon davrida Koshg'ardagi xalqaro savdo to'liq Qo'qon nazoratiga o'tishini belgilagan Qo'qon-Pekin shartnomasi qaysi yilda tuzilgan?",
+answers = {
+{text = "1813-yilda", correct = false},
+{text = "1821-yilda", correct = false},
+{text = "1831-yilda", correct = true},
+{text = "1837-yilda", correct = false},
+}
+},
+{
+question = "Buxoro amiri Nasrullaxon Qo'qon xonligini qaysi yilda bo'ysundirishga muvaffaq bo'lgan?",
+answers = {
+{text = "1831-yilda", correct = false},
+{text = "1837-yilda", correct = false},
+{text = "1842-yilda", correct = true},
+{text = "1845-yilda", correct = false},
+}
+},
+{
+question = "Oqmasjid qal'asi graf Perovskiy tomonidan qaysi yilda bosib olingan?",
+answers = {
+{text = "1845-yilda", correct = false},
+{text = "1852-yilda", correct = false},
+{text = "1853-yilda", correct = true},
+{text = "1860-yilda", correct = false},
+}
+},
+{
+question = "Umarxon farmoni bilan Yangiariq arig'i qaysi yilda uzaytirilib, uzunligi 120 chaqirimga yetkazilgan?",
+answers = {
+{text = "1800-yilda", correct = false},
+{text = "1803-yilda", correct = false},
+{text = "1819-yilda", correct = true},
+{text = "1831-yilda", correct = false},
+}
+},
+{
+question = "Farg'ona vodiysidagi eng katta sug'orish arig'i - Ulug'nahr arig'i qaysi yillarda qurilgan?",
+answers = {
+{text = "1800-1803-yillarda", correct = false},
+{text = "1819-1825-yillarda", correct = false},
+{text = "1868-1871-yillarda", correct = true},
+{text = "1875-1878-yillarda", correct = false},
+}
+},
+{
+question = "Amiriy taxallusi bilan ijod qilgan Umarxonning g'azallar devoni Istanbulda qaysi yilda chop etilgan?",
+answers = {
+{text = "1821-yilda", correct = false},
+{text = "1844-yilda", correct = false},
+{text = "1882-yilda", correct = true},
+{text = "1905-yilda", correct = false},
+}
+},
+{
+question = "Fazliy Namangoniy Umarxon amriga binoan 63 shoirning she'rlarini o'z ichiga olgan \u{201C}Majmuayi shoiron\u{201D} to'plamini qaysi yilda tuzgan?",
+answers = {
+{text = "1810-yilda", correct = false},
+{text = "1821-yilda", correct = true},
+{text = "1831-yilda", correct = false},
+{text = "1842-yilda", correct = false},
+}
+},
+{
+question = "Hajviy shoir Maxmur qaysi yilda vafot etgan?",
+answers = {
+{text = "1822-yilda", correct = false},
+{text = "1837-yilda", correct = false},
+{text = "1842-yilda", correct = false},
+{text = "1844-yilda", correct = true},
+}
+},
+{
+question = "Shoira va davlat arbobi Nodira (Mohlaroyim) qaysi yillarda yashagan?",
+answers = {
+{text = "1779-1845-yillarda", correct = false},
+{text = "1792-1842-yillarda", correct = true},
+{text = "1799-1880-yillarda", correct = false},
+{text = "1824-1878-yillarda", correct = false},
+}
+},
+{
+question = "Shoira Uvaysiy (Jahon otin) qaysi yillarda yashagan?",
+answers = {
+{text = "1770-1844-yillarda", correct = false},
+{text = "1779-1845-yillarda", correct = true},
+{text = "1792-1842-yillarda", correct = false},
+{text = "1780-1841-yillarda", correct = false},
+}
+},
+{
+question = "Toshkentning mustaqil beklik maqomi qaysi yilda tugatilib, Qo'qon xonligiga qo'shib olingan?",
+answers = {
+{text = "1798-yilda", correct = false},
+{text = "1810-yilda", correct = true},
+{text = "1822-yilda", correct = false},
+{text = "1831-yilda", correct = false},
+}
+},
+{
+question = "Dunyoda ilk temiryo'l qaysi yilda qurilgan?",
+answers = {
+{text = "1800-yilda", correct = false},
+{text = "1813-yilda", correct = false},
+{text = "1825-yilda", correct = true},
+{text = "1840-yilda", correct = false},
+}
+},
+}
