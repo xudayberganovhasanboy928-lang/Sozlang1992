@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Angliyaning Shimoliy Amerikadagi ilk mustamlakasi bo'lgan Virjiniyadagi Jeymstaun manzilgohi qaysi yili tashkil qilingan?",
+answers = {
+{text = "1607-yili", correct = true},
+{text = "1620-yili", correct = false},
+{text = "1701-yili", correct = false},
+{text = "1774-yili", correct = false},
+}
+},
+{
+question = "1617-1619-yillari hindular orasida tarqalgan chechak kasalligi tufayli bo'shab qolgan joyda 1620-yili qanday manzilgoh paydo bo'lgan?",
+answers = {
+{text = "Jeymstaun", correct = false},
+{text = "Filadelfiya", correct = false},
+{text = "Plimut (Massachusets)", correct = true},
+{text = "Boston", correct = false},
+}
+},
+{
+question = "Birinchi Qit'a Kongressi qaysi yili va qayerda yig'ilgan?",
+answers = {
+{text = "1774-yil sentyabrda, Filadelfiyada", correct = true},
+{text = "1776-yil iyulda, Nyu-Yorkda", correct = false},
+{text = "1783-yil dekabrda, Bostonda", correct = false},
+{text = "1787-yil mayda, Vashingtonda", correct = false},
+}
+},
+{
+question = "Amerika qurolli kuchlarining bosh qo'mondoni etib tayinlangan va keyinchalik AQShning birinchi prezidenti bo'lgan davlat arbobi kim edi?",
+answers = {
+{text = "Tomas Jefferson", correct = false},
+{text = "Benjamin Franklin", correct = false},
+{text = "Jorj Vashington", correct = true},
+{text = "Aleksandr Gamilton", correct = false},
+}
+},
+{
+question = "Jorj Vashington qaysi yillar oralig'ida yashagan?",
+answers = {
+{text = "1706-1790-yillar", correct = false},
+{text = "1732-1799-yillar", correct = true},
+{text = "1743-1826-yillar", correct = false},
+{text = "1755-1804-yillar", correct = false},
+}
+},
+{
+question = "Mustaqillik Deklaratsiyasi matnini tayyorlash uchun tuzilgan komissiyaga kim boshchilik qilgan?",
+answers = {
+{text = "Jon Adams", correct = false},
+{text = "Tomas Jefferson", correct = true},
+{text = "Jon Jey", correct = false},
+{text = "Jeyms Medison", correct = false},
+}
+},
+{
+question = "Mustaqillik Deklaratsiyasi qaysi sanada qabul qilingan?",
+answers = {
+{text = "1774-yil sentyabr", correct = false},
+{text = "1776-yil 4-iyul", correct = true},
+{text = "1783-yil sentyabr", correct = false},
+{text = "1787-yil 17-sentyabr", correct = false},
+}
+},
+{
+question = "1782-yili mustaqillik urushi borishida qanday muhim voqea yuz bergan?",
+answers = {
+{text = "Ingliz qo'shinlarining asosiy qismi taslim bo'lgan", correct = true},
+{text = "Fransiya bilan ittifoq bekor qilingan", correct = false},
+{text = "AQSH Konstitutsiyasi qabul qilingan", correct = false},
+{text = "Jorj Vashington prezident etib saylangan", correct = false},
+}
+},
+{
+question = "Parij tinchlik muzokaralarida Amerika tomonidan qaysi shaxslar qatnashgan?",
+answers = {
+{text = "Tomas Jefferson va Jorj Vashington", correct = false},
+{text = "B. Franklin, J. Adams va J. Jey", correct = true},
+{text = "Aleksandr Gamilton va Jeyms Uilson", correct = false},
+{text = "Jeyms Medison va Benjamin Uest", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya Amerika Qo'shma Shtatlarining mustaqilligini tan olgan Parij sulhi qaysi yili imzolangan?",
+answers = {
+{text = "1776-yili", correct = false},
+{text = "1781-yili", correct = false},
+{text = "1783-yili", correct = true},
+{text = "1787-yili", correct = false},
+}
+},
+{
+question = "AQSH Konstitutsiyasini ishlab chiqish uchun tuzilgan Federal Konvent qaysi yili va qayerda ish boshlagan?",
+answers = {
+{text = "1776-yil iyulda, Nyu-Yorkda", correct = false},
+{text = "1783-yil sentyabrda, Bostonda", correct = false},
+{text = "1787-yil mayda, Filadelfiyada", correct = true},
+{text = "1789-yil yanvarda, Vashingtonda", correct = false},
+}
+},
+{
+question = "AQSH Konstitutsiyasi qaysi sanada qabul qilingan?",
+answers = {
+{text = "1776-yil 4-iyulda", correct = false},
+{text = "1783-yil sentyabrda", correct = false},
+{text = "1787-yil 17-sentyabrda", correct = true},
+{text = "1789-yil yanvarda", correct = false},
+}
+},
+{
+question = "AQSH Konstitutsiyasiga ko'ra, ijro hokimiyatini boshqaruvchi prezident lavozimi necha yil muddatga saylanadigan qilib joriy etilgan?",
+answers = {
+{text = "2 yilga", correct = false},
+{text = "4 yilga", correct = true},
+{text = "6 yilga", correct = false},
+{text = "8 yilga", correct = false},
+}
+},
+{
+question = "1789-yili bo'lib o'tgan saylovlarda AQShning birinchi prezidenti etib kim saylangan?",
+answers = {
+{text = "Tomas Jefferson", correct = false},
+{text = "Benjamin Franklin", correct = false},
+{text = "Jorj Vashington", correct = true},
+{text = "Jon Adams", correct = false},
+}
+},
+{
+question = "AQShda birinchi oliy ta'lim muassasalaridan biri - Yel universitetiga qaysi yili asos solingan?",
+answers = {
+{text = "1607-yili", correct = false},
+{text = "1701-yili", correct = true},
+{text = "1765-yili", correct = false},
+{text = "1787-yili", correct = false},
+}
+},
+{
+question = "Elektr sohasidagi kashfiyotlari va yashinqaytargichni ixtiro qilishi bilan mashhur bo'lgan, \"Amerika otalari\"dan biri hisoblangan davlat arbobi kim edi?",
+answers = {
+{text = "Jeyms Medison", correct = false},
+{text = "Aleksandr Gamilton", correct = false},
+{text = "Benjamin Franklin", correct = true},
+{text = "Jeyms Uilson", correct = false},
+}
+},
+{
+question = "Kolumb tomonidan Amerika qit'asi qaysi yili kashf etilgan?",
+answers = {
+{text = "1487-yili", correct = false},
+{text = "1492-yili", correct = true},
+{text = "1500-yili", correct = false},
+{text = "1519-yili", correct = false},
+}
+},
+{
+question = "Konkistador Kortes 1519-yili qancha askar bilan atsteklar poytaxtini juda tez egallab olgan?",
+answers = {
+{text = "168 nafar", correct = false},
+{text = "300 nafar", correct = false},
+{text = "600 nafar", correct = true},
+{text = "1000 nafar", correct = false},
+}
+},
+{
+question = "Inklarning ko'p minglik armiyasini atigi 168 kishilik otryad bilan mag'lubiyatga uchratgan konkistador kim bo'lgan?",
+answers = {
+{text = "Kortes", correct = false},
+{text = "Pisarro", correct = true},
+{text = "Atuey", correct = false},
+{text = "Kolumb", correct = false},
+}
+},
+{
+question = "Kubaning birinchi milliy qahramoni va Amerikaning birinchi isyonchisi hisoblangan, ispanlar tomonidan gulxanda yoqib yuborilgan shaxs kim edi?",
+answers = {
+{text = "Atuey", correct = true},
+{text = "Kortes", correct = false},
+{text = "Pisarro", correct = false},
+{text = "Kunta Kinte", correct = false},
+}
+},
+{
+question = "Kuba hindularining ispanlarga qarshi birinchi qo'zg'oloni qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1492-1500-yillar", correct = false},
+{text = "1511-1512-yillar", correct = true},
+{text = "1519-1521-yillar", correct = false},
+{text = "1630-1697-yillar", correct = false},
+}
+},
+{
+question = "Peru hindulari borish qiyin bo'lgan tog'li hududlarda qaysi davlatni tuzganlar?",
+answers = {
+{text = "Yangi Ink davlatini", correct = true},
+{text = "Palma Respublikasini", correct = false},
+{text = "Atstek qirolligini", correct = false},
+{text = "San-Domingo davlatini", correct = false},
+}
+},
+{
+question = "Braziliya hududida qochoq qora tanli qullar tomonidan tuzilgan Palma Respublikasi qaysi yillar davomida mavjud bo'lgan?",
+answers = {
+{text = "1511-1512-yillar", correct = false},
+{text = "1519-1521-yillar", correct = false},
+{text = "1630-1697-yillar", correct = true},
+{text = "1701-1783-yillar", correct = false},
+}
+},
+{
+question = "Oqsoqollar Kengashi boshqargan, aholisi 20 ming kishidan iborat bo'lgan \"ozod davlat\" qanday nomlangan?",
+answers = {
+{text = "Yangi Ink davlati", correct = false},
+{text = "Palma Respublikasi", correct = true},
+{text = "San-Domingo", correct = false},
+{text = "Atstek imperiyasi", correct = false},
+}
+},
+{
+question = "Fransiyaning o'z hududiga qadam qo'ygan barcha qullarga ozodlik berilgani haqidagi dekret qaysi yili qabul qilingan?",
+answers = {
+{text = "1783-yili", correct = false},
+{text = "1789-yili", correct = false},
+{text = "1791-yili", correct = true},
+{text = "1799-yili", correct = false},
+}
+},
+{
+question = "Hisob-kitoblarga ko'ra, 400 yil davomida Amerikaga necha million qul olib kelingan?",
+answers = {
+{text = "5 mln ga yaqin", correct = false},
+{text = "10 mln ga yaqin", correct = false},
+{text = "15 mln ga yaqin", correct = true},
+{text = "25 mln ga yaqin", correct = false},
+}
+},
+{
+question = "Aralash nikoh natijasida paydo bo'lgan, fuqarolik huquqlaridan mahrum bo'lgan aholi guruhlari - metislar, mulatlar va yana qaysi guruh Lotin Amerikasida mavjud bo'lgan?",
+answers = {
+{text = "Sambolar", correct = true},
+{text = "Kreollar", correct = false},
+{text = "Konkistadorlar", correct = false},
+{text = "Latifundistlar", correct = false},
+}
+},
+{
+question = "Ispan mustamlakalarida butun hokimiyatga ega bo'lgan, gubernatorlarni tayinlash, xazina va qurolli kuchlarni boshqarish huquqiga ega bo'lgan amaldor qanday nomlangan?",
+answers = {
+{text = "Korrexidor", correct = false},
+{text = "Vitse-qirol yoki general-kapitan", correct = true},
+{text = "Alkold", correct = false},
+{text = "Kasik", correct = false},
+}
+},
+{
+question = "Hindu qishloqlarining boshida turgan, hokimiyati nasldan-naslga o'tuvchi mahalliy rahbarlar qanday atalgan?",
+answers = {
+{text = "Kasiklar", correct = true},
+{text = "Korrexidorlar", correct = false},
+{text = "Konkistadorlar", correct = false},
+{text = "Kreollar", correct = false},
+}
+},
+{
+question = "Ispanlar olib kelgan yangi kasalliklar oqibatida Markaziy Meksikada mahalliy aholi soni o'n oltinchi asrda necha marta kamaygan?",
+answers = {
+{text = "3 marta", correct = false},
+{text = "5 marta", correct = false},
+{text = "10 marta", correct = true},
+{text = "20 marta", correct = false},
+}
+},
+{
+question = "Braziliyada mahalliy hindular qaysi asr oxiriga kelib deyarli to'liq qirilib ketgan?",
+answers = {
+{text = "O'n beshinchi asr oxiriga", correct = false},
+{text = "O'n oltinchi asr oxiriga", correct = true},
+{text = "O'n yettinchi asr oxiriga", correct = false},
+{text = "O'n sakkizinchi asr oxiriga", correct = false},
+}
+},
+{
+question = "Lotinchada \"keng yer-mulk\" ma'nosini anglatuvchi, yevropaliklarga tegishli yirik yerga egalik shaklini bildiruvchi atama qanday nomlangan?",
+answers = {
+{text = "Plantatsiya", correct = false},
+{text = "Latifundiya", correct = true},
+{text = "Konkista", correct = false},
+{text = "Metropoliya", correct = false},
+}
+},
+{
+question = "XV-XVII asrlar Yevropa tarixida qanday nom bilan atalgan?",
+answers = {
+{text = "Ma'rifat asri", correct = false},
+{text = "Uyg'onish davri", correct = true},
+{text = "Yangi davr", correct = false},
+{text = "Sanoat inqilobi davri", correct = false},
+}
+},
+{
+question = "O'n sakkizinchi asr Yevropa tarixiga qanday nom bilan kirgan?",
+answers = {
+{text = "Uyg'onish davri", correct = false},
+{text = "Reformatsiya davri", correct = false},
+{text = "Ma'rifat asri", correct = true},
+{text = "Buyuk kashfiyotlar davri", correct = false},
+}
+},
+{
+question = "Eng mashhur fransuz ma'rifatparvarlari qatoriga kimlar kirgan?",
+answers = {
+{text = "Volter, Sharl Monteskyo, Jan Jak Russo va Deni Didro", correct = true},
+{text = "Isaak Nyuton va Adam Smit", correct = false},
+{text = "Iogann Sebastyan Bax va Motsart", correct = false},
+{text = "Daniel Defo va Jonatan Svift", correct = false},
+}
+},
+{
+question = "Ma'rifat asrining mashhur ingliz ma'rifatparvari kim bo'lgan?",
+answers = {
+{text = "Isaak Nyuton", correct = false},
+{text = "Jonatan Svift", correct = false},
+{text = "Adam Smit", correct = true},
+{text = "Daniel Defo", correct = false},
+}
+},
+{
+question = "Fransiyada qariyb o'ttiz yil (1751-1780) davomida nashr qilingan, 35 tomlik ulkan asar qanday nomlangan?",
+answers = {
+{text = "\"Robinzon Kruzoning hayoti\"", correct = false},
+{text = "\"Ensiklopediya yoki Fan, san'at va hunar izohli lug'ati\"", correct = true},
+{text = "\"Gulliverning sayohati\"", correct = false},
+{text = "\"Qishloq xo'jaligi ensiklopediyasi\"", correct = false},
+}
+},
+{
+question = "35 tomlik \"Ensiklopediya\"ga necha kishi obuna bo'lgan?",
+answers = {
+{text = "1000 kishi", correct = false},
+{text = "2500 kishi", correct = false},
+{text = "4000 kishi", correct = true},
+{text = "10000 kishi", correct = false},
+}
+},
+{
+question = "Butun olam tortishish qonunini kashf etgan, 1643-1727-yillarda yashagan ingliz olimi kim bo'lgan?",
+answers = {
+{text = "Isaak Nyuton", correct = true},
+{text = "Gotfrid Vilgelm Leybnis", correct = false},
+{text = "Leonard Eyler", correct = false},
+{text = "Adam Smit", correct = false},
+}
+},
+{
+question = "Ikkilik sanoq sistemasini tasvirlab bergan va energiyaning saqlanish qonunini shakllantirgan, 1646-1716-yillarda yashagan nemis olimi kim bo'lgan?",
+answers = {
+{text = "Isaak Nyuton", correct = false},
+{text = "Gotfrid Vilgelm Leybnis", correct = true},
+{text = "X. Gyuygens", correct = false},
+{text = "Leonard Eyler", correct = false},
+}
+},
+{
+question = "Sonlar nazariyasi, variatsion hisoblash va kompleks funksiyalar nazariyasini yaratgan, Shveysariya, Rossiya va Prussiyada faoliyat yuritgan olim kim bo'lgan?",
+answers = {
+{text = "Leonard Eyler", correct = true},
+{text = "Isaak Nyuton", correct = false},
+{text = "Gotfrid Vilgelm Leybnis", correct = false},
+{text = "X. Gyuygens", correct = false},
+}
+},
+{
+question = "Mayatnikli soat qaysi yili va kim tomonidan kashf etilgan?",
+answers = {
+{text = "1643-yili, Isaak Nyuton tomonidan", correct = false},
+{text = "1657-yili, X. Gyuygens tomonidan", correct = true},
+{text = "1707-yili, Leonard Eyler tomonidan", correct = false},
+{text = "1751-yili, Deni Didro tomonidan", correct = false},
+}
+},
+{
+question = "\"Robinzon Kruzoning hayoti va g'aroyib sarguzashtlari\" romanining muallifi kim edi?",
+answers = {
+{text = "Jonatan Svift", correct = false},
+{text = "Daniel Defo", correct = true},
+{text = "Iogann Volfgang Gyote", correct = false},
+{text = "Volter", correct = false},
+}
+},
+{
+question = "\"Gulliverning sayohati\" romanining muallifi, Irlandiyadagi Dublin ibodatxonasi rahbari bo'lgan yozuvchi kim edi?",
+answers = {
+{text = "Daniel Defo", correct = false},
+{text = "Jonatan Svift", correct = true},
+{text = "Deni Didro", correct = false},
+{text = "Sharl Monteskyo", correct = false},
+}
+},
+{
+question = "Doktor Faust haqidagi qadimiy nemis afsonasini qayta yozgan buyuk nemis shoiri kim edi?",
+answers = {
+{text = "Iogann Sebastyan Bax", correct = false},
+{text = "Iogann Volfgang Gyote", correct = true},
+{text = "Lyudvig van Betxoven", correct = false},
+{text = "Volfgang Amadey Motsart", correct = false},
+}
+},
+{
+question = "\"Qirolning birinchi tasvirchisi\" unvoniga ega bo'lgan, afsonaviy sahnalar ustasi hisoblangan fransuz rassomi kim edi?",
+answers = {
+{text = "Antuan Vatto", correct = false},
+{text = "Fransua Bushe", correct = true},
+{text = "Benjamin Uest", correct = false},
+{text = "Jon Singlton Kopli", correct = false},
+}
+},
+{
+question = "Volfgang Amadey Motsart necha yoshida o'zining birinchi konsertini yozgan?",
+answers = {
+{text = "3 yoshida", correct = false},
+{text = "4 yoshida", correct = true},
+{text = "12 yoshida", correct = false},
+{text = "14 yoshida", correct = false},
+}
+},
+{
+question = "Betxovenning dastlab Bonapartga bag'ishlangan, u imperator deb e'lon qilinganidan so'ng nomi o'zgartirilgan simfoniyasi qanday nomlangan?",
+answers = {
+{text = "\"Oydin\" sonatasi", correct = false},
+{text = "\"Rekviyem\"", correct = false},
+{text = "\"Qahramonona\" simfoniyasi", correct = true},
+{text = "\"Figaroning uylanishi\"", correct = false},
+}
+},
+{
+question = "\"Agar G'arbda hayotning asosi urush bo'lsa, Sharqda - tinchlik...\" degan mashhur fikr qaysi mutafakkirga tegishli?",
+answers = {
+{text = "Konfutsiy", correct = false},
+{text = "L. Delyusin", correct = true},
+{text = "Adam Smit", correct = false},
+{text = "Volter", correct = false},
+}
+},
+{
+question = "O'n oltinchi asrning birinchi yarmidan o'n sakkizinchi asrning o'rtalarigacha bo'lgan davrda Sharqning qanday kuchli imperiyalari mavjud bo'lgan?",
+answers = {
+{text = "Xitoy, Usmoniylar va Safaviylar (Eron)", correct = true},
+{text = "Rossiya, Angliya va Fransiya", correct = false},
+{text = "Portugaliya va Ispaniya", correct = false},
+{text = "Prussiya va Avstriya", correct = false},
+}
+},
+{
+question = "Bu davrda Sharq mamlakatlarining o'zaro savdo hajmiga nisbatan G'arb bilan savdo necha foizdan oshmagan?",
+answers = {
+{text = "5-10 foizdan", correct = false},
+{text = "10-20 foizdan", correct = true},
+{text = "30-40 foizdan", correct = false},
+{text = "50 foizdan", correct = false},
+}
+},
+{
+question = "G'arbning Sharqdan ustunligi faqat tashqi ko'rinish bo'lib qolgan davr qaysi asrning o'rtalarigacha davom etgan?",
+answers = {
+{text = "O'n beshinchi asrning o'rtalarigacha", correct = false},
+{text = "O'n oltinchi asrning o'rtalarigacha", correct = false},
+{text = "O'n yettinchi asrning o'rtalarigacha", correct = true},
+{text = "O'n sakkizinchi asrning o'rtalarigacha", correct = false},
+}
+},
+{
+question = "\"Oila - kichik davlat, davlat esa - katta oila\" degan hikmatli so'z kimga tegishli?",
+answers = {
+{text = "Konfutsiy", correct = true},
+{text = "L. Delyusin", correct = false},
+{text = "Van Yanmin", correct = false},
+{text = "Sharl Monteskyo", correct = false},
+}
+},
+{
+question = "O'n oltinchi asrda dunyoning eng aholisi ko'p va boy qismi bo'lib qolayotgan sivilizatsiya qaysi edi?",
+answers = {
+{text = "Yaponiya sivilizatsiyasi", correct = false},
+{text = "Xitoy - konfutsiylik sivilizatsiyasi", correct = true},
+{text = "Hind sivilizatsiyasi", correct = false},
+{text = "Islom sivilizatsiyasi", correct = false},
+}
+},
+{
+question = "Xitoydan yozuv tizimini va moddiy madaniyatning katta qismini qabul qilgan, jamiyatida samuraylar mavjud bo'lgan Sharqdagi yagona mamlakat qaysi edi?",
+answers = {
+{text = "Hindiston", correct = false},
+{text = "Yaponiya", correct = true},
+{text = "Eron", correct = false},
+{text = "Koreya", correct = false},
+}
+},
+{
+question = "Yapon jamiyatining rivojlanishini to'xtatib, uni vaqtincha faol xalqaro aloqalardan uzib qo'ygan rejim qanday nomlangan?",
+answers = {
+{text = "Tokugava rejimi", correct = true},
+{text = "Chin rejimi", correct = false},
+{text = "Minlar rejimi", correct = false},
+{text = "Mandarin rejimi", correct = false},
+}
+},
+{
+question = "Kishilarning ijtimoiy holati tug'ilish omili bilan belgilanadigan, jamiyat kastalarga bo'lingan sivilizatsiya qaysi edi?",
+answers = {
+{text = "Xitoy sivilizatsiyasi", correct = false},
+{text = "Yaponiya sivilizatsiyasi", correct = false},
+{text = "Hind sivilizatsiyasi", correct = true},
+{text = "Islom sivilizatsiyasi", correct = false},
+}
+},
+{
+question = "Barcha musulmonlarning tengligiga asoslangani uchun ko'plab xalqlar o'rtasida keng tarqalgan sivilizatsiya qaysi edi?",
+answers = {
+{text = "Islom sivilizatsiyasi", correct = true},
+{text = "Xitoy sivilizatsiyasi", correct = false},
+{text = "Hind sivilizatsiyasi", correct = false},
+{text = "Yaponiya sivilizatsiyasi", correct = false},
+}
+},
+{
+question = "Dunyodagi eng qadimgi sivilizatsiyalardan biri Afrikada qaysi daryo vodiysida shakllangan?",
+answers = {
+{text = "Kongo daryosi vodiysida", correct = false},
+{text = "Nil daryosi vodiysida", correct = true},
+{text = "Niger daryosi vodiysida", correct = false},
+{text = "Zambezi daryosi vodiysida", correct = false},
+}
+},
+{
+question = "Sudan orqali arab dunyosi va Yevropaga qora tanli qullarni keltirib sotish qaysi asrda boshlangan?",
+answers = {
+{text = "O'n to'rtinchi asrda", correct = false},
+{text = "O'n beshinchi asrda", correct = true},
+{text = "O'n oltinchi asrda", correct = false},
+{text = "O'n yettinchi asrda", correct = false},
+}
+},
+{
+question = "Insoniyat tarixi ishlab chiqaruvchi kuchlar va xo'jalik sohalari bo'yicha nechta asosiy bosqichga bo'linadi?",
+answers = {
+{text = "Ikkita bosqichga", correct = false},
+{text = "Uchta bosqichga", correct = true},
+{text = "To'rtta bosqichga", correct = false},
+{text = "Beshta bosqichga", correct = false},
+}
+},
+{
+question = "O'rta asrlarning oxiridan boshlab Sharq mamlakatlari asosan qanday tashqi siyosat tamoyiliga asoslanib, faol tashqi siyosat olib bormagan?",
+answers = {
+{text = "Ittifoqchilik tamoyiliga", correct = false},
+{text = "Yakkalanish yoki \"yopiq eshiklar\" tamoyiliga", correct = true},
+{text = "Kengayish tamoyiliga", correct = false},
+{text = "Bosqinchilik tamoyiliga", correct = false},
+}
+},
+{
+question = "Bu davrda G'arbiy Yevropa va Osiyo sivilizatsiyalari o'rtasidagi asosiy farq nimada bo'lgan?",
+answers = {
+{text = "Osiyoda yerga davlat mulkchiligining saqlanib qolganida", correct = true},
+{text = "Osiyoda xususiy mulkchilikning ustunligida", correct = false},
+{text = "Osiyoda shaharlarning tez rivojlanganida", correct = false},
+{text = "Osiyoda dinning ta'sirsizligida", correct = false},
+}
+},
+{
+question = "Markaziy va Janubiy Afrikaning mahalliy aholisi o'n sakkizinchi asr boshlariga kelib qanday ijtimoiy holatda yashagan?",
+answers = {
+{text = "Markazlashgan davlat tuzumida", correct = false},
+{text = "Qabilachilik holatida", correct = true},
+{text = "Feodal tarqoqlikda", correct = false},
+{text = "Mustamlaka boshqaruvida", correct = false},
+}
+},
+{
+question = "Xitoyda minlar sulolasi qaysi yillar hukmronlik qilgan?",
+answers = {
+{text = "1268-1544-yillar", correct = false},
+{text = "1368-1644-yillar", correct = true},
+{text = "1468-1644-yillar", correct = false},
+{text = "1368-1911-yillar", correct = false},
+}
+},
+{
+question = "Manchjur qabilalarining ittifoqi Amur daryosidan janubda qaysi asr oxirida paydo bo'lgan?",
+answers = {
+{text = "O'n beshinchi asr oxirida", correct = false},
+{text = "O'n oltinchi asr oxirida", correct = true},
+{text = "O'n yettinchi asr oxirida", correct = false},
+{text = "O'n sakkizinchi asr oxirida", correct = false},
+}
+},
+{
+question = "Manchjurlar sardori Abaxay o'zini xon deb, yangi davlatini qaysi yili \"Chin\" deb atagan?",
+answers = {
+{text = "1616-yili", correct = false},
+{text = "1636-yili", correct = true},
+{text = "1644-yili", correct = false},
+{text = "1911-yili", correct = false},
+}
+},
+{
+question = "Xitoyda dehqonlar qo'zg'olonining avj olib, bir guruh qo'zg'olonchilarning Pekinni egallashi qaysi yillarda yuz bergan?",
+answers = {
+{text = "1616-1636-yillar", correct = false},
+{text = "1636-1639-yillar", correct = false},
+{text = "1639-1644-yillar", correct = true},
+{text = "1644-1911-yillar", correct = false},
+}
+},
+{
+question = "Pekinga kirib kelgan chinlar hukmdori qaysi yili Xitoy imperatori deb e'lon qilingan?",
+answers = {
+{text = "1636-yili", correct = false},
+{text = "1639-yili", correct = false},
+{text = "1644-yili", correct = true},
+{text = "1657-yili", correct = false},
+}
+},
+{
+question = "1644-yili Pekinga kirib kelib, Xitoy imperatori deb e'lon qilingan chinlar hukmdorining ismi nima edi?",
+answers = {
+{text = "Abaxay", correct = false},
+{text = "Shunchji", correct = true},
+{text = "Van Yanmin", correct = false},
+{text = "Li Shi Chjen", correct = false},
+}
+},
+{
+question = "Manchjurlarning chin sulolasi Xitoyda qaysi yilgacha hukmronlik qilgan?",
+answers = {
+{text = "1799-yilgacha", correct = false},
+{text = "1850-yilgacha", correct = false},
+{text = "1911-yilgacha", correct = true},
+{text = "1949-yilgacha", correct = false},
+}
+},
+{
+question = "1900 ga yaqin o'simlik, hayvonot va minerallarga oid dorilar haqida farmakopeya asarini yaratgan taniqli xitoylik shifokor kim bo'lgan?",
+answers = {
+{text = "Van Yanmin", correct = false},
+{text = "Syuy Guansi", correct = false},
+{text = "Li Shi Chjen", correct = true},
+{text = "Su In-sin", correct = false},
+}
+},
+{
+question = "\"Osmon yaratgan va mehnat bilan olinadigan oziq-ovqat mahsulotlari haqida\" nomli o'ziga xos texnik ensiklopediya qaysi yili paydo bo'lgan?",
+answers = {
+{text = "1617-yili", correct = false},
+{text = "1637-yili", correct = true},
+{text = "1657-yili", correct = false},
+{text = "1697-yili", correct = false},
+}
+},
+{
+question = "Yevropalik missionerlar bilan tanishib, lotin tilini o'rgangan va \"Qishloq xo'jaligi ensiklopediyasi\"ni yaratgan xitoylik amaldor kim edi?",
+answers = {
+{text = "Li Shi Chjen", correct = false},
+{text = "Su In-sin", correct = false},
+{text = "Syuy Guansi", correct = true},
+{text = "Van Yanmin", correct = false},
+}
+},
+{
+question = "Konfutsiylik ta'limotidan voz kechmagan holda uni o'zgargan tarixiy vaziyatga mos ravishda yangicha sharhlay boshlagan Minlar davrining yorqin olimi kim bo'lgan?",
+answers = {
+{text = "Li Shi Chjen", correct = false},
+{text = "Van Yanmin", correct = true},
+{text = "Syuy Guansi", correct = false},
+{text = "Abaxay", correct = false},
+}
+},
+{
+question = "Rossiya Xitoy bilan o'zaro aloqalar o'rnatishga qaysi asrning 70-yillarida urinib ko'rgan?",
+answers = {
+{text = "O'n oltinchi asrning 70-yillarida", correct = false},
+{text = "O'n yettinchi asrning 70-yillarida", correct = false},
+{text = "O'n sakkizinchi asrning 70-yillarida", correct = true},
+{text = "O'n to'qqizinchi asrning 70-yillarida", correct = false},
+}
+},
+{
+question = "O'n sakkizinchi asr oxirlarida Xitoyda qancha aholi yashagan?",
+answers = {
+{text = "100 mln kishi", correct = false},
+{text = "200 mln kishi", correct = false},
+{text = "300 mln kishi", correct = true},
+{text = "500 mln kishi", correct = false},
+}
+},
+{
+question = "\"Boshqarmoq\", \"idora etmoq\" ma'nosini bildiruvchi \"mandarin\" so'zi qaysi tildan olingan?",
+answers = {
+{text = "Ispan tilidan", correct = false},
+{text = "Portugal tilidan", correct = true},
+{text = "Golland tilidan", correct = false},
+{text = "Ingliz tilidan", correct = false},
+}
+},
+{
+question = "Xitoy hukumati o'n sakkizinchi asrning o'rtalarida yevropaliklar bilan savdo qilishga faqat qaysi shaharda ruxsat berib, qolgan barcha shaharlarda taqiqlagan?",
+answers = {
+{text = "Pekinda", correct = false},
+{text = "Nankinda", correct = false},
+{text = "Guanchjouda", correct = true},
+{text = "Shanxayda", correct = false},
+}
+},
+{
+question = "Kunsyuy asosida shakllanib, butun dunyoga tanilgan teatr san'ati turi qanday nomlangan?",
+answers = {
+{text = "Pekin operasi", correct = true},
+{text = "Xitoy dramasi", correct = false},
+{text = "Konfutsiy teatri", correct = false},
+{text = "Minlar teatri", correct = false},
+}
+},
+}

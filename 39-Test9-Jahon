@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Portugaliyaliklar tomonidan Atlantika okeanidagi Madeyra orollari qaysi yili kashf etilgan?",
+answers = {
+{text = "1419-yilda", correct = true},
+{text = "1453-yilda", correct = false},
+{text = "1492-yilda", correct = false},
+{text = "1498-yilda", correct = false},
+}
+},
+{
+question = "Usmoniylar imperiyasi ziravorlar savdosining asosiy yo'lini qaysi yili to'sib qo'ydi?",
+answers = {
+{text = "1419-yilda", correct = false},
+{text = "1453-yilda", correct = true},
+{text = "1498-yilda", correct = false},
+{text = "1519-yilda", correct = false},
+}
+},
+{
+question = "Xristofor Kolumb ekspeditsiyasi Hindistonga yangi yo'l izlab qaysi kuni yo'lga chiqqan?",
+answers = {
+{text = "1492-yil 3-avgustda", correct = true},
+{text = "1492-yil 12-oktyabrda", correct = false},
+{text = "1498-yil 20-mayda", correct = false},
+{text = "1519-yil 20-sentyabrda", correct = false},
+}
+},
+{
+question = "Kolumb ekspeditsiyasi \"San Salvador\" orolini qaysi kuni kashf etdi?",
+answers = {
+{text = "1492-yil 3-avgustda", correct = false},
+{text = "1492-yil 12-oktyabrda", correct = true},
+{text = "1493-yil boshida", correct = false},
+{text = "1499-yilda", correct = false},
+}
+},
+{
+question = "Xristofor Kolumb ekspeditsiyasidagi karavellalardan biri qanday nomlangan edi?",
+answers = {
+{text = "\"Santa-Yelena\"", correct = false},
+{text = "\"Santa-Mariya\"", correct = true},
+{text = "\"San-Fransisko\"", correct = false},
+{text = "\"Trinidad\"", correct = false},
+}
+},
+{
+question = "Kolumb 1493-1504-yillar oralig'ida yana nechta ekspeditsiya uyushtirib, Kichik Antil orollari, Puerto-Riko, Yamayka va Trinidadni kashf etdi?",
+answers = {
+{text = "Ikkita", correct = false},
+{text = "Uchta", correct = true},
+{text = "To'rtta", correct = false},
+{text = "Beshta", correct = false},
+}
+},
+{
+question = "Portugaliyalik Vasko da Gama ekspeditsiyasi Hindistonning Kalikutta portiga qaysi yili yetib keldi?",
+answers = {
+{text = "1492-yilda", correct = false},
+{text = "1498-yilda", correct = true},
+{text = "1499-yilda", correct = false},
+{text = "1519-yilda", correct = false},
+}
+},
+{
+question = "Vasko da Gama ekspeditsiyasi Yevropada sotish uchun mollarni yuklab qaysi yili Portugaliyaga qaytib keldi?",
+answers = {
+{text = "1497-yilda", correct = false},
+{text = "1498-yilda", correct = false},
+{text = "1499-yilda", correct = true},
+{text = "1501-yilda", correct = false},
+}
+},
+{
+question = "Kolumb ochgan yerlar Hindiston emas, balki yangi materik ekanligi haqida xulosaga kelgan florensiyalik dengizchi va astronom kim edi, uning sharafiga materik qanday nomlandi?",
+answers = {
+{text = "Vasko da Gama, \"Gamaliya\"", correct = false},
+{text = "Amerigo Vespuchchi, \"Amerika\"", correct = true},
+{text = "Fernando Magellan, \"Magellaniya\"", correct = false},
+{text = "Luis Torres, \"Torresiya\"", correct = false},
+}
+},
+{
+question = "Fernando Magellan boshchiligidagi ekspeditsiya Ispaniya qirolining bayrog'i ostida qaysi kuni yo'lga chiqqan?",
+answers = {
+{text = "1519-yil 20-sentyabrda", correct = true},
+{text = "1521-yil 6-martda", correct = false},
+{text = "1522-yil 6-sentyabrda", correct = false},
+{text = "1498-yilda", correct = false},
+}
+},
+{
+question = "Fernando Magellan qaysi kuni va qayerda mahalliy aholi bilan bo'lgan jangda halok bo'ldi?",
+answers = {
+{text = "1519-yil 20-sentyabrda, Amerikada", correct = false},
+{text = "1521-yil 6-martda, Filippin orollarida", correct = true},
+{text = "1522-yil 6-sentyabrda, Ispaniyada", correct = false},
+{text = "1498-yilda, Hindistonda", correct = false},
+}
+},
+{
+question = "Magellan ekspeditsiyasining qolgan a'zolari ziravorlar yuklab qaysi kuni Ispaniyaga yetib keldi?",
+answers = {
+{text = "1519-yil 20-sentyabrda", correct = false},
+{text = "1521-yil 6-martda", correct = false},
+{text = "1522-yil 6-sentyabrda", correct = true},
+{text = "1523-yil boshida", correct = false},
+}
+},
+{
+question = "Amerika qit'asida yevropaliklar qurgan birinchi shahar qanday nomlanadi va u qaysi yili asos solingan?",
+answers = {
+{text = "Panama, 1519-yilda", correct = true},
+{text = "Kuba, 1492-yilda", correct = false},
+{text = "Meksika, 1521-yilda", correct = false},
+{text = "Boliviya, 1510-yilda", correct = false},
+}
+},
+{
+question = "1605-yili janubda yangi qit'a - Avstraliyani kashf etgan ispan dengizchisi kim edi?",
+answers = {
+{text = "Villem Yanszon", correct = false},
+{text = "Abel Tasman", correct = false},
+{text = "Luis Torres", correct = true},
+{text = "Vasko da Gama", correct = false},
+}
+},
+{
+question = "1606-yili birinchi bo'lib Avstraliya qirg'oqlariga suzib kelgan gollandiyalik dengizchi kim edi?",
+answers = {
+{text = "Villem Yanszon", correct = true},
+{text = "Abel Tasman", correct = false},
+{text = "Luis Torres", correct = false},
+{text = "Villem van Oranye", correct = false},
+}
+},
+{
+question = "Avstraliyani janubdan aylanib o'tib, uning alohida qit'a ekanligini isbotlagan va Yangi Zelandiyani kashf etgan dengizchi kim edi hamda bu voqea qaysi yili sodir bo'lgan?",
+answers = {
+{text = "Luis Torres, 1605-yilda", correct = false},
+{text = "Villem Yanszon, 1606-yilda", correct = false},
+{text = "Abel Tasman, 1642-yilda", correct = true},
+{text = "Fernando Magellan, 1521-yilda", correct = false},
+}
+},
+{
+question = "Yevropada zamonaviy ko'rinishdagi ilk bank - Avliyo Georgiy banki qaysi shaharda tashkil topgan?",
+answers = {
+{text = "Venetsiyada", correct = false},
+{text = "Florensiyada", correct = false},
+{text = "Genuyada", correct = true},
+{text = "Milanda", correct = false},
+}
+},
+{
+question = "Genuyadagi Avliyo Georgiy banki qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1397-yilda", correct = false},
+{text = "1407-yilda", correct = true},
+{text = "1450-yilda", correct = false},
+{text = "1483-yilda", correct = false},
+}
+},
+{
+question = "Dunyoda birinchi rasmiy fond birjasi qaysi shaharda va qaysi yilda tashkil topgan?",
+answers = {
+{text = "Londonda, 1600-yilda", correct = false},
+{text = "Amsterdamda, 1602-yilda", correct = true},
+{text = "Parijda, 1620-yilda", correct = false},
+{text = "Genuyada, 1407-yilda", correct = false},
+}
+},
+{
+question = "Amsterdam birjasida lola piyozlari savdosi bilan bog'liq \"lola talvasasi\" nomi bilan tanilgan hodisa qaysi yillarda yuz bergan?",
+answers = {
+{text = "1600-1601-yillarda", correct = false},
+{text = "1620-1621-yillarda", correct = false},
+{text = "1636-1637-yillarda", correct = true},
+{text = "1650-1651-yillarda", correct = false},
+}
+},
+{
+question = "\"Manufaktura\" so'zi lotincha \"manus\" va \"factura\" so'zlaridan olingan bo'lib, qanday ma'noni anglatadi?",
+answers = {
+{text = "\"Qo'l\" va \"tayyorlash\"", correct = true},
+{text = "\"Kuch\" va \"boshqarish\"", correct = false},
+{text = "\"Ishlab chiqarish\" va \"savdo\"", correct = false},
+{text = "\"Mehnat\" va \"foyda\"", correct = false},
+}
+},
+{
+question = "\"Kapital\" so'zi lotincha \"capitalis\" so'zidan olingan bo'lib, qanday ma'noni bildiradi?",
+answers = {
+{text = "\"Boylik\"", correct = false},
+{text = "\"Hukmron\"", correct = true},
+{text = "\"Foyda\"", correct = false},
+{text = "\"Mulk\"", correct = false},
+}
+},
+{
+question = "\"Proletariat\" so'zi lotincha \"proletarius\" so'zidan kelib chiqqan bo'lib, qanday ma'noni anglatadi?",
+answers = {
+{text = "\"Yollanma\"", correct = false},
+{text = "\"Ishchi\"", correct = false},
+{text = "\"Kambag'al\"", correct = true},
+{text = "\"Erkin\"", correct = false},
+}
+},
+{
+question = "XVI asrning ikkinchi yarmidan Yevropaning savdo chorrahasi Shimoliy dengiz qirg'og'idagi qaysi shaharga ko'chgan?",
+answers = {
+{text = "Londonga", correct = false},
+{text = "Antverpenga", correct = true},
+{text = "Parijga", correct = false},
+{text = "Lissabonga", correct = false},
+}
+},
+{
+question = "Angliyaning poytaxti London qaysi daryo bo'yida joylashgan bo'lib, Yevropaning asosiy savdo markaziga aylandi?",
+answers = {
+{text = "Sena", correct = false},
+{text = "Reyn", correct = false},
+{text = "Temza", correct = true},
+{text = "Dunay", correct = false},
+}
+},
+{
+question = "Buyuk geografik kashfiyotlardan so'ng dastlab qaysi ikki mamlakatning shaharlari - Lissabon va Sevilya jadal rivojlandi?",
+answers = {
+{text = "Angliya va Fransiya", correct = false},
+{text = "Portugaliya va Ispaniya", correct = true},
+{text = "Gollandiya va Germaniya", correct = false},
+{text = "Italiya va Angliya", correct = false},
+}
+},
+{
+question = "\"Oltin - bu barkamollik. Oltin xazinalar yaratadi va unga ega kishi xohlagan narsasini qila oladi\", deb Ispaniya qiroli Fernando va qirolicha Izabellaga maktub yozgan dengizchi kim edi?",
+answers = {
+{text = "Vasko da Gama", correct = false},
+{text = "Amerigo Vespuchchi", correct = false},
+{text = "Xristofor Kolumb", correct = true},
+{text = "Fernando Magellan", correct = false},
+}
+},
+{
+question = "XVI asrdagi diniy urushlar va vabo epidemiyasi natijasida o'n minglab aholisi vafot etib, rivojlanishi sekinlashgan Fransiyaning poytaxti qaysi shahar edi?",
+answers = {
+{text = "London", correct = false},
+{text = "Antverpen", correct = false},
+{text = "Amsterdam", correct = false},
+{text = "Parij", correct = true},
+}
+},
+{
+question = "Kapitalizm rivojlanishi uchun zarur bo'lgan ikkita eng muhim shartdan biri nima edi?",
+answers = {
+{text = "Kapital to'plash imkoniyatining paydo bo'lishi", correct = true},
+{text = "Cherkov hokimiyatining kuchayishi", correct = false},
+{text = "Feodal yer egaligining kengayishi", correct = false},
+{text = "Natural xo'jalikning rivojlanishi", correct = false},
+}
+},
+{
+question = "Yollanma mehnatdan foydalanib, bozorda raqobatchilik qilgan va kapital yig'gan yangi ijtimoiy qatlam qanday nomlandi?",
+answers = {
+{text = "Proletariat", correct = false},
+{text = "Kapitalist (burjua)", correct = true},
+{text = "Gyoz", correct = false},
+{text = "Puritan", correct = false},
+}
+},
+{
+question = "Yer mulki, uyi va mehnat qurollaridan mahrum bo'lgan, o'z xohishi bilan kapitalistga yollanib ishlaydigan kishilar qanday ijtimoiy sinfga birlashdi?",
+answers = {
+{text = "Kapitalist", correct = false},
+{text = "Burjua", correct = false},
+{text = "Proletariat", correct = true},
+{text = "Gyoz", correct = false},
+}
+},
+{
+question = "Savdogarlar xavf-xatar katta bo'lgan uzoq masofali savdoni birgalikda amalga oshirish uchun qanday kompaniyalarga birlasha boshladi?",
+answers = {
+{text = "Aksionerlik kompaniyalariga", correct = true},
+{text = "Gildiya uyushmalariga", correct = false},
+{text = "Sex tashkilotlariga", correct = false},
+{text = "Diniy ordenlarga", correct = false},
+}
+},
+{
+question = "Tomas Mor qaysi yillarda yashagan va u qaysi mamlakat davlat arbobi edi?",
+answers = {
+{text = "1478-1535-yillarda, Angliya", correct = true},
+{text = "1483-1520-yillarda, Italiya", correct = false},
+{text = "1547-1616-yillarda, Ispaniya", correct = false},
+{text = "1564-1616-yillarda, Angliya", correct = false},
+}
+},
+{
+question = "Tomas Mor o'zining qaysi asarida ideal davlat namunasini yaratib, uni \"Mavjud bo'lmagan yer\" deb atagan?",
+answers = {
+{text = "\"Don Kixot\"", correct = false},
+{text = "\"Utopiya\"", correct = true},
+{text = "\"Hamlet\"", correct = false},
+{text = "\"Dekameron\"", correct = false},
+}
+},
+{
+question = "Uilyam Shekspir qaysi yillarda yashagan?",
+answers = {
+{text = "1547-1616-yillarda", correct = false},
+{text = "1552-1599-yillarda", correct = false},
+{text = "1564-1616-yillarda", correct = true},
+{text = "1573-1642-yillarda", correct = false},
+}
+},
+{
+question = "\"Insonlarni o'rab turgan olamni teatr, odamlarni esa aktyorlar\" deb tasavvur qilgan buyuk dramaturg qaysi mamlakat vakili edi?",
+answers = {
+{text = "Ispaniya", correct = false},
+{text = "Italiya", correct = false},
+{text = "Angliya", correct = true},
+{text = "Fransiya", correct = false},
+}
+},
+{
+question = "\"Don Kixot\" asarining muallifi kim edi va u qaysi yillarda yashagan?",
+answers = {
+{text = "Uilyam Shekspir, 1564-1616-yillarda", correct = false},
+{text = "Migel de Servantes, 1547-1616-yillarda", correct = true},
+{text = "Tomas Mor, 1478-1535-yillarda", correct = false},
+{text = "Leonardo da Vinchi, 1452-1519-yillarda", correct = false},
+}
+},
+{
+question = "Leonardo da Vinchi qaysi yillarda yashagan?",
+answers = {
+{text = "1452-1519-yillarda", correct = true},
+{text = "1475-1564-yillarda", correct = false},
+{text = "1483-1520-yillarda", correct = false},
+{text = "1473-1543-yillarda", correct = false},
+}
+},
+{
+question = "\"Mona Liza\" (\"Jokonda\") asarining muallifi kim edi?",
+answers = {
+{text = "Rafael Santi", correct = false},
+{text = "Mikelanjelo Buonarroti", correct = false},
+{text = "Leonardo da Vinchi", correct = true},
+{text = "Rembrandt", correct = false},
+}
+},
+{
+question = "\"Sikstin madonnasi\" asarining muallifi bo'lgan italiyalik rassom kim edi va u necha yil umr ko'rgan?",
+answers = {
+{text = "Leonardo da Vinchi, 67 yil", correct = false},
+{text = "Rafael Santi, 37 yil", correct = true},
+{text = "Mikelanjelo, 89 yil", correct = false},
+{text = "Rembrandt, 63 yil", correct = false},
+}
+},
+{
+question = "Mikelanjelo Buonarroti qaysi yillarda yashagan?",
+answers = {
+{text = "1452-1519-yillarda", correct = false},
+{text = "1473-1543-yillarda", correct = false},
+{text = "1475-1564-yillarda", correct = true},
+{text = "1483-1520-yillarda", correct = false},
+}
+},
+{
+question = "Mikelanjelo \"David\" haykalini necha yoshida yaxlit marmar toshdan yasagan?",
+answers = {
+{text = "20 yoshida", correct = false},
+{text = "26 yoshida", correct = true},
+{text = "35 yoshida", correct = false},
+{text = "40 yoshida", correct = false},
+}
+},
+{
+question = "\"Adashgan o'g'ilning qaytishi\" rasmi muallifi bo'lgan gollandiyalik rassom kim edi?",
+answers = {
+{text = "Rafael Santi", correct = false},
+{text = "Leonardo da Vinchi", correct = false},
+{text = "Mikelanjelo", correct = false},
+{text = "Rembrandt", correct = true},
+}
+},
+{
+question = "Nikolay Kopernik qaysi yillarda yashagan va u qaysi mamlakat astronomi edi?",
+answers = {
+{text = "1473-1543-yillarda, polyak astronomi", correct = true},
+{text = "1548-1600-yillarda, italyan olimi", correct = false},
+{text = "1564-1642-yillarda, ingliz olimi", correct = false},
+{text = "1642-1727-yillarda, fransuz olimi", correct = false},
+}
+},
+{
+question = "Olamning cheksizligi va abadiyligi haqidagi nazariyani ilgari surib, cherkov tomonidan gulxanda yoqilishga hukm qilingan italyan olimi kim edi?",
+answers = {
+{text = "Nikolay Kopernik", correct = false},
+{text = "Jordano Bruno", correct = true},
+{text = "Galileo Galiley", correct = false},
+{text = "Isaak Nyuton", correct = false},
+}
+},
+{
+question = "Kopernik ta'limotini davom ettirib, geliotsentrik nazariyaga asos solgan va osmon jismlarini birinchi bo'lib teleskop yordamida kuzatgan italiyalik olim qaysi yillarda yashagan?",
+answers = {
+{text = "1473-1543-yillarda", correct = false},
+{text = "1548-1600-yillarda", correct = false},
+{text = "1564-1642-yillarda", correct = true},
+{text = "1632-1704-yillarda", correct = false},
+}
+},
+{
+question = "Butun olam tortishish qonunini ishlab chiqqan va ko'zguli teleskopni kashf qilgan buyuk ingliz olimi kim edi hamda u qaysi yillarda yashagan?",
+answers = {
+{text = "Galileo Galiley, 1564-1642-yillarda", correct = false},
+{text = "Jon Lokk, 1632-1704-yillarda", correct = false},
+{text = "Isaak Nyuton, 1642-1727-yillarda", correct = true},
+{text = "Jordano Bruno, 1548-1600-yillarda", correct = false},
+}
+},
+{
+question = "Insonning tabiiy huquqlari - yashash, erkinlik va mulk huquqlari haqidagi ta'limotni yaratgan ingliz faylasufi kim edi?",
+answers = {
+{text = "Isaak Nyuton", correct = false},
+{text = "Galileo Galiley", correct = false},
+{text = "Jon Lokk", correct = true},
+{text = "Tomas Mor", correct = false},
+}
+},
+{
+question = "Reformatsiya qaysi yili va kim tomonidan boshlangan?",
+answers = {
+{text = "1517-yili, Martin Lyuter tomonidan", correct = true},
+{text = "1524-yili, Tomas Myunser tomonidan", correct = false},
+{text = "1540-yili, Ignatiy Loyola tomonidan", correct = false},
+{text = "1572-yili, Jan Kalvin tomonidan", correct = false},
+}
+},
+{
+question = "Martin Lyuter \"95 tezislar\" bilan chiqqanida qaysi universitetning ilohiyot fani professori edi?",
+answers = {
+{text = "Vittenberg universitetining", correct = true},
+{text = "Jeneva universitetining", correct = false},
+{text = "Vorms universitetining", correct = false},
+{text = "London universitetining", correct = false},
+}
+},
+{
+question = "Martin Lyuter \"95 tezislar\" bilan chiqqanida necha yoshda edi?",
+answers = {
+{text = "28 yoshda", correct = false},
+{text = "33 yoshda", correct = true},
+{text = "40 yoshda", correct = false},
+{text = "45 yoshda", correct = false},
+}
+},
+{
+question = "Rim papasi Martin Lyuterni o'z g'oyalaridan voz kechishga chaqirib, qaysi shahar sudiga chorlagan edi?",
+answers = {
+{text = "Jeneva", correct = false},
+{text = "Vorms", correct = true},
+{text = "Rim", correct = false},
+{text = "London", correct = false},
+}
+},
+{
+question = "Germaniyadagi dehqonlar qo'zg'oloni (\"Xalq Reformatsiyasi\") qaysi yili boshlangan?",
+answers = {
+{text = "1517-yili", correct = false},
+{text = "1524-yili", correct = true},
+{text = "1540-yili", correct = false},
+{text = "1572-yili", correct = false},
+}
+},
+{
+question = "\"Buyuk dehqonlar urushi\" nomini olgan qo'zg'olonga kim boshchilik qilgan?",
+answers = {
+{text = "Martin Lyuter", correct = false},
+{text = "Tomas Myunser", correct = true},
+{text = "Jan Kalvin", correct = false},
+{text = "Ignatiy Loyola", correct = false},
+}
+},
+{
+question = "Jeneva shahrida protestantlikning yangi oqimiga kim asos solgan?",
+answers = {
+{text = "Martin Lyuter", correct = false},
+{text = "Ignatiy Loyola", correct = false},
+{text = "Jan Kalvin", correct = true},
+{text = "Filipp II", correct = false},
+}
+},
+{
+question = "Rim papasi Reformatsiyaga qarshi kurashish uchun \"Iso jamiyati\" (iyezuitlar) ordenini qaysi yili ta'sis etdi?",
+answers = {
+{text = "1517-yili", correct = false},
+{text = "1524-yili", correct = false},
+{text = "1540-yili", correct = true},
+{text = "1572-yili", correct = false},
+}
+},
+{
+question = "\"Iso jamiyati\" (iyezuitlar) ordenining asoschisi kim edi?",
+answers = {
+{text = "Jan Kalvin", correct = false},
+{text = "Martin Lyuter", correct = false},
+{text = "Ignatiy Loyola", correct = true},
+{text = "Villem van Oranye", correct = false},
+}
+},
+{
+question = "Niderlandda kalvinizm ta'limotini yo'q qilish uchun yuqori diniy lavozimlarga ispanlarni tayinlagan ispan qiroli kim edi?",
+answers = {
+{text = "Karl I", correct = false},
+{text = "Yakov I", correct = false},
+{text = "Filipp II", correct = true},
+{text = "Karl II", correct = false},
+}
+},
+{
+question = "1572-yili Gollandiya va Zelandiya dengizchilari qaysi shaharni egallab, Niderland inqilobida muhim qadam qo'ydi?",
+answers = {
+{text = "Amsterdam", correct = false},
+{text = "Antverpen", correct = false},
+{text = "Bril", correct = true},
+{text = "Gaaga", correct = false},
+}
+},
+{
+question = "Niderland inqilobida shimoliy hududlar hukmdori deb e'lon qilingan va Ispaniya hukmronligidan norozi zodagonlarga boshchilik qilgan shahzoda kim edi?",
+answers = {
+{text = "Filipp II", correct = false},
+{text = "Jan Kalvin", correct = false},
+{text = "Ignatiy Loyola", correct = false},
+{text = "Villem van Oranye", correct = true},
+}
+},
+{
+question = "Shimoliy viloyatlar \"Utrext uniyasi\" deb nomlangan hujjatni imzolab, ittifoq tuzgan yil qaysi?",
+answers = {
+{text = "1572-yil", correct = false},
+{text = "1579-yil", correct = true},
+{text = "1581-yil", correct = false},
+{text = "1609-yil", correct = false},
+}
+},
+{
+question = "Ispaniya Gollandiyaning mustaqilligini tan olganligi haqidagi shartnomani qaysi yili imzoladi?",
+answers = {
+{text = "1579-yilda", correct = false},
+{text = "1581-yilda", correct = false},
+{text = "1609-yilda", correct = true},
+{text = "1620-yilda", correct = false},
+}
+},
+{
+question = "Martin Lyuter tarafdorlari reyxstagda Reformatsiya yutuqlarini bekor qilishga qaratilgan tashabbusga norozilik bildirganidan so'ng qanday nom bilan atala boshladi?",
+answers = {
+{text = "Iyezuitlar", correct = false},
+{text = "Gyozlar", correct = false},
+{text = "Protestantlar", correct = true},
+{text = "Puritanlar", correct = false},
+}
+},
+{
+question = "Ispaniyaga qarshi mustaqillik uchun kurashgan niderland dvoryanlari kamtarona kiyinganligi uchun ispan aristokratlari tomonidan qanday nom bilan atalgan?",
+answers = {
+{text = "Puritanlar", correct = false},
+{text = "Iyezuitlar", correct = false},
+{text = "Gyozlar", correct = true},
+{text = "Lyuteranlar", correct = false},
+}
+},
+{
+question = "Angliyada absolyutizm (mutlaq monarxiya) qaysi asrda shakllangan?",
+answers = {
+{text = "On beshinchi asrda", correct = false},
+{text = "On oltinchi asrda", correct = true},
+{text = "On yettinchi asrda", correct = false},
+{text = "On sakkizinchi asrda", correct = false},
+}
+},
+{
+question = "Nafaqat cherkovni, balki parlamentni ham o'ziga bo'ysundirgan, absolyutizmni mustahkamlagan ingliz qiroli kim edi?",
+answers = {
+{text = "Genrix VIII Tyudor", correct = true},
+{text = "Yakov I", correct = false},
+{text = "Karl I", correct = false},
+{text = "Karl II", correct = false},
+}
+},
+{
+question = "Yelizaveta I qaysi yili Angliya hokimiyatiga keldi?",
+answers = {
+{text = "1558-yilda", correct = true},
+{text = "1588-yilda", correct = false},
+{text = "1603-yilda", correct = false},
+{text = "1640-yilda", correct = false},
+}
+},
+{
+question = "Yelizaveta I necha yillik hukmronligi davomida Angliyaning dunyoning yetakchi davlatiga aylanishiga katta hissa qo'shdi?",
+answers = {
+{text = "30 yillik", correct = false},
+{text = "40 yillik", correct = false},
+{text = "45 yillik", correct = true},
+{text = "50 yillik", correct = false},
+}
+},
+{
+question = "Yelizaveta I vafotidan so'ng Angliya taxtiga qaysi suloladan bo'lgan Yakov I o'tirdi?",
+answers = {
+{text = "Tyudorlar sulolasidan", correct = false},
+{text = "Styuartlar sulolasidan", correct = true},
+{text = "Plantagenetlar sulolasidan", correct = false},
+{text = "Normanlar sulolasidan", correct = false},
+}
+},
+{
+question = "Yelizaveta I qaysi yili vafot etib, Tyudorlar sulolasi yakun topgan?",
+answers = {
+{text = "1558-yilda", correct = false},
+{text = "1588-yilda", correct = false},
+{text = "1603-yilda", correct = true},
+{text = "1640-yilda", correct = false},
+}
+},
+{
+question = "Ispan floti \"Yengilmas armada\" qaysi yili mag'lubiyatga uchrab, Angliya dengizda hukmron bo'lib oldi?",
+answers = {
+{text = "1558-yilda", correct = false},
+{text = "1588-yilda", correct = true},
+{text = "1600-yilda", correct = false},
+{text = "1603-yilda", correct = false},
+}
+},
+{
+question = "Londonda dastlabki birja qaysi yili faoliyat yurita boshladi?",
+answers = {
+{text = "1588-yilda", correct = false},
+{text = "1600-yilda", correct = true},
+{text = "1603-yilda", correct = false},
+{text = "1640-yilda", correct = false},
+}
+},
+{
+question = "Angliya burjua inqilobining boshlanishi bo'lgan \"Uzoq muddatli parlament\" qaysi yili yig'ildi?",
+answers = {
+{text = "1603-yilda", correct = false},
+{text = "1640-yilda", correct = true},
+{text = "1649-yilda", correct = false},
+{text = "1660-yilda", correct = false},
+}
+},
+{
+question = "Qirol Karl I qaysi yili parlament tomonidan qatl etildi?",
+answers = {
+{text = "1640-yilda", correct = false},
+{text = "1642-yilda", correct = false},
+{text = "1649-yilda", correct = true},
+{text = "1660-yilda", correct = false},
+}
+},
+{
+question = "Angliya respublika deb qaysi kuni e'lon qilindi?",
+answers = {
+{text = "1640-yil 3-noyabrda", correct = false},
+{text = "1649-yil 19-mayda", correct = true},
+{text = "1653-yil boshida", correct = false},
+{text = "1660-yil 29-mayda", correct = false},
+}
+},
+{
+question = "Shotlandiya bilan parlament tarafdorlarining birlashgan qo'shini qirol qo'shini ustidan g'alaba qozonishida qaysi qo'mondon boshqargan otliq askarlar asosiy rol o'ynadi?",
+answers = {
+{text = "Jon Lilbern", correct = false},
+{text = "Oliver Kromvel", correct = true},
+{text = "Villem van Oranye", correct = false},
+{text = "Karl II", correct = false},
+}
+},
+{
+question = "Oliver Kromvel protektorati qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "1649-1653-yillarni", correct = false},
+{text = "1653-1658-yillarni", correct = true},
+{text = "1642-1648-yillarni", correct = false},
+{text = "1658-1660-yillarni", correct = false},
+}
+},
+{
+question = "Qatl qilingan qirol Karl I ning o'g'li Karl II Styuart parlament qo'ygan shartlar asosida taxtni qaysi yili egalladi?",
+answers = {
+{text = "1649-yilda", correct = false},
+{text = "1653-yilda", correct = false},
+{text = "1658-yilda", correct = false},
+{text = "1660-yilda", correct = true},
+}
+},
+{
+question = "Angliya tarixida \"Shonli inqilob\" nomi bilan mashhur bo'lgan voqea qaysi yili yuz berdi?",
+answers = {
+{text = "1660-yilda", correct = false},
+{text = "1649-yilda", correct = false},
+{text = "1688-yilda", correct = true},
+{text = "1640-yilda", correct = false},
+}
+},
+{
+question = "1688-yilgi \"Shonli inqilob\"dan so'ng parlament Angliya taxtiga qaysi mamlakat hukmdorini taklif qildi?",
+answers = {
+{text = "Fransiya hukmdorini", correct = false},
+{text = "Ispaniya hukmdorini", correct = false},
+{text = "Gollandiya hukmdori Villem van Oranyeni", correct = true},
+{text = "Shvetsiya hukmdorini", correct = false},
+}
+},
+}

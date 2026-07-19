@@ -1,0 +1,722 @@
+questions = {
+{
+question = "1688-yilgi qanday voqeadan so'ng Angliyada hokimiyat butunlay ikki palatali parlament qo'liga o'tdi?",
+answers = {
+{text = "Amerika inqilobi", correct = false},
+{text = "Sharafli inqilob", correct = true},
+{text = "Sanoat to'ntarishi", correct = false},
+{text = "Agrar inqilob", correct = false},
+}
+},
+{
+question = "Angliya parlamenti nechta palatadan iborat bo'lgan?",
+answers = {
+{text = "Bitta palatadan", correct = false},
+{text = "Uchta palatadan", correct = false},
+{text = "Ikkita palatadan", correct = true},
+{text = "To'rtta palatadan", correct = false},
+}
+},
+{
+question = "O'n sakkizinchi asrda Angliya parlamentida ko'pchilikni tashkil etgan ikkita asosiy partiya qanday nomlangan?",
+answers = {
+{text = "Jirondachilar va yakobinchilar", correct = false},
+{text = "Gvelflar va gibellinlar", correct = false},
+{text = "Tori va vigi", correct = true},
+{text = "Royalistlar va respublikachilar", correct = false},
+}
+},
+{
+question = "1707-yilgi kelishuvga (uniyaga) ko'ra Angliya bilan Shotlandiya birlashib, mamlakat qanday nom bilan atala boshlagan?",
+answers = {
+{text = "Angliya-Shotlandiya federatsiyasi", correct = false},
+{text = "Buyuk Britaniya", correct = true},
+{text = "Britaniya konfederatsiyasi", correct = false},
+{text = "Yagona qirollik", correct = false},
+}
+},
+{
+question = "1716-yili Angliya parlamenti vakolat muddati necha yilga belgilangan?",
+answers = {
+{text = "Uch yilga", correct = false},
+{text = "To'rt yilga", correct = false},
+{text = "Besh yilga", correct = false},
+{text = "Olti yilga", correct = true},
+}
+},
+{
+question = "Angliyani 45 yil davomida boshqargan, biroq mamlakatni bevosita idora qilmagan qirollar qaysi sulolaga mansub bo'lgan?",
+answers = {
+{text = "Styuartlar sulolasi", correct = false},
+{text = "Tyudorlar sulolasi", correct = false},
+{text = "Gannoverliklar sulolasi", correct = true},
+{text = "Plantagenetlar sulolasi", correct = false},
+}
+},
+{
+question = "Normannlar anglo-sakslarni qaysi yilda bosib olgan?",
+answers = {
+{text = "1054-yilda", correct = false},
+{text = "1066-yilda", correct = true},
+{text = "1088-yilda", correct = false},
+{text = "1099-yilda", correct = false},
+}
+},
+{
+question = "Angliya va Fransiya o'rtasidagi ispan taxti uchun bo'lgan urush qaysi yillarni o'z ichiga olgan?",
+answers = {
+{text = "1688-1701-yillar", correct = false},
+{text = "1701-1714-yillar", correct = true},
+{text = "1714-1720-yillar", correct = false},
+{text = "1756-1763-yillar", correct = false},
+}
+},
+{
+question = "Angliya foydasiga yakunlanib, unga Gibraltar va Menorka orolini keltirib bergan sulh qanday nomlangan?",
+answers = {
+{text = "Vestfal sulhi", correct = false},
+{text = "Nishtadt sulhi", correct = false},
+{text = "Utrext sulhi", correct = true},
+{text = "Kampo-Formio sulhi", correct = false},
+}
+},
+{
+question = "Angliya Fransiyani qaysi yili Kanadadan butunlay siqib chiqargan?",
+answers = {
+{text = "1756-yili", correct = false},
+{text = "1763-yili", correct = true},
+{text = "1778-yili", correct = false},
+{text = "1789-yili", correct = false},
+}
+},
+{
+question = "1733-yili to'quv dastgohini ixtiro etgan, to'qish jarayonini ikki marta tezlashtirgan mexanik kim bo'lgan?",
+answers = {
+{text = "Jeyms Xargrivs", correct = false},
+{text = "Jon Key", correct = true},
+{text = "Edmund Kartrayt", correct = false},
+{text = "Jeyms Uatt", correct = false},
+}
+},
+{
+question = "1765-yili bir yo'la 15-18 yigirgich ishlaydigan, o'z qizi nomi bilan \"Jenni\" deb atalgan mexanik urchuqni kim ixtiro qilgan?",
+answers = {
+{text = "Xeys", correct = false},
+{text = "Jeyms Xargrivs", correct = true},
+{text = "Modsli", correct = false},
+{text = "Kort", correct = false},
+}
+},
+{
+question = "To'quvchilik ishlab chiqarishi unumdorligini 40 martaga oshirgan yangi mexanik to'quv dastgohini kim yaratgan?",
+answers = {
+{text = "Edmund Kartrayt", correct = true},
+{text = "Jon Key", correct = false},
+{text = "Jeyms Uatt", correct = false},
+{text = "Xeys", correct = false},
+}
+},
+{
+question = "Universal bug' mashinasini yaratib, fabrikalarni daryo bo'ylaridan tashqarida ham qurish imkonini bergan ixtirochi kim bo'lgan?",
+answers = {
+{text = "Kort", correct = false},
+{text = "Modsli", correct = false},
+{text = "Jeyms Uatt", correct = true},
+{text = "Edmund Kartrayt", correct = false},
+}
+},
+{
+question = "Angliya parlamenti mashinalarni buzganlik uchun o'lim jazosi belgilangan qonunni qaysi yili qabul qilgan?",
+answers = {
+{text = "1765-yili", correct = false},
+{text = "1769-yili", correct = true},
+{text = "1780-yili", correct = false},
+{text = "1791-yili", correct = false},
+}
+},
+{
+question = "Luddchilik harakati voqealari xususida achinish bilan she'r bitgan buyuk ingliz shoiri kim bo'lgan?",
+answers = {
+{text = "Jorj Bayron", correct = true},
+{text = "Volter", correct = false},
+{text = "Jan Jak Russo", correct = false},
+{text = "Sharl Lui de Monteskyo", correct = false},
+}
+},
+{
+question = "Lyudovik o'n to'rtinchi necha yoshida rasman qirol deb e'lon qilingan?",
+answers = {
+{text = "3 yoshida", correct = false},
+{text = "5 yoshida", correct = true},
+{text = "7 yoshida", correct = false},
+{text = "10 yoshida", correct = false},
+}
+},
+{
+question = "Lyudovik o'n to'rtinchi rasman jami necha yil va necha kun Fransiya taxtida o'tirgan?",
+answers = {
+{text = "54 yil", correct = false},
+{text = "60 yil", correct = false},
+{text = "72 yil 110 kun", correct = true},
+{text = "80 yil", correct = false},
+}
+},
+{
+question = "Lyudovik o'n to'rtinchi Fransiyani amalda necha yil boshqargan?",
+answers = {
+{text = "40 yil", correct = false},
+{text = "54 yil", correct = true},
+{text = "65 yil", correct = false},
+{text = "72 yil", correct = false},
+}
+},
+{
+question = "Fransiyada mutlaq monarxiyaning uzil-kesil mustahkamlanishi qaysi kardinal nomi bilan bog'liq?",
+answers = {
+{text = "Kardinal Rishelyo", correct = true},
+{text = "Jan Batist Kolber", correct = false},
+{text = "Onore de Mirabo", correct = false},
+{text = "Sharl Lui de Monteskyo", correct = false},
+}
+},
+{
+question = "Kardinal Rishelyo qaysi yillarda Fransiya hukumatida ministr lavozimida bo'lgan?",
+answers = {
+{text = "1610-1624-yillar", correct = false},
+{text = "1624-1642-yillar", correct = true},
+{text = "1642-1661-yillar", correct = false},
+{text = "1661-1685-yillar", correct = false},
+}
+},
+{
+question = "Lyudovik o'n to'rtinchi qaysi yili hokimiyat tepasiga kelgan?",
+answers = {
+{text = "1642-yili", correct = false},
+{text = "1648-yili", correct = false},
+{text = "1661-yili", correct = true},
+{text = "1685-yili", correct = false},
+}
+},
+{
+question = "Mutlaq monarxiyaga asoslangan boshqaruv tizimini o'zining \"Davlat - bu men!\" jumlasi bilan ifodalagan qirol kim bo'lgan?",
+answers = {
+{text = "Genrix IV", correct = false},
+{text = "Lyudovik o'n to'rtinchi", correct = true},
+{text = "Lyudovik o'n beshinchi", correct = false},
+{text = "Lyudovik o'n oltinchi", correct = false},
+}
+},
+{
+question = "Ochlik va kasalliklar oqibatida Fransiya aholisi 1650-yildagi 20 million kishidan 1710-yilga kelib qanchagacha kamaygan?",
+answers = {
+{text = "10-12 million kishigacha", correct = false},
+{text = "13-14 million kishigacha", correct = false},
+{text = "16-17 million kishigacha", correct = true},
+{text = "18-19 million kishigacha", correct = false},
+}
+},
+{
+question = "Savdo, sanoat va moliya bosh nazoratchisi bo'lib, Fransiya mustamlaka imperiyasining asoschisiga aylangan davlat arbobi kim bo'lgan?",
+answers = {
+{text = "Kardinal Rishelyo", correct = false},
+{text = "Jan Batist Kolber", correct = true},
+{text = "Onore de Mirabo", correct = false},
+{text = "Genrix IV", correct = false},
+}
+},
+{
+question = "Fransiya uchun muvaffaqiyatsiz yakunlanib, natijada u Shimoliy Amerika, Hindiston va Afrikadagi mustamlakalaridan ayrilgan urush qanday nomlangan?",
+answers = {
+{text = "Ispan merosxo'rligi uchun urush", correct = false},
+{text = "Shimoliy urush", correct = false},
+{text = "Yetti yillik urush", correct = true},
+{text = "Bir yuz yillik urush", correct = false},
+}
+},
+{
+question = "1790-yili Fransiyada nechta \"Jenni\" to'qimachilik dastgohi mavjud bo'lgan?",
+answers = {
+{text = "300 ta", correct = false},
+{text = "900 ta", correct = true},
+{text = "5000 ta", correct = false},
+{text = "20000 ta", correct = false},
+}
+},
+{
+question = "Fransiya Shimoliy Amerika shtatlari bilan ittifoqchilik shartnomasini qaysi yili tuzgan?",
+answers = {
+{text = "1763-yili", correct = false},
+{text = "1778-yili", correct = true},
+{text = "1785-yili", correct = false},
+{text = "1789-yili", correct = false},
+}
+},
+{
+question = "Fransiyada qirol Genrix IV davrida iqtisodiy o'sishga erishishning muhim omillaridan biri nima bo'lgan?",
+answers = {
+{text = "Soliqlarning kamaytirilishi", correct = true},
+{text = "Yangi mustamlakalarni bosib olish", correct = false},
+{text = "Ichki bojxona chegaralarining bekor qilinishi", correct = false},
+{text = "Dvoryanlik unvonlarining sotilishi", correct = false},
+}
+},
+{
+question = "Fransiyada 1302-1789-yillar oralig'ida faoliyat yuritgan, jamiyat turli tabaqalari vakillaridan iborat oliy vakillik organi qanday nomlangan?",
+answers = {
+{text = "Konvent", correct = false},
+{text = "Direktoriya", correct = false},
+{text = "General shtatlar", correct = true},
+{text = "Milliy ta'sis majlisi", correct = false},
+}
+},
+{
+question = "Fransiyada o'n oltinchi - o'n sakkizinchi asrlarda protestant (kalvinizm) tarafdorlari qanday atalgan?",
+answers = {
+{text = "Yakobinchilar", correct = false},
+{text = "Gugenotlar", correct = true},
+{text = "Jirondachilar", correct = false},
+{text = "Royalistlar", correct = false},
+}
+},
+{
+question = "1720-1780-yillari mustamlakalar bilan savdoning jadal rivojlanishi natijasida Fransiya savdo hajmi bo'yicha dunyoda nechanchi o'ringa chiqqan?",
+answers = {
+{text = "Birinchi o'ringa", correct = false},
+{text = "Ikkinchi o'ringa", correct = true},
+{text = "Uchinchi o'ringa", correct = false},
+{text = "To'rtinchi o'ringa", correct = false},
+}
+},
+{
+question = "Lyudovik o'n oltinchi kimning nabirasi sifatida taxtga chiqib, mamlakatni xarob holatda topgan edi?",
+answers = {
+{text = "Lyudovik o'n to'rtinchining", correct = false},
+{text = "Lyudovik o'n beshinchining", correct = true},
+{text = "Genrix IV ning", correct = false},
+{text = "Kardinal Rishelyoning", correct = false},
+}
+},
+{
+question = "Buyuk fransuz burjua inqilobi arafasida fransuz jamiyati nechta tabaqaga bo'lingan edi?",
+answers = {
+{text = "Ikkita tabaqaga", correct = false},
+{text = "Uchta tabaqaga", correct = true},
+{text = "To'rtta tabaqaga", correct = false},
+{text = "Beshta tabaqaga", correct = false},
+}
+},
+{
+question = "Ruhoniylar va dvoryanlar tabaqalari mamlakat aholisining necha foizini tashkil etib, soliq to'lamas edi?",
+answers = {
+{text = "3 foizini", correct = false},
+{text = "6 foizini", correct = true},
+{text = "12 foizini", correct = false},
+{text = "20 foizini", correct = false},
+}
+},
+{
+question = "Turli tabaqa kishilarining tengligi va bir xil huquqqa ega bo'lishi lozimligi g'oyasini ommalashtirgan fransuz ma'rifatparvar faylasuflari qatoriga kimlar kirgan?",
+answers = {
+{text = "Sharl Lui de Monteskyo, Jan Jak Russo va Volter", correct = true},
+{text = "Onore de Mirabo, Robespyer va Danton", correct = false},
+{text = "Jan Batist Kolber va Kardinal Rishelyo", correct = false},
+{text = "Napoleon Bonapart va Marat", correct = false},
+}
+},
+{
+question = "Qirol Lyudovik o'n oltinchi General shtatlar majlisini qaysi sanada ochgan?",
+answers = {
+{text = "1788-yil 20-avgust", correct = false},
+{text = "1789-yil 5-may", correct = true},
+{text = "1789-yil 14-iyul", correct = false},
+{text = "1791-yil sentyabr", correct = false},
+}
+},
+{
+question = "Uchinchi tabaqa qarashlarining yorqin ifodachisi, uni birlikka chaqirgan siyosat arbobi kim bo'lgan?",
+answers = {
+{text = "Onore de Mirabo", correct = true},
+{text = "Robespyer", correct = false},
+{text = "Jan Batist Kolber", correct = false},
+{text = "Napoleon Bonapart", correct = false},
+}
+},
+{
+question = "Bastiliya qal'asiga bostirib kirilib, Buyuk fransuz inqilobi boshlanishiga sabab bo'lgan voqea qaysi sanada yuz bergan?",
+answers = {
+{text = "1789-yil 5-may", correct = false},
+{text = "1789-yil 14-iyul", correct = true},
+{text = "1791-yil sentyabr", correct = false},
+{text = "1792-yil 22-sentyabr", correct = false},
+}
+},
+{
+question = "\"Ozodlik, Tenglik, Birodarlik\" g'oyasini o'zida mujassam etgan \"Inson va fuqaro huquqlari deklaratsiyasi\" qaysi yili qabul qilingan?",
+answers = {
+{text = "1788-yili", correct = false},
+{text = "1789-yili", correct = true},
+{text = "1791-yili", correct = false},
+{text = "1793-yili", correct = false},
+}
+},
+{
+question = "Fransiya tarixidagi ilk konstitutsiya qaysi yili qabul qilingan?",
+answers = {
+{text = "1789-yil avgustda", correct = false},
+{text = "1791-yil sentyabrda", correct = true},
+{text = "1793-yil yanvarda", correct = false},
+{text = "1795-yil avgustda", correct = false},
+}
+},
+{
+question = "Konvent qaysi sanada monarxiyani bekor qilish va Fransiyada respublika tuzumini o'rnatish to'g'risida dekret qabul qilgan?",
+answers = {
+{text = "1792-yil 22-sentyabr", correct = true},
+{text = "1793-yil yanvar", correct = false},
+{text = "1794-yil 27-iyul", correct = false},
+{text = "1795-yil avgust", correct = false},
+}
+},
+{
+question = "Qirol Lyudovik o'n oltinchi qaysi sanada Konvent qaroriga binoan qatl etilgan?",
+answers = {
+{text = "1789-yil 14-iyulda", correct = false},
+{text = "1792-yil 22-sentyabrda", correct = false},
+{text = "1793-yil yanvarda", correct = true},
+{text = "1794-yil 27-iyulda", correct = false},
+}
+},
+{
+question = "Yakobinchilar diktaturasi davrida hokimiyat tepasiga kelgan yo'lboshchilar qatoriga kimlar kirgan?",
+answers = {
+{text = "Robespyer, Marat va Danton", correct = true},
+{text = "Onore de Mirabo va Jan Batist Kolber", correct = false},
+{text = "Napoleon Bonapart va Kardinal Rishelyo", correct = false},
+{text = "Kuzma Minin va Dmitriy Pojarskiy", correct = false},
+}
+},
+{
+question = "Robespyer va uning tarafdorlari qaysi sanada gilyotinada qatl etilib, yakobinchilar diktaturasi qulagan?",
+answers = {
+{text = "1793-yil yanvarda", correct = false},
+{text = "1794-yil 27-iyulda", correct = true},
+{text = "1795-yil avgustda", correct = false},
+{text = "1799-yil noyabrda", correct = false},
+}
+},
+{
+question = "1795-yilgi konstitutsiyaga ko'ra tuzilgan, besh kishidan iborat bo'lgan ijro hokimiyati organi qanday nomlangan?",
+answers = {
+{text = "Konvent", correct = false},
+{text = "Milliy ta'sis majlisi", correct = false},
+{text = "Direktoriya", correct = true},
+{text = "Konsullik", correct = false},
+}
+},
+{
+question = "Konventning fitnachilardan xaloskoriga aylanib, isyonchilarni artilleriya yordamida tor-mor qilgan general kim bo'lgan?",
+answers = {
+{text = "Napoleon Bonapart", correct = true},
+{text = "Onore de Mirabo", correct = false},
+{text = "Dmitriy Pojarskiy", correct = false},
+{text = "Fridrix ikkinchi", correct = false},
+}
+},
+{
+question = "Konsullik o'rnatilishiga olib kelgan davlat to'ntarishi qaysi kunlarda amalga oshirilgan?",
+answers = {
+{text = "14-iyulda", correct = false},
+{text = "22-sentyabrda", correct = false},
+{text = "18-19-bryumerda (9-10-noyabrda)", correct = true},
+{text = "27-iyulda", correct = false},
+}
+},
+{
+question = "O'ttiz yillik urush qaysi yillar oralig'ida bo'lib o'tgan?",
+answers = {
+{text = "1600-1630-yillar", correct = false},
+{text = "1618-1648-yillar", correct = true},
+{text = "1648-1683-yillar", correct = false},
+{text = "1683-1699-yillar", correct = false},
+}
+},
+{
+question = "O'ttiz yillik urushni yakunlagan sulh qanday nomlanadi va qaysi yili tuzilgan?",
+answers = {
+{text = "Utrext sulhi, 1713-yili", correct = false},
+{text = "Vestfal sulhi, 1648-yili", correct = true},
+{text = "Karlovitsa sulhi, 1699-yili", correct = false},
+{text = "Nishtadt sulhi, 1721-yili", correct = false},
+}
+},
+{
+question = "Vestfal sulhidan so'ng Muqaddas Rim imperiyasi nechta mustaqil knyazlik, graflik, gersoglik va boshqa hududlardan tashkil topgan edi?",
+answers = {
+{text = "100 dan ortiq", correct = false},
+{text = "150 dan ortiq", correct = false},
+{text = "250 dan ortiq", correct = true},
+{text = "500 dan ortiq", correct = false},
+}
+},
+{
+question = "Muqaddas Rim imperiyasi imperatori odatda qaysi sulola vakili bo'lgan?",
+answers = {
+{text = "Gabsburglar sulolasi", correct = true},
+{text = "Gannoverliklar sulolasi", correct = false},
+{text = "Romanovlar sulolasi", correct = false},
+{text = "Byurbonlar sulolasi", correct = false},
+}
+},
+{
+question = "Fridrix Vilgelm birinchi hukmronligi davrida (1713-1740-yillar) Prussiya armiyasi soni qanchaga yetgan?",
+answers = {
+{text = "45 ming kishiga", correct = false},
+{text = "85 ming kishiga", correct = true},
+{text = "150 ming kishiga", correct = false},
+{text = "200 ming kishiga", correct = false},
+}
+},
+{
+question = "Fridrix ikkinchi hukmronligi davrida (1740-1786-yillar) Prussiya armiyasi soni qanchaga yetgan?",
+answers = {
+{text = "85 ming kishiga", correct = false},
+{text = "120 ming kishiga", correct = false},
+{text = "200 ming kishiga", correct = true},
+{text = "300 ming kishiga", correct = false},
+}
+},
+{
+question = "Prussiya qaysi yili qirollik deb e'lon qilingan?",
+answers = {
+{text = "1688-yili", correct = false},
+{text = "1701-yili", correct = true},
+{text = "1713-yili", correct = false},
+{text = "1740-yili", correct = false},
+}
+},
+{
+question = "Fridrix Vilgelm birinchi qaysi yili Prussiya qiroli deb e'lon qilingan?",
+answers = {
+{text = "1701-yili", correct = false},
+{text = "1713-yili", correct = true},
+{text = "1721-yili", correct = false},
+{text = "1740-yili", correct = false},
+}
+},
+{
+question = "Armiya va butun davlatni mustahkamlagani uchun xalq orasida \"qirol-askar\" deb atalgan Prussiya qiroli kim bo'lgan?",
+answers = {
+{text = "Fridrix ikkinchi", correct = false},
+{text = "Fridrix Vilgelm birinchi", correct = true},
+{text = "Ivan to'rtinchi", correct = false},
+{text = "Pyotr birinchi", correct = false},
+}
+},
+{
+question = "Drezden shahri o'zining go'zalligi bilan qanday nom bilan atalgan?",
+answers = {
+{text = "\"Kichik Parij\"", correct = false},
+{text = "\"Shimoliy Venetsiya\"", correct = false},
+{text = "\"Elbadagi Florensiya\"", correct = true},
+{text = "\"Yevropa yuragi\"", correct = false},
+}
+},
+{
+question = "Savdo va noshirlik ishi markaziga aylangan Leypsig shahri qanday nom bilan atalgan?",
+answers = {
+{text = "\"Elbadagi Florensiya\"", correct = false},
+{text = "\"Kichik Parij\"", correct = true},
+{text = "\"Shimoliy dengiz darvozasi\"", correct = false},
+{text = "\"Germaniya poytaxti\"", correct = false},
+}
+},
+{
+question = "Germaniya knyazliklari usmoniylar bosqiniga qarshi birinchi marta yakdil qaror qabul qilib, Vena ostonalarida g'alaba qozongan yil qaysi?",
+answers = {
+{text = "1648-yili", correct = false},
+{text = "1683-yili", correct = true},
+{text = "1699-yili", correct = false},
+{text = "1721-yili", correct = false},
+}
+},
+{
+question = "Turkiya bilan tuzilgan, unga ko'ra Turkiya deyarli butun Vengriya va Transilvaniyani tark etgan Karlovitsa tinchlik shartnomasi qaysi sanada imzolangan?",
+answers = {
+{text = "1648-yil 24-oktyabrda", correct = false},
+{text = "1683-yil 12-sentyabrda", correct = false},
+{text = "1699-yil 26-yanvarda", correct = true},
+{text = "1713-yil 11-aprelda", correct = false},
+}
+},
+{
+question = "Shogirdlarning sexlarga ega bo'lishini yengillashtirgan va hunarmand ayollar mehnatiga ruxsat bergan \"Hunarmandchilik ustavi\" qaysi yili qabul qilingan?",
+answers = {
+{text = "1701-yili", correct = false},
+{text = "1713-yili", correct = false},
+{text = "1731-yili", correct = true},
+{text = "1740-yili", correct = false},
+}
+},
+{
+question = "Yevropada birinchi chinni manufakturasiga qaysi shaharda asos solingan?",
+answers = {
+{text = "Berlin shahrida", correct = false},
+{text = "Meysen shahrida", correct = true},
+{text = "Gamburg shahrida", correct = false},
+{text = "Leypsig shahrida", correct = false},
+}
+},
+{
+question = "O'n sakkizinchi asrda to'qimachilik manufakturasining markaziga aylangan shahar qaysi edi?",
+answers = {
+{text = "Meysen", correct = false},
+{text = "Lyubek", correct = false},
+{text = "Berlin", correct = true},
+{text = "Drezden", correct = false},
+}
+},
+{
+question = "Ivan to'rtinchi qaysi yili taxtga o'tirib, Rossiya tarixida birinchi bor podsholik tojini kiygan?",
+answers = {
+{text = "1533-yili", correct = false},
+{text = "1547-yili", correct = true},
+{text = "1565-yili", correct = false},
+{text = "1584-yili", correct = false},
+}
+},
+{
+question = "Ivan to'rtinchi birinchi bor erkin aholi vakillari yig'ilishi - Zemstvo soborini qaysi yili chaqirgan?",
+answers = {
+{text = "1547-yili", correct = false},
+{text = "1549-yili", correct = true},
+{text = "1556-yili", correct = false},
+{text = "1565-yili", correct = false},
+}
+},
+{
+question = "Boyarlar hokimiyatiga zarba berish maqsadida ajratib olingan yerlar - oprichnina qaysi yili joriy etilgan?",
+answers = {
+{text = "1547-yili", correct = false},
+{text = "1552-yili", correct = false},
+{text = "1565-yili", correct = true},
+{text = "1572-yili", correct = false},
+}
+},
+{
+question = "Oprichnina qaysi yili bekor qilingan?",
+answers = {
+{text = "1565-yili", correct = false},
+{text = "1572-yili", correct = true},
+{text = "1584-yili", correct = false},
+{text = "1598-yili", correct = false},
+}
+},
+{
+question = "Shafqatsiz terror va qatllar siyosati tufayli xalq orasida \"Grozniy\" (\"Dahshatli\") laqabini olgan podsho kim bo'lgan?",
+answers = {
+{text = "Fyodor Ivanovich", correct = false},
+{text = "Ivan to'rtinchi", correct = true},
+{text = "Boris Godunov", correct = false},
+{text = "Mixail Romanov", correct = false},
+}
+},
+{
+question = "Fyodor Ivanovich vafotidan so'ng, farzandsizligi sababli, Rossiyani 700 yil boshqargan qaysi sulola hukmronligi barham topgan?",
+answers = {
+{text = "Romanovlar sulolasi", correct = false},
+{text = "Ryuriklar sulolasi", correct = true},
+{text = "Gabsburglar sulolasi", correct = false},
+{text = "Gannoverliklar sulolasi", correct = false},
+}
+},
+{
+question = "1612-yili Moskvani chet el bosqinchilaridan ozod qilgan xalq lashkarini kimlar boshchiligida to'plangan?",
+answers = {
+{text = "Boris Godunov va Fyodor Ivanovich", correct = false},
+{text = "Kuzma Minin va Dmitriy Pojarskiy", correct = true},
+{text = "Ivan to'rtinchi va Mixail Romanov", correct = false},
+{text = "Pyotr birinchi va Yekaterina ikkinchi", correct = false},
+}
+},
+{
+question = "Zemstvo sobori tomonidan Mixail Romanov Rossiya podshosi etib qaysi yili saylangan?",
+answers = {
+{text = "1598-yili", correct = false},
+{text = "1605-yili", correct = false},
+{text = "1613-yili", correct = true},
+{text = "1625-yili", correct = false},
+}
+},
+{
+question = "Pyotr birinchi qaysi yillar davomida Rossiya taxtida o'tirgan?",
+answers = {
+{text = "1613-1645-yillar", correct = false},
+{text = "1682-1725-yillar", correct = false},
+{text = "1689-1725-yillar", correct = true},
+{text = "1700-1730-yillar", correct = false},
+}
+},
+{
+question = "Pyotr birinchi qaysi yili imperator deb e'lon qilinib, Buyuk Pyotr nomini olgan?",
+answers = {
+{text = "1703-yili", correct = false},
+{text = "1712-yili", correct = false},
+{text = "1721-yili", correct = true},
+{text = "1725-yili", correct = false},
+}
+},
+{
+question = "Yemelyan Pugachyov boshchiligidagi dehqonlar urushi qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1700-1721-yillar", correct = false},
+{text = "1756-1763-yillar", correct = false},
+{text = "1773-1775-yillar", correct = true},
+{text = "1772-1793-yillar", correct = false},
+}
+},
+{
+question = "Qozon xonligi qaysi yili Rossiya tarkibiga qo'shib olingan?",
+answers = {
+{text = "1547-yili", correct = false},
+{text = "1552-yili", correct = true},
+{text = "1556-yili", correct = false},
+{text = "1569-yili", correct = false},
+}
+},
+{
+question = "Rossiyaning mag'lubiyati bilan yakunlanib, Boltiqbo'yi hududlari masalasini hal qilmay qoldirgan cho'zilib ketgan urush qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "Shimoliy urush, 1700-1721-yillar", correct = false},
+{text = "Livon urushi, 1558-1583-yillar", correct = true},
+{text = "Yetti yillik urush, 1756-1763-yillar", correct = false},
+{text = "O'ttiz yillik urush, 1618-1648-yillar", correct = false},
+}
+},
+{
+question = "Rossiyaning Yevropa sari qo'yilgan qadami hisoblangan yangi poytaxt - Sankt-Peterburgga qaysi yili asos solingan?",
+answers = {
+{text = "1689-yili", correct = false},
+{text = "1700-yili", correct = false},
+{text = "1703-yili", correct = true},
+{text = "1721-yili", correct = false},
+}
+},
+{
+question = "Rossiya - Shvetsiya o'rtasidagi Shimoliy urushni yakunlagan, Rossiyaga Boltiq dengiziga chiqish huquqini bergan Nishtadt tinchlik shartnomasi qaysi yili imzolangan?",
+answers = {
+{text = "1703-yili", correct = false},
+{text = "1712-yili", correct = false},
+{text = "1721-yili", correct = true},
+{text = "1725-yili", correct = false},
+}
+},
+{
+question = "1755-yili buyuk rus olimining tashabbusi bilan Moskva universiteti tashkil qilingan. Bu olim kim bo'lgan?",
+answers = {
+{text = "I. P. Kulibin", correct = false},
+{text = "M. V. Lomonosov", correct = true},
+{text = "I. I. Polzunov", correct = false},
+{text = "G. D. Derjavin", correct = false},
+}
+},
+}
