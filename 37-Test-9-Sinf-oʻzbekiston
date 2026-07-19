@@ -1,0 +1,821 @@
+-- MAVZU 31: Qo'qon xonligida ta'lim va madaniyat
+questions = {
+{
+question = "XIX asr o'rtalarida xonlikda Qo'qon, Marg'ilon, Andijon, Toshkent, Xo'jand, O'sh shaharlarida jami nechta madrasa faoliyat ko'rsatgan?",
+answers = {
+{text = "200 dan ortiq", correct = false},
+{text = "250 dan ortiq", correct = false},
+{text = "350 dan ortiq", correct = true},
+{text = "450 dan ortiq", correct = false},
+}
+},
+{
+question = "Xonlik ta'lim tizimi an'anaviy ravishda necha bosqichdan iborat bo'lgan?",
+answers = {
+{text = "Bitta bosqichdan", correct = false},
+{text = "Ikki bosqichdan (maktab va madrasa)", correct = true},
+{text = "Uch bosqichdan", correct = false},
+{text = "To'rt bosqichdan", correct = false},
+}
+},
+{
+question = "Maktab ta'limi qanday ikki turga bo'lingan?",
+answers = {
+{text = "Erkaklar va ayollar maktabiga", correct = false},
+{text = "Masjidlar qoshidagi quyi maktab va shaharlardagi yuqori maktabga", correct = true},
+{text = "Davlat va xususiy maktabga", correct = false},
+{text = "Diniy va dunyoviy maktabga", correct = false},
+}
+},
+{
+question = "Ikki-besh yil davom etgan quyi maktab nechta o'quvchini qamrab olgan?",
+answers = {
+{text = "5 tadan 15 tagacha", correct = false},
+{text = "10 nafardan 30 nafargacha", correct = true},
+{text = "30 tadan 50 tagacha", correct = false},
+{text = "50 tadan 100 tagacha", correct = false},
+}
+},
+{
+question = "Qiz bolalar maktabida ularga kimlar dars bergan?",
+answers = {
+{text = "Muallimlar", correct = false},
+{text = "Otinoyilar", correct = true},
+{text = "Mudarrislar", correct = false},
+{text = "Qozilar", correct = false},
+}
+},
+{
+question = "Dilshodi Barno o'z xotiralarida necha yil davomida maktabdorlik qilganini yozgan?",
+answers = {
+{text = "O'ttiz besh yil", correct = false},
+{text = "Qirq yil", correct = false},
+{text = "Ellik bir yil", correct = true},
+{text = "Oltmish yil", correct = false},
+}
+},
+{
+question = "Dilshodi Barno necha nafar qizning savodini chiqarganini eslatib o'tgan?",
+answers = {
+{text = "Besh yuzta", correct = false},
+{text = "Olti yuzta", correct = false},
+{text = "Sakkiz yuz to'qsonta", correct = true},
+{text = "Ming ikkiyuzta", correct = false},
+}
+},
+{
+question = "Minglar hukmronligi davri tarixini tadqiq etgan tarixchi va manbashunos olimlar tomonidan nazm va nasrda nechta tarixiy asar yaratilgani ma'lum?",
+answers = {
+{text = "20 ga yaqin", correct = false},
+{text = "30 ga yaqin", correct = false},
+{text = "40 ga yaqin", correct = true},
+{text = "60 ga yaqin", correct = false},
+}
+},
+{
+question = "Qo'qondagi eng mashhur madrasalar qatoriga qaysilari kirgan?",
+answers = {
+{text = "Norbo'tabiy, Jome, Chalpak, Oliy, Modarixon, Kamol qozi, Dasturxonchi, Miyon Hazrat madrasalari", correct = true},
+{text = "Ko'kaldosh, Baroqxon, Abdullaxon madrasalari", correct = false},
+{text = "Mir Arab, Ulug'bek, Sherdor madrasalari", correct = false},
+{text = "Chorsu, Kalon, Ismoil Somoniy madrasalari", correct = false},
+}
+},
+{
+question = "Toshkentdagi mashhur madrasalar qatoriga qaysilari kirgan?",
+answers = {
+{text = "Ko'kaldosh, Baroqxon, Mo'yi Muborak, Beklarbegi, Eshonquli dodxoh, Yunusxon, Mahmud dasturxonchi, Normuhammad qushbegi va Abulqosim eshon madrasalari", correct = true},
+{text = "Norbo'tabiy, Jome, Chalpak madrasalari", correct = false},
+{text = "Muslihiddin va Sayidahmadxo'ja madrasalari", correct = false},
+{text = "Mir Arab va Ulug'bek madrasalari", correct = false},
+}
+},
+{
+question = "Xo'jand shahridagi qaysi madrasa xonlikdagi eng mashhur madrasalardan biri hisoblangan?",
+answers = {
+{text = "Sayidahmadxo'ja madrasasi", correct = false},
+{text = "Muslihiddin madrasasi", correct = true},
+{text = "Jome madrasasi", correct = false},
+{text = "Modarixon madrasasi", correct = false},
+}
+},
+{
+question = "Marg'ilon shahridagi qaysi madrasa xonlikdagi eng mashhur madrasalardan biri hisoblangan?",
+answers = {
+{text = "Muslihiddin madrasasi", correct = false},
+{text = "Kamol qozi madrasasi", correct = false},
+{text = "Sayidahmadxo'ja madrasasi", correct = true},
+{text = "Miyon Hazrat madrasasi", correct = false},
+}
+},
+{
+question = "Toshkentdagi Ko'kaldosh va Baroqxon madrasalaridan tashqari, qolgan barcha mashhur madrasalar qaysi davrda qurilgan?",
+answers = {
+{text = "Shayboniylar davrida", correct = false},
+{text = "Ashtarxoniylar davrida", correct = false},
+{text = "Xonlik (minglar) davrida", correct = true},
+{text = "Temuriylar davrida", correct = false},
+}
+},
+{
+question = "Madrasalarda talabalarga qanday fanlar o'qitilgan?",
+answers = {
+{text = "Faqat aqida va fiqh", correct = false},
+{text = "Qur'on qiroati ilmi (tajvid), aqida, fiqh, hadis, arab tili grammatikasi, falsafa, mantiq, notiqlik, meros, faroiz, matematika, tabobat, adabiyot", correct = true},
+{text = "Faqat matematika va tabobat", correct = false},
+{text = "Faqat adabiyot va notiqlik", correct = false},
+}
+},
+{
+question = "Maktab va madrasalar qanday mablag' hisobidan moliyalashtirilgan?",
+answers = {
+{text = "Davlat xazinasi hisobidan", correct = false},
+{text = "Vaqf mulklari hisobidan", correct = true},
+{text = "Xususiy xayriya hisobidan", correct = false},
+{text = "Savdogarlar mablag'i hisobidan", correct = false},
+}
+},
+{
+question = "Maktabxonalarda So'fi Olloyor asari o'rganib bo'lingach, qaysi shoirning \u{201C}Bo'ston\u{201D} va \u{201C}Guliston\u{201D} asarlari o'rganilgan?",
+answers = {
+{text = "Hofiz Sheroziyning", correct = false},
+{text = "Sa'diy Sheroziyning", correct = true},
+{text = "Jomiyning", correct = false},
+{text = "Navoiyning", correct = false},
+}
+},
+{
+question = "Shoir Sa'diy Sheroziy qaysi asrda yashab o'tgan?",
+answers = {
+{text = "O'n ikkinchi asrda", correct = false},
+{text = "O'n uchinchi asrda", correct = true},
+{text = "O'n to'rtinchi asrda", correct = false},
+{text = "O'n beshinchi asrda", correct = false},
+}
+},
+{
+question = "BMTning Tinchlik Kengashi binosi peshtoqiga qaysi asardan olingan misralar bitilgan?",
+answers = {
+{text = "\u{201C}Bo'ston\u{201D} asaridan", correct = false},
+{text = "\u{201C}Guliston\u{201D} asaridan", correct = true},
+{text = "\u{201C}Sabot ul-ojizin\u{201D} asaridan", correct = false},
+{text = "\u{201C}Maslak ul-muttaqin\u{201D} asaridan", correct = false},
+}
+},
+{
+question = "Maktabxonalarda \u{201C}Bo'ston\u{201D} va \u{201C}Guliston\u{201D}dan keyingi bosqichda qaysi shoirning \u{201C}Devon\u{201D}i o'rganilgan?",
+answers = {
+{text = "Sa'diy Sheroziyning", correct = false},
+{text = "Hofiz Sheroziyning", correct = true},
+{text = "Jomiyning", correct = false},
+{text = "Bedilning", correct = false},
+}
+},
+{
+question = "Shoir Hofiz Sheroziy qaysi yillarda yashagan?",
+answers = {
+{text = "1260-1320-yillarda", correct = false},
+{text = "1326-1389-yillarda", correct = true},
+{text = "1400-1460-yillarda", correct = false},
+{text = "1440-1501-yillarda", correct = false},
+}
+},
+{
+question = "Hofiz Sheroziyning \u{201C}Devon\u{201D}i qanday asar bo'lib, nima uchun o'quvchilarning axloqiy tarbiyasida asosiy qo'llanma sanalgan?",
+answers = {
+{text = "Tarixiy voqealar bayoni bo'lib, sabab tarixiy tarbiya", correct = false},
+{text = "Lirik she'rlar to'plami bo'lib, axloqiy mazmuni sababli", correct = true},
+{text = "Diniy fiqh kitobi bo'lib, huquqiy tarbiya sababli", correct = false},
+{text = "Grammatika darsligi bo'lib, til o'rgatish sababli", correct = false},
+}
+},
+{
+question = "Maktabxonalarda arab grammatikasidan tashqari yana qaysi shoirning she'riy to'plamlari o'qitilgan?",
+answers = {
+{text = "Fuzuliyning", correct = false},
+{text = "Bedilning", correct = false},
+{text = "Alisher Navoiyning", correct = true},
+{text = "Jomiyning", correct = false},
+}
+},
+{
+question = "Maktabxonalarda dars mashg'ulotlari kunning qaysi vaqtidan qaysi vaqtigacha davom etgan?",
+answers = {
+{text = "Ertalabdan tushgacha", correct = false},
+{text = "Quyosh chiqishidan to kechgacha", correct = true},
+{text = "Peshindan kechgacha", correct = false},
+{text = "Kechqurundan tunga qadar", correct = false},
+}
+},
+{
+question = "Maktabxonalarda qaysi kunlari dars mashg'ulotlari o'tkazilmagan?",
+answers = {
+{text = "Payshanba va shanba kunlari", correct = false},
+{text = "Juma va bayram kunlari", correct = true},
+{text = "Yakshanba kunlari", correct = false},
+{text = "Chorshanba kunlari", correct = false},
+}
+},
+{
+question = "O'quvchilarga qaysi fasl va oyda ta'til berilgan?",
+answers = {
+{text = "Qish faslida va ramazon oyida", correct = false},
+{text = "Yoz faslida va ramazon (ro'za) oyida", correct = true},
+{text = "Bahor faslida va shavvol oyida", correct = false},
+{text = "Kuz faslida va rajab oyida", correct = false},
+}
+},
+{
+question = "Duoyi salomni yoza olgan o'quvchi qanday deb hisoblangan?",
+answers = {
+{text = "\u{201C}Xati chiqqan\u{201D} deb", correct = true},
+{text = "\u{201C}Savodli\u{201D} deb", correct = false},
+{text = "\u{201C}Fozil\u{201D} deb", correct = false},
+{text = "\u{201C}Mullavachcha\u{201D} deb", correct = false},
+}
+},
+{
+question = "Arab alifbosini o'rganib bo'lgan o'quvchilar qaysi kitobni o'rganishga kirishgan?",
+answers = {
+{text = "\u{201C}Chor kitob\u{201D}ni", correct = false},
+{text = "\u{201C}Haftiyak\u{201D}ni", correct = true},
+{text = "\u{201C}Sabot ul-ojizin\u{201D}ni", correct = false},
+{text = "\u{201C}Maslak ul-muttaqin\u{201D}ni", correct = false},
+}
+},
+{
+question = "\u{201C}Haftiyak\u{201D}dan so'ng Qur'oni karimni qiroat bilan o'qish san'ati to'g'risidagi qaysi ilmga o'tilgan?",
+answers = {
+{text = "\u{201C}Farzi ayn\u{201D}ga", correct = false},
+{text = "\u{201C}Tajvid\u{201D}ga", correct = true},
+{text = "\u{201C}Chor kitob\u{201D}ga", correct = false},
+{text = "\u{201C}Sabot ul-ojizin\u{201D}ga", correct = false},
+}
+},
+{
+question = "So'fi Olloyorning \u{201C}Sabot ul-ojizin\u{201D} kitobidan so'ng, uning fors tilida yozilgan asl nusxasi qanday nomlangan?",
+answers = {
+{text = "\u{201C}Chor kitob\u{201D}", correct = false},
+{text = "\u{201C}Farzi ayn\u{201D}", correct = false},
+{text = "\u{201C}Maslak ul-muttaqin\u{201D}", correct = true},
+{text = "\u{201C}Haftiyak\u{201D}", correct = false},
+}
+},
+{
+question = "Islom dinining asosiy qoidalari bayon etilgan, \u{201C}Farzi ayn\u{201D} tushunchalaridan so'ng o'rganilgan kitob qanday nomlangan?",
+answers = {
+{text = "\u{201C}Chor kitob\u{201D} (\u{201C}To'rt kitob\u{201D})", correct = true},
+{text = "\u{201C}Haftiyak\u{201D}", correct = false},
+{text = "\u{201C}Maslak ul-muttaqin\u{201D}", correct = false},
+{text = "\u{201C}Guliston\u{201D}", correct = false},
+}
+},
+}
+
+-- MAVZU 32: Qo'qon adabiy muhiti
+questions = {
+{
+question = "Umarxon qaysi taxallus bilan o'zbek va fors tillarida she'rlar bitgan?",
+answers = {
+{text = "Fazliy", correct = false},
+{text = "Amiriy", correct = true},
+{text = "Maxmur", correct = false},
+{text = "Gulxaniy", correct = false},
+}
+},
+{
+question = "Umarxon davrida yangi qaysi shahar barpo etilgan?",
+answers = {
+{text = "Yangi Marg'ilon", correct = false},
+{text = "Yangi Shahrixon", correct = true},
+{text = "Yangi Andijon", correct = false},
+{text = "Yangi Namangan", correct = false},
+}
+},
+{
+question = "Umarxon o'ziga ustoz sanab, ijod sirlarini o'rgangan shoirlar qatoriga qaysilari kirgan?",
+answers = {
+{text = "Sa'diy, Hofiz, Attor, Rumiy", correct = false},
+{text = "Lutfiy, Jomiy, Navoiy, Fuzuliy, Bedil", correct = true},
+{text = "Firdavsiy, Nizomiy, Xayyom", correct = false},
+{text = "Maxmur, Gulxaniy, Uvaysiy", correct = false},
+}
+},
+{
+question = "Umarxon saroyida atrofida nechta shoir to'plangan?",
+answers = {
+{text = "40 dan ortiq", correct = false},
+{text = "50 dan ortiq", correct = false},
+{text = "70 dan ortiq", correct = true},
+{text = "100 dan ortiq", correct = false},
+}
+},
+{
+question = "Umarxonning g'azallar devoni qaysi yilda Istanbulda chop etilgan?",
+answers = {
+{text = "1821-yilda", correct = false},
+{text = "1844-yilda", correct = false},
+{text = "1882-yilda", correct = true},
+{text = "1905-yilda", correct = false},
+}
+},
+{
+question = "Umarxonning g'azallar devoni qaysi yilda Toshkentda chop etilgan?",
+answers = {
+{text = "1882-yilda", correct = false},
+{text = "1895-yilda", correct = false},
+{text = "1905-yilda", correct = true},
+{text = "1920-yilda", correct = false},
+}
+},
+{
+question = "Fazliy Namangoniy Umarxon amriga binoan, 63 shoirning she'rlarini o'z ichiga olgan to'plamni qaysi yilda tuzgan?",
+answers = {
+{text = "1810-yilda", correct = false},
+{text = "1821-yilda", correct = true},
+{text = "1831-yilda", correct = false},
+{text = "1842-yilda", correct = false},
+}
+},
+{
+question = "Fazliy Namangoniy tuzgan, 63 shoir she'rlarini o'z ichiga olgan to'plam qanday nomlangan?",
+answers = {
+{text = "\u{201C}Majmuayi shoiron\u{201D}", correct = true},
+{text = "\u{201C}Devoni Amiriy\u{201D}", correct = false},
+{text = "\u{201C}Guliston\u{201D}", correct = false},
+{text = "\u{201C}Zarbulmasal\u{201D}", correct = false},
+}
+},
+{
+question = "Hozirda Umarxonning turli davrlarda ko'chirilgan nechta qo'lyozma devoni mavjud?",
+answers = {
+{text = "12 ta", correct = false},
+{text = "17 ta", correct = false},
+{text = "26 ta", correct = true},
+{text = "40 ta", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi Fanlar akademiyasi Sharqshunoslik instituti qo'lyozmalar fondida Umarxonning nechta qo'lyozma devoni saqlanmoqda?",
+answers = {
+{text = "10 ta", correct = false},
+{text = "17 ta", correct = true},
+{text = "20 ta", correct = false},
+{text = "26 ta", correct = false},
+}
+},
+{
+question = "Yirik hajviy shoir Maxmurning asl ismi nima edi?",
+answers = {
+{text = "Muhammad Sharif", correct = false},
+{text = "Mahmud", correct = true},
+{text = "Berdimurod", correct = false},
+{text = "Erniyozbek", correct = false},
+}
+},
+{
+question = "Shoir Maxmur qaysi asrda tug'ilib, qaysi yilda vafot etgan?",
+answers = {
+{text = "O'n yettinchi asr oxirida tug'ilib, 1800-yilda vafot etgan", correct = false},
+{text = "O'n sakkizinchi asr oxirida tug'ilib, 1844-yilda vafot etgan", correct = true},
+{text = "O'n to'qqizinchi asr boshida tug'ilib, 1852-yilda vafot etgan", correct = false},
+{text = "O'n sakkizinchi asr o'rtasida tug'ilib, 1820-yilda vafot etgan", correct = false},
+}
+},
+{
+question = "Maxmur Qo'qonda qaysi madrasada tahsil olgan?",
+answers = {
+{text = "Modarixon madrasasida", correct = false},
+{text = "Madrasayi Mirda", correct = true},
+{text = "Norbo'tabiy madrasasida", correct = false},
+{text = "Kamol qozi madrasasida", correct = false},
+}
+},
+{
+question = "Maxmurning hajviy she'rlar devonida nechta asar va necha misra jamlangan?",
+answers = {
+{text = "40 asar, 2000 misra", correct = false},
+{text = "50 asar, 3000 misra", correct = false},
+{text = "69 asar, 3717 misra", correct = true},
+{text = "80 asar, 4500 misra", correct = false},
+}
+},
+{
+question = "Maxmurning qaysi she'rida Hapalak qishlog'i xalq hayotining ayanchli holati aks etgan?",
+answers = {
+{text = "\u{201C}Hapalak\u{201D} she'rida", correct = true},
+{text = "\u{201C}Sumalak\u{201D} she'rida", correct = false},
+{text = "\u{201C}Karimquli Mehtarning sifatlari\u{201D}da", correct = false},
+{text = "\u{201C}Zarbulmasal\u{201D}da", correct = false},
+}
+},
+{
+question = "Maxmurning \u{201C}Karimquli Mehtarning sifatlari\u{201D} nomli asari qanday janrda yozilgan?",
+answers = {
+{text = "G'azal", correct = false},
+{text = "Masnaviy", correct = true},
+{text = "Ruboiy", correct = false},
+{text = "Qasida", correct = false},
+}
+},
+{
+question = "Shoir Gulxaniyning asl ismi nima edi?",
+answers = {
+{text = "Mahmud", correct = false},
+{text = "Muhammad Sharif", correct = true},
+{text = "Berdimurod", correct = false},
+{text = "Muhammadrizo", correct = false},
+}
+},
+{
+question = "Gulxaniy qaysi yilda va qayerda tug'ilgan?",
+answers = {
+{text = "1760-yilda Xo'jandda", correct = false},
+{text = "1770-yilda hozirgi Tojikistonning Tavildara tumanida", correct = true},
+{text = "1780-yilda Namanganda", correct = false},
+{text = "1790-yilda Qo'qonda", correct = false},
+}
+},
+{
+question = "Gulxaniy muhtojlik oqibatida Namanganga kelib qanday mehnat bilan shug'ullangan?",
+answers = {
+{text = "Mardikorlik bilan", correct = true},
+{text = "Dehqonchilik bilan", correct = false},
+{text = "Chorvachilik bilan", correct = false},
+{text = "Savdogarlik bilan", correct = false},
+}
+},
+{
+question = "Gulxaniy Qo'qonda hammomda qanday ishlaganligi sababli \u{201C}Gulxaniy\u{201D} taxallusi bilan tanilgan?",
+answers = {
+{text = "Suv tashuvchi bo'lib ishlagan", correct = false},
+{text = "Go'lax (o't yoquvchi) bo'lib ishlagan", correct = true},
+{text = "Sartarosh bo'lib ishlagan", correct = false},
+{text = "Farrosh bo'lib ishlagan", correct = false},
+}
+},
+{
+question = "Gulxaniyning bizgacha yetib kelgan nasriy asari qanday nomlangan?",
+answers = {
+{text = "\u{201C}Majmuayi shoiron\u{201D}", correct = false},
+{text = "\u{201C}Zarbulmasal\u{201D} (\u{201C}Yapaloqqush\u{201D} hikoyasi)", correct = true},
+{text = "\u{201C}Devoni Gulxaniy\u{201D}", correct = false},
+{text = "\u{201C}Hapalak\u{201D}", correct = false},
+}
+},
+{
+question = "Gulxaniy \u{201C}Zarbulmasal\u{201D} asarida necha ga yaqin xalq maqolidan foydalangan?",
+answers = {
+{text = "200 ga yaqin", correct = false},
+{text = "300 ga yaqin", correct = false},
+{text = "400 ga yaqin", correct = true},
+{text = "500 ga yaqin", correct = false},
+}
+},
+{
+question = "Shoira Uvaysiyning asl ismi nima edi va u qaysi yillarda yashagan?",
+answers = {
+{text = "Mohlaroyim, 1792-1842-yillarda", correct = false},
+{text = "Jahon, 1779-1845-yillarda", correct = true},
+{text = "Dilshod, 1800-1863-yillarda", correct = false},
+{text = "Zevar, 1824-1878-yillarda", correct = false},
+}
+},
+{
+question = "Uvaysiy she'riyat ilmini kimdan o'rgangan?",
+answers = {
+{text = "Onasidan", correct = false},
+{text = "Akasi Oxunjon hofizdan", correct = true},
+{text = "Umarxondan", correct = false},
+{text = "Nodiradan", correct = false},
+}
+},
+{
+question = "Uvaysiy saroyda kimlarga she'riyat ilmidan dars berib, ustozlik qilgan?",
+answers = {
+{text = "Nodira va boshqa xotin-qizlarga", correct = true},
+{text = "Umarxon va shahzodalarga", correct = false},
+{text = "Maxmur va Gulxaniyga", correct = false},
+{text = "Dilshodi Barnoga", correct = false},
+}
+},
+{
+question = "1842-yilda Buxoro amiri Nasrullaxon Qo'qonni egallagach, Uvaysiy qaysi shaharga qaytib, umrining oxirigacha shu yerda yashagan?",
+answers = {
+{text = "Xo'jandga", correct = false},
+{text = "Andijonga", correct = false},
+{text = "Marg'ilonga", correct = true},
+{text = "Toshkentga", correct = false},
+}
+},
+{
+question = "Umarxon Uvaysiyga atab qaysi shaharda muhtasham uy qurdirib bergan?",
+answers = {
+{text = "Qo'qonda", correct = false},
+{text = "Marg'ilonda", correct = true},
+{text = "Andijonda", correct = false},
+{text = "Namanganda", correct = false},
+}
+},
+{
+question = "Marg'ilon shahridagi Jahon Otin Uvaysiy uy-muzeyi qaysi yilda qurilgan?",
+answers = {
+{text = "1995-yilda", correct = false},
+{text = "2000-yilda", correct = false},
+{text = "2007-yilda", correct = true},
+{text = "2015-yilda", correct = false},
+}
+},
+{
+question = "Shoira Nodiraning asl ismi nima edi va u qaysi yillarda yashagan?",
+answers = {
+{text = "Jahon, 1779-1845-yillarda", correct = false},
+{text = "Mohlaroyim, 1792-1842-yillarda", correct = true},
+{text = "Zevar, 1824-1878-yillarda", correct = false},
+{text = "Dilshod, 1800-1863-yillarda", correct = false},
+}
+},
+{
+question = "Nodira qaysi yilda Umarxonga turmushga chiqqan?",
+answers = {
+{text = "1800-yilda", correct = false},
+{text = "1803-yilda", correct = false},
+{text = "1807-yilda", correct = true},
+{text = "1810-yilda", correct = false},
+}
+},
+}
+
+-- MAVZU 33: Qo'qon xonligining tashqi siyosati
+questions = {
+{
+question = "Abdukarimxon 1745-yili qaysi davlat tomonidan yuborilgan elchilarni qabul qilgan?",
+answers = {
+{text = "Xitoy imperiyasidan", correct = false},
+{text = "Jung'or xonligidan", correct = true},
+{text = "Usmonli sultonligidan", correct = false},
+{text = "Rossiya imperiyasidan", correct = false},
+}
+},
+{
+question = "1745-yilda jung'orlar Qo'qon xonligiga tegishli qaysi hududlarga bostirib kelgan?",
+answers = {
+{text = "Andijon va Marg'ilonga", correct = false},
+{text = "Turkiston va Toshkentga", correct = true},
+{text = "Xo'jand va O'ratepaga", correct = false},
+{text = "O'sh va O'zganga", correct = false},
+}
+},
+{
+question = "Jung'orlarga qarshi Abdukarimxon ukasi kim boshchiligida qo'shin yuborgan, biroq qo'shin mag'lubiyatga uchragan?",
+answers = {
+{text = "Erdonaxon", correct = false},
+{text = "Norbo'taxon", correct = false},
+{text = "Bobobek", correct = true},
+{text = "Olimxon", correct = false},
+}
+},
+{
+question = "Sharqiy Turkistonda Qo'qon savdosini erkinlashtirish uchun 1782-1783-yillarda kim boshchiligida Pekinga elchilar yuborilgan?",
+answers = {
+{text = "Abdulqosim boshchiligida", correct = true},
+{text = "Mirza Muhammad Rahim boshchiligida", correct = false},
+{text = "Bobojon boshchiligida", correct = false},
+{text = "Xoja Mir Qurbon boshchiligida", correct = false},
+}
+},
+{
+question = "1792-1793-yillarda kim boshchiligida Pekinga elchilar yuborilgan?",
+answers = {
+{text = "Abdulqosim boshchiligida", correct = false},
+{text = "Mirza Muhammad Rahim boshchiligida", correct = true},
+{text = "Bobojon boshchiligida", correct = false},
+{text = "Ahmadshoh Durroniy boshchiligida", correct = false},
+}
+},
+{
+question = "1796-1797-yillarda kim boshchiligida Pekinga elchilar yuborilgan?",
+answers = {
+{text = "Abdulqosim boshchiligida", correct = false},
+{text = "Mirza Muhammad Rahim boshchiligida", correct = false},
+{text = "Bobojon boshchiligida", correct = true},
+{text = "Xoja Mir Qurbon boshchiligida", correct = false},
+}
+},
+{
+question = "1782-1797-yillardagi elchiliklar natijasida Sharqiy Turkistonda Qo'qonning rasmiy vakili sifatida qanday mansab joriy etilgan?",
+answers = {
+{text = "Beklarbegi mansabi", correct = false},
+{text = "Mingboshi mansabi", correct = false},
+{text = "Xudoydod mansabi", correct = true},
+{text = "Qushbegi mansabi", correct = false},
+}
+},
+{
+question = "Xitoy Sharqiy Turkistonda o'z hukmronligini qaysi yillarda o'rnatgan?",
+answers = {
+{text = "1745-1750-yillarda", correct = false},
+{text = "1757-1759-yillarda", correct = true},
+{text = "1770-1775-yillarda", correct = false},
+{text = "1782-1783-yillarda", correct = false},
+}
+},
+{
+question = "Erdonaxon qaysi yildan boshlab faol tashqi siyosat yurita boshlagan?",
+answers = {
+{text = "1745-yildan", correct = false},
+{text = "1757-yildan", correct = false},
+{text = "1760-yildan", correct = true},
+{text = "1782-yildan", correct = false},
+}
+},
+{
+question = "Erdonaxon harbiy ittifoqqa chaqirib maktub yuborgan afg'on hukmdori kim bo'lgan?",
+answers = {
+{text = "Ahmadshoh Durroniy", correct = true},
+{text = "Nodirshoh", correct = false},
+{text = "Sulton Ahmad II", correct = false},
+{text = "Mahmud II", correct = false},
+}
+},
+{
+question = "Koshg'arda Qo'qonning qanday vakolatxonasi ochilgan?",
+answers = {
+{text = "Qo'qon devonxonasi", correct = false},
+{text = "Qo'qon xudoydodligi (konsulligi)", correct = true},
+{text = "Qo'qon mingboshiligi", correct = false},
+{text = "Qo'qon beklarbegiligi", correct = false},
+}
+},
+{
+question = "Qo'qon-Pekin shartnomasi qaysi yilda tuzilgan?",
+answers = {
+{text = "1813-yilda", correct = false},
+{text = "1821-yilda", correct = false},
+{text = "1831-yilda", correct = true},
+{text = "1842-yilda", correct = false},
+}
+},
+{
+question = "1831-yilgi Qo'qon-Pekin shartnomasi xonlikka qaysi shahardagi xalqaro savdoni to'liq nazorat qilish imkonini bergan?",
+answers = {
+{text = "Yorkentdagi", correct = false},
+{text = "Koshg'ardagi", correct = true},
+{text = "Aqsudagi", correct = false},
+{text = "Xo'tandagi", correct = false},
+}
+},
+{
+question = "Minglar talablarini qo'ygan Xitoy hukmdori Changling qaysi yillarda yashagan?",
+answers = {
+{text = "1700-1760-yillarda", correct = false},
+{text = "1720-1780-yillarda", correct = false},
+{text = "1736-1795-yillarda", correct = true},
+{text = "1750-1810-yillarda", correct = false},
+}
+},
+{
+question = "Xonlikning Rossiya imperiyasi bilan elchilik munosabatlari qaysi yildan boshlangan?",
+answers = {
+{text = "1800-yildan", correct = false},
+{text = "1810-yildan", correct = true},
+{text = "1819-yildan", correct = false},
+{text = "1831-yildan", correct = false},
+}
+},
+{
+question = "Minglar Usmonli sultonligi bilan elchilik munosabatlarini o'rnatishga qaysi yillardan boshlab kirishgan?",
+answers = {
+{text = "1810-yillardan", correct = false},
+{text = "1819-1820-yillardan", correct = true},
+{text = "1831-yillardan", correct = false},
+{text = "1837-yillardan", correct = false},
+}
+},
+{
+question = "Umarxon tomonidan Istanbulga elchi sifatida kim yuborilgan?",
+answers = {
+{text = "Ibrohim parvonachi", correct = false},
+{text = "Xoja Mir Qurbon", correct = true},
+{text = "Musulmonqul", correct = false},
+{text = "Sarimsoqbek", correct = false},
+}
+},
+{
+question = "Muhammad Alixon Usmonlilar poytaxtiga ikki marta elchilik yuborgan yillar qaysilar?",
+answers = {
+{text = "1810 va 1819-yillar", correct = false},
+{text = "1820 va 1825-yillar", correct = false},
+{text = "1833 va 1837-yillar", correct = true},
+{text = "1842 va 1845-yillar", correct = false},
+}
+},
+{
+question = "Xonlikning Hindiston bilan dastlabki elchiligi qaysi yilda yuborilgan?",
+answers = {
+{text = "1819-yilda", correct = false},
+{text = "1831-yilda", correct = false},
+{text = "1837-yilda", correct = true},
+{text = "1845-yilda", correct = false},
+}
+},
+{
+question = "Toshkentning mustaqil beklik maqomi qaysi yilda tugatilib, butunlay Qo'qon xonligiga qo'shib olingan?",
+answers = {
+{text = "1798-yilda", correct = false},
+{text = "1810-yilda", correct = true},
+{text = "1822-yilda", correct = false},
+{text = "1831-yilda", correct = false},
+}
+},
+{
+question = "Umarxon davrida Buxoro amiri Haydar butun musulmon olamining xalifasi deb e'tirof etilgan qaysi davlat sultoniga xat jo'natgan?",
+answers = {
+{text = "Usmonli davlati sultoni Mahmud II ga", correct = true},
+{text = "Eron shohi Fathali shohga", correct = false},
+{text = "Hindiston mug'ul imperatoriga", correct = false},
+{text = "Rossiya imperatoriga", correct = false},
+}
+},
+{
+question = "Buxoro amiri Haydar Usmonli sultoni Mahmud II ga yuborgan xatida qaysi hududlar avvaldan Buxoroga bo'ysunib kelganini ta'kidlagan?",
+answers = {
+{text = "Movarounnahr, Qo'qon, Marv, Balx, Ko'lob va Badaxshon", correct = true},
+{text = "Faqat Farg'ona vodiysi", correct = false},
+{text = "Faqat Xorazm va Marv", correct = false},
+{text = "Faqat Toshkent va Chimkent", correct = false},
+}
+},
+{
+question = "Minglarning Xitoy hukmdori Changlingga qo'ygan talablariga ko'ra, Xitoyga qarshi harakatlari uchun ayblangan kimlarning afv etilishi so'ralgan?",
+answers = {
+{text = "Buxoroliklarning", correct = false},
+{text = "Koshg'arliklarning", correct = true},
+{text = "Xivaliklarning", correct = false},
+{text = "Toshkentliklarning", correct = false},
+}
+},
+{
+question = "Minglar talabiga ko'ra, Oltishaharga kelgan barcha xorijliklar qanday masalada Qo'qon hukmdorining vakiliga bo'ysunishi kerak edi?",
+answers = {
+{text = "Diniy masalada", correct = false},
+{text = "Ma'muriy va politsiya masalasida", correct = true},
+{text = "Harbiy masalada", correct = false},
+{text = "Ta'lim masalasida", correct = false},
+}
+},
+{
+question = "1850-yillardan boshlab Qo'qon hukumati Rossiyadan yashirincha qaysi ikki tomon bilan elchilik aloqalarini davom ettirishga harakat qilgan?",
+answers = {
+{text = "Eron va Afg'oniston bilan", correct = false},
+{text = "Usmonlilar sultonligi va London (Buyuk Britaniya) bilan", correct = true},
+{text = "Buxoro va Xiva bilan", correct = false},
+{text = "Xitoy va Hindiston bilan", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi Hindiston orqali qaysi davlat hukumati bilan ham aloqa o'rnatgan?",
+answers = {
+{text = "Fransiya hukumati bilan", correct = false},
+{text = "Buyuk Britaniya hukumati bilan", correct = true},
+{text = "Germaniya hukumati bilan", correct = false},
+{text = "Portugaliya hukumati bilan", correct = false},
+}
+},
+{
+question = "Qo'qonda ingliz harbiy usuli asosida kimlarning Qo'qon askarlariga harbiy mashg'ulot olib borishiga erishish ko'zlangan?",
+answers = {
+{text = "Fransuzlarning", correct = false},
+{text = "Hindlarning", correct = true},
+{text = "Ruslarning", correct = false},
+{text = "Usmonlilarning", correct = false},
+}
+},
+{
+question = "Buxoro amirligi Qo'qon xonligi hududi qaysi ikki sulola davrida Buxoro xonligi tarkibida bo'lganligiga urg'u bergan?",
+answers = {
+{text = "Shayboniylar va ashtarxoniylar davrida", correct = true},
+{text = "Ashtarxoniylar va mang'itlar davrida", correct = false},
+{text = "Timuriylar va shayboniylar davrida", correct = false},
+{text = "Mang'itlar va Qo'ng'irotlar davrida", correct = false},
+}
+},
+{
+question = "Xonlikning Rossiya bilan savdo aloqalari qaysi ikki hukmdor davrida yanada faollashgan?",
+answers = {
+{text = "Norbo'taxon va Olimxon davrida", correct = false},
+{text = "Umarxon va Muhammad Alixon davrida", correct = true},
+{text = "Erdonaxon va Abdukarimxon davrida", correct = false},
+{text = "Sheralixon va Xudoyorxon davrida", correct = false},
+}
+},
+{
+question = "Erdonaxon qaysi davlat bilan savdo munosabatlarini davom ettirib, Sharqiy Turkistonda Qo'qon savdogarlariga imtiyozlar olishga erishgan?",
+answers = {
+{text = "Rossiya bilan", correct = false},
+{text = "Xitoy bilan", correct = true},
+{text = "Eron bilan", correct = false},
+{text = "Hindiston bilan", correct = false},
+}
+},
+}
