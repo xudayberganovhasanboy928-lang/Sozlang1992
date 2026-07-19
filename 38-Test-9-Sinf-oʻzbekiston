@@ -1,0 +1,821 @@
+-- MAVZU 34: O'zbek davlatlarining harbiy salohiyati
+questions = {
+{
+question = "Katta davlatning hukmdoriga aylangan shayboniylar qo'shini qanday ikki qismdan tashkil topgan?",
+answers = {
+{text = "Otliq va piyodalardan", correct = true},
+{text = "To'pchi va sarbozlardan", correct = false},
+{text = "Navkar va gvardiyachilardan", correct = false},
+{text = "Muntazam va nomuntazam qismlardan", correct = false},
+}
+},
+{
+question = "Shayboniylar davrida qo'shinning asosiy qurollari qatoriga qaysilari kirgan?",
+answers = {
+{text = "Faqat o'q-yoy va qilich", correct = false},
+{text = "O'q-yoy, uzun nayza, qilich, gurzi, jang boltasi va ilgaklar", correct = true},
+{text = "Faqat miltiq va to'p", correct = false},
+{text = "Faqat qalqon va sovut", correct = false},
+}
+},
+{
+question = "Uzun dastali jang boltasi qanday nom bilan atalgan?",
+answers = {
+{text = "Gurzi", correct = false},
+{text = "Tabarzin", correct = true},
+{text = "Qamchi", correct = false},
+{text = "Ilgak", correct = false},
+}
+},
+{
+question = "Shayboniylardan qaysi ikki hukmdor davrida jang qurollari birmuncha takomillashgan?",
+answers = {
+{text = "Muhammad Shayboniyxon va Ubaydullaxon davrida", correct = false},
+{text = "Ubaydullaxon va Abdullaxon ikkinchi davrida", correct = true},
+{text = "Abdullaxon ikkinchi va Abdulazizxon davrida", correct = false},
+{text = "Abdulazizxon va Subhonqulixon davrida", correct = false},
+}
+},
+{
+question = "Abdullaxon ikkinchi davrida qanday o'q otar qurollardan foydalanilgan?",
+answers = {
+{text = "O'tsochar pilta miltiqlar va kichik to'plardan", correct = true},
+{text = "Faqat gurzi va qilichdan", correct = false},
+{text = "Faqat o'q-yoydan", correct = false},
+{text = "Faqat tabarzindan", correct = false},
+}
+},
+{
+question = "XVIII-XIX asrlarda xonliklar qo'shinlari asosan qanday nomuntazam qismlardan tarkib topgan?",
+answers = {
+{text = "Sipoh, mingboshi, dodxohdan", correct = false},
+{text = "Qilquyruq, qora qozon, qora chechak, qoracherikdan", correct = true},
+{text = "Yasovulboshi, otaliq, parvonachidan", correct = false},
+{text = "Beklarbegi, qushbegi, devonbegidan", correct = false},
+}
+},
+{
+question = "Xon qo'shinlari qanday tizim asosida tashkil qilingan?",
+answers = {
+{text = "Yuzlik tizimida", correct = false},
+{text = "Minglik tizimida", correct = false},
+{text = "O'nlik tizimida", correct = true},
+{text = "Beshlik tizimida", correct = false},
+}
+},
+{
+question = "Qaysi asrdan boshlab o'qotar qurollardan muntazam foydalanila boshlangan?",
+answers = {
+{text = "O'n to'rtinchi asrdan", correct = false},
+{text = "O'n beshinchi asrdan", correct = false},
+{text = "O'n oltinchi asrdan", correct = true},
+{text = "O'n yettinchi asrdan", correct = false},
+}
+},
+{
+question = "XIX asr boshlarida Buxoro amirligida harbiy kuchlar qanday ikki qismga bo'lingan?",
+answers = {
+{text = "Muntazam \u{201C}navkariya\u{201D} va muntazam bo'lmagan \u{201C}qora cherik\u{201D}ka", correct = true},
+{text = "Sipoh va sarbozga", correct = false},
+{text = "Askariya va askariyaga", correct = false},
+{text = "Faqat piyoda va otliqqa", correct = false},
+}
+},
+{
+question = "1837-yilda Amir Nasrulla o'tkazgan harbiy islohotlar natijasida qanday muntazam qo'shin tuzilgan?",
+answers = {
+{text = "Piyodalar (sarbozlar), navkar (otliq askar) va to'pchilardan iborat qo'shin", correct = true},
+{text = "Faqat otliq askarlardan iborat qo'shin", correct = false},
+{text = "Faqat piyoda askarlardan iborat qo'shin", correct = false},
+{text = "Faqat to'pchilardan iborat qo'shin", correct = false},
+}
+},
+{
+question = "Amir Nasrulla harbiy islohotni qaysi yilda o'tkazgan?",
+answers = {
+{text = "1826-yilda", correct = false},
+{text = "1831-yilda", correct = false},
+{text = "1837-yilda", correct = true},
+{text = "1842-yilda", correct = false},
+}
+},
+{
+question = "Buxoro amirligi qo'shinida piyodalar soni to'pchilardan necha barobar ko'p bo'lgan?",
+answers = {
+{text = "2 barobar", correct = false},
+{text = "2,5 barobar", correct = false},
+{text = "3,5 barobar", correct = true},
+{text = "5 barobar", correct = false},
+}
+},
+{
+question = "Buxoro amirligida sarbozlar va to'pchilarning kamzuli qanday matolardan tikilgan?",
+answers = {
+{text = "Qizil, qora va sariq matodan", correct = true},
+{text = "Faqat oq matodan", correct = false},
+{text = "Faqat ko'k matodan", correct = false},
+{text = "Faqat yashil matodan", correct = false},
+}
+},
+{
+question = "XIX asr boshlarida Xiva xoni Muhammad Rahimxon birinchi tomonidan nechta harbiydan tarkib topgan muntazam qo'shin tuzilgan?",
+answers = {
+{text = "1000 ta harbiydan", correct = false},
+{text = "1500 ta harbiydan", correct = false},
+{text = "2000 ta harbiydan", correct = true},
+{text = "3000 ta harbiydan", correct = false},
+}
+},
+{
+question = "Xiva xonligida tinchlik davrida xon va uning oilasini qo'riqlagan qo'shin qanday atalgan?",
+answers = {
+{text = "Xon navkarlari", correct = true},
+{text = "Sarboz askarlari", correct = false},
+{text = "Askariya", correct = false},
+{text = "Qora cherik", correct = false},
+}
+},
+{
+question = "Qo'qon xonligida muntazam qo'shin qanday qismlardan iborat bo'lgan?",
+answers = {
+{text = "Sipoh (otliq), to'pchilar va sarboz (piyoda)lardan", correct = true},
+{text = "Faqat sarbozlardan", correct = false},
+{text = "Faqat sipohlardan", correct = false},
+{text = "Faqat qora cherikdan", correct = false},
+}
+},
+{
+question = "Qo'qon xonligida harbiy libos qanday kiyimlardan iborat bo'lgan?",
+answers = {
+{text = "Qizil va moviy chopon, sariq shim va oq salladan", correct = true},
+{text = "Faqat qora kamzuldan", correct = false},
+{text = "Faqat oq shimdan", correct = false},
+{text = "Faqat qorako'l telpakdan", correct = false},
+}
+},
+{
+question = "Xonliklardagi nomdor jangchilarning himoya aslahasi asosan qanday buyumlardan tashkil topgan?",
+answers = {
+{text = "Halqa-parchinli sovutlar, dubulg'alar, tirsakbandlar va qalqonlardan", correct = true},
+{text = "Faqat charm kamardan", correct = false},
+{text = "Faqat mato choponlardan", correct = false},
+{text = "Faqat charm etiklardan", correct = false},
+}
+},
+{
+question = "Halqa-parchinli sovutlarning keng tarqalgan turi baktarlar necha qator parchindan terib tayyorlangan?",
+answers = {
+{text = "1-2 qator", correct = false},
+{text = "3-9 qator", correct = true},
+{text = "10-15 qator", correct = false},
+{text = "20 qatordan ortiq", correct = false},
+}
+},
+{
+question = "Jangovar otlar qaysi asrdan so'ng zirhli to'shama (jul)lar bilan himoyalana boshlangan?",
+answers = {
+{text = "O'n birinchi asrdan", correct = false},
+{text = "O'n ikkinchi asrdan", correct = false},
+{text = "O'n uchinchi asrdan", correct = true},
+{text = "O'n to'rtinchi asrdan", correct = false},
+}
+},
+{
+question = "Xonliklarga qurol-yarog' qaysi davlatlardan keltirilgan?",
+answers = {
+{text = "Eron, Rossiya, Jung'oriya va G'arbiy Yevropa davlatlaridan", correct = true},
+{text = "Faqat Xitoydan", correct = false},
+{text = "Faqat Hindistondan", correct = false},
+{text = "Faqat Usmonli sultonligidan", correct = false},
+}
+},
+{
+question = "O'ratepa shahrida qanday buyumlar tayyorlaydigan katta ustaxona (zavod) bo'lgan?",
+answers = {
+{text = "To'p, yadro toshlar, miltiq va tig'li qurollar", correct = true},
+{text = "Faqat kiyim-kechak", correct = false},
+{text = "Faqat charm buyumlar", correct = false},
+{text = "Faqat zargarlik buyumlari", correct = false},
+}
+},
+{
+question = "Barcha xonliklarda oliy bosh qo'mondon kimlar hisoblangan?",
+answers = {
+{text = "Vazirlar", correct = false},
+{text = "Xonlar", correct = true},
+{text = "Qozilar", correct = false},
+{text = "Naqiblar", correct = false},
+}
+},
+{
+question = "Buxoro amirligida harbiy kuchlarga bosh qo'mondonlik vazifasini kim amalga oshirgan?",
+answers = {
+{text = "Yasovulboshi", correct = false},
+{text = "Mingboshi", correct = false},
+{text = "Vaziri harb (harbiy vazir)", correct = true},
+{text = "Qushbegi", correct = false},
+}
+},
+{
+question = "Xiva xonligida harbiy kuchlarga bosh qo'mondonlik vazifasini kim amalga oshirgan?",
+answers = {
+{text = "Vaziri harb", correct = false},
+{text = "Mingboshi", correct = false},
+{text = "Yasovulboshi", correct = true},
+{text = "Naqib", correct = false},
+}
+},
+{
+question = "Qo'qon xonligida harbiy kuchlarga bosh qo'mondonlik vazifasini kim amalga oshirgan?",
+answers = {
+{text = "Vaziri harb", correct = false},
+{text = "Yasovulboshi", correct = false},
+{text = "Mingboshi", correct = true},
+{text = "Beklarbegi", correct = false},
+}
+},
+{
+question = "Harbiy harakatlar vaqtida qo'shin oldinda qaysi qism, uning ortidan qaysi qism borgan?",
+answers = {
+{text = "Oldinda avangard, ortidan aryergard", correct = true},
+{text = "Oldinda aryergard, ortidan avangard", correct = false},
+{text = "Oldinda markaz, ortidan qanotlar", correct = false},
+{text = "Oldinda pistirma, ortidan markaz", correct = false},
+}
+},
+{
+question = "Qo'shinlarda qanday musiqachilar xizmat qilgan?",
+answers = {
+{text = "Faqat karnaychi va nog'orachi", correct = false},
+{text = "Karnaychi, surnaychi, nog'orachi, naychi, do'lchi", correct = true},
+{text = "Faqat surnaychi", correct = false},
+{text = "Faqat naychi", correct = false},
+}
+},
+{
+question = "O'rta Osiyoda tayyorlangan mis to'plar haqida yaxshi fikr bildirgan, XIX asrda yashagan tarjimon-tilshunos olim kim bo'lgan?",
+answers = {
+{text = "Arminiy Vamberi", correct = false},
+{text = "A. Byorns", correct = false},
+{text = "M. Bekchurin", correct = true},
+{text = "V. Perovskiy", correct = false},
+}
+},
+{
+question = "Qo'shin bilan birga yo'llarni tozalab, ko'prik quruvchilardan tashqari yana kimlar borgan?",
+answers = {
+{text = "Hunarmandlar va savdogarlar", correct = true},
+{text = "Faqat dehqonlar", correct = false},
+{text = "Faqat ruhoniylar", correct = false},
+{text = "Faqat kotiblar", correct = false},
+}
+},
+}
+
+-- MAVZU 35: Turkistonning uch xonlikka bo'linib ketishi va uning oqibatlari
+questions = {
+{
+question = "Temuriylar davridagi yagona saltanat XVI asr boshida dastlab necha xonlikka bo'linib ketgan?",
+answers = {
+{text = "Ikki xonlikka", correct = true},
+{text = "Uch xonlikka", correct = false},
+{text = "To'rt xonlikka", correct = false},
+{text = "Besh xonlikka", correct = false},
+}
+},
+{
+question = "Temuriylar saltanati uchta o'zbek xonligiga qaysi yilda bo'linib ketgan?",
+answers = {
+{text = "1601-yilda", correct = false},
+{text = "1700-yilda", correct = false},
+{text = "1709-yilda", correct = true},
+{text = "1756-yilda", correct = false},
+}
+},
+{
+question = "XV asr oxirlarida Yevropada qaysi davlatlar markazlashgan kuchli davlatlar sifatida qaror topgan?",
+answers = {
+{text = "Fransiya, Angliya va boshqalar", correct = true},
+{text = "Faqat Ispaniya", correct = false},
+{text = "Faqat Germaniya", correct = false},
+{text = "Faqat Italiya", correct = false},
+}
+},
+{
+question = "Buxoro amirligida qaysi o'zbek urug'i vakillari hukmronlik qilgan?",
+answers = {
+{text = "Ming urug'i", correct = false},
+{text = "Qo'ng'irot urug'i", correct = false},
+{text = "Mang'it urug'i", correct = true},
+{text = "Qipchoq urug'i", correct = false},
+}
+},
+{
+question = "Xiva xonligida qaysi o'zbek urug'i vakillari hukmronlik qilgan?",
+answers = {
+{text = "Mang'it urug'i", correct = false},
+{text = "Qo'ng'irot urug'i", correct = true},
+{text = "Ming urug'i", correct = false},
+{text = "Naymon urug'i", correct = false},
+}
+},
+{
+question = "Qo'qon xonligida qaysi o'zbek urug'i vakillari hukmronlik qilgan?",
+answers = {
+{text = "Mang'it urug'i", correct = false},
+{text = "Qo'ng'irot urug'i", correct = false},
+{text = "Ming urug'i", correct = true},
+{text = "Do'rmon urug'i", correct = false},
+}
+},
+{
+question = "Buxoro amiri nimani tan olmasligi natijasida ikki xonlik o'rtasida urushlar va hudud talashishlar yuzaga kelgan?",
+answers = {
+{text = "Farg'ona vodiysining Buxoro xonligidan ajralib chiqqanligi va Qo'qon xonligi tuzilganligini", correct = true},
+{text = "Xorazmning mustaqilligini", correct = false},
+{text = "Toshkentning Qo'qonga qo'shilganligini", correct = false},
+{text = "Samarqandning Buxoroga tegishliligini", correct = false},
+}
+},
+{
+question = "XVIII asrda qaysi davlatda sanoat to'ntarishi yuz bergan?",
+answers = {
+{text = "Fransiyada", correct = false},
+{text = "Germaniyada", correct = false},
+{text = "Buyuk Britaniyada", correct = true},
+{text = "Rossiyada", correct = false},
+}
+},
+{
+question = "Sanoat to'ntarishi natijasida ishlab chiqarishda nima keng qo'llanila boshlangan?",
+answers = {
+{text = "Qo'l mehnati", correct = false},
+{text = "Texnika (mashina)", correct = true},
+{text = "Hayvon kuchi", correct = false},
+{text = "Shamol energiyasi", correct = false},
+}
+},
+{
+question = "Dunyoda ilk temiryo'l qaysi yilda qurilgan?",
+answers = {
+{text = "1800-yilda", correct = false},
+{text = "1813-yilda", correct = false},
+{text = "1825-yilda", correct = true},
+{text = "1840-yilda", correct = false},
+}
+},
+{
+question = "Temiryo'l qurilishi natijasida qaysi metallarga bo'lgan ehtiyoj oshib ketgan?",
+answers = {
+{text = "Oltin va kumushga", correct = false},
+{text = "Cho'yan, temir va po'latga", correct = true},
+{text = "Misga", correct = false},
+{text = "Qalayga", correct = false},
+}
+},
+{
+question = "Temiryo'l qurilishi bilan sanoatning qanday yangi tarmog'i paydo bo'lgan?",
+answers = {
+{text = "To'qimachilik", correct = false},
+{text = "Parovozsozlik", correct = true},
+{text = "Kemasozlik", correct = false},
+{text = "Kulolchilik", correct = false},
+}
+},
+{
+question = "XIX asr insoniyat tarixiga qanday nom bilan kirgan?",
+answers = {
+{text = "Elektr asri", correct = false},
+{text = "Bug' mashinalari asri", correct = true},
+{text = "Kompyuter asri", correct = false},
+{text = "Atom asri", correct = false},
+}
+},
+{
+question = "XIX asrning necha yillariga kelib qishloq xo'jaligida mashinalar va kimyoviy o'g'itlardan foydalanish boshlangan?",
+answers = {
+{text = "10-yillariga", correct = false},
+{text = "20-yillariga", correct = false},
+{text = "40-yillariga", correct = true},
+{text = "70-yillariga", correct = false},
+}
+},
+{
+question = "Temiryo'llar va yirik sanoat korxonalari qurilishi natijasida qaysi moliyaviy institutlarning qudrati yanada ortgan?",
+answers = {
+{text = "Tijorat banklarining", correct = true},
+{text = "Vaqf muassasalarining", correct = false},
+{text = "Zarbxonalarning", correct = false},
+{text = "Karvonsaroylarning", correct = false},
+}
+},
+{
+question = "Turkiston xonliklarining Yevropadagi taraqqiyot jarayonlaridan chetda qolishining birinchi sababi nima bo'lgan?",
+answers = {
+{text = "Osiyoda an'anaviylikka asoslangan qat'iy tartib-qoidalarning hukm surishi", correct = true},
+{text = "Aholi sonining kamligi", correct = false},
+{text = "Iqlimning juda sovuqligi", correct = false},
+{text = "Yozuvning yo'qligi", correct = false},
+}
+},
+{
+question = "Osiyoda, jumladan Turkistonda ham yer, asosan, kimning mulki bo'lib qolavergan?",
+answers = {
+{text = "Dehqonlarning shaxsiy mulki", correct = false},
+{text = "Davlat mulki", correct = true},
+{text = "Vaqf mulki", correct = false},
+{text = "Jamoa mulki", correct = false},
+}
+},
+{
+question = "Yevropada yer-mulk odatda otadan kimga meros qolgan?",
+answers = {
+{text = "Barcha farzandlarga teng bo'lib", correct = false},
+{text = "Katta farzandga", correct = true},
+{text = "Kenja farzandga", correct = false},
+{text = "Qarindoshlarga", correct = false},
+}
+},
+{
+question = "Osiyoda esa ota yer-mulkini merosxo'rlar o'rtasida qanday taqsimlagan?",
+answers = {
+{text = "Katta farzandga to'liq bergan", correct = false},
+{text = "Teng bo'lib bergan", correct = true},
+{text = "Kenja farzandga to'liq bergan", correct = false},
+{text = "Faqat o'g'il farzandlarga bergan", correct = false},
+}
+},
+{
+question = "XIX asrning boshlarida Yevropa Osiyodan aholi jon boshiga daromad bo'yicha necha barobar o'zib ketgan?",
+answers = {
+{text = "1,5 barobar", correct = false},
+{text = "2 barobar", correct = true},
+{text = "3 barobar", correct = false},
+{text = "5 barobar", correct = false},
+}
+},
+{
+question = "Yerga xususiy mulkning to'la qaror topmaganligi natijasida Osiyoda hunarmandchilik qaysi darajaga ko'tarila olmagan?",
+answers = {
+{text = "Uy sharoitidagi ishlab chiqarish darajasiga", correct = false},
+{text = "Fabrika ishlab chiqarishi darajasiga", correct = true},
+{text = "Bozor ishlab chiqarishi darajasiga", correct = false},
+{text = "Mahalliy ishlab chiqarish darajasiga", correct = false},
+}
+},
+{
+question = "Turkiston xonliklarining bo'linib ketishining ikkinchi sababi nima bo'lgan?",
+answers = {
+{text = "Mintaqada yagona ichki bozor shakllanmaganligi", correct = true},
+{text = "Aholi sonining kamayib ketishi", correct = false},
+{text = "Diniy nizolarning kuchayishi", correct = false},
+{text = "Tashqi bosqinlarning to'xtashi", correct = false},
+}
+},
+{
+question = "Turkiston xonliklarining bo'linib ketishining uchinchi sababi asosan qaysi xonliklar o'rtasidagi urushlar bilan bog'liq?",
+answers = {
+{text = "Buxoro-Xiva va Buxoro-Qo'qon urushlari bilan", correct = true},
+{text = "Xiva-Qo'qon urushlari bilan", correct = false},
+{text = "Faqat tashqi bosqinchilar bilan", correct = false},
+{text = "Faqat qo'shni davlatlar bilan", correct = false},
+}
+},
+{
+question = "Qaysi asrda dengiz savdo yo'llarining ochilishi Buyuk ipak yo'lini ahamiyatsiz qilib qo'ygan?",
+answers = {
+{text = "O'n to'rtinchi asrda", correct = false},
+{text = "O'n beshinchi asrda", correct = false},
+{text = "O'n oltinchi asrda", correct = true},
+{text = "O'n yettinchi asrda", correct = false},
+}
+},
+{
+question = "Turkiston xonliklarining bo'linib ketishining beshinchi sababi nimada edi?",
+answers = {
+{text = "Xalqni yagona g'oya ostida birlashtira oladigan yo'lboshchining chiqmaganligi", correct = true},
+{text = "Yer resurslarining yetishmasligi", correct = false},
+{text = "Savdo yo'llarining yopilib qolishi", correct = false},
+{text = "Ta'lim tizimining yo'qligi", correct = false},
+}
+},
+{
+question = "Yuqorida sanab o'tilgan holatlar oqibatida XIX asrning ikkinchi yarmida Turkiston qaysi davlatning mustamlakasiga aylanishiga zamin yaratilgan?",
+answers = {
+{text = "Angliyaning", correct = false},
+{text = "Xitoyning", correct = false},
+{text = "Rossiya imperiyasining", correct = true},
+{text = "Eronning", correct = false},
+}
+},
+{
+question = "Buxoro amirligi, Xiva xonligi va Qo'qon xonligi o'rtasida, asosan, qanday munosabatlar davom etib turgan?",
+answers = {
+{text = "Ittifoqchilik munosabatlari", correct = false},
+{text = "O'zaro nizolar va urushlar", correct = true},
+{text = "Savdo hamkorligi", correct = false},
+{text = "Diniy hamkorlik", correct = false},
+}
+},
+{
+question = "Osiyoda jamiyatda mulkchilik, ishlab chiqarish va taqsimot nima tomonidan qat'iy belgilab qo'yilar edi?",
+answers = {
+{text = "Bozor tomonidan", correct = false},
+{text = "Davlat tomonidan", correct = true},
+{text = "Ruhoniylar tomonidan", correct = false},
+{text = "Savdogarlar tomonidan", correct = false},
+}
+},
+{
+question = "G'arbiy Yevropada kuchli mulkiy tabaqalanish nimani vujudga keltirgan?",
+answers = {
+{text = "Jamoaviy mulkchilikni", correct = false},
+{text = "O'zaro begonalashish va shaxsiy manfaatni ustun qo'yishni", correct = true},
+{text = "An'anaviy jamoachilikni", correct = false},
+{text = "Diniy birdamlikni", correct = false},
+}
+},
+{
+question = "Turkiston xonliklari iqtisodiyotiga qanday tabiiy omillar ham salbiy ta'sir ko'rsatgan?",
+answers = {
+{text = "Iqlimning noqulay o'zgarishi, haroratning pasayishi, tez-tez qurg'oqchilik", correct = true},
+{text = "Faqat toshqinlar", correct = false},
+{text = "Faqat zilzilalar", correct = false},
+{text = "Faqat bo'ronlar", correct = false},
+}
+},
+}
+
+-- MAVZU 36: O'zbek davlatlari tarixi bo'yicha manbalar
+questions = {
+{
+question = "Tarixiy hujjatlar saqlanadigan joy qanday nomlanadi?",
+answers = {
+{text = "Kutubxona", correct = false},
+{text = "Arxiv", correct = true},
+{text = "Muzey", correct = false},
+{text = "Fond", correct = false},
+}
+},
+{
+question = "Tarixchi olim Hasanbek Rumluning \u{201C}Eng go'zal tarix\u{201D} asari qaysi asrning birinchi yarmidagi Xiva tarixiga bag'ishlangan?",
+answers = {
+{text = "O'n beshinchi asrning birinchi yarmiga", correct = false},
+{text = "O'n oltinchi asrning birinchi yarmiga", correct = true},
+{text = "O'n yettinchi asrning birinchi yarmiga", correct = false},
+{text = "O'n sakkizinchi asrning birinchi yarmiga", correct = false},
+}
+},
+{
+question = "Turkiy qabilalar shajarasi haqida qimmatli ma'lumotlar beruvchi \u{201C}Shajarayi turk\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Hasanbek Rumlu", correct = false},
+{text = "Xiva xoni Abulg'oziy Bahodirxon", correct = true},
+{text = "Munis Xorazmiy", correct = false},
+{text = "Ogahiy", correct = false},
+}
+},
+{
+question = "Munisning \u{201C}Firdavs ul-iqbol\u{201D} asari kimning topshirig'i bilan qaysi yilda yozilgan?",
+answers = {
+{text = "Muhammad Aminxonning topshirig'i bilan 1852-yilda", correct = false},
+{text = "Eltuzarxonning topshirig'i bilan 1806-yilda", correct = true},
+{text = "Olloqulixonning topshirig'i bilan 1830-yilda", correct = false},
+{text = "Asfandiyorxonning topshirig'i bilan 1912-yilda", correct = false},
+}
+},
+{
+question = "Munisning \u{201C}Firdavs ul-iqbol\u{201D} asarida Xorazmning necha yillik o'tmishi yoritilgan?",
+answers = {
+{text = "150 yillik", correct = false},
+{text = "200 yillik", correct = false},
+{text = "250 yillik", correct = true},
+{text = "300 yillik", correct = false},
+}
+},
+{
+question = "Ogahiyning \u{201C}Shohidi iqbol\u{201D} asari qaysi yilgacha bo'lgan tarixni aks ettiradi?",
+answers = {
+{text = "1825-yilgacha", correct = false},
+{text = "1855-yilgacha", correct = false},
+{text = "1872-yilgacha", correct = true},
+{text = "1900-yilgacha", correct = false},
+}
+},
+{
+question = "Yusufbek Bayoniy Xiva xonligining qaysi yillardagi tarixini yozib qoldirgan?",
+answers = {
+{text = "1806-1855-yillardagi", correct = false},
+{text = "1855-1872-yillardagi", correct = false},
+{text = "1872-1911-yillardagi", correct = true},
+{text = "1911-1920-yillardagi", correct = false},
+}
+},
+{
+question = "Yusufbek Bayoniy o'z asarini kimning topshirig'i bilan qaysi yilda yaratgan?",
+answers = {
+{text = "Muhammad Rahimxon ikkinchining topshirig'i bilan 1900-yilda", correct = false},
+{text = "Xiva xoni Asfandiyorxonning topshirig'i bilan 1912-yilda", correct = true},
+{text = "Eltuzarxonning topshirig'i bilan 1806-yilda", correct = false},
+{text = "Olloqulixonning topshirig'i bilan 1830-yilda", correct = false},
+}
+},
+{
+question = "\u{201C}Xorazmning sug'orilish tarixi\u{201D} asari qaysi akademik boshchiligida yaratilgan?",
+answers = {
+{text = "Akademik A. Ziyo", correct = false},
+{text = "Akademik I. Mo'minov", correct = true},
+{text = "Akademik M. Yo'ldoshev", correct = false},
+{text = "Akademik A. Asqarov", correct = false},
+}
+},
+{
+question = "\u{201C}Xiva xonligida feodal yer egaligi va davlat tuzilishi\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Akademik I. Mo'minov", correct = false},
+{text = "Akademik M. Yo'ldoshev", correct = true},
+{text = "Akademik A. Ziyo", correct = false},
+{text = "D. Alimova", correct = false},
+}
+},
+{
+question = "\u{201C}Xiva - ming gumbaz shahri\u{201D} kitobi Xiva shahrining necha yillik yubileyi munosabati bilan chop etilgan?",
+answers = {
+{text = "2000 yillik", correct = false},
+{text = "2500 yillik", correct = true},
+{text = "3000 yillik", correct = false},
+{text = "1500 yillik", correct = false},
+}
+},
+{
+question = "\u{201C}Xiva - ming gumbaz shahri\u{201D} kitobi qaysi yilda chop etilgan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1997-yilda", correct = true},
+{text = "2000-yilda", correct = false},
+}
+},
+{
+question = "\u{201C}O'zbek davlatchiligi tarixi\u{201D} kitobining muallifi kim bo'lgan?",
+answers = {
+{text = "Akademik I. Mo'minov", correct = false},
+{text = "Akademik M. Yo'ldoshev", correct = false},
+{text = "Akademik A. Ziyo", correct = true},
+{text = "D. Alimova", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi tarixi bo'yicha dastlabki asarlardan biri bo'lgan \u{201C}Umarnoma\u{201D} yoki \u{201C}Shohnomayi Umarxon\u{201D} kitobining muallifi kim bo'lgan?",
+answers = {
+{text = "Muhammad Hakimxon to'ra", correct = false},
+{text = "Abdulkarim Namangoniy", correct = true},
+{text = "Mirzo Olim Toshkandiy", correct = false},
+{text = "Is'hoqxon Ibrat", correct = false},
+}
+},
+{
+question = "Abdulkarim Namangoniyning \u{201C}Umarnoma\u{201D} kitobi qaysi yilda yozilgan?",
+answers = {
+{text = "1800-yilda", correct = false},
+{text = "1810-yilda", correct = false},
+{text = "1820-yilda", correct = true},
+{text = "1831-yilda", correct = false},
+}
+},
+{
+question = "\u{201C}Umarnoma\u{201D} kitobining asosiy maqsadi Umarxonning kelib chiqishini qaysi rivoyatga bog'lab, hokimiyatining qonuniyligini asoslash bo'lgan?",
+answers = {
+{text = "\u{201C}Oltin beshik\u{201D} rivoyatiga", correct = true},
+{text = "\u{201C}Ko'k bo'ri\u{201D} rivoyatiga", correct = false},
+{text = "\u{201C}Alangosa\u{201D} rivoyatiga", correct = false},
+{text = "\u{201C}Oq uyli\u{201D} rivoyatiga", correct = false},
+}
+},
+{
+question = "\u{201C}Saralangan tarixlar\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Abdulkarim Namangoniy", correct = false},
+{text = "Muhammad Hakimxon to'ra ibn Sayid Ma'sumxon", correct = true},
+{text = "Mirzo Olim Toshkandiy", correct = false},
+{text = "Is'hoqxon Ibrat", correct = false},
+}
+},
+{
+question = "Muhammad Hakimxon Umarxon davrida saroyda qanday lavozimda xizmat qilgan?",
+answers = {
+{text = "Devonbegi lavozimida", correct = false},
+{text = "Naqib lavozimida", correct = true},
+{text = "Mingboshi lavozimida", correct = false},
+{text = "Qushbegi lavozimida", correct = false},
+}
+},
+{
+question = "Muhammad Hakimxonning onasi Oftoboyim kimning singlisi bo'lgan?",
+answers = {
+{text = "Erdonaxonning", correct = false},
+{text = "Norbo'taxonning", correct = false},
+{text = "Umarxonning", correct = true},
+{text = "Olimxonning", correct = false},
+}
+},
+{
+question = "Muhammad Alixon taxtga o'tirgach, Muhammad Hakimxonni qaysi shahar hokimi etib tayinlagan?",
+answers = {
+{text = "Andijon hokimi", correct = false},
+{text = "Namangan hokimi", correct = true},
+{text = "Marg'ilon hokimi", correct = false},
+{text = "Xo'jand hokimi", correct = false},
+}
+},
+{
+question = "\u{201C}Qo'qon xonligi tarixi\u{201D} kitobining muallifi kim bo'lgan?",
+answers = {
+{text = "Mirzo Olim Maxdum hoji", correct = false},
+{text = "Mirzo Olim Toshkandiy", correct = true},
+{text = "Is'hoqxon Ibrat", correct = false},
+{text = "Abdulkarim Namangoniy", correct = false},
+}
+},
+{
+question = "\u{201C}Tarixi Turkiston\u{201D} kitobining muallifi kim bo'lgan?",
+answers = {
+{text = "Mirzo Olim Toshkandiy", correct = false},
+{text = "Mirzo Olim Maxdum hoji", correct = true},
+{text = "Is'hoqxon Ibrat", correct = false},
+{text = "Muhammad Hakimxon to'ra", correct = false},
+}
+},
+{
+question = "\u{201C}Farg'ona tarixi\u{201D} kitobining muallifi kim bo'lgan?",
+answers = {
+{text = "Mirzo Olim Toshkandiy", correct = false},
+{text = "Mirzo Olim Maxdum hoji", correct = false},
+{text = "Is'hoqxon Junaydullo o'g'li Ibrat", correct = true},
+{text = "Abdulkarim Namangoniy", correct = false},
+}
+},
+{
+question = "\u{201C}Shayboniynoma\u{201D} asarining muallifi Muhammad Kamoliddin Binoiy qaysi yilda va qayerda tug'ilgan?",
+answers = {
+{text = "1440-yilda Samarqandda", correct = false},
+{text = "1453-yilda Hirot shahrida", correct = true},
+{text = "1460-yilda Buxoroda", correct = false},
+{text = "1470-yilda Marvda", correct = false},
+}
+},
+{
+question = "Binoiy dastlab kimga, so'ng kimga xizmat qilgan?",
+answers = {
+{text = "Dastlab Zahiriddin Muhammad Boburga, so'ng Muhammad Shayboniyxonga", correct = true},
+{text = "Dastlab Muhammad Shayboniyxonga, so'ng Boburga", correct = false},
+{text = "Dastlab Ubaydullaxonga, so'ng Abdullaxonga", correct = false},
+{text = "Dastlab Ismoil Safaviyga, so'ng Boburga", correct = false},
+}
+},
+{
+question = "Binoiy qaysi yilda, qaysi shaharning egallanishi chog'ida halok bo'lgan?",
+answers = {
+{text = "1500-yilda Samarqand", correct = false},
+{text = "1507-yilda Hirot", correct = false},
+{text = "1512-yilda Qarshi", correct = true},
+{text = "1526-yilda Panipat", correct = false},
+}
+},
+{
+question = "\u{201C}Tarixi Rashidiy\u{201D} asarining muallifi kim bo'lgan?",
+answers = {
+{text = "Muhammad Kamoliddin Binoiy", correct = false},
+{text = "Mirzo Muhammad Haydar", correct = true},
+{text = "Hofiz Tanish Buxoriy", correct = false},
+{text = "Abdurahmon Tole", correct = false},
+}
+},
+{
+question = "Mirzo Muhammad Haydar qaysi yildan Kobul shahrida Bobur saroyida yashagan?",
+answers = {
+{text = "1500-yildan", correct = false},
+{text = "1503-yildan", correct = false},
+{text = "1507-yildan", correct = true},
+{text = "1511-yildan", correct = false},
+}
+},
+{
+question = "Hofiz Tanish Buxoriyning \u{201C}Abdullanoma\u{201D} asari qaysi hukmdorning tug'ilganidan vafotigacha bo'lgan voqealarni yoritadi?",
+answers = {
+{text = "Ubaydullaxonning", correct = false},
+{text = "Abdulazizxonning", correct = false},
+{text = "Abdullaxon ikkinchining", correct = true},
+{text = "Subhonqulixonning", correct = false},
+}
+},
+{
+question = "Buxoro xoni Ubaydullaxonning o'ldirilishi haqida \u{201C}Tarixi Abulfayzxon\u{201D} asarida batafsil yozib qoldirgan muallif kim bo'lgan?",
+answers = {
+{text = "Muhammad Yoqub", correct = false},
+{text = "Abdurahmon Tole", correct = true},
+{text = "Hofiz Tanish Buxoriy", correct = false},
+{text = "Mirzo Muhammad Haydar", correct = false},
+}
+},
+}
