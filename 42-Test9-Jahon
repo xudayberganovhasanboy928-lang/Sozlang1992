@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Sulton Ibrohimning siyosatidan norozi bo'lgan saroy a'yonlari o'sha paytda Kobulda hukmdor bo'lib turgan kimni Dehli taxtiga taklif qilish g'oyasini ilgari surdilar?",
+answers = {
+{text = "Humoyunshohni", correct = false},
+{text = "Zahiriddin Muhammad Boburni", correct = true},
+{text = "Akbarshohni", correct = false},
+{text = "Nodirshohni", correct = false},
+}
+},
+{
+question = "Mirzo Boburning jang tajribasida toblangan 20 ming qo'shini Hindistonga qaysi yili yurish qilgan?",
+answers = {
+{text = "1517-yili", correct = false},
+{text = "1526-yili", correct = true},
+{text = "1530-yili", correct = false},
+{text = "1556-yili", correct = false},
+}
+},
+{
+question = "1526-yil 21-aprelda bo'lib o'tgan Panipat jangida Mirzo Bobur qaysi hukmdor qo'shinlarini tor-mor qilib, Dehlini egalladi?",
+answers = {
+{text = "Sulton Husaynni", correct = false},
+{text = "Sulton Ibrohimni", correct = true},
+{text = "Mir Mahmudni", correct = false},
+{text = "Nodir Qulibekni", correct = false},
+}
+},
+{
+question = "Mirzo Bobur asos solgan davlatni G'arb tarixchilari qanday nom bilan atashadi?",
+answers = {
+{text = "\"Safaviylar davlati\"", correct = false},
+{text = "\"Buyuk Mo'g'ullar imperiyasi\"", correct = true},
+{text = "\"Usmoniylar imperiyasi\"", correct = false},
+{text = "\"Afshariylar davlati\"", correct = false},
+}
+},
+{
+question = "Mirzo Bobur qaysi yili vafot etgan?",
+answers = {
+{text = "1526-yili", correct = false},
+{text = "1527-yili", correct = false},
+{text = "1530-yili", correct = true},
+{text = "1540-yili", correct = false},
+}
+},
+{
+question = "Mirzo Bobur vafotidan oldin yer-mulkini farzandlariga bo'lib, Dehli taxtida kimni qoldirdi?",
+answers = {
+{text = "Sevimli farzandi Humoyunshohni", correct = true},
+{text = "Akbarshohni", correct = false},
+{text = "Jahongirshohni", correct = false},
+{text = "Shohjahonni", correct = false},
+}
+},
+{
+question = "Bir necha janglarda mag'lub bo'lgan Humoyunshoh Eronga qochib ketgach, hokimiyat necha yilga (qaysi yillarda) Sur urug'idan bo'lgan afg'on feodallari qo'lida qolgan?",
+answers = {
+{text = "10 yilga (1530-1540)", correct = false},
+{text = "15 yilga (1540-1555)", correct = true},
+{text = "20 yilga (1526-1546)", correct = false},
+{text = "25 yilga (1530-1555)", correct = false},
+}
+},
+{
+question = "Humoyunshoh Dehli taxtiga qaytishga muvaffaq bo'lgach, qaysi yili vafot etgan?",
+answers = {
+{text = "1540-yili", correct = false},
+{text = "1550-yili", correct = false},
+{text = "1556-yili", correct = true},
+{text = "1565-yili", correct = false},
+}
+},
+{
+question = "Humoyunshohning 13 yoshli o'g'li bo'lib, Hindiston tarixida buyuk islohotchi sifatida nom qoldirgan hukmdor kim edi?",
+answers = {
+{text = "Jahongirshoh", correct = false},
+{text = "Shohjahon", correct = false},
+{text = "Akbarshoh", correct = true},
+{text = "Avrangzeb", correct = false},
+}
+},
+{
+question = "Boburiylar imperiyasi asoschisi hisoblangan, buyuk islohotchi Akbarshoh qaysi yillar oralig'ida yashagan?",
+answers = {
+{text = "1526-1556-yillar", correct = false},
+{text = "1542-1605-yillar", correct = true},
+{text = "1556-1605-yillar", correct = false},
+{text = "1605-1627-yillar", correct = false},
+}
+},
+{
+question = "Akbarshoh diniy islohot doirasida musulmon bo'lmaganlardan olinadigan qanday soliqni bekor qilgan?",
+answers = {
+{text = "Jizyani", correct = true},
+{text = "Zakotni", correct = false},
+{text = "Xarojni", correct = false},
+{text = "Ushrni", correct = false},
+}
+},
+{
+question = "Akbarshohning o'g'li, taxt vorisi bo'lib, taxtga kelishi (1605-1627) bilan otasining ko'plab islohotlarini yo'qqa chiqargan hukmdor kim edi?",
+answers = {
+{text = "Shohjahon", correct = false},
+{text = "Jahongirshoh", correct = true},
+{text = "Avrangzeb", correct = false},
+{text = "Humoyunshoh", correct = false},
+}
+},
+{
+question = "Boburiylar imperiyasi qaysi hukmdor hukmronlik qilgan yillarda (1628-1657) o'z qudratining eng cho'qqisiga yetdi?",
+answers = {
+{text = "Akbarshoh davrida", correct = false},
+{text = "Jahongirshoh davrida", correct = false},
+{text = "Shohjahon davrida", correct = true},
+{text = "Avrangzeb davrida", correct = false},
+}
+},
+{
+question = "Musulmon bo'lmaganlardan olinadigan jizyani qaytadan tiklab, hindlar uchun qolgan barcha soliqlarni ikki hissaga oshirgan, mutaassib dindor hukmdor kim edi?",
+answers = {
+{text = "Akbarshoh", correct = false},
+{text = "Jahongirshoh", correct = false},
+{text = "Shoh Avrangzeb", correct = true},
+{text = "Nodirshoh", correct = false},
+}
+},
+{
+question = "1739-yili Hindistonga bostirib kirib, Dehlini talagan va poytaxt aholisining ko'pchiligini qirg'in qilgan Eron shohi kim edi?",
+answers = {
+{text = "Ismoil Safaviy", correct = false},
+{text = "Shoh Abbos I", correct = false},
+{text = "Nodirshoh", correct = true},
+{text = "Fotih Ali shoh", correct = false},
+}
+},
+{
+question = "Angliyaning \"Ost Indiya\" kompaniyasi Bengaliyani qaysi yili bosib oldi?",
+answers = {
+{text = "1600-yili", correct = false},
+{text = "1739-yili", correct = false},
+{text = "1757-yili", correct = true},
+{text = "1858-yili", correct = false},
+}
+},
+{
+question = "1542-yili Yaponiya qirg'oqlariga birinchi bo'lib qaysi yevropalik xalq kelib, o'qotar qurollarni olib kirgan?",
+answers = {
+{text = "Ispanlar", correct = false},
+{text = "Portugallar", correct = true},
+{text = "Gollandlar", correct = false},
+{text = "Inglizlar", correct = false},
+}
+},
+{
+question = "Yaponiyani birlashtirishda xizmatlari beqiyos bo'lgan uch mashhur tarixiy shaxs kimlar edi?",
+answers = {
+{text = "Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu", correct = true},
+{text = "Yosimune, Ienari va Li Sun Sin", correct = false},
+{text = "Mikado, Syogun va Daymyo", correct = false},
+{text = "Sinon, Kotib Chalabiy va Avliyo Chalabiy", correct = false},
+}
+},
+{
+question = "Tokugava Ieyasu qaysi yili syogun unvonini qabul qilib, Edo shahrini poytaxt qilgan holda Tokugava syogunligiga asos solgan?",
+answers = {
+{text = "1592-yili", correct = false},
+{text = "1603-yili", correct = true},
+{text = "1614-yili", correct = false},
+{text = "1627-yili", correct = false},
+}
+},
+{
+question = "Tokugavalar sulolasi Yaponiyani qaysi yilgacha boshqargan?",
+answers = {
+{text = "1745-yilgacha", correct = false},
+{text = "1785-yilgacha", correct = false},
+{text = "1837-yilgacha", correct = false},
+{text = "1867-yilgacha", correct = true},
+}
+},
+{
+question = "Xristian dinini mamlakat dushmani deb e'lon qilib, uni taqiqlovchi qonun syogun tomonidan qaysi yili chiqarilgan?",
+answers = {
+{text = "1592-yili", correct = false},
+{text = "1603-yili", correct = false},
+{text = "1614-yili", correct = true},
+{text = "1627-yili", correct = false},
+}
+},
+{
+question = "Yaponiyaning o'zini o'zi tashqi dunyodan ajratib qo'yish siyosati qaysi asrda joriy etilib, necha yildan ortiq davom etgan?",
+answers = {
+{text = "O'n oltinchi asrda, 100 yildan ortiq", correct = false},
+{text = "O'n yettinchi asrda, 200 yildan ortiq", correct = true},
+{text = "O'n sakkizinchi asrda, 150 yildan ortiq", correct = false},
+{text = "O'n to'qqizinchi asrda, 50 yildan ortiq", correct = false},
+}
+},
+{
+question = "Tokugava sulolasidan chiqqan sakkizinchi syogun bo'lib, 1716-1745-yillari hukmronlik qilgan, sulolaning eng mashhur islohotchi davlat arbobi kim edi?",
+answers = {
+{text = "Tokugava Ieyasu", correct = false},
+{text = "Yosimune", correct = true},
+{text = "Ienari", correct = false},
+{text = "Oda Nobunaga", correct = false},
+}
+},
+{
+question = "O'n birinchi syogun bo'lib, islohotlar siyosatini davom ettirgan va ocharchilikka qarshi kurashish uchun sholi zaxirasi yaratishni buyurgan hukmdor kim edi va u qaysi yillar hukmronlik qilgan?",
+answers = {
+{text = "Yosimune, 1716-1745-yillar", correct = false},
+{text = "Ienari, 1787-1837-yillar", correct = true},
+{text = "Tokugava Ieyasu, 1603-1616-yillar", correct = false},
+{text = "Toyotomi Xideyosi, 1582-1598-yillar", correct = false},
+}
+},
+{
+question = "1742-yili syogun Yosimune Yaponiyaga yevropaliklarning qanday sohadagi kitoblarini kiritishga ruxsat bergan?",
+answers = {
+{text = "Diniy kitoblarni", correct = false},
+{text = "Harbiy san'at kitoblarini", correct = false},
+{text = "Tabiiy va amaliy fanlar bo'yicha kitoblarni", correct = true},
+{text = "Adabiy asarlarni", correct = false},
+}
+},
+{
+question = "O'n yettinchi asrda paydo bo'lgan, aktyorlari faqat erkaklardan iborat bo'lgan an'anaviy yapon teatri qanday nomlangan?",
+answers = {
+{text = "Kabuki", correct = true},
+{text = "Nogaku", correct = false},
+{text = "Bunraku", correct = false},
+{text = "Kyogen", correct = false},
+}
+},
+{
+question = "Qofiyalashmagan besh qatorli lirik she'rlardan iborat xokku janrining eng mashhur namoyandasi kim edi?",
+answers = {
+{text = "Li Sun Sin", correct = false},
+{text = "Masuo Basyo", correct = true},
+{text = "Kim Xondo", correct = false},
+{text = "Chon Son", correct = false},
+}
+},
+{
+question = "1592-yili Koreya hududiga bostirib kirib, Seul va Pxenyan shaharlarini egallagan davlat qaysi edi?",
+answers = {
+{text = "Xitoy", correct = false},
+{text = "Manchjuriya", correct = false},
+{text = "Yaponiya", correct = true},
+{text = "Mo'g'uliston", correct = false},
+}
+},
+{
+question = "Yapon flotini tor-mor qilib, koreys xalq qo'shinlariga dalda bo'lgan koreys flotining qo'mondoni kim edi?",
+answers = {
+{text = "Li Sun Sin", correct = true},
+{text = "Yeongjo", correct = false},
+{text = "Kim Xondo", correct = false},
+{text = "Li Myonuk", correct = false},
+}
+},
+{
+question = "1593-yili Pxenyan va Seulni ozod qilishda koreyslarga qaysi davlatning ellik minglik qo'shini yordam bergan?",
+answers = {
+{text = "Xitoy", correct = true},
+{text = "Yaponiya", correct = false},
+{text = "Manchjuriya", correct = false},
+{text = "Rossiya", correct = false},
+}
+},
+{
+question = "Manchjurlar Xitoyda o'z hukmronligini o'rnatishga intilib, Koreyaga birinchi marta qaysi yili bostirib kirgan?",
+answers = {
+{text = "1592-yili", correct = false},
+{text = "1614-yili", correct = false},
+{text = "1627-yili", correct = true},
+{text = "1637-yili", correct = false},
+}
+},
+{
+question = "Islohotlar o'tkazib, ocharchilik holati uchun maxsus don omborlari tashkil etgan, 1725-1776-yillari hukmronlik qilgan koreys qiroli kim edi?",
+answers = {
+{text = "Yeongjo", correct = true},
+{text = "Li Sun Sin", correct = false},
+{text = "Sidi Muhammad", correct = false},
+{text = "Fotih Ali shoh", correct = false},
+}
+},
+{
+question = "O'n oltinchi asr boshlarida Usmoniylar imperiyasi ma'muriy jihatdan qanday bo'linishlarga ega edi?",
+answers = {
+{text = "Grafliklar va gersogliklarga", correct = false},
+{text = "Viloyatlarga, viloyatlar esa sanjoqlarga", correct = true},
+{text = "Knyazliklarga va markalarga", correct = false},
+{text = "Xonliklarga va beklikka", correct = false},
+}
+},
+{
+question = "1515-yili imzolangan sulhga ko'ra Armanistonning bir qancha tumanlari qaysi davlat tasarrufiga o'tdi?",
+answers = {
+{text = "Safaviylar davlati", correct = false},
+{text = "Turkiya", correct = true},
+{text = "Mamluklar davlati", correct = false},
+{text = "Gabsburglar imperiyasi", correct = false},
+}
+},
+{
+question = "Usmoniylar imperiyasining sipohiylardan tashqari mavjud bo'lgan, doimiy piyoda qo'shini qanday nomlangan?",
+answers = {
+{text = "Yanicharlar", correct = true},
+{text = "Korsarlar", correct = false},
+{text = "Mamluklar", correct = false},
+{text = "Qulo'g'lilar", correct = false},
+}
+},
+{
+question = "1514-yili Chaldiron tekisligida bo'lib o'tgan jangda usmoniylar qaysi davlatga qattiq zarba berib, poytaxti Tabrizni egalladilar?",
+answers = {
+{text = "Safaviylar davlatiga", correct = true},
+{text = "Mamluklar davlatiga", correct = false},
+{text = "Boburiylar imperiyasiga", correct = false},
+{text = "Gabsburglar imperiyasiga", correct = false},
+}
+},
+{
+question = "1516-yili Shimoliy Suriyaga bostirib kirgan usmoniylar armiyasiga qaysi sulton qo'mondonlik qilgan?",
+answers = {
+{text = "Sulaymon I Qonunchi", correct = false},
+{text = "Salim I", correct = true},
+{text = "Salim III", correct = false},
+{text = "Murod I", correct = false},
+}
+},
+{
+question = "Salim I armiyasi Qohirani qaysi yili egallab, Xijozdagi Makka va Madina shaharlarini ham o'ziga bo'ysundirgan?",
+answers = {
+{text = "1514-yili", correct = false},
+{text = "1516-yili", correct = false},
+{text = "1517-yili", correct = true},
+{text = "1520-yili", correct = false},
+}
+},
+{
+question = "Usmoniylar imperiyasi o'z harbiy yutuqlarining eng cho'qqisiga qaysi sulton hukmronligi davrida (1520-1566) ko'tarilgan?",
+answers = {
+{text = "Salim I", correct = false},
+{text = "Sulaymon I Qonunchi", correct = true},
+{text = "Salim III", correct = false},
+{text = "Ahmad al-Mansur", correct = false},
+}
+},
+{
+question = "1547-yilgi shartnomaga ko'ra Vengriya hududlari qaysi ikki davlat o'rtasida bo'lib olindi?",
+answers = {
+{text = "Turkiya va Rossiya", correct = false},
+{text = "Turkiya va Avstriya", correct = true},
+{text = "Turkiya va Fransiya", correct = false},
+{text = "Turkiya va Venetsiya", correct = false},
+}
+},
+{
+question = "Sulaymon Qonunchi o'zining 46 yillik hukmronligi davrida harbiy yurishlarda jami necha marotaba ishtirok etgan?",
+answers = {
+{text = "10 marotaba", correct = false},
+{text = "13 marotaba", correct = true},
+{text = "20 marotaba", correct = false},
+{text = "23 marotaba", correct = false},
+}
+},
+{
+question = "Turklarning qaysi yildagi Vena ostonasidagi mag'lubiyati Yevropa davlatlarining Usmoniylar imperiyasiga qarshi uch asrlik urushida burilish yasadi?",
+answers = {
+{text = "1547-yili", correct = false},
+{text = "1566-yili", correct = false},
+{text = "1683-yili", correct = true},
+{text = "1789-yili", correct = false},
+}
+},
+{
+question = "Turkiya XVIII asrda qaysi davlat bilan besh marta urush olib borgan?",
+answers = {
+{text = "Fransiya bilan", correct = false},
+{text = "Angliya bilan", correct = false},
+{text = "Rossiya bilan", correct = true},
+{text = "Avstriya bilan", correct = false},
+}
+},
+{
+question = "Usmoniylar imperiyasini isloh qilishga kirishgan, \"Yangi tuzum\" (\"Nizom-i-jadid\") siyosatini boshlagan sulton qaysi yili taxtga kelgan?",
+answers = {
+{text = "1683-yili", correct = false},
+{text = "1747-yili", correct = false},
+{text = "1789-yili", correct = true},
+{text = "1796-yili", correct = false},
+}
+},
+{
+question = "Salim III davrida flot uchun nechta yirik harbiy kema qurilgan?",
+answers = {
+{text = "13 ta", correct = false},
+{text = "20 ta", correct = false},
+{text = "23 ta", correct = true},
+{text = "30 ta", correct = false},
+}
+},
+{
+question = "Salim III islohotlariga qarshi qo'zg'olon ko'tarib, Istanbulni egallagan va sultonni o'ldirgan harbiy toifa qaysi edi?",
+answers = {
+{text = "Sipohiylar", correct = false},
+{text = "Yanicharlar", correct = true},
+{text = "Mamluklar", correct = false},
+{text = "Korsarlar", correct = false},
+}
+},
+{
+question = "O'n oltinchi asrning buyuk me'mori bo'lib, o'zining betakror binolari bilan turk me'morchiligi rivojiga katta hissa qo'shgan shaxs kim edi?",
+answers = {
+{text = "Kotib Chalabiy", correct = false},
+{text = "Avliyo Chalabiy", correct = false},
+{text = "Sinon", correct = true},
+{text = "Xizir Xalifa Tabariy", correct = false},
+}
+},
+{
+question = "\"Sayohatnoma\" nomli tarixiy-etnografik asar muallifi bo'lgan turk sayohatchisi kim edi?",
+answers = {
+{text = "Kotib Chalabiy", correct = false},
+{text = "Sinon", correct = false},
+{text = "Avliyo Chalabiy", correct = true},
+{text = "Mustafo Koshifzoda", correct = false},
+}
+},
+{
+question = "Eronni yagona davlatga birlashtirish vazifasini amalga oshirgan, Ardabil shahrida katta siyosiy nufuzga ega bo'lgan sarkarda kim edi?",
+answers = {
+{text = "Shoh Abbos I", correct = false},
+{text = "Ismoil Safaviy", correct = true},
+{text = "Nodir Qulibek", correct = false},
+{text = "Fotih Ali shoh", correct = false},
+}
+},
+{
+question = "Ismoil Safaviy qaysi yili Tabriz shahrini ishg'ol etib, o'zini shahanshoh deb e'lon qilgan?",
+answers = {
+{text = "1492-yili", correct = false},
+{text = "1502-yili", correct = true},
+{text = "1524-yili", correct = false},
+{text = "1587-yili", correct = false},
+}
+},
+{
+question = "Ismoil I Safaviy markaziy hokimiyatni mustahkamlash maqsadida suyurg'ol yer egaligi shaklini bekor qilib, uning o'rniga qanday shaklni joriy etdi?",
+answers = {
+{text = "Iqto shaklini", correct = false},
+{text = "Tiyul shaklini", correct = true},
+{text = "Vaqf shaklini", correct = false},
+{text = "Mulk shaklini", correct = false},
+}
+},
+{
+question = "Safaviylar davlati qaysi hukmdor hukmronligi davrida (1587-1629) o'z qudratining cho'qqisiga yetdi?",
+answers = {
+{text = "Ismoil I", correct = false},
+{text = "Shoh Abbos I", correct = true},
+{text = "Sulton Husayn", correct = false},
+{text = "Nodirshoh", correct = false},
+}
+},
+{
+question = "Shoh Abbos I mamlakat poytaxtini qaysi shahardan qaysi shaharga ko'chirgan?",
+answers = {
+{text = "Isfahondan Tabrizga", correct = false},
+{text = "Tabrizdan Isfahonga", correct = true},
+{text = "Tehrondan Tabrizga", correct = false},
+{text = "Isfahondan Tehronga", correct = false},
+}
+},
+{
+question = "Dehqonlarning yerni tashlab ketishini taqiqlovchi farmonni sulton Husayn qaysi yili chiqargan?",
+answers = {
+{text = "1700-yili", correct = false},
+{text = "1710-yili", correct = true},
+{text = "1722-yili", correct = false},
+{text = "1736-yili", correct = false},
+}
+},
+{
+question = "1722-yilda o'z yetakchisi Mir Mahmud boshchiligida zaiflashib qolgan Eronga hujum qilgan, natijada Eron tarixida ularga qaramlik davrini boshlab bergan xalq qaysi edi?",
+answers = {
+{text = "Afg'onlar", correct = true},
+{text = "Turklar", correct = false},
+{text = "Manchjurlar", correct = false},
+{text = "Ruslar", correct = false},
+}
+},
+{
+question = "Afg'onlarga qarshi harakatga boshchilik qilgan, turkmanlarning afshar qabilasidan bo'lgan lashkarboshi kim edi?",
+answers = {
+{text = "Ismoil Safaviy", correct = false},
+{text = "Shoh Abbos I", correct = false},
+{text = "Nodir Qulibek", correct = true},
+{text = "Fotih Ali shoh", correct = false},
+}
+},
+{
+question = "Nodir Qulibek qaysi yili qabilalar asilzodalarining qurultoyida o'zini \"Eron shohi Nodirshoh\" deb e'lon qilishga erishgan?",
+answers = {
+{text = "1726-yili", correct = false},
+{text = "1730-yili", correct = false},
+{text = "1736-yili", correct = true},
+{text = "1747-yili", correct = false},
+}
+},
+{
+question = "Nodirshoh qaysi yili o'zaro ichki nizolar natijasida o'ldirilgan?",
+answers = {
+{text = "1736-yili", correct = false},
+{text = "1747-yili", correct = true},
+{text = "1758-yili", correct = false},
+{text = "1796-yili", correct = false},
+}
+},
+{
+question = "Zend va qojar qabilalari o'rtasidagi toj-u taxt kurashi qaysi yili zend qabilasining g'alabasi bilan tugagan?",
+answers = {
+{text = "1747-yili", correct = false},
+{text = "1758-yili", correct = true},
+{text = "1775-yili", correct = false},
+{text = "1796-yili", correct = false},
+}
+},
+{
+question = "Qojarlar Eronda hokimiyatni qaysi yili to'liq egallab olgan?",
+answers = {
+{text = "1758-yili", correct = false},
+{text = "1785-yili", correct = false},
+{text = "1796-yili", correct = true},
+{text = "1925-yili", correct = false},
+}
+},
+{
+question = "Qojarlar rahnamosi Og'a Muhammad saroy fitnasi natijasida o'ldirilgach, taxtga uning jiyani kim keldi?",
+answers = {
+{text = "Nodirshoh", correct = false},
+{text = "Sulton Husayn", correct = false},
+{text = "Fotih Ali shoh", correct = true},
+{text = "Ismoil Safaviy", correct = false},
+}
+},
+{
+question = "Fors ko'rfazini egallab olish uchun dastlabki harakatni XVI asrda qaysi yevropalik xalq boshlab bergan?",
+answers = {
+{text = "Ispanlar", correct = false},
+{text = "Portugallar", correct = true},
+{text = "Gollandlar", correct = false},
+{text = "Inglizlar", correct = false},
+}
+},
+{
+question = "G'arbda \"Sharq Rafaeli\" sifatida tan olingan, mashhur xattot, naqqosh va miniatura san'ati ustasi kim edi?",
+answers = {
+{text = "Kamoliddin Behzod", correct = true},
+{text = "Xatoly", correct = false},
+{text = "Soib Tabriziy", correct = false},
+{text = "Sodiqbek Afshar", correct = false},
+}
+},
+{
+question = "O'n yettinchi asr boshlarida Eronga qaysi davlatning \"Ost Indiya\" kompaniyasi o'z vakillarini jo'natgan?",
+answers = {
+{text = "Angliya", correct = true},
+{text = "Gollandiya", correct = false},
+{text = "Fransiya", correct = false},
+{text = "Portugaliya", correct = false},
+}
+},
+{
+question = "1517-yil boshida Qohirani egallab, Misr poytaxtini talagan va vayron qilgan usmoniylar sultoni kim edi?",
+answers = {
+{text = "Sulaymon I Qonunchi", correct = false},
+{text = "Salim I", correct = true},
+{text = "Salim III", correct = false},
+{text = "Ahmad al-Mansur", correct = false},
+}
+},
+{
+question = "Turk hukmronligi va mamluklarga qarshi Qohirada boshlangan xalq harakatiga qaysi masjidning shayxlari boshchilik qilgan?",
+answers = {
+{text = "Sulaymon masjidi", correct = false},
+{text = "Shoh masjidi", correct = false},
+{text = "Al-Azhar masjidi", correct = true},
+{text = "Shayx Lutfulla masjidi", correct = false},
+}
+},
+{
+question = "Qohira hunarmandlari va savdogarlari norozilik yuzasidan o'z do'konlarini qaysi yilning yozida yopgan?",
+answers = {
+{text = "1789-yil", correct = false},
+{text = "1795-yil", correct = true},
+{text = "1798-yil", correct = false},
+{text = "1804-yil", correct = false},
+}
+},
+{
+question = "1798-yili boshlangan, Misrga bostirib kirgan fransuz bosqinchilariga qarshi xalq harakatining markaziga aylangan harakatga kim boshchilik qilgan qo'shinlarga qarshi kurashilgan?",
+answers = {
+{text = "Napoleon Bonapart", correct = true},
+{text = "Salim III", correct = false},
+{text = "Xayriddin Barbarossa", correct = false},
+{text = "Ahmad Karamanli", correct = false},
+}
+},
+{
+question = "Jazoirning qirg'oq bo'yi hududlarini o'n oltinchi asr boshlarida qaysi davlat bosib olgan?",
+answers = {
+{text = "Portugaliya", correct = false},
+{text = "Ispaniya", correct = true},
+{text = "Fransiya", correct = false},
+{text = "Angliya", correct = false},
+}
+},
+{
+question = "Korsarlar yetakchisi Aruj vafotidan so'ng, ispanlarga qarshi kurashda unga kim boshchilik qildi va ispanlardan Jazoir shaharlarini ozod qildi?",
+answers = {
+{text = "Ahmad Karamanli", correct = false},
+{text = "Xayriddin Barbarossa", correct = true},
+{text = "Husayn ibn Ali", correct = false},
+{text = "Ahmad al-Mansur", correct = false},
+}
+},
+{
+question = "Tripoli shahri qaysi yili ispan armiyasi tomonidan zabt etilgan?",
+answers = {
+{text = "1502-yili", correct = false},
+{text = "1510-yili", correct = true},
+{text = "1517-yili", correct = false},
+{text = "1574-yili", correct = false},
+}
+},
+{
+question = "O'n sakkizinchi asr boshlarida Liviyada kim boshchiligida qulo'g'lilar hokimiyati o'rnatilgan?",
+answers = {
+{text = "Xayriddin Barbarossa", correct = false},
+{text = "Ahmad Karamanli", correct = true},
+{text = "Husayn ibn Ali", correct = false},
+{text = "Sidi Muhammad", correct = false},
+}
+},
+{
+question = "Tunis qaysi yili turk qo'shinlari tomonidan zabt etilib, unda usmoniylar siyosiy tartibi o'rnatilgan?",
+answers = {
+{text = "1510-yili", correct = false},
+{text = "1517-yili", correct = false},
+{text = "1574-yili", correct = true},
+{text = "1683-yili", correct = false},
+}
+},
+{
+question = "Tunisda yangi monarxiyaga va 1957-yilgacha hukmronlik qilgan husayniylar sulolasiga asos solgan sipohiylar sardori kim edi?",
+answers = {
+{text = "Ahmad Karamanli", correct = false},
+{text = "Husayn ibn Ali", correct = true},
+{text = "Ahmad al-Mansur", correct = false},
+{text = "Mulay Ismoil", correct = false},
+}
+},
+{
+question = "1504-yili tashkil topgan, poytaxti Sennar shahri bo'lgan davlat qanday nomlangan?",
+answers = {
+{text = "Darfur sultonligi", correct = false},
+{text = "Sennar sultonligi", correct = true},
+{text = "Fung imperiyasi", correct = false},
+{text = "Shariflar imperiyasi", correct = false},
+}
+},
+{
+question = "O'n oltinchi asrda Marokashning yuksalishiga eng katta hissa qo'shgan, savdoni rivojlantirib, qo'shni davlatlar bilan diplomatik aloqalar o'rnatgan sulton kim edi?",
+answers = {
+{text = "Mulay Ismoil", correct = false},
+{text = "Ahmad al-Mansur", correct = true},
+{text = "Husayn ibn Ali", correct = false},
+{text = "Sidi Muhammad ibn Abdulloh", correct = false},
+}
+},
+{
+question = "Marokashni 55 yil boshqarib, mamlakat mustaqilligini saqlab qolish va iqtisodiy gullab-yashnashni ta'minlashga harakat qilgan hukmdor kim edi?",
+answers = {
+{text = "Ahmad al-Mansur", correct = false},
+{text = "Mulay Ismoil", correct = true},
+{text = "Sidi Muhammad ibn Abdulloh", correct = false},
+{text = "Husayn ibn Ali", correct = false},
+}
+},
+{
+question = "O'n oltinchi asr oxirigacha Afrikaning g'arbiy qirg'oqlarida o'rnashib olgan yagona yevropa davlati qaysi edi?",
+answers = {
+{text = "Ispaniya", correct = false},
+{text = "Gollandiya", correct = false},
+{text = "Portugaliya", correct = true},
+{text = "Angliya", correct = false},
+}
+},
+{
+question = "1530-1600-yillar oralig'idagi 70 yil ichida faqat portugaliyaliklarning o'zlari tomonidan Amerikaga taxminan necha million qul olib ketilgan?",
+answers = {
+{text = "0,5 mln ga yaqin", correct = false},
+{text = "1 mln ga yaqin", correct = true},
+{text = "5 mln ga yaqin", correct = false},
+{text = "15 mln ga yaqin", correct = false},
+}
+},
+{
+question = "Yevropaliklarning bosqinlariga qarshilik ko'rsatib, mustaqilligini saqlab qolgan, hukmdori \"negus\" deb atalgan yagona Afrika davlati qaysi edi?",
+answers = {
+{text = "Marokash", correct = false},
+{text = "Sudan", correct = false},
+{text = "Efiopiya", correct = true},
+{text = "Liviya", correct = false},
+}
+},
+}

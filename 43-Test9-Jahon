@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Ishchilarning turli xil ittifoqlarga birlashishlarini qat'iyan taqiqlovchi, keyinchalik bekor qilingan qonun qaysi yili qabul qilingan edi?",
+answers = {
+{text = "1789-yilgi qonun", correct = false},
+{text = "1799-yilgi qonun", correct = true},
+{text = "1815-yilgi qonun", correct = false},
+{text = "1824-yilgi qonun", correct = false},
+}
+},
+{
+question = "1820-yili Angliyada 120 mln funt paxta qayta ishlangan bo'lsa, 1848-yilga kelib bu ko'rsatkich qanchaga yetgan?",
+answers = {
+{text = "250 mln funtga", correct = false},
+{text = "400 mln funtga", correct = false},
+{text = "588 mln funtga", correct = true},
+{text = "700 mln funtga", correct = false},
+}
+},
+{
+question = "Dunyodagi birinchi temiryo'l qaysi yili va kim tomonidan qurilgan?",
+answers = {
+{text = "1805-yili, admiral Nelson tomonidan", correct = false},
+{text = "1824-yili, Charlz Dilk tomonidan", correct = false},
+{text = "1825-yili, Jorj Stefenson tomonidan", correct = true},
+{text = "1832-yili, Robert Pil tomonidan", correct = false},
+}
+},
+{
+question = "1810-yili Angliya sanoatida nechta bug' mashinasi ishlatilgan?",
+answers = {
+{text = "2 mingta", correct = false},
+{text = "5 mingta", correct = true},
+{text = "10 mingta", correct = false},
+{text = "15 mingta", correct = false},
+}
+},
+{
+question = "Parlament Angliyadan tashqariga mashinalar olib chiqishga qaysi yili qisman ruxsat bergan?",
+answers = {
+{text = "1810-yili", correct = false},
+{text = "1820-yili", correct = false},
+{text = "1824-yili", correct = true},
+{text = "1832-yili", correct = false},
+}
+},
+{
+question = "Angliya fransuzlar flotini tor-mor qilib, dengizda ustunlikka erishgan Trafalgar jangi qaysi yili bo'lib o'tgan?",
+answers = {
+{text = "1799-yili", correct = false},
+{text = "1805-yili", correct = true},
+{text = "1812-yili", correct = false},
+{text = "1815-yili", correct = false},
+}
+},
+{
+question = "Ingliz mustamlakachilari qaysi mamlakat xalqining mardonavor qarshiligiga uchrab, 1842-yili uning amiri bilan sulh tuzishga va mamlakatni vaqtincha bosib olishdan voz kechishga majbur bo'lgan?",
+answers = {
+{text = "Eron", correct = false},
+{text = "Xitoy", correct = false},
+{text = "Afg'oniston", correct = true},
+{text = "Nepal", correct = false},
+}
+},
+{
+question = "Birinchi afyun urushi natijasida inglizlar Xitoydan qaysi hududni bosib olgan?",
+answers = {
+{text = "Shanxayni", correct = false},
+{text = "Gonkongni", correct = true},
+{text = "Guanchjouni", correct = false},
+{text = "Makauni", correct = false},
+}
+},
+{
+question = "Xitoydagi Birinchi afyun urushi qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1830-1835-yillar", correct = false},
+{text = "1839-1842-yillar", correct = true},
+{text = "1842-1848-yillar", correct = false},
+{text = "1850-1856-yillar", correct = false},
+}
+},
+{
+question = "1875-yili Misr hukmdori Ismoil I Angliya hukumatiga Suvaysh kanalining necha foiz aksiyasini sotishga majbur qilingan?",
+answers = {
+{text = "25 foiz", correct = false},
+{text = "33 foiz", correct = false},
+{text = "45 foiz", correct = true},
+{text = "60 foiz", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya parlamenti ish tashlashni taqiqlovchi qonunni qaysi yili qabul qilgan?",
+answers = {
+{text = "1815-yili", correct = false},
+{text = "1825-yili", correct = true},
+{text = "1832-yili", correct = false},
+{text = "1848-yili", correct = false},
+}
+},
+{
+question = "Birinchi parlament islohoti qaysi yili o'tkazilib, parlamentga saylov tartibi o'zgartirilgan?",
+answers = {
+{text = "1815-yili", correct = false},
+{text = "1825-yili", correct = false},
+{text = "1832-yili", correct = true},
+{text = "1867-yili", correct = false},
+}
+},
+{
+question = "1832-yilgi parlament islohotiga ko'ra yirik sanoat markazlariga parlamentdan nechta o'rin ajratib berilgan?",
+answers = {
+{text = "100 o'rin", correct = false},
+{text = "144 o'rin", correct = true},
+{text = "200 o'rin", correct = false},
+{text = "250 o'rin", correct = false},
+}
+},
+{
+question = "Ikkinchi parlament islohoti qaysi yili o'tkazilib, shaharlarda o'z uyiga ega bo'lgan barcha erkaklarga saylov huquqi berilgan?",
+answers = {
+{text = "1832-yili", correct = false},
+{text = "1848-yili", correct = false},
+{text = "1867-yili", correct = true},
+{text = "1875-yili", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya 1867-yilda qaysi mustamlakasiga dominion maqomini berishga majbur bo'lgan?",
+answers = {
+{text = "Avstraliyaga", correct = false},
+{text = "Kanadaga", correct = true},
+{text = "Yangi Zelandiyaga", correct = false},
+{text = "Hindistonga", correct = false},
+}
+},
+{
+question = "\"Yanada Buyuk Britaniya\" nomli asarida \"oq koloniyalar\"da burjuaziya huquqlarini kengaytirishni taklif qilgan olim kim edi?",
+answers = {
+{text = "Charlz Dilk", correct = true},
+{text = "Jorj Stefenson", correct = false},
+{text = "Napoleon Bonapart", correct = false},
+{text = "Ismoil I", correct = false},
+}
+},
+{
+question = "Napoleon 1799-yilgi davlat to'ntarishidan so'ng dastlab qanday lavozimni egallagan?",
+answers = {
+{text = "Imperator", correct = false},
+{text = "Kansler", correct = false},
+{text = "Birinchi konsul", correct = true},
+{text = "Bosh vazir", correct = false},
+}
+},
+{
+question = "Senat Napoleonni \"Fransuzlar imperatori Napoleon I\" deb qaysi yili e'lon qilgan?",
+answers = {
+{text = "1799-yili", correct = false},
+{text = "1804-yili", correct = true},
+{text = "1807-yili", correct = false},
+{text = "1812-yili", correct = false},
+}
+},
+{
+question = "Napoleon \"Uch imperator jangi\" deb nom olgan jangda Rossiya va Avstriyaning birlashgan armiyasi ustidan qaysi yili hal qiluvchi g'alabani qo'lga kiritgan?",
+answers = {
+{text = "1804-yili", correct = false},
+{text = "1805-yili", correct = false},
+{text = "1807-yili", correct = true},
+{text = "1812-yili", correct = false},
+}
+},
+{
+question = "Rossiya Napoleon bilan tinchlik hamda ittifoq to'g'risidagi Tilzit shartnomasini qaysi yili imzolagan?",
+answers = {
+{text = "1805-yili", correct = false},
+{text = "1807-yili", correct = true},
+{text = "1812-yili", correct = false},
+{text = "1813-yili", correct = false},
+}
+},
+{
+question = "Napoleonning Rossiyaga qarshi 1812-yilgi urushi rus tarixiga qanday nom bilan kirgan?",
+answers = {
+{text = "\"Xalqlar jangi\"", correct = false},
+{text = "\"Vatan urushi\"", correct = true},
+{text = "\"Muqaddas urush\"", correct = false},
+{text = "\"Qit'a qamali\"", correct = false},
+}
+},
+{
+question = "Napoleon va Rossiya qo'shinlari o'rtasidagi hal qiluvchi Borodino jangi qaysi sanada bo'lib o'tgan?",
+answers = {
+{text = "1812-yil 7-avgustda", correct = false},
+{text = "1812-yil 7-sentyabrda", correct = true},
+{text = "1813-yil 7-oktyabrda", correct = false},
+{text = "1814-yil 7-mayda", correct = false},
+}
+},
+{
+question = "Chekinayotgan fransuz armiyasini ta'qib qilib, unga katta talafot yetkazgan Rossiya armiyasiga kim qo'mondonlik qilgan?",
+answers = {
+{text = "M. I. Kutuzov", correct = true},
+{text = "Aleksandr I", correct = false},
+{text = "Nikolay I", correct = false},
+{text = "Vilgelm I", correct = false},
+}
+},
+{
+question = "\"Xalqlar jangi\" deb nom olgan, Napoleon qo'shini tor-mor etilgan hal qiluvchi jang qaysi yili Leypsig ostonasida bo'lib o'tgan?",
+answers = {
+{text = "1807-yili", correct = false},
+{text = "1812-yili", correct = false},
+{text = "1813-yili", correct = true},
+{text = "1815-yili", correct = false},
+}
+},
+{
+question = "Taxtdan voz kechishga majbur bo'lgan Napoleon 1814-yili qaysi orolga surgun qilingan?",
+answers = {
+{text = "Elba oroliga", correct = true},
+{text = "Muqaddas Yelena oroliga", correct = false},
+{text = "Korsika oroliga", correct = false},
+{text = "Malta oroliga", correct = false},
+}
+},
+{
+question = "Napoleon Elba orolidan qochib, Fransiyaga qaytib kelib, bu safar hokimiyatni jami necha kun boshqargan?",
+answers = {
+{text = "40 kun", correct = false},
+{text = "60 kun", correct = false},
+{text = "100 kun", correct = true},
+{text = "150 kun", correct = false},
+}
+},
+{
+question = "Napoleon qo'shini butunlay tor-mor etilgan, tarixga o'z nomi bilan kirgan hal qiluvchi jang qaysi yili bo'lib o'tgan?",
+answers = {
+{text = "1813-yili", correct = false},
+{text = "1814-yili", correct = false},
+{text = "1815-yili", correct = true},
+{text = "1821-yili", correct = false},
+}
+},
+{
+question = "Ikkinchi bor taxtdan voz kechgan Napoleon Muqaddas Yelena orolida qaysi yili vafot etgan?",
+answers = {
+{text = "1815-yili", correct = false},
+{text = "1818-yili", correct = false},
+{text = "1821-yili", correct = true},
+{text = "1825-yili", correct = false},
+}
+},
+{
+question = "Yevropani g'oliblar manfaati yo'lida qayta taqsimlash maqsadida chaqirilgan Vena Kongressi qaysi yillarda va qaysi shaharda bo'lib o'tgan?",
+answers = {
+{text = "1812-1813-yillar, Parijda", correct = false},
+{text = "1814-1815-yillar, Vena shahrida", correct = true},
+{text = "1815-1816-yillar, Berlinda", correct = false},
+{text = "1821-1822-yillar, Londonda", correct = false},
+}
+},
+{
+question = "1830-yilgi Parij inqilobidan so'ng Fransiya taxtiga o'tqazilgan, hokimiyati \"Iyul monarxiyasi\" nomi bilan tarixga kirgan hukmdor kim edi?",
+answers = {
+{text = "Lyudovik XVIII", correct = false},
+{text = "Karl X", correct = false},
+{text = "Lui Filipp", correct = true},
+{text = "Napoleon III", correct = false},
+}
+},
+{
+question = "Lui Napoleon Bonapart qaysi sanada Napoleon III nomi bilan Fransiya imperatori deb e'lon qilingan?",
+answers = {
+{text = "1848-yil dekabrda", correct = false},
+{text = "1851-yil dekabrda", correct = false},
+{text = "1852-yil 2-dekabrda", correct = true},
+{text = "1870-yil sentyabrda", correct = false},
+}
+},
+{
+question = "1871-yili Fransiyada 72 kun faoliyat yuritib, respublika tuzumini uzil-kesil o'rnatgan voqea qanday nomlangan?",
+answers = {
+{text = "\"Iyul monarxiyasi\"", correct = false},
+{text = "\"Muqaddas ittifoq\"", correct = false},
+{text = "Parij Kommunasi", correct = true},
+{text = "\"Xalqlar jangi\"", correct = false},
+}
+},
+{
+question = "1850-yili qabul qilingan, faqat ikkinchi darajali feodal qaramliklarni bepul bekor qilgan farmon qanday nomlangan?",
+answers = {
+{text = "\"Fuqarolik kodeksi\"", correct = false},
+{text = "\"Pomeshchiklar va dehqonlar o'rtasidagi munosabatlarni tartibga solish to'g'risida\"gi farmon", correct = true},
+{text = "\"Yangi tuzum\" farmoni", correct = false},
+{text = "\"100 moddali farmon\"", correct = false},
+}
+},
+{
+question = "XIX asr 50-60-yillarida ko'plab davlatlarni qurol bilan ta'minlab turgan mashhur nemis sanoatchisi kim edi?",
+answers = {
+{text = "Verner fon Simens", correct = false},
+{text = "Alfred Krupp", correct = true},
+{text = "Borzig", correct = false},
+{text = "Otto fon Bismark", correct = false},
+}
+},
+{
+question = "Otto fon Bismark ishlab chiqqan Shimoliy Germaniya ittifoqi konstitutsiyasi qaysi yilgacha, qanday konstitutsiya qabul qilingunga qadar amal qilib kelgan?",
+answers = {
+{text = "1900-yilgacha, yangi imperator farmoni qabul qilingunga qadar", correct = false},
+{text = "1919-yilgacha, Veymar Respublikasi konstitutsiyasi qabul qilingunga qadar", correct = true},
+{text = "1933-yilgacha, fashistlar hokimiyatga kelgunga qadar", correct = false},
+{text = "1871-yilgacha, imperiya e'lon qilingunga qadar", correct = false},
+}
+},
+{
+question = "1866-yili Fransiya ko'magida Avstriyaga qarshi urush boshlab, Venetsiyani egallagan Italiya qaysi hududlardan Fransiya foydasiga voz kechishga majbur bo'lgan?",
+answers = {
+{text = "Sitsiliya va Sardiniyadan", correct = false},
+{text = "Savoyya va Nitsadan", correct = true},
+{text = "Rim va Neapoldan", correct = false},
+{text = "Milan va Turindan", correct = false},
+}
+},
+{
+question = "Vena kongressida imzolangan aktga binoan, Muqaddas Rim imperiyasi o'rnida qaysi yili nechta mustaqil davlatdan iborat German ittifoqi tuzilgan?",
+answers = {
+{text = "1813-yili, 25 ta davlatdan", correct = false},
+{text = "1815-yili, 34 ta davlatdan", correct = true},
+{text = "1820-yili, 40 ta davlatdan", correct = false},
+{text = "1848-yili, 30 ta davlatdan", correct = false},
+}
+},
+{
+question = "1848-yilgi Fransiyadagi fevral inqilobi ta'sirida Germaniyaning qaysi shahrida barrikadalar bilan qamrab olingan qo'zg'olon boshlangan?",
+answers = {
+{text = "Myunxenda", correct = false},
+{text = "Berlinda", correct = true},
+{text = "Frankfurtda", correct = false},
+{text = "Drezdenda", correct = false},
+}
+},
+{
+question = "Germaniya imperiyasining birinchi kansleri bo'lib, \"Temir kansler\" laqabini olgan davlat arbobi kim edi?",
+answers = {
+{text = "Karl X", correct = false},
+{text = "Otto fon Bismark", correct = true},
+{text = "Vilgelm I", correct = false},
+{text = "Alfred Krupp", correct = false},
+}
+},
+{
+question = "Prussiya Avstriya ustidan qaysi yili tarixiy g'alaba qozonib, \"Shimoliy Germaniya ittifoqi\"ni tuzish imkoniga ega bo'lgan?",
+answers = {
+{text = "1848-yili", correct = false},
+{text = "1861-yili", correct = false},
+{text = "1866-yili", correct = true},
+{text = "1871-yili", correct = false},
+}
+},
+{
+question = "Prussiya imperatori Vilgelm I qaysi sanada va qayerda Germaniya imperatori deb e'lon qilingan?",
+answers = {
+{text = "1866-yil iyunida, Berlinda", correct = false},
+{text = "1870-yil sentyabrida, Frankfurtda", correct = false},
+{text = "1871-yil yanvarida, Versal saroyida", correct = true},
+{text = "1871-yil martida, Parijda", correct = false},
+}
+},
+{
+question = "Janubiy Italiyadagi Neapolitan qirolligida mamlakatni birlashtirish maqsadida faoliyat yuritgan karbonariylarning maxfiy tashkiloti qaysi yili paydo bo'lgan?",
+answers = {
+{text = "1800-yili", correct = false},
+{text = "1807-yili", correct = true},
+{text = "1815-yili", correct = false},
+{text = "1830-yili", correct = false},
+}
+},
+{
+question = "\"Risorjimento\" (\"Uyg'onish\") nomli gazetani qaysi yili graf Kamillo Kavur nashr qilgan?",
+answers = {
+{text = "1807-yili", correct = false},
+{text = "1840-yili", correct = false},
+{text = "1847-yili", correct = true},
+{text = "1861-yili", correct = false},
+}
+},
+{
+question = "Mamlakatni birlashtirish g'oyasini yangidan ilgari surib, \"Yosh Italiya\" nomli inqilobiy tashkilotni tuzgan siyosatchi va faylasuf kim edi?",
+answers = {
+{text = "Kamillo Kavur", correct = false},
+{text = "Juzeppe Madzini", correct = true},
+{text = "Juzeppe Garibaldi", correct = false},
+{text = "Viktor Emmanuil II", correct = false},
+}
+},
+{
+question = "Italiyani birlashtirishning qizg'in tarafdori, xalq qahramoni bo'lib, o'z harbiy kuchlari bilan 1860-yili Sitsiliya oroliga kelib tushgan sarkarda kim edi?",
+answers = {
+{text = "Kamillo Kavur", correct = false},
+{text = "Juzeppe Madzini", correct = false},
+{text = "Juzeppe Garibaldi", correct = true},
+{text = "Viktor Emmanuil II", correct = false},
+}
+},
+{
+question = "Yagona Italiya qirolligi Sardiniya qiroli boshchiligida qaysi sanada e'lon qilingan?",
+answers = {
+{text = "1847-yil sentyabrda", correct = false},
+{text = "1860-yil iyunda", correct = false},
+{text = "1861-yil 17-martda", correct = true},
+{text = "1870-yil sentyabrda", correct = false},
+}
+},
+{
+question = "Yagona Italiya qirolligi taxtiga Viktor Emmanuil II nomi bilan qaysi davlat qiroli o'tirgan?",
+answers = {
+{text = "Neapol qirolligi", correct = false},
+{text = "Sitsiliya qirolligi", correct = false},
+{text = "Sardiniya qirolligi", correct = true},
+{text = "Piemont knyazligi", correct = false},
+}
+},
+{
+question = "1870-yili Germaniya bilan urushda mag'lubiyatga uchragan Fransiya Rimdan o'z qo'shinlarini olib chiqqach, \"Abadiy shahar\" qaysi davlatning poytaxtiga aylangan?",
+answers = {
+{text = "Fransiyaning", correct = false},
+{text = "Avstriyaning", correct = false},
+{text = "Birlashgan Italiyaning", correct = true},
+{text = "Germaniyaning", correct = false},
+}
+},
+{
+question = "Imperator Aleksandr I 1808-yili va 1809-yili dehqonlarga nisbatan qanday taqiqlarni joriy etgan?",
+answers = {
+{text = "1808-yili yarmarkalarda dehqonlarni sotishni, 1809-yili ularni katorga qilishni taqiqladi", correct = true},
+{text = "1808-yili dehqonlarni yer sotib olishdan, 1809-yili shaharga ko'chishdan man etdi", correct = false},
+{text = "1808-yili dehqonlarga soliq solishni, 1809-yili armiyaga chaqirishni bekor qildi", correct = false},
+{text = "1808-yili qullikni, 1809-yili krepostnoylikni butunlay bekor qildi", correct = false},
+}
+},
+{
+question = "1854-yili O'rta Osiyoga bostirib kirish uchun istehkom sifatida qaysi qal'a barpo qilingan (hozirgi Olmaota shahri)?",
+answers = {
+{text = "Toshkent qal'asi", correct = false},
+{text = "Verniy qal'asi", correct = true},
+{text = "Qo'qon qal'asi", correct = false},
+{text = "Sirdaryo qal'asi", correct = false},
+}
+},
+{
+question = "Rossiyada yerning erkin savdosiga qaysi yildan boshlab ruxsat berilgan?",
+answers = {
+{text = "1801-yildan", correct = true},
+{text = "1803-yildan", correct = false},
+{text = "1815-yildan", correct = false},
+{text = "1825-yildan", correct = false},
+}
+},
+{
+question = "Pomeshchiklarga o'z dehqonlarini to'lov evaziga ozod qilish huquqi Rossiyada qaysi yili berilgan?",
+answers = {
+{text = "1801-yili", correct = false},
+{text = "1803-yili", correct = true},
+{text = "1818-yili", correct = false},
+{text = "1825-yili", correct = false},
+}
+},
+{
+question = "Rossiyada \"Yelizaveta\" deb atalgan ilk paroxod qaysi yili paydo bo'lgan?",
+answers = {
+{text = "1801-yili", correct = false},
+{text = "1809-yili", correct = false},
+{text = "1815-yili", correct = true},
+{text = "1837-yili", correct = false},
+}
+},
+{
+question = "Sankt-Peterburg bilan Sarskoye Seloni bog'lovchi Rossiyadagi ilk temiryo'l qaysi yili qurilgan?",
+answers = {
+{text = "1815-yili", correct = false},
+{text = "1825-yili", correct = false},
+{text = "1837-yili", correct = true},
+{text = "1861-yili", correct = false},
+}
+},
+{
+question = "1801-yili taxtga o'tirgan, yosh va liberal g'oyalarga xayrixoh bo'lgan Rossiya imperatori kim edi?",
+answers = {
+{text = "Nikolay I", correct = false},
+{text = "Aleksandr I", correct = true},
+{text = "Aleksandr II", correct = false},
+{text = "Pyotr I", correct = false},
+}
+},
+{
+question = "Rus podshosining hukmronligini ag'darib tashlash va krepostnoylikni yo'q qilish maqsadida tashkil etilgan qo'zg'olon qaysi sanada bo'lib o'tgan?",
+answers = {
+{text = "1801-yil 14-martda", correct = false},
+{text = "1815-yil 14-sentyabrda", correct = false},
+{text = "1825-yil 14-dekabrda", correct = true},
+{text = "1848-yil 14-fevralda", correct = false},
+}
+},
+{
+question = "XIX asrning 30-40-yillarida rus inqilobiy-demokratik mafkurasining asoschilari kimlar bo'lgan?",
+answers = {
+{text = "V. G. Belinskiy va A. I. Gersen", correct = true},
+{text = "M. A. Bakunin va P. L. Lavrov", correct = false},
+{text = "A. S. Pushkin va N. V. Gogol", correct = false},
+{text = "P. N. Tkachyov va M. I. Glinka", correct = false},
+}
+},
+{
+question = "\"Narodniklik\" harakatidagi anarxistik yo'nalishning yo'lboshchisi bo'lib, dehqonlar inqilobga tayyor deb hisoblagan shaxs kim edi?",
+answers = {
+{text = "M. A. Bakunin", correct = true},
+{text = "P. L. Lavrov", correct = false},
+{text = "P. N. Tkachyov", correct = false},
+{text = "A. I. Gersen", correct = false},
+}
+},
+{
+question = "Rossiya mag'lubiyatga uchragan, natijada krepostnoylik huquqini bekor qilish zarurati yaqqol namoyon bo'lgan urush qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1812-1814-yillar", correct = false},
+{text = "1817-1821-yillar", correct = false},
+{text = "1853-1856-yillar", correct = true},
+{text = "1861-1864-yillar", correct = false},
+}
+},
+{
+question = "Rossiyada krepostnoylik huquqi qaysi yili bekor qilingan?",
+answers = {
+{text = "1856-yili", correct = false},
+{text = "1861-yili", correct = true},
+{text = "1864-yili", correct = false},
+{text = "1870-yili", correct = false},
+}
+},
+{
+question = "Krepostnoylikdan ozod qilingan dehqonlar davlatdan olgan qarzni necha yil davomida foizi bilan to'lab borishi shart edi?",
+answers = {
+{text = "25 yil", correct = false},
+{text = "35 yil", correct = false},
+{text = "49 yil", correct = true},
+{text = "60 yil", correct = false},
+}
+},
+{
+question = "Gruziya Rossiya tarkibiga imperator Aleksandr I manifestiga binoan qaysi yili qo'shib olingan?",
+answers = {
+{text = "1801-yili", correct = true},
+{text = "1804-yili", correct = false},
+{text = "1812-yili", correct = false},
+{text = "1832-yili", correct = false},
+}
+},
+{
+question = "Polsha qirolligi Rossiya imperiyasining tarkibiy qismi deb qaysi yili e'lon qilingan?",
+answers = {
+{text = "1812-yili", correct = false},
+{text = "1817-yili", correct = false},
+{text = "1832-yili", correct = true},
+{text = "1861-yili", correct = false},
+}
+},
+{
+question = "Dog'iston, Checheniston va Adigeya xalqlarining kuchli qarshiligiga uchragan, Rossiyaga juda qimmatga tushgan Kavkaz urushi qaysi yillarda davom etgan?",
+answers = {
+{text = "1804-1813-yillar", correct = false},
+{text = "1812-1815-yillar", correct = false},
+{text = "1817-1864-yillar", correct = true},
+{text = "1853-1856-yillar", correct = false},
+}
+},
+{
+question = "1866-yil 9-iyulda Kongress konstitutsiyaga qanday tuzatish kiritib, AQSH hududida tug'ilgan barcha kishilarga, jumladan, qora tanlilarga ham fuqarolik huquqi bergan?",
+answers = {
+{text = "12-tuzatish", correct = false},
+{text = "13-tuzatish", correct = false},
+{text = "14-tuzatish", correct = true},
+{text = "15-tuzatish", correct = false},
+}
+},
+{
+question = "Meksikaning Texas provinsiyasi AQSH tarkibiga qaysi yili qo'shib olingan?",
+answers = {
+{text = "1803-yili", correct = false},
+{text = "1836-yili", correct = true},
+{text = "1846-yili", correct = false},
+{text = "1848-yili", correct = false},
+}
+},
+{
+question = "AQSH bilan Meksika o'rtasidagi urush qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1836-1840-yillar", correct = false},
+{text = "1846-1848-yillar", correct = true},
+{text = "1850-1854-yillar", correct = false},
+{text = "1861-1865-yillar", correct = false},
+}
+},
+{
+question = "AQSH aholisi 1850-yilga kelib taxminan qancha kishiga yetgan?",
+answers = {
+{text = "15 mln kishiga", correct = false},
+{text = "23,1 mln kishiga", correct = true},
+{text = "31 mln kishiga", correct = false},
+{text = "40 mln kishiga", correct = false},
+}
+},
+{
+question = "Dunyodagi birinchi paroxodni 1807-yili Gudzon daryosida namoyish qilgan muhandis kim edi?",
+answers = {
+{text = "Jon Fitch", correct = false},
+{text = "Robert Fulton", correct = true},
+{text = "Samuel Morze", correct = false},
+{text = "Jorj Stefenson", correct = false},
+}
+},
+{
+question = "Buyuk ko'llarni Gudzon daryosi orqali Nyu York porti bilan bog'lagan, uzunligi 580 km bo'lgan Eri kanalining qurilishi qaysi yili yakunlangan?",
+answers = {
+{text = "1807-yili", correct = false},
+{text = "1818-yili", correct = false},
+{text = "1825-yili", correct = true},
+{text = "1850-yili", correct = false},
+}
+},
+{
+question = "AQShda temiryo'llarning uzunligi 1850-yilga kelib qanchaga yetgan?",
+answers = {
+{text = "5 ming km ga", correct = false},
+{text = "10 ming km ga", correct = false},
+{text = "14 ming km ga", correct = true},
+{text = "20 ming km ga", correct = false},
+}
+},
+{
+question = "AQSH Rossiyadan Alyaskani qaysi yili va qancha dollarga sotib olgan?",
+answers = {
+{text = "1850-yili, 5 mln dollarga", correct = false},
+{text = "1861-yili, 6 mln dollarga", correct = false},
+{text = "1867-yili, 7,2 mln dollarga", correct = true},
+{text = "1870-yili, 10 mln dollarga", correct = false},
+}
+},
+{
+question = "Bostonda 1831-yili qullikni zudlik bilan bekor qilishni talab qilib chiqqan \"Xaloskor\" nomli gazetaning noshiri kim edi?",
+answers = {
+{text = "Jon Braun", correct = false},
+{text = "Uilyam Garrison", correct = true},
+{text = "Avraam Linkoln", correct = false},
+{text = "Robert Fulton", correct = false},
+}
+},
+{
+question = "AQSH Oliy sudi qora tanli kishi teng huquqli fuqaro bo'la olmasligi haqidagi qarorni qaysi yili chiqargan?",
+answers = {
+{text = "1850-yili", correct = false},
+{text = "1854-yili", correct = false},
+{text = "1857-yili", correct = true},
+{text = "1860-yili", correct = false},
+}
+},
+{
+question = "Abolitsionist partizan otrad komandiri bo'lib, 1859-yil oxirida Janubda qo'zg'olon ko'targan shaxs kim edi?",
+answers = {
+{text = "Uilyam Garrison", correct = false},
+{text = "Jon Braun", correct = true},
+{text = "Robert Fulton", correct = false},
+{text = "J. V. But", correct = false},
+}
+},
+{
+question = "1860-yilgi prezidentlik saylovlarida qullikka qarshi siyosiy faoliyati bilan shuhrat qozonib, prezident etib saylangan nomzod kim edi?",
+answers = {
+{text = "Jon Braun", correct = false},
+{text = "Uilyam Garrison", correct = false},
+{text = "Avraam Linkoln", correct = true},
+{text = "Robert Fulton", correct = false},
+}
+},
+{
+question = "AQShda Fuqarolar urushi qaysi yillarda davom etgan?",
+answers = {
+{text = "1857-1861-yillar", correct = false},
+{text = "1859-1863-yillar", correct = false},
+{text = "1861-1865-yillar", correct = true},
+{text = "1865-1870-yillar", correct = false},
+}
+},
+{
+question = "Prezident Avraam Linkoln \"Qullarni ozod qilish to'g'risida proklamatsiya\"ni qaysi yili e'lon qilgan?",
+answers = {
+{text = "1861-yili", correct = false},
+{text = "1862-yili", correct = false},
+{text = "1863-yili", correct = true},
+{text = "1865-yili", correct = false},
+}
+},
+{
+question = "AQSH Konstitutsiyasiga qullikni bekor qiluvchi 13-tuzatish qaysi sanada kiritilgan?",
+answers = {
+{text = "1863-yil yanvarda", correct = false},
+{text = "1865-yil 1-fevralda", correct = true},
+{text = "1866-yil 9-iyulda", correct = false},
+{text = "1870-yil sentyabrda", correct = false},
+}
+},
+{
+question = "Avraam Linkoln 1865-yili qayerda va kim tomonidan otib o'ldirilgan?",
+answers = {
+{text = "Nyu-Yorkdagi ko'chada, notanish kimsa tomonidan", correct = false},
+{text = "Vashingtondagi teatrda, aktyor J. V. But tomonidan", correct = true},
+{text = "Boston shahridagi uyida, xizmatkori tomonidan", correct = false},
+{text = "Filadelfiyadagi mehmonxonada, siyosiy raqibi tomonidan", correct = false},
+}
+},
+}
