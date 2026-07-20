@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Muhammad Ali qaysi yillar oralig'ida yashagan?",
+answers = {
+{text = "1750-1830-yillar", correct = false},
+{text = "1769-1849-yillar", correct = true},
+{text = "1795-1832-yillar", correct = false},
+{text = "1805-1859-yillar", correct = false},
+}
+},
+{
+question = "Misr tarixidagi yangi davrning boshlanishi turk armiyasi tarkibiga kiruvchi alban korpusi boshlig'i kim nomi bilan bog'liq?",
+answers = {
+{text = "Yusuf Qaramoniy", correct = false},
+{text = "Abdulqodir", correct = false},
+{text = "Muhammad Ali", correct = true},
+{text = "Mustafo Najib posho", correct = false},
+}
+},
+{
+question = "1805-yilgi qo'zg'olon natijasida qaysi Misr poshosi hokimiyatdan ag'darilgan?",
+answers = {
+{text = "Xurshid", correct = true},
+{text = "Ali Qaramoniy", correct = false},
+{text = "Muhammad Ali", correct = false},
+{text = "Mustafo Najib", correct = false},
+}
+},
+{
+question = "Qohira shayxlari 1805-yilgi qo'zg'olondan so'ng kimni Misr poshosi etib saylagan?",
+answers = {
+{text = "Xurshidni", correct = false},
+{text = "Abdulqodirni", correct = false},
+{text = "Muhammad Alini", correct = true},
+{text = "Yusuf Qaramoniyni", correct = false},
+}
+},
+{
+question = "Qohira shayxlari tomonidan saylangan Muhammad Alining posholik unvonini qaysi davlat hukumati tasdiqlagan?",
+answers = {
+{text = "Angliya hukumati", correct = false},
+{text = "Fransiya hukumati", correct = false},
+{text = "Turkiya hukumati", correct = true},
+{text = "Rossiya hukumati", correct = false},
+}
+},
+{
+question = "Muhammad Ali tez orada qanday hokimiyatga ega bo'lgan?",
+answers = {
+{text = "Cheklangan hokimiyatga", correct = false},
+{text = "Cheklanmagan hokimiyatga", correct = true},
+{text = "Vaqtinchalik hokimiyatga", correct = false},
+{text = "Nomigagina hokimiyatga", correct = false},
+}
+},
+{
+question = "Muhammad Ali islohotlaridan so'ng Misr Usmoniylar imperiyasiga nisbatan qanday holatga ega bo'lgan?",
+answers = {
+{text = "To'liq qaram holatga", correct = false},
+{text = "Mustaqil holatga", correct = true},
+{text = "Vassal holatga", correct = false},
+{text = "Yarim mustamlaka holatga", correct = false},
+}
+},
+{
+question = "Muhammad Ali harbiy sohada qanday islohot o'tkazgan?",
+answers = {
+{text = "Flot va armiyani Yevropa andozasida isloh etgan", correct = true},
+{text = "Armiyani butunlay tarqatib yuborgan", correct = false},
+{text = "Faqat piyoda qo'shinni kuchaytirgan", correct = false},
+{text = "Armiyaga faqat xorijiy askarlarni jalb etgan", correct = false},
+}
+},
+{
+question = "Muhammad Ali misrliklardan nimani tuzgan?",
+answers = {
+{text = "Savdogarlar uyushmasini", correct = false},
+{text = "Ofitserlar korpusini", correct = true},
+{text = "Dehqonlar ittifoqini", correct = false},
+{text = "Ruhoniylar kengashini", correct = false},
+}
+},
+{
+question = "Muhammad Ali dehqonlarning farzandlari uchun qanday ta'lim tizimini joriy etgan?",
+answers = {
+{text = "Faqat diniy maktablarni", correct = false},
+{text = "Majburiy ta'lim beradigan dunyoviy maktablarni", correct = true},
+{text = "Faqat harbiy maktablarni", correct = false},
+{text = "Pullik xususiy maktablarni", correct = false},
+}
+},
+{
+question = "Muhammad Ali nashr ettirgan birinchi arab gazetasi qanday nomlangan?",
+answers = {
+{text = "\"Tasviri efkar\"", correct = false},
+{text = "\"Al-Vakayi al-Misr\" (\"Misr voqealari\")", correct = true},
+{text = "\"Voqealar kundaligi\"", correct = false},
+{text = "\"Risorjimento\"", correct = false},
+}
+},
+{
+question = "Muhammad Ali savdoda qanday tartibni joriy qilgan?",
+answers = {
+{text = "Erkin raqobatni", correct = false},
+{text = "Monopoliyani", correct = true},
+{text = "Chet el kapitaliga ochiqlikni", correct = false},
+{text = "Bojsiz savdoni", correct = false},
+}
+},
+{
+question = "Muhammad Ali qanday sohalarda zavodlar qurdirgan?",
+answers = {
+{text = "Qurol-yarog', qand ishlab chiqarish va temir quyish sohalarida", correct = true},
+{text = "Faqat to'qimachilik sohasida", correct = false},
+{text = "Faqat kemasozlik sohasida", correct = false},
+{text = "Faqat shakarqamish qayta ishlash sohasida", correct = false},
+}
+},
+{
+question = "Misrda qishloq xo'jalik mahsulotlarini qayta ishlash sanoati rivojlanib, qanday zavodlar ishga tushirilgan?",
+answers = {
+{text = "To'qimachilik zavodlari", correct = false},
+{text = "Qand zavodlari", correct = true},
+{text = "Kemasozlik zavodlari", correct = false},
+{text = "Chinni zavodlari", correct = false},
+}
+},
+{
+question = "O'rtayer dengizi bilan Qizil dengizni bog'lovchi Suvaysh kanalini qazish ishlari qaysi yili boshlangan?",
+answers = {
+{text = "1839-yili", correct = false},
+{text = "1844-yili", correct = false},
+{text = "1859-yili", correct = true},
+{text = "1869-yili", correct = false},
+}
+},
+{
+question = "Suvaysh kanali necha yilda qazib bitkazilgan?",
+answers = {
+{text = "Besh yilda", correct = false},
+{text = "O'n yilda", correct = true},
+{text = "O'n besh yilda", correct = false},
+{text = "Yigirma yilda", correct = false},
+}
+},
+{
+question = "Suvaysh kanali ochilgandan so'ng Misrni o'z nazoratiga olish uchun qaysi ikki davlat o'rtasida qizg'in kurash boshlangan?",
+answers = {
+{text = "Angliya va Rossiya", correct = false},
+{text = "Angliya va Fransiya", correct = true},
+{text = "Fransiya va Turkiya", correct = false},
+{text = "Rossiya va Fransiya", correct = false},
+}
+},
+{
+question = "1860-1870-yillari Misrda temiryo'llardan tashqari yana qanday ishlar jadal olib borilgan?",
+answers = {
+{text = "Universitetlar qurilishi", correct = false},
+{text = "Sug'orish kanallari qazilishi va portlarning qayta jihozlanishi", correct = true},
+{text = "Harbiy istehkomlar barpo etilishi", correct = false},
+{text = "Yangi poytaxt qurilishi", correct = false},
+}
+},
+{
+question = "Misrning jahon kapitalistik xo'jaligiga tortilishi oqibatlari qaysi asrning 70-yillariga kelib aniq ko'zga tashlangan?",
+answers = {
+{text = "O'n yettinchi asrning", correct = false},
+{text = "O'n sakkizinchi asrning", correct = false},
+{text = "O'n to'qqizinchi asrning", correct = true},
+{text = "Yigirmanchi asrning", correct = false},
+}
+},
+{
+question = "Sudan qaysi yillarda Misr hukmdori Muhammad Ali qo'shinlari tomonidan zabt etilgan?",
+answers = {
+{text = "1805-1810-yillar", correct = false},
+{text = "1820-1822-yillar", correct = true},
+{text = "1830-1832-yillar", correct = false},
+{text = "1839-1844-yillar", correct = false},
+}
+},
+{
+question = "Turk-Misr qo'shinlari Sudanni zabt etgach, u yerda qaysi soha \"eng foydali\" hunarga aylangan?",
+answers = {
+{text = "Kon qazib olish", correct = false},
+{text = "Qul savdosi", correct = true},
+{text = "Chorvachilik", correct = false},
+{text = "Kemasozlik", correct = false},
+}
+},
+{
+question = "Ilgari karvonlar Sudandan Misrga yiliga necha ming qul olib kelgan?",
+answers = {
+{text = "3-4 ming", correct = false},
+{text = "9-10 ming", correct = true},
+{text = "20-25 ming", correct = false},
+{text = "40-50 ming", correct = false},
+}
+},
+{
+question = "1825-yili Sudandan Muhammad Ali ixtiyoriga nechta qul jo'natilgan?",
+answers = {
+{text = "10 ming", correct = false},
+{text = "25 ming", correct = false},
+{text = "40 ming", correct = true},
+{text = "100 ming", correct = false},
+}
+},
+{
+question = "1839-yili Sudandan Muhammad Ali ixtiyoriga qariyb nechta qul jo'natilgan?",
+answers = {
+{text = "40 ming", correct = false},
+{text = "100 ming", correct = false},
+{text = "150 ming", correct = false},
+{text = "200 ming", correct = true},
+}
+},
+{
+question = "Qohira hukumati Yevropa davlatlarining bosimi ostida qul savdosini taqiqlashga qaysi asrning 70-yillaridagina majbur bo'lgan?",
+answers = {
+{text = "O'n sakkizinchi asrning", correct = false},
+{text = "O'n to'qqizinchi asrning", correct = true},
+{text = "Yigirmanchi asrning", correct = false},
+{text = "O'n yettinchi asrning", correct = false},
+}
+},
+{
+question = "Yusuf Qaramoniy Liviyada qaysi yillar hukmronlik qilgan?",
+answers = {
+{text = "1769-1805-yillar", correct = false},
+{text = "1795-1832-yillar", correct = true},
+{text = "1805-1839-yillar", correct = false},
+{text = "1820-1850-yillar", correct = false},
+}
+},
+{
+question = "Liviyada hokimiyatga 1832-yili kelgan, ammo mamlakatni birlashtira olmagan hukmdor kim edi?",
+answers = {
+{text = "Yusuf Qaramoniy", correct = false},
+{text = "Ali Qaramoniy", correct = true},
+{text = "Mustafo Najib posho", correct = false},
+{text = "Muhammad ben Ali as-Senusiy", correct = false},
+}
+},
+{
+question = "Usmoniylar sultoni tomonidan jo'natilib, Ali Qaramoniyni butun qarindoshlari bilan asir olgan posho kim edi?",
+answers = {
+{text = "Muhammad Ali", correct = false},
+{text = "Mustafo Rashid posho", correct = false},
+{text = "Mustafo Najib posho", correct = true},
+{text = "Ahmad Karamanli", correct = false},
+}
+},
+{
+question = "Qoramoniy sulolasi hokimiyatdan qanday yo'l bilan ag'darilgan?",
+answers = {
+{text = "Qonli urush bilan", correct = false},
+{text = "Xalq qo'zg'oloni bilan", correct = false},
+{text = "Jangsiz", correct = true},
+{text = "Chet el intervensiyasi bilan", correct = false},
+}
+},
+{
+question = "Liviyada Senusiyya musulmon birodarlik jamiyatiga kim asos solgan?",
+answers = {
+{text = "Ali Qaramoniy", correct = false},
+{text = "Mustafo Najib posho", correct = false},
+{text = "Muhammad ben Ali as-Senusiy", correct = true},
+{text = "Abdulqodir", correct = false},
+}
+},
+{
+question = "Senusiyya jamiyatiga asos solgan Muhammad ben Ali as-Senusiy qaysi mamlakat vakili edi?",
+answers = {
+{text = "Misrlik", correct = false},
+{text = "Liviyalik", correct = false},
+{text = "Jazoirlik", correct = true},
+{text = "Tunislik", correct = false},
+}
+},
+{
+question = "Senusiyya birodarlik jamiyati Liviyaning ijtimoiy hayotida qaysi asrning 40-50-yillarida ta'sirli rol o'ynay boshlagan?",
+answers = {
+{text = "O'n sakkizinchi asrning", correct = false},
+{text = "O'n to'qqizinchi asrning", correct = true},
+{text = "Yigirmanchi asrning", correct = false},
+{text = "O'n yettinchi asrning", correct = false},
+}
+},
+{
+question = "Fransiya hukumati Jazoir hududiga ochiq harbiy intervensiyani qaysi yilning yozida boshlagan?",
+answers = {
+{text = "1820-yili", correct = false},
+{text = "1830-yili", correct = true},
+{text = "1839-yili", correct = false},
+{text = "1844-yili", correct = false},
+}
+},
+{
+question = "Jazoirda chet elliklarga qarshi kurashga 1832-yildan boshlab kim boshchilik qilgan?",
+answers = {
+{text = "Ali Qaramoniy", correct = false},
+{text = "Muhammad ben Ali as-Senusiy", correct = false},
+{text = "Abdulqodir", correct = true},
+{text = "Mustafo Najib posho", correct = false},
+}
+},
+{
+question = "Abdulqodir qabilalar hududidan tashkil topgan qanday narsani barpo etib, fransuz harbiylari tomonidan ham tan olingan?",
+answers = {
+{text = "Savdo ittifoqini", correct = false},
+{text = "Diniy birodarlikni", correct = false},
+{text = "Davlatni", correct = true},
+{text = "Harbiy akademiyani", correct = false},
+}
+},
+{
+question = "Abdulqodir bilan fransuzlar o'rtasida yarashish va erkin savdo to'g'risidagi bitim qaysi yili imzolangan?",
+answers = {
+{text = "1830-yili", correct = false},
+{text = "1832-yili", correct = false},
+{text = "1834-yili", correct = true},
+{text = "1839-yili", correct = false},
+}
+},
+{
+question = "Fransuzlar Jazoir poytaxti Konstantin shahrini qaysi yili zabt etgan?",
+answers = {
+{text = "1830-yili", correct = false},
+{text = "1834-yili", correct = false},
+{text = "1839-yili", correct = true},
+{text = "1844-yili", correct = false},
+}
+},
+{
+question = "Yaxshi qurollangan mustamlakachi qo'shinlar Jazoir shahrini qaysi yili egallagan?",
+answers = {
+{text = "1834-yili", correct = false},
+{text = "1839-yili", correct = false},
+{text = "1844-yili", correct = true},
+{text = "1848-yili", correct = false},
+}
+},
+{
+question = "Jazoirni zabt etish jarayonidagi burilish nuqtasi bo'lib, Fransiyaga jazoirliklar jamiyatini yevropalashtirish imkonini bergan voqea nima edi?",
+answers = {
+{text = "Abdulqodirning mag'lubiyati", correct = true},
+{text = "Konstantin shahrining egallanishi", correct = false},
+{text = "Fransiya bilan 1834-yilgi bitim", correct = false},
+{text = "Ali Qaramoniyning asirga olinishi", correct = false},
+}
+},
+{
+question = "Jazoir Fransiya milliy hududining tarkibiy qismi deb Fransiya Ikkinchi respublikasi davrida - qaysi yillarda rasman e'lon qilingan?",
+answers = {
+{text = "1830-1834-yillar", correct = false},
+{text = "1839-1844-yillar", correct = false},
+{text = "1844-1848-yillar", correct = false},
+{text = "1848-1851-yillar", correct = true},
+}
+},
+{
+question = "Tunis va Marokash kuchli qarshilik ko'rsatishiga qaramasdan, qaysi asrning 70-yillaridan keyin Yevropa davlatlarining mustamlakasiga aylantirilgan?",
+answers = {
+{text = "O'n yettinchi asrning", correct = false},
+{text = "O'n sakkizinchi asrning", correct = false},
+{text = "O'n to'qqizinchi asrning", correct = true},
+{text = "Yigirmanchi asrning", correct = false},
+}
+},
+{
+question = "Afrikani muntazam tadqiq qilish qaysi asrning oxirlarida boshlangan?",
+answers = {
+{text = "O'n oltinchi asrning", correct = false},
+{text = "O'n yettinchi asrning", correct = false},
+{text = "O'n sakkizinchi asrning", correct = true},
+{text = "O'n to'qqizinchi asrning", correct = false},
+}
+},
+{
+question = "G'arbiy Afrikaning ichkarisiga birinchi sayohat qaysi yili uyushtirilgan?",
+answers = {
+{text = "1780-yili", correct = false},
+{text = "1795-yili", correct = true},
+{text = "1805-yili", correct = false},
+{text = "1820-yili", correct = false},
+}
+},
+{
+question = "Qaysi asrning birinchi yarmida Senegal, Gambiya va Rio Grande hududlari ochilgan?",
+answers = {
+{text = "O'n sakkizinchi asrning", correct = false},
+{text = "O'n to'qqizinchi asrning", correct = true},
+{text = "Yigirmanchi asrning", correct = false},
+{text = "O'n yettinchi asrning", correct = false},
+}
+},
+{
+question = "Inglizlar ekspeditsiyasi Tripoli orqali Sahroyi Kabirga o'tib, Borni hamda qaysi ko'l atrofini o'rgangan?",
+answers = {
+{text = "Viktoriya ko'li", correct = false},
+{text = "Tanganika ko'li", correct = false},
+{text = "Chad ko'li", correct = true},
+{text = "Niger ko'li", correct = false},
+}
+},
+{
+question = "Chad ko'lidan qaysi daryoga boradigan yo'l keyinroq kashf qilingan?",
+answers = {
+{text = "Nil daryosiga", correct = false},
+{text = "Nigerga", correct = true},
+{text = "Kongo daryosiga", correct = false},
+{text = "Zambeziga", correct = false},
+}
+},
+{
+question = "Chad ko'lidan Nigerga boradigan yo'l kashf qilingach, yana qaysi vohalar tadqiq etilgan?",
+answers = {
+{text = "Kano va Sokoto vohalari", correct = true},
+{text = "Tripoli va Borni vohalari", correct = false},
+{text = "Buganda va Tanganika vohalari", correct = false},
+{text = "Sudan va Sahroyi Kabir vohalari", correct = false},
+}
+},
+{
+question = "Inglizlar Sharqiy Afrikada qaysi ko'l qirg'oqlariga yetib borgan?",
+answers = {
+{text = "Chad ko'li", correct = false},
+{text = "Viktoriya ko'li", correct = false},
+{text = "Tanganika ko'li", correct = true},
+{text = "Niger ko'li", correct = false},
+}
+},
+{
+question = "Inglizlar Sharqiy Afrikada Tanganika ko'lidan tashqari yana qaysi ko'lni kashf qilgan?",
+answers = {
+{text = "Chad ko'lini", correct = false},
+{text = "Viktoriya ko'lini", correct = true},
+{text = "Kongo ko'lini", correct = false},
+{text = "Niger ko'lini", correct = false},
+}
+},
+{
+question = "Yevropaliklar ichida birinchi bo'lib qaysi hududga kirib borishgan?",
+answers = {
+{text = "Buganda hududiga", correct = true},
+{text = "Sokoto hududiga", correct = false},
+{text = "Borni hududiga", correct = false},
+{text = "Konstantin hududiga", correct = false},
+}
+},
+{
+question = "Qulchilik va qul savdosiga qarshi norozilik harakatlari qaysi asrning oxirlarida, Yevropa Ma'rifatchiligi davrida paydo bo'la boshlagan?",
+answers = {
+{text = "O'n oltinchi asrning", correct = false},
+{text = "O'n yettinchi asrning", correct = false},
+{text = "O'n sakkizinchi asrning", correct = true},
+{text = "O'n to'qqizinchi asrning", correct = false},
+}
+},
+{
+question = "Qulchilikka qarshi kurashuvchilar harakati qanday nom bilan atalgan?",
+answers = {
+{text = "Yakobinchilar", correct = false},
+{text = "Abolitsionistlar", correct = true},
+{text = "Korsarlar", correct = false},
+{text = "Karbonariylar", correct = false},
+}
+},
+{
+question = "Qul savdosi yuridik jihatdan Buyuk Britaniyada qaysi yili taqiqlangan?",
+answers = {
+{text = "1795-yili", correct = false},
+{text = "1807-yili", correct = true},
+{text = "1830-yili", correct = false},
+{text = "1848-yili", correct = false},
+}
+},
+{
+question = "Qul savdosi yuridik jihatdan AQSHda qaysi yili taqiqlangan?",
+answers = {
+{text = "1795-yili", correct = false},
+{text = "1807-yili", correct = false},
+{text = "1808-yili", correct = true},
+{text = "1861-yili", correct = false},
+}
+},
+{
+question = "Qul savdosi yuridik jihatdan Fransiyada qaysi yili taqiqlangan?",
+answers = {
+{text = "1807-yili", correct = false},
+{text = "1808-yili", correct = false},
+{text = "1839-yili", correct = false},
+{text = "1848-yili", correct = true},
+}
+},
+{
+question = "Qonun taqiqlaganiga qaramay, amalda qulchilik AQSHda qaysi yillardagi Fuqarolar urushigacha saqlanib qolgan?",
+answers = {
+{text = "1848-1851-yillardagi", correct = false},
+{text = "1853-1856-yillardagi", correct = false},
+{text = "1861-1865-yillardagi", correct = true},
+{text = "1866-1870-yillardagi", correct = false},
+}
+},
+{
+question = "Yevropaliklar qul savdosi bilan qaysi asrning o'rtalaridan shug'ullana boshlagan?",
+answers = {
+{text = "O'n to'rtinchi asrning", correct = false},
+{text = "O'n beshinchi asrning", correct = true},
+{text = "O'n oltinchi asrning", correct = false},
+{text = "O'n yettinchi asrning", correct = false},
+}
+},
+{
+question = "Yevropaliklar qul savdosi bilan qaysi asrning 70-yillarigacha shug'ullangan?",
+answers = {
+{text = "O'n yettinchi asrning", correct = false},
+{text = "O'n sakkizinchi asrning", correct = false},
+{text = "O'n to'qqizinchi asrning", correct = true},
+{text = "Yigirmanchi asrning", correct = false},
+}
+},
+{
+question = "Qul savdosi bilan bog'liq holda jadal rivojlanib, gullab-yashnagan shaharlar qatoriga qaysilar kirgan?",
+answers = {
+{text = "Bristol, Liverpul va Manchester", correct = true},
+{text = "Rim, Vena va Berlin", correct = false},
+{text = "Madrid, Lissabon va Sevilya", correct = false},
+{text = "Moskva, Peterburg va Kiyev", correct = false},
+}
+},
+{
+question = "Qariyb to'rt asr ichida yevropalik qulfurushlar Amerikaga taxminan necha million qul olib kelgan?",
+answers = {
+{text = "5-6 million", correct = false},
+{text = "10-12 million", correct = false},
+{text = "15-16 million", correct = true},
+{text = "25-30 million", correct = false},
+}
+},
+{
+question = "Arablar ham musulmon mamlakatlariga taxminan necha million qul yetkazib bergan?",
+answers = {
+{text = "5-6 million", correct = false},
+{text = "10-11 million", correct = false},
+{text = "15-16 million", correct = true},
+{text = "20-25 million", correct = false},
+}
+},
+{
+question = "Atlantika okeani orqali amalga oshirilgan qul savdosi jarayonida necha million kishi halok bo'lgan?",
+answers = {
+{text = "15-16 million", correct = false},
+{text = "30-40 million", correct = false},
+{text = "60-70 million", correct = true},
+{text = "80-90 million", correct = false},
+}
+},
+{
+question = "Birlashgan Millatlar Tashkilotining ma'lumotlariga ko'ra, 1650-yildan 1850-yilgacha Afrika aholisining soni qancha kishini tashkil qilib, o'zgarmasdan turgan?",
+answers = {
+{text = "50 million kishi", correct = false},
+{text = "70 million kishi", correct = false},
+{text = "100 million kishi", correct = true},
+{text = "150 million kishi", correct = false},
+}
+},
+{
+question = "Qul savdosi Afrikaning qanday an'anaviy hunarmandchilik sohalarining rivojlanishiga to'sqinlik qilgan?",
+answers = {
+{text = "Kemasozlik va temirchilik", correct = false},
+{text = "To'qimachilik va zargarlik", correct = true},
+{text = "Kulolchilik va duradgorlik", correct = false},
+{text = "Chorvachilik va dehqonchilik", correct = false},
+}
+},
+{
+question = "Qul savdosi natijasida qaysi qadimiy davlatlarning tarqalib ketishiga olib kelgan?",
+answers = {
+{text = "Gana va Mali", correct = false},
+{text = "Benin va Kongo", correct = true},
+{text = "Liberiya va Efiopiya", correct = false},
+{text = "Sudan va Madagaskar", correct = false},
+}
+},
+{
+question = "Vida va Ardra singari yangi paydo bo'lgan davlatlar nima orqali boyib borgan?",
+answers = {
+{text = "Oltin va olmos qazib olish orqali", correct = false},
+{text = "Qul savdosida vositachilik qilish orqali", correct = true},
+{text = "Dengiz savdosi orqali", correct = false},
+{text = "Qishloq xo'jaligi orqali", correct = false},
+}
+},
+{
+question = "Qulchilikning eng g'ayriinsoniy ko'rinishi sifatida qanday mafkura shakllangan?",
+answers = {
+{text = "Kolonializm", correct = false},
+{text = "Rasizm (irqchilik)", correct = true},
+{text = "Militarizm", correct = false},
+{text = "Absolyutizm", correct = false},
+}
+},
+{
+question = "Qul savdosining Afrika uchun eng og'ir oqibatlaridan biri qanday holat bo'lgan?",
+answers = {
+{text = "Iqtisodiy inqiroz", correct = false},
+{text = "Psixologik holat - inson hayotining qadrsizlanishi", correct = true},
+{text = "Diniy ziddiyatlar", correct = false},
+{text = "Ta'lim tizimining yo'q bo'lishi", correct = false},
+}
+},
+{
+question = "1800-yildan 1870-yilgacha Afrikaga nechta yirik geografik ekspeditsiya yuborilgan?",
+answers = {
+{text = "30 dan ortiq", correct = false},
+{text = "50 dan ortiq", correct = false},
+{text = "70 dan ortiq", correct = true},
+{text = "100 dan ortiq", correct = false},
+}
+},
+{
+question = "Qaysi davlatlarda feodal monarxiyalar qaror topgan?",
+answers = {
+{text = "Efiopiya, Misr, Tunis, Marokash, Sudan va Madagaskar", correct = true},
+{text = "Liberiya, Gana va Mali", correct = false},
+{text = "Kongo, Benin va Vida", correct = false},
+{text = "Jazoir, Liviya va Tripoli", correct = false},
+}
+},
+{
+question = "G'arbiy Afrikadagi eng qadimgi davlatlar qatoriga qaysilar kiradi?",
+answers = {
+{text = "Gana va Mali", correct = true},
+{text = "Benin va Kongo", correct = false},
+{text = "Liberiya va Efiopiya", correct = false},
+{text = "Sudan va Madagaskar", correct = false},
+}
+},
+{
+question = "Afrikada faqat qaysi ikki davlat o'z mustaqilligini saqlab qolgan?",
+answers = {
+{text = "Misr va Sudan", correct = false},
+{text = "Jazoir va Tunis", correct = false},
+{text = "Liberiya va Efiopiya", correct = true},
+{text = "Gana va Mali", correct = false},
+}
+},
+{
+question = "Liberiya ozod davlati qaysi yili tuzilgan?",
+answers = {
+{text = "1830-yili", correct = false},
+{text = "1839-yili", correct = false},
+{text = "1844-yili", correct = false},
+{text = "1847-yili", correct = true},
+}
+},
+{
+question = "\"Intervensiya\" atamasi qanday ma'noni anglatadi?",
+answers = {
+{text = "Bir davlatning boshqa davlat ichki ishlariga zo'rlik bilan aralashuvi", correct = true},
+{text = "Davlatlar o'rtasidagi savdo shartnomasi", correct = false},
+{text = "Davlat korxonalarini chet el kapitaliga berish", correct = false},
+{text = "Ikki davlat o'rtasidagi ittifoq", correct = false},
+}
+},
+{
+question = "\"Rasizm\" (irqchilik) atamasi qanday ma'noni anglatadi?",
+answers = {
+{text = "Diniy mazhablarga bo'linish g'oyasi", correct = false},
+{text = "Odamlarning irqlarga bo'linishi va bir irqning boshqalaridan ustunligini tasdiqlovchi mafkura", correct = true},
+{text = "Millatlarni til bo'yicha ajratish tizimi", correct = false},
+{text = "Sinfiy tabaqalanish nazariyasi", correct = false},
+}
+},
+{
+question = "Qul savdosi tufayli kelajak avlod qaysi qadimiy afrika sivilizatsiyalari haqida deyarli ma'lumotga ega bo'lmay qolgan?",
+answers = {
+{text = "Rim va Yunoniston", correct = false},
+{text = "Gana, Songay, Benin va Monomotapa", correct = true},
+{text = "Misr va Bobil", correct = false},
+{text = "Vizantiya va Fors", correct = false},
+}
+},
+{
+question = "Qoramoniy sulolasi ag'darilgach, yangi tayinlangan vali qanday siyosat olib borgan?",
+answers = {
+{text = "Qattiqqo'l va zo'ravon siyosat", correct = false},
+{text = "Yumshoq siyosat", correct = true},
+{text = "To'liq yakkalanish siyosati", correct = false},
+{text = "Harbiy bosqinchilik siyosati", correct = false},
+}
+},
+{
+question = "XIX asr boshlarida nima Yevropa davlatlarining Jazoirga bo'lgan e'tiborini kuchaytirgan?",
+answers = {
+{text = "Jazoirning oltin konlariga boyligi", correct = false},
+{text = "Jazoir davlatining kuchsizligi va O'rtayer dengizining qulay markaziy qismida joylashganligi", correct = true},
+{text = "Jazoirning Usmoniylardan mustaqil bo'lishi", correct = false},
+{text = "Jazoirning qul savdosidagi yetakchiligi", correct = false},
+}
+},
+{
+question = "Muhammad Alining islohotchilik faoliyati uning hokimiyatiga qanday xizmat qilgan?",
+answers = {
+{text = "Hokimiyatini zaiflashtirgan", correct = false},
+{text = "Hokimiyatini mustahkamlashga xizmat qilgan", correct = true},
+{text = "Hokimiyatiga ta'sir ko'rsatmagan", correct = false},
+{text = "Faqat tashqi siyosatga daxldor bo'lgan", correct = false},
+}
+},
+{
+question = "Muhammad Ali islohotlari Misrni qanday davlatlar qatoriga olib chiqqan?",
+answers = {
+{text = "Sharqning zaif va qaram davlatlari qatoriga", correct = false},
+{text = "Sharqning rivojlangan va kuchli davlatlari qatoriga", correct = true},
+{text = "G'arbning yarimmustamlaka davlatlari qatoriga", correct = false},
+{text = "Afrikaning eng qashshoq davlatlari qatoriga", correct = false},
+}
+},
+}

@@ -1,0 +1,722 @@
+questions = {
+{
+question = "1854-yili qaysi davlat harbiy-dengiz floti Yaponiyani kuch bilan ochilishga majbur etgan?",
+answers = {
+{text = "Buyuk Britaniya", correct = false},
+{text = "AQSH", correct = true},
+{text = "Fransiya", correct = false},
+{text = "Rossiya", correct = false},
+}
+},
+{
+question = "AQSH bilan Yaponiya o'rtasida 1854-yili imzolangan, Yaponiyaning ikkita porti ochilishini nazarda tutgan shartnoma qanday nomlangan?",
+answers = {
+{text = "\"Tinchlik va do'stlik to'g'risida\" shartnoma", correct = true},
+{text = "\"Savdo va hamkorlik to'g'risida\" shartnoma", correct = false},
+{text = "\"Ittifoq va yordam to'g'risida\" shartnoma", correct = false},
+{text = "\"Bitarafliki to'g'risida\" shartnoma", correct = false},
+}
+},
+{
+question = "Fusima va Toba yaqinida muxolifat kuchlar bilan bo'lgan jangda syogun qaysi yili mag'lubiyatga uchrab, Edoga qochgan?",
+answers = {
+{text = "1854-yili", correct = false},
+{text = "1857-yili", correct = false},
+{text = "1868-yili", correct = true},
+{text = "1869-yili", correct = false},
+}
+},
+{
+question = "Muxolifat qo'shinlari Xokkaydo orolida to'plangan syogun tarafdorlarini qaysi yilning bahorida tor-mor etgan?",
+answers = {
+{text = "1854-yili", correct = false},
+{text = "1868-yili", correct = false},
+{text = "1869-yili", correct = true},
+{text = "1870-yili", correct = false},
+}
+},
+{
+question = "Syogunat tugab, imperator hukmronligi tiklangan yillardagi voqealar Yaponiya tarixida qanday nom olgan?",
+answers = {
+{text = "\"Meydzi inqilobi\"", correct = true},
+{text = "\"Busido inqilobi\"", correct = false},
+{text = "\"Tokugava inqilobi\"", correct = false},
+{text = "\"Edo inqilobi\"", correct = false},
+}
+},
+{
+question = "Imperator Musuxito hukmronligi rasman qanday nom bilan atalib, \"ma'rifatli boshqaruv\"ni anglatgan?",
+answers = {
+{text = "\"Syogun\"", correct = false},
+{text = "\"Meydzi\"", correct = true},
+{text = "\"Busido\"", correct = false},
+{text = "\"Mikado\"", correct = false},
+}
+},
+{
+question = "Meydzi agrar islohotiga ko'ra yer uchun belgilangan soliq hosildan olinadigan daromadning necha foiziga teng edi?",
+answers = {
+{text = "25 foizga", correct = false},
+{text = "33 foizga", correct = false},
+{text = "50 foizga", correct = true},
+{text = "70 foizga", correct = false},
+}
+},
+{
+question = "Agrar islohotdan 10 yil o'tgach, yer olgan dehqonlarning qancha qismi o'ziga berilgan yerni qo'lida saqlab qola olgan?",
+answers = {
+{text = "Yarmi", correct = false},
+{text = "Atigi 1/3 qismi", correct = true},
+{text = "Deyarli barchasi", correct = false},
+{text = "Faqat 1/10 qismi", correct = false},
+}
+},
+{
+question = "Yaponiyada harbiy islohot doirasida yangi qo'shinni shakllantirish uchun qaysi davlatdan harbiy mutaxassislar taklif etilgan?",
+answers = {
+{text = "Angliyadan", correct = false},
+{text = "Fransiyadan", correct = true},
+{text = "Germaniyadan", correct = false},
+{text = "AQShdan", correct = false},
+}
+},
+{
+question = "Meydzi islohotlaridan so'ng Yaponiyada joriy etilgan yagona pul birligi qanday nomlangan?",
+answers = {
+{text = "Yuan", correct = false},
+{text = "Iyena", correct = true},
+{text = "Von", correct = false},
+{text = "Rupiya", correct = false},
+}
+},
+{
+question = "Li hukmron sulolasiga qarshi Koreyada eng yirik qurolli qo'zg'olonga boy zamindor kim boshchilik qilgan?",
+answers = {
+{text = "Li Xa In", correct = false},
+{text = "Xon Gyon Ne", correct = true},
+{text = "Musuxito", correct = false},
+{text = "Said Ali Muhammad", correct = false},
+}
+},
+{
+question = "Chjechjyu orolida dehqonlar va baliqchilarning qo'zg'oloni qaysi yili bo'lib o'tgan?",
+answers = {
+{text = "1811-yili", correct = false},
+{text = "1813-yili", correct = true},
+{text = "1820-yili", correct = false},
+{text = "1831-yili", correct = false},
+}
+},
+{
+question = "Rim papasi Koreya yepiskopligi tuzilganligini qaysi yili e'lon qilgan?",
+answers = {
+{text = "1813-yili", correct = false},
+{text = "1820-yili", correct = false},
+{text = "1831-yili", correct = true},
+{text = "1854-yili", correct = false},
+}
+},
+{
+question = "1832-yili Koreya qirg'oqlari yaqinida paydo bo'lgan kema qaysi davlat nomidan savdo munosabatlari o'rnatishni taklif qilgan, ammo rad javobini olgan?",
+answers = {
+{text = "Fransiya", correct = false},
+{text = "Buyuk Britaniya", correct = true},
+{text = "AQSH", correct = false},
+{text = "Rossiya", correct = false},
+}
+},
+{
+question = "XIX asrda Koreyada hokimiyatni egallab, hukmronlik davri \"tevongun\" nomi bilan mashhur bo'lgan hokim kim edi?",
+answers = {
+{text = "Li Xa In", correct = true},
+{text = "Xon Gyon Ne", correct = false},
+{text = "Musuxito", correct = false},
+{text = "Do'st Muhammad", correct = false},
+}
+},
+{
+question = "Tevongun o'n oltinchi asrda yaponlar bosqini paytida yonib ketgan qaysi saroyni tikladi?",
+answers = {
+{text = "Edo saroyini", correct = false},
+{text = "Kyonbokkun saroyini", correct = true},
+{text = "Toj Mahal saroyini", correct = false},
+{text = "To'pqopi saroyini", correct = false},
+}
+},
+{
+question = "Imperator Xitoy portlarini tashqi savdo uchun yopiq deb e'lon qilib, \"yopiq eshiklar\" siyosatini qaysi yili boshlagan?",
+answers = {
+{text = "1834-yili", correct = false},
+{text = "1839-yili", correct = false},
+{text = "1857-yili", correct = true},
+{text = "1864-yili", correct = false},
+}
+},
+{
+question = "Inglizlarning \"Ost Indiya\" kompaniyasi Xitoy bilan savdoda monopol huquqidan qaysi yilgacha foydalangan?",
+answers = {
+{text = "1820-yilgacha", correct = false},
+{text = "1834-yilgacha", correct = true},
+{text = "1842-yilgacha", correct = false},
+{text = "1850-yilgacha", correct = false},
+}
+},
+{
+question = "Qoradori savdosiga qarshi qat'iy kurash olib borgan, Guandun hokimi etib 1839-yili tayinlangan vatanparvar amaldor kim edi?",
+answers = {
+{text = "Xun Syusyuan", correct = false},
+{text = "Lin Szesyuy", correct = true},
+{text = "Un Szishan", correct = false},
+{text = "Li Sun Sin", correct = false},
+}
+},
+{
+question = "Birinchi afyun urushi qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1834-1839-yillar", correct = false},
+{text = "1839-1842-yillar", correct = true},
+{text = "1850-1856-yillar", correct = false},
+{text = "1857-1860-yillar", correct = false},
+}
+},
+{
+question = "Birinchi afyun urushi natijasida Buyuk Britaniya Xitoydan qaysi hududni bosib olgan?",
+answers = {
+{text = "Shanxayni", correct = false},
+{text = "Gonkong orolini", correct = true},
+{text = "Nankinni", correct = false},
+{text = "Guanchjouni", correct = false},
+}
+},
+{
+question = "Taypinlar qo'zg'oloni qaysi yillarda davom etgan?",
+answers = {
+{text = "1839-1842-yillar", correct = false},
+{text = "1848-1856-yillar", correct = false},
+{text = "1850-1864-yillar", correct = true},
+{text = "1857-1864-yillar", correct = false},
+}
+},
+{
+question = "Taypinlarga boshchilik qilgan, guandunlik qishloq o'qituvchisi kim edi?",
+answers = {
+{text = "Lin Szesyuy", correct = false},
+{text = "Un Szishan", correct = false},
+{text = "Xun Syusyuan", correct = true},
+{text = "Bahodirshoh II", correct = false},
+}
+},
+{
+question = "Taypinlar chinlar hukmronligiga qarshi kurashish uchun yetarli kuchga qaysi yilning iyun oyida aylangan?",
+answers = {
+{text = "1839-yili", correct = false},
+{text = "1842-yili", correct = false},
+{text = "1850-yili", correct = true},
+{text = "1857-yili", correct = false},
+}
+},
+{
+question = "Taypinlar o'zlari tashkil qilmoqchi bo'lgan davlatni xitoychasiga qanday nomlashgan?",
+answers = {
+{text = "\"Chin tyango\"", correct = false},
+{text = "\"Taypin tyango\"", correct = true},
+{text = "\"Ming tyango\"", correct = false},
+{text = "\"Manchjur tyango\"", correct = false},
+}
+},
+{
+question = "Hukumat qo'shini qo'zg'olon rahbarlari joylashgan Nankin shahrini qaysi yili ishg'ol qilib, taypinlarni tor-mor keltirgan?",
+answers = {
+{text = "1850-yili", correct = false},
+{text = "1857-yili", correct = false},
+{text = "1864-yili", correct = true},
+{text = "1868-yili", correct = false},
+}
+},
+{
+question = "Taypinlarni bostirishda chin davlati ma'murlariga qaysi davlatlar yordam ko'rsatgan?",
+answers = {
+{text = "Rossiya va Yaponiya", correct = false},
+{text = "Buyuk Britaniya, Fransiya va AQSH", correct = true},
+{text = "Germaniya va Avstriya", correct = false},
+{text = "Ispaniya va Portugaliya", correct = false},
+}
+},
+{
+question = "XIX asr o'rtalarida Xitoyda taxminan qancha aholi yashab, Yer shari aholisining salkam 1/3 qismini tashkil qilgan?",
+answers = {
+{text = "200 mln ga yaqin", correct = false},
+{text = "300 mln ga yaqin", correct = false},
+{text = "400 mln ga yaqin", correct = true},
+{text = "500 mln ga yaqin", correct = false},
+}
+},
+{
+question = "XIX asr Xitoy madaniyatining yorqin namoyandalaridan biri bo'lib, o'z asarlarida xitoy xalq an'analarini yorqin aks ettirgan rassom kim edi?",
+answers = {
+{text = "Un Szishan", correct = true},
+{text = "Lin Szesyuy", correct = false},
+{text = "Xun Syusyuan", correct = false},
+{text = "Li Sun Sin", correct = false},
+}
+},
+{
+question = "Britaniya hukumati afyun va ingliz tovarlarini olib kirishni qonunlashtirish uchun Xitoyga qarshi urushni qaysi yili boshlagan?",
+answers = {
+{text = "1834-yili", correct = false},
+{text = "1839-yili", correct = false},
+{text = "1840-yili", correct = true},
+{text = "1857-yili", correct = false},
+}
+},
+{
+question = "Manchjurlar xitoylik erkaklarni Chin hokimiyatiga bo'ysunish ramzi sifatida nima qilishga majbur qilgan?",
+answers = {
+{text = "Manchjurcha kiyim kiyishga", correct = false},
+{text = "Sochini manchjurlarga o'xshatib kokil qilib o'rishga", correct = true},
+{text = "Manchjur tilida so'zlashishga", correct = false},
+{text = "Manchjur bayrog'iga sajda qilishga", correct = false},
+}
+},
+{
+question = "Taypinlar o'z davlatida qanday ijtimoiy tenglik choralarini joriy etgan?",
+answers = {
+{text = "Yerga bo'lgan xususiy mulkchilik tugatilib, ayol va erkaklarga teng huquq berildi", correct = true},
+{text = "Faqat erkaklarga yer mulki berildi", correct = false},
+{text = "Savdo-sotiq butunlay taqiqlandi", correct = false},
+{text = "Faqat ruhoniylarga imtiyoz berildi", correct = false},
+}
+},
+{
+question = "Hindistonda o'z mustaqilligini yo'qotgan so'nggi knyazlik Panjob qaysi yili \"Ost Indiya\" kompaniyasi hududiga qo'shib olingan?",
+answers = {
+{text = "1839-yili", correct = false},
+{text = "1849-yili", correct = true},
+{text = "1857-yili", correct = false},
+{text = "1858-yili", correct = false},
+}
+},
+{
+question = "Inglizlar tomonidan bevosita boshqarilmagan, feodal knyazlar qo'lida qolgan mustaqil knyazliklar soni taxminan nechta edi?",
+answers = {
+{text = "300 ta", correct = false},
+{text = "450 ta", correct = false},
+{text = "600 ta", correct = true},
+{text = "800 ta", correct = false},
+}
+},
+{
+question = "Hindiston tarixida \"Mustaqillik uchun birinchi urush\" deb nom olgan Sipohiylar qo'zg'oloni qaysi yili boshlangan?",
+answers = {
+{text = "1849-yili", correct = false},
+{text = "1853-yili", correct = false},
+{text = "1857-yili", correct = true},
+{text = "1858-yili", correct = false},
+}
+},
+{
+question = "Sipohiylar Dehli shahrini egallab, hind xalqini qo'zg'olonga chorlovchi chaqiriqni imzolashga qaysi boburiy hukmdorni majbur etgan?",
+answers = {
+{text = "Akbarshohni", correct = false},
+{text = "Shohjahonni", correct = false},
+{text = "Bahodirshoh ikkinchini", correct = true},
+{text = "Avrangzebni", correct = false},
+}
+},
+{
+question = "Mustamlakachilar Hindistonni Buyuk Britaniya mulki deb qaysi yili e'lon qilgan?",
+answers = {
+{text = "1849-yili", correct = false},
+{text = "1857-yili", correct = false},
+{text = "1858-yili", correct = true},
+{text = "1868-yili", correct = false},
+}
+},
+{
+question = "Boburiylar sulolasi Hindistonda qaysi yillar hukmronlik qilgan?",
+answers = {
+{text = "1500-1849-yillar", correct = false},
+{text = "1526-1858-yillar", correct = true},
+{text = "1550-1857-yillar", correct = false},
+{text = "1600-1900-yillar", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya Hindistonda qaysi yillar hukmronlik qilgan?",
+answers = {
+{text = "1849-1900-yillar", correct = false},
+{text = "1857-1900-yillar", correct = false},
+{text = "1858-1947-yillar", correct = true},
+{text = "1868-1950-yillar", correct = false},
+}
+},
+{
+question = "Asrab olingan o'g'lini orqasida ko'tarib, inglizlarga qarshi isyonchilarga rahbarlik qilgan, \"eng dovyurak va eng jasur\" deb atalgan yigirma yoshlardagi malika kim edi?",
+answers = {
+{text = "Lakshmi Bay", correct = true},
+{text = "Xon Gyon Ne", correct = false},
+{text = "Meydzi", correct = false},
+{text = "Bahodirshoh ikkinchi", correct = false},
+}
+},
+{
+question = "Hindiston general-gubernatori 1834-yili Londonga to'quvchilarning ahvoli haqida qanday xabar bergan?",
+answers = {
+{text = "\"Hindiston o'zining boyliklarini yo'qotdi\"", correct = false},
+{text = "\"Hindiston tekisliklari to'quvchilar suyaklari bilan to'ldi\"", correct = true},
+{text = "\"Hindiston endi mustamlaka emas\"", correct = false},
+{text = "\"Hindiston sanoat markaziga aylandi\"", correct = false},
+}
+},
+{
+question = "Hindistonda Yevropa tipidagi dastlabki uchta universitet qaysi yili ochilgan?",
+answers = {
+{text = "1834-yili", correct = false},
+{text = "1849-yili", correct = false},
+{text = "1857-yili", correct = true},
+{text = "1868-yili", correct = false},
+}
+},
+{
+question = "1947-yili inglizlar Hindistonni tark etganidan so'ng mamlakat aholisining necha foizi savodsiz bo'lib qolgan?",
+answers = {
+{text = "50 foizi", correct = false},
+{text = "65 foizi", correct = false},
+{text = "89 foizi", correct = true},
+{text = "95 foizi", correct = false},
+}
+},
+{
+question = "Hindiston o'z tarixida birinchi marta mustaqil davlatchiligidan mahrum bo'lguncha, inglizlarga butun mamlakatni to'liq nazoratga olish uchun taxminan necha yil kerak bo'lgan?",
+answers = {
+{text = "Ellik yilcha", correct = false},
+{text = "Yetmish yilcha", correct = false},
+{text = "Qariyb yuz yil", correct = true},
+{text = "Ikki yuz yilcha", correct = false},
+}
+},
+{
+question = "\"Ost Indiya\" kompaniyasining Kalkutta shahridagi gubernatori Buyuk Britaniya parlamenti qabul qilgan qonunga ko'ra qanday lavozimga tayinlangan?",
+answers = {
+{text = "Bosh vazir", correct = false},
+{text = "Buyuk Britaniyaning Hindistondagi barcha mustamlakalari general-gubernatori", correct = true},
+{text = "Kansler", correct = false},
+{text = "Sipohiylar qo'mondoni", correct = false},
+}
+},
+{
+question = "Hindiston o'zining ulkan boyliklari tufayli qanday majoziy nom bilan atalgan?",
+answers = {
+{text = "\"Yer sharining oshxonasi\"", correct = false},
+{text = "\"Britaniya tojining eng katta gavhari\"", correct = true},
+{text = "\"Sharqning oltin qafasi\"", correct = false},
+{text = "\"Osiyoning kaliti\"", correct = false},
+}
+},
+{
+question = "Yevropa bozorlari hind tovarlari uchun yopilib, ingliz tovarlari to'siqsiz kirib kelishi natijasida Hindistonning qaysi sanoat sohasi inqirozga uchragan?",
+answers = {
+{text = "Metallurgiya sanoati", correct = false},
+{text = "To'qimachilik sanoati", correct = true},
+{text = "Kemasozlik sanoati", correct = false},
+{text = "Qurol-yarog' sanoati", correct = false},
+}
+},
+{
+question = "Sipohiylar qo'zg'olonining boshlanishiga bevosita turtki bo'lgan narsa nima edi?",
+answers = {
+{text = "Yangi soliq tizimining joriy etilishi", correct = false},
+{text = "Patron bilan o'qlanadigan yangi miltiqning joriy etilishi", correct = true},
+{text = "Hind tilining taqiqlanishi", correct = false},
+{text = "Yerlarning musodara qilinishi", correct = false},
+}
+},
+{
+question = "Fransiya Jazoirni qaysi yili bosib olgan?",
+answers = {
+{text = "1801-yili", correct = false},
+{text = "1805-yili", correct = false},
+{text = "1826-yili", correct = false},
+{text = "1830-yili", correct = true},
+}
+},
+{
+question = "Misrni 1801-yili qaysi davlat egallagan, biroq bu yerda o'rnasha olmagan?",
+answers = {
+{text = "Fransiya", correct = false},
+{text = "Angliya", correct = true},
+{text = "Rossiya", correct = false},
+{text = "Avstriya", correct = false},
+}
+},
+{
+question = "1805-yilgi Misrdagi qo'zg'olondan so'ng mamlakat hukmdori deb kim e'lon qilingan?",
+answers = {
+{text = "Salim I", correct = false},
+{text = "Muhammad Ali", correct = true},
+{text = "Mahmud ikkinchi", correct = false},
+{text = "Mustafo Rashid posho", correct = false},
+}
+},
+{
+question = "Sulton Mahmud ikkinchi chet ellik ofitserlar yordamida yangi qo'shin tashkil qilish to'g'risidagi farmonni qaysi yili imzolagan?",
+answers = {
+{text = "1801-yil", correct = false},
+{text = "1805-yil", correct = false},
+{text = "1826-yil may oyida", correct = true},
+{text = "1829-yil", correct = false},
+}
+},
+{
+question = "Yangi qo'shin tashkil etilishiga qarshi isyon ko'targan, keyin shafqatsizlik bilan yo'q qilingan, jasadlari Marmar dengizi va Bosforga uloqtirilgan harbiy toifa qaysi edi?",
+answers = {
+{text = "Sipohiylar", correct = false},
+{text = "Yanicharlar", correct = true},
+{text = "Mamluklar", correct = false},
+{text = "Korsarlar", correct = false},
+}
+},
+{
+question = "Eski armiya yo'q qilingan, yangisi hali tuzilmagan bir paytda Turkiya qaysi yilgi rus-turk urushida mag'lubiyatga uchragan?",
+answers = {
+{text = "1826-yilgi", correct = false},
+{text = "1829-yilgi", correct = true},
+{text = "1838-yilgi", correct = false},
+{text = "1853-yilgi", correct = false},
+}
+},
+{
+question = "Turk tilida chop etilgan birinchi gazeta - \"Voqealar kundaligi\" qaysi yildan nashr qilina boshlagan?",
+answers = {
+{text = "1826-yildan", correct = false},
+{text = "1829-yildan", correct = false},
+{text = "1832-yildan", correct = true},
+{text = "1838-yildan", correct = false},
+}
+},
+{
+question = "1838-yili Angliya Turkiyani savdo konvensiyasi imzolashga majbur qilgan, unga ko'ra Turkiyaga olib kiriladigan ingliz tovarlariga qiymatining necha foizi miqdorida boj solig'i o'rnatilgan?",
+answers = {
+{text = "3 foizi", correct = false},
+{text = "5 foizi", correct = true},
+{text = "10 foizi", correct = false},
+{text = "15 foizi", correct = false},
+}
+},
+{
+question = "Usmoniylar imperiyasining barcha sohalarini modernizatsiyalashtirishga yo'naltirilgan islohotlar - Tanzimat qaysi yillarni o'z ichiga olgan?",
+answers = {
+{text = "1826-1856-yillar", correct = false},
+{text = "1832-1876-yillar", correct = false},
+{text = "1839-1876-yillar", correct = true},
+{text = "1856-1900-yillar", correct = false},
+}
+},
+{
+question = "\"Tanzimat\" nomi bilan mashhur bo'lgan islohotlarning yangi bosqichini boshlab bergan memorandum muallifi kim edi?",
+answers = {
+{text = "Namiq Kemal", correct = false},
+{text = "Mustafo Rashid posho", correct = true},
+{text = "Ibrohim Shinasi", correct = false},
+{text = "Abdul Aziz", correct = false},
+}
+},
+{
+question = "Qrim urushi qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1826-1829-yillar", correct = false},
+{text = "1838-1842-yillar", correct = false},
+{text = "1853-1856-yillar", correct = true},
+{text = "1857-1860-yillar", correct = false},
+}
+},
+{
+question = "Qrim urushini yakunlab, Turkiya ustidan amalda G'arb davlatlarining \"homiyligi\"ni o'rnatgan Parij tinchlik shartnomasi qaysi sanada imzolangan?",
+answers = {
+{text = "1853-yil martida", correct = false},
+{text = "1855-yil yanvarida", correct = false},
+{text = "1856-yil 30-martida", correct = true},
+{text = "1860-yil dekabrida", correct = false},
+}
+},
+{
+question = "Qrim urushidan keyin Turkiyaning chet davlatlardan qarzi qancha frankka teng bo'lib qolgan?",
+answers = {
+{text = "1 mlrd frank", correct = false},
+{text = "1,8 mlrd frank", correct = false},
+{text = "2,4 mlrd frank", correct = true},
+{text = "3,5 mlrd frank", correct = false},
+}
+},
+{
+question = "Turkiyada konstitutsion tuzum joriy qilinishiga erishishni maqsad qilib, 1865-yili Istanbulda tuzilgan, Yevropada \"Yosh Turkiya\" nomini olgan maxfiy siyosiy tashkilot a'zolari o'zlarini qanday atashgan?",
+answers = {
+{text = "\"Yangi usmoniylar\"", correct = true},
+{text = "\"Tanzimatchilar\"", correct = false},
+{text = "\"Ma'rifatparvarlar\"", correct = false},
+{text = "\"Islohotchilar\"", correct = false},
+}
+},
+{
+question = "\"Yangi usmoniylar\" tashkiloti taxminan nechta a'zoga ega bo'lib, ularning orasida qaysi mashhur dramaturg bor edi?",
+answers = {
+{text = "100 ga yaqin a'zo, Ibrohim Shinasi", correct = false},
+{text = "150 ga yaqin a'zo, Ziyobey", correct = false},
+{text = "250 ga yaqin a'zo, Namiq Kemal", correct = true},
+{text = "500 ga yaqin a'zo, Abdul Aziz", correct = false},
+}
+},
+{
+question = "\"Tasviri efkar\" (\"G'oyalar ifodachisi\") nomli gazetani tashkil qilgan turk ma'rifatparvari kim edi?",
+answers = {
+{text = "Namiq Kemal", correct = false},
+{text = "Ziyobey", correct = false},
+{text = "Ibrohim Shinasi", correct = true},
+{text = "Mustafo Rashid posho", correct = false},
+}
+},
+{
+question = "Angliya va Eron o'rtasida siyosiy va savdo shartnomasi qaysi yili imzolangan?",
+answers = {
+{text = "1798-yili", correct = false},
+{text = "1801-yili", correct = true},
+{text = "1807-yili", correct = false},
+{text = "1809-yili", correct = false},
+}
+},
+{
+question = "Angliya vakili bilan Eron shohi hukumati o'rtasida \"Dastlabki kelishuv\" deb atalgan shartnoma qaysi yilning mart oyida imzolangan?",
+answers = {
+{text = "1801-yili", correct = false},
+{text = "1807-yili", correct = false},
+{text = "1809-yili", correct = true},
+{text = "1813-yili", correct = false},
+}
+},
+{
+question = "Eron shohi Fotih Ali rus podshosi Aleksandr birinchidan qo'shinlarini Gruziyadan olib chiqib ketish talabini qo'yganda boshlangan Birinchi rus-eron urushi qaysi yillarda davom etgan?",
+answers = {
+{text = "1801-1807-yillar", correct = false},
+{text = "1804-1813-yillar", correct = true},
+{text = "1809-1814-yillar", correct = false},
+{text = "1813-1826-yillar", correct = false},
+}
+},
+{
+question = "Birinchi rus-eron urushini yakunlagan, Eron Gruziya, Dog'iston va Ozarbayjonning katta qismiga bo'lgan da'vosidan voz kechgan shartnoma qanday nomlangan?",
+answers = {
+{text = "Turkmanchoy shartnomasi", correct = false},
+{text = "Guliston shartnomasi", correct = true},
+{text = "Parij shartnomasi", correct = false},
+{text = "Tilzit shartnomasi", correct = false},
+}
+},
+{
+question = "Ikkinchi rus-eron urushi qaysi yilning iyul oyida boshlangan?",
+answers = {
+{text = "1813-yili", correct = false},
+{text = "1826-yili", correct = true},
+{text = "1828-yili", correct = false},
+{text = "1837-yili", correct = false},
+}
+},
+{
+question = "Ikkinchi rus-eron urushini yakunlagan, Sharqiy Armaniston - Yerevan va Naxichevan xonliklari Rossiyaga o'tgan tinchlik shartnomasi qaysi qishloqda imzolangan?",
+answers = {
+{text = "Guliston qishlog'ida", correct = false},
+{text = "Turkmanchoy qishlog'ida", correct = true},
+{text = "Guanchjou qishlog'ida", correct = false},
+{text = "Verden qishlog'ida", correct = false},
+}
+},
+{
+question = "Muhammad shoh Hirotga yurishni qaysi yili boshlagan, natijada Angliya bilan diplomatik munosabatlar to'xtatilgan?",
+answers = {
+{text = "1826-yili", correct = false},
+{text = "1828-yili", correct = false},
+{text = "1837-yili", correct = true},
+{text = "1841-yili", correct = false},
+}
+},
+{
+question = "AQSH Eron bilan \"do'stlik va savdo\" to'g'risidagi shartnomani qaysi yili imzolagan?",
+answers = {
+{text = "1841-yili", correct = false},
+{text = "1848-yili", correct = false},
+{text = "1856-yili", correct = true},
+{text = "1863-yili", correct = false},
+}
+},
+{
+question = "Said Ali Muhammad o'zini qaysi yili Bob deb e'lon qilgan?",
+answers = {
+{text = "1837-yili", correct = false},
+{text = "1841-yili", correct = false},
+{text = "1844-yili", correct = true},
+{text = "1848-yili", correct = false},
+}
+},
+{
+question = "Markaziy hokimiyatni mustahkamlashga va chet elliklar ta'sirini kamaytirishga harakat qilgan, ammo feodallarning qattiq qarshiligiga uchrab, 1852-yili o'ldirilgan shohning birinchi vaziri kim edi?",
+answers = {
+{text = "Fathxon", correct = false},
+{text = "Amir Nizom", correct = true},
+{text = "Said Ali Muhammad", correct = false},
+{text = "Do'st Muhammad", correct = false},
+}
+},
+{
+question = "Birinchi ingliz-afg'on urushi qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1826-1828-yillar", correct = false},
+{text = "1837-1841-yillar", correct = false},
+{text = "1838-1842-yillar", correct = true},
+{text = "1848-1852-yillar", correct = false},
+}
+},
+{
+question = "1935-yilga qadar Eron Yevropada qanday nom bilan atalgan?",
+answers = {
+{text = "\"Fors davlati\"", correct = true},
+{text = "\"Parfiya davlati\"", correct = false},
+{text = "\"Elam davlati\"", correct = false},
+{text = "\"Midiya davlati\"", correct = false},
+}
+},
+{
+question = "Britaniya va Rossiya imperiyalari o'rtasidagi Osiyo va Kavkazorti uchun bo'lgan raqobat tarixda qanday nom olgan?",
+answers = {
+{text = "\"Buyuk kelishuv\"", correct = false},
+{text = "\"Katta o'yin\"", correct = true},
+{text = "\"Sovuq raqobat\"", correct = false},
+{text = "\"Sharq masalasi\"", correct = false},
+}
+},
+{
+question = "Kelib chiqishi turkiy bo'lgan qojarlar sulolasi Eronda qaysi yillar hukmronlik qilgan?",
+answers = {
+{text = "1722-1795-yillar", correct = false},
+{text = "1795-1925-yillar", correct = true},
+{text = "1826-1925-yillar", correct = false},
+{text = "1848-1925-yillar", correct = false},
+}
+},
+{
+question = "Payindi xonning o'g'li Fathxon Zamonshohni taxtdan tushirishda o'ziga qaysi ukasi katta yordam bergan, u keyinchalik afg'on hukmdori bo'lgan?",
+answers = {
+{text = "Sherali xon", correct = false},
+{text = "Shuja al-Mulk", correct = false},
+{text = "Do'st Muhammad sardor", correct = true},
+{text = "Mahmudshoh", correct = false},
+}
+},
+{
+question = "Taxtni qayta egallab, mamlakatni mustahkamlagan afg'on hukmdori Do'st Muhammad qaysi yili vafot etgan?",
+answers = {
+{text = "1842-yili", correct = false},
+{text = "1852-yili", correct = false},
+{text = "1863-yili", correct = true},
+{text = "1876-yili", correct = false},
+}
+},
+}
