@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Birinchi jahon urushi qaysi yilda boshlangan?",
+answers = {
+{text = "1912-yilda", correct = false},
+{text = "1914-yilda", correct = true},
+{text = "1916-yilda", correct = false},
+{text = "1917-yilda", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushida Rossiya, Angliya va Fransiya davlatlari qanday ittifoqqa birlashgan edi?",
+answers = {
+{text = "Antanta", correct = true},
+{text = "Muqaddas ittifoq", correct = false},
+{text = "Uchlar ittifoqi", correct = false},
+{text = "Varshava shartnomasi", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushida qatnashgan davlatlar (Antanta va unga qarshi ittifoq) jami nechta davlatni tashkil etgan?",
+answers = {
+{text = "20 ta", correct = false},
+{text = "28 ta", correct = false},
+{text = "38 ta", correct = true},
+{text = "45 ta", correct = false},
+}
+},
+{
+question = "Turkiston o'lkasidan Birinchi jahon urushiga necha yoshdan necha yoshgacha bo'lgan aholining yevropalik qismi vakillari chaqirilgan?",
+answers = {
+{text = "18-40 yosh", correct = false},
+{text = "19-43 yosh", correct = true},
+{text = "20-45 yosh", correct = false},
+{text = "21-50 yosh", correct = false},
+}
+},
+{
+question = "Turkistonda favqulodda muhofaza holati qaysi yilda e'lon qilindi?",
+answers = {
+{text = "1914-yilda", correct = true},
+{text = "1915-yilda", correct = false},
+{text = "1916-yilda", correct = false},
+{text = "1917-yilda", correct = false},
+}
+},
+{
+question = "Favqulodda holat tartibini buzganlar necha so'mgacha jarimaga tortilgan?",
+answers = {
+{text = "20 so'mgacha", correct = false},
+{text = "50 so'mgacha", correct = true},
+{text = "100 so'mgacha", correct = false},
+{text = "30 so'mgacha", correct = false},
+}
+},
+{
+question = "Favqulodda holat tartibini buzganlar necha oygacha qamoq jazosiga hukm qilinishi mumkin edi?",
+answers = {
+{text = "1 oygacha", correct = false},
+{text = "2 oygacha", correct = false},
+{text = "3 oygacha", correct = true},
+{text = "6 oygacha", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushi davrida Turkistonda qaysi mahsulot uchun o'zgarmas davlat narxi joriy etildi?",
+answers = {
+{text = "Bug'doy", correct = false},
+{text = "Paxta", correct = true},
+{text = "Ipak", correct = false},
+{text = "Meva", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushi davrida Turkiston, Sibir va Kavkazdagi tub aholi qanday ishlarga safarbar qilinishi rejalashtirilgan edi?",
+answers = {
+{text = "Front orqasidagi ishlarga", correct = true},
+{text = "Bevosita jangovar xizmatga", correct = false},
+{text = "Dengiz flotiga", correct = false},
+{text = "Havo kuchlariga", correct = false},
+}
+},
+{
+question = "Mahalliy erkaklarning urushga olinishi natijasida oilalar qanday ahvolga tushdi?",
+answers = {
+{text = "Boquvchisidan ajraldi", correct = true},
+{text = "Yerdan mahrum bo'ldi", correct = false},
+{text = "Soliqdan ozod etildi", correct = false},
+{text = "Ko'chishga majbur bo'ldi", correct = false},
+}
+},
+{
+question = "Mahalliy aholi Birinchi jahon urushida qanday xizmatga jalb etilmagan edi?",
+answers = {
+{text = "Harbiy xizmatga", correct = true},
+{text = "Mardikorlik xizmatiga", correct = false},
+{text = "Qishloq xo'jaligi ishlariga", correct = false},
+{text = "Yo'l qurilishiga", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushi davrida Turkiston davlat moliyasi qanday ahvolga tushdi?",
+answers = {
+{text = "Mustahkamlandi", correct = false},
+{text = "Inqirozga yuz tutdi", correct = true},
+{text = "O'zgarishsiz qoldi", correct = false},
+{text = "Yaxshilandi", correct = false},
+}
+},
+{
+question = "Harbiy xarajatlarning o'sishi va talafotlar o'rnini qoplash maqsadida Turkistonda nima joriy etilgan edi?",
+answers = {
+{text = "Yangi soliq turi", correct = false},
+{text = "Paxtaga o'zgarmas davlat narxi", correct = true},
+{text = "Harbiy mukofot", correct = false},
+{text = "Bepul ta'lim", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushi boshlanishi bilan Rossiya imperiyasi qanday safarbarlikni e'lon qildi?",
+answers = {
+{text = "Qisman safarbarlik", correct = false},
+{text = "Ommaviy safarbarlik", correct = true},
+{text = "Ixtiyoriy safarbarlik", correct = false},
+{text = "Harbiy safarbarlik", correct = false},
+}
+},
+{
+question = "Turkiston aholisi uchun favqulodda muhofaza holatining e'lon qilinishi qanday holat edi?",
+answers = {
+{text = "Odatiy holat", correct = false},
+{text = "Noodatiy holat", correct = true},
+{text = "Xush kelibdi holati", correct = false},
+{text = "Bayram holati", correct = false},
+}
+},
+{
+question = "Darslikda Birinchi jahon urushi davridagi ijtimoiy jarayonlarni baholash uchun tavsiya etilgan qaysi film tilga olinadi?",
+answers = {
+{text = "«O'tkan kunlar»", correct = false},
+{text = "«Shum bola»", correct = true},
+{text = "«Mehrobdan chayon»", correct = false},
+{text = "«Sarob»", correct = false},
+}
+},
+{
+question = "Farg'ona viloyatida mardikorlikka necha xonadondan bir kishi olingan?",
+answers = {
+{text = "3 tadan", correct = false},
+{text = "4 tadan", correct = false},
+{text = "5 tadan", correct = true},
+{text = "10 tadan", correct = false},
+}
+},
+{
+question = "1916-yil iyul oyida Samarqandning qaysi qishlog'ida dastlabki norozilik chiqishlari bo'lib o'tgan?",
+answers = {
+{text = "Dahbed", correct = false},
+{text = "Urgut", correct = true},
+{text = "Siyob", correct = false},
+{text = "Angor", correct = false},
+}
+},
+{
+question = "Jizzax shahrida hunarmandlar mardikorlikka olish ro'yxatini talab qilib kimning boshchiligida chiqish qilgan?",
+answers = {
+{text = "Bobo Go'klan", correct = false},
+{text = "Damin kulol", correct = true},
+{text = "Yetimxon", correct = false},
+{text = "Darvishxon", correct = false},
+}
+},
+{
+question = "Jizzax qo'zg'oloni qaysi yilda boshlangan?",
+answers = {
+{text = "1914-yilda", correct = false},
+{text = "1915-yilda", correct = false},
+{text = "1916-yilda", correct = true},
+{text = "1917-yilda", correct = false},
+}
+},
+{
+question = "Jizzax qo'zg'oloni boshlanganidan so'ng Turkistonda qanday holat e'lon qilindi?",
+answers = {
+{text = "Favqulodda muhofaza holati", correct = false},
+{text = "Harbiy holat", correct = true},
+{text = "Fuqarolik holati", correct = false},
+{text = "Tinchlik holati", correct = false},
+}
+},
+{
+question = "Jizzax qo'zg'oloni tarixda qanday nom bilan mashhur bo'lgan?",
+answers = {
+{text = "«Vabo isyoni»", correct = false},
+{text = "«Jizzax fojiasi»", correct = true},
+{text = "«Tosh otar voqeasi»", correct = false},
+{text = "«Andijon fojiasi»", correct = false},
+}
+},
+{
+question = "Jizzax qo'zg'oloni asosan qaysi tabaqa vakillari tomonidan olib borilgan?",
+answers = {
+{text = "Savdogarlar va boylar", correct = false},
+{text = "Dehqonlar va hunarmandlar", correct = true},
+{text = "Ruhoniylar", correct = false},
+{text = "Amaldorlar", correct = false},
+}
+},
+{
+question = "Jizzax qo'zg'oloni qaysi faslda bo'lib o'tgan bo'lib, bu ekinzorlarning nobud bo'lishiga sabab bo'lgan?",
+answers = {
+{text = "Bahor", correct = false},
+{text = "Yoz", correct = true},
+{text = "Kuz", correct = false},
+{text = "Qish", correct = false},
+}
+},
+{
+question = "Mardikorlikka ro'yxatga olishda badavlat xonadon vakillari nima evaziga ro'yxatdan chetlashtirilgan?",
+answers = {
+{text = "Pora evaziga", correct = true},
+{text = "Harbiy xizmat evaziga", correct = false},
+{text = "Yer berish evaziga", correct = false},
+{text = "Soliq to'lash evaziga", correct = false},
+}
+},
+{
+question = "1916-yilgi qo'zg'olon butun mustamlakachilik davrida Turkistonda qanday qo'zg'olon sifatida baholanadi?",
+answers = {
+{text = "Eng kichik qo'zg'olon", correct = false},
+{text = "Eng yirik qo'zg'olon", correct = true},
+{text = "Muvaffaqiyatli qo'zg'olon", correct = false},
+{text = "Tinch qo'zg'olon", correct = false},
+}
+},
+{
+question = "Jizzax qo'zg'oloni rahbarlari va faol ishtirokchilari qanday jazoga tortilgan?",
+answers = {
+{text = "Surgun qilingan", correct = false},
+{text = "O'lim jazosiga hukm etilgan", correct = true},
+{text = "Jarimaga tortilgan", correct = false},
+{text = "Ozod etilgan", correct = false},
+}
+},
+{
+question = "Qo'zg'olon bostirilgach, hukumatga yordam bermagan aholi qayerga haydab yuborilgan?",
+answers = {
+{text = "Sibirga", correct = false},
+{text = "Cho'lga", correct = true},
+{text = "Qamoqxonaga", correct = false},
+{text = "Boshqa viloyatga", correct = false},
+}
+},
+{
+question = "1916-yilgi qo'zg'olonlar davri haqidagi darslikda keltirilgan iqtibos muallifi kim edi?",
+answers = {
+{text = "Abdurauf Fitrat", correct = false},
+{text = "Miyon Buzruk", correct = true},
+{text = "Alixonto'ra Sog'uniy", correct = false},
+{text = "Abdulla Qodiriy", correct = false},
+}
+},
+{
+question = "Mardikorlikka safarbarlik qaysi urush sharoitida amalga oshirilgan edi?",
+answers = {
+{text = "Ikkinchi jahon urushi", correct = false},
+{text = "Birinchi jahon urushi", correct = true},
+{text = "Fuqarolar urushi", correct = false},
+{text = "Rus-yapon urushi", correct = false},
+}
+},
+{
+question = "Qo'zg'olonchilar mustamlakachi hukumatga qarshi asosan qanday qurollar bilan jang qilgan?",
+answers = {
+{text = "Zamonaviy o'qotar qurollar", correct = false},
+{text = "Oddiy ish qurollari", correct = true},
+{text = "To'plar", correct = false},
+{text = "Otliq qo'shin qurollari", correct = false},
+}
+},
+{
+question = "1916-yilgi qo'zg'olonning mag'lubiyatga uchrashiga, jumladan, qo'zg'olonchilarning qaysi sohadan mutlaqo bexabar ekanligi sabab bo'lgan?",
+answers = {
+{text = "Diniy bilimlardan", correct = false},
+{text = "Harbiy sohadan", correct = true},
+{text = "Savdo ishlaridan", correct = false},
+{text = "Qishloq xo'jaligidan", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asr oxirida Buxoro amirligining Buxorodan tashqari yirik savdo va hunarmandchilik markazlari qaysi shaharlar hisoblangan?",
+answers = {
+{text = "Toshkent, Samarqand, Andijon", correct = false},
+{text = "Chorjo'y, Kitob, Shahrisabz, Denov", correct = true},
+{text = "Qarshi, Termiz, Boysun", correct = false},
+{text = "Xiva, Urganch, Xazorasp", correct = false},
+}
+},
+{
+question = "1885-yilda mo'l hosil yig'ib olgan dehqonlar qaysi hududda yashagan edi?",
+answers = {
+{text = "Ko'lob", correct = false},
+{text = "Baljuvon", correct = true},
+{text = "Denov", correct = false},
+{text = "Shahrisabz", correct = false},
+}
+},
+{
+question = "Baljuvon dehqonlari qo'zg'oloni qaysi yilning iyul oyida ko'tarilgan?",
+answers = {
+{text = "1880-yilda", correct = false},
+{text = "1885-yilda", correct = true},
+{text = "1888-yilda", correct = false},
+{text = "1893-yilda", correct = false},
+}
+},
+{
+question = "Baljuvon dehqonlari qaysi amir lashkari bilan to'qnashgan?",
+answers = {
+{text = "Amir Muzaffar", correct = true},
+{text = "Amir Olimxon", correct = false},
+{text = "Amir Nasrullo", correct = false},
+{text = "Amir Abdulahad", correct = false},
+}
+},
+{
+question = "Ko'lob viloyatida dehqonlarning norozilik harakati qaysi yilda boshlangan?",
+answers = {
+{text = "1885-yilda", correct = false},
+{text = "1888-yilda", correct = true},
+{text = "1893-yilda", correct = false},
+{text = "1898-yilda", correct = false},
+}
+},
+{
+question = "Buxoro amirligi hududi orqali dastlabki temiryo'l qaysi yilda o'tkazildi?",
+answers = {
+{text = "1885-yilda", correct = false},
+{text = "1888-yilda", correct = true},
+{text = "1893-yilda", correct = false},
+{text = "1898-yilda", correct = false},
+}
+},
+{
+question = "Buxorodan qancha masofada Yangi Buxoro (Kogon) temiryo'l stansiyasi qurilgan?",
+answers = {
+{text = "5 kilometr", correct = false},
+{text = "10 kilometr", correct = false},
+{text = "15 kilometr", correct = true},
+{text = "20 kilometr", correct = false},
+}
+},
+{
+question = "Yangi Buxoro stansiyasida amir saroyidan tashqari yana qaysi muassasa qarorgohi barpo etilgan?",
+answers = {
+{text = "Rossiya siyosiy agentining qarorgohi", correct = true},
+{text = "Turkiston general-gubernatorining qarorgohi", correct = false},
+{text = "Harbiy shtab", correct = false},
+{text = "Diniy boshqarma", correct = false},
+}
+},
+{
+question = "Temiryo'l orqali Buxoro amirligi qaysi shaharlar bilan bog'landi?",
+answers = {
+{text = "Toshkent, Orenburg va Moskva", correct = true},
+{text = "Xiva, Qo'qon va Andijon", correct = false},
+{text = "Samarqand, Marg'ilon va Namangan", correct = false},
+{text = "Verniy, Chimkent va Perovsk", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asr oxiri va yigirmanchi asr boshlarida Buxoroda nechta an'anaviy (boshlang'ich) maktab faoliyat ko'rsatgan?",
+answers = {
+{text = "150 ga yaqin", correct = false},
+{text = "250 ga yaqin", correct = false},
+{text = "350 ga yaqin", correct = true},
+{text = "450 ga yaqin", correct = false},
+}
+},
+{
+question = "Buxoroda o'g'il bolalarning maktabga qabul qilinish yoshi qanday belgilangan edi?",
+answers = {
+{text = "5 yoshdan 12 yoshgacha", correct = true},
+{text = "7 yoshdan 13 yoshgacha", correct = false},
+{text = "6 yoshdan 14 yoshgacha", correct = false},
+{text = "4 yoshdan 10 yoshgacha", correct = false},
+}
+},
+{
+question = "Buxoroda qizlarning maktabda o'qishi necha yoshdan boshlanib, necha yoshda tugagan?",
+answers = {
+{text = "5 yoshdan 12 yoshgacha", correct = false},
+{text = "7 yoshdan 13 yoshgacha", correct = true},
+{text = "6 yoshdan 14 yoshgacha", correct = false},
+{text = "8 yoshdan 15 yoshgacha", correct = false},
+}
+},
+{
+question = "Buxoroda ta'lim jarayoni odatda necha yilgacha davom etgan?",
+answers = {
+{text = "3-5 yil", correct = false},
+{text = "5-7 yil", correct = false},
+{text = "7-10 yil", correct = true},
+{text = "10-15 yil", correct = false},
+}
+},
+{
+question = "Musulmon aholisining ommaviy savodxonligini Rossiya hukumatiga namuna sifatida ko'rsatgan rus olimi kim edi?",
+answers = {
+{text = "N. Krijanovskiy", correct = false},
+{text = "A. Middendorf", correct = true},
+{text = "S. Duxovskoy", correct = false},
+{text = "Fon Kaufman", correct = false},
+}
+},
+{
+question = "Buxoroda maktabda o'qiyotgan o'quvchining muvaffaqiyati uchun ota-onasi domla (otinoyi)ga odatda nima berishgan?",
+answers = {
+{text = "Pul va kiyim", correct = false},
+{text = "Non, don yoki pul", correct = true},
+{text = "Faqat pul", correct = false},
+{text = "Kitob va qalam", correct = false},
+}
+},
+{
+question = "Buxoro amirligida ichki va tashqi bozorlarda qaysi mahsulotlar alohida xaridorgir bo'lgan?",
+answers = {
+{text = "Faqat gilamlar", correct = false},
+{text = "Ip-gazlama matolari, zardo'zlik va kandakorlik buyumlari", correct = true},
+{text = "Faqat kulolchilik buyumlari", correct = false},
+{text = "Faqat temir mahsulotlari", correct = false},
+}
+},
+{
+question = "Xiva xonligida 1873-yildan so'ng hosildor yerlarning katta qismi qaysi davlat tasarrufiga o'tdi?",
+answers = {
+{text = "Angliya", correct = false},
+{text = "Rossiya", correct = true},
+{text = "Eron", correct = false},
+{text = "Afg'oniston", correct = false},
+}
+},
+{
+question = "Xiva xonligida qishloq xo'jaligining asosiy tarmog'i nima hisoblangan?",
+answers = {
+{text = "Paxtachilik", correct = false},
+{text = "G'alla yetishtirish", correct = true},
+{text = "Bog'dorchilik", correct = false},
+{text = "Chorvachilik", correct = false},
+}
+},
+{
+question = "Yigirmanchi asr boshlariga kelib Xiva xonligida qaysi shaharlar ijtimoiy-iqtisodiy va madaniy markazlarga aylandi?",
+answers = {
+{text = "Buxoro, Samarqand, Qarshi", correct = false},
+{text = "Xiva, Yangi Urganch, Qo'ng'irot, Toshhovuz, Gurlan", correct = true},
+{text = "Toshkent, Andijon, Marg'ilon", correct = false},
+{text = "Chimkent, Verniy, Perovsk", correct = false},
+}
+},
+{
+question = "Xiva xonligida qaysi yangi shaharlar vujudga kelgan?",
+answers = {
+{text = "Bog'ot, Mo'ynoq, Taxta", correct = true},
+{text = "Kogon, Chorjo'y, Denov", correct = false},
+{text = "Jizzax, Xo'jand, O'ratepa", correct = false},
+{text = "Marg'ilon, Andijon, Namangan", correct = false},
+}
+},
+{
+question = "Xiva xonligida qoraqalpoq urug'larini boshqarish uchun o'n to'qqizinchi asrning ikkinchi yarmida qanday lavozim joriy etilgan?",
+answers = {
+{text = "Mingboshi", correct = false},
+{text = "Beklarbegi", correct = true},
+{text = "Devonbegi", correct = false},
+{text = "Otaliq", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asrning o'rtalarida Yangi Urganchda nechta masjid bo'lgan?",
+answers = {
+{text = "6 ta", correct = false},
+{text = "10 ta", correct = false},
+{text = "15 ta", correct = true},
+{text = "20 ta", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asrning o'rtalarida Yangi Urganchda nechta madrasa bo'lgan?",
+answers = {
+{text = "1 ta", correct = false},
+{text = "2 ta", correct = true},
+{text = "3 ta", correct = false},
+{text = "4 ta", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asrning o'rtalarida Xazoraspda nechta masjid faoliyat yuritgan?",
+answers = {
+{text = "4 ta", correct = false},
+{text = "6 ta", correct = false},
+{text = "10 ta", correct = true},
+{text = "15 ta", correct = false},
+}
+},
+{
+question = "Xiva xonligida masjid imomi bevosita vazifasidan tashqari yana qanday ish bilan shug'ullangan?",
+answers = {
+{text = "Sud ishlari", correct = false},
+{text = "Soliq yig'ish", correct = true},
+{text = "Harbiy xizmat", correct = false},
+{text = "Savdo ishlari", correct = false},
+}
+},
+{
+question = "Xiva xonligi Rossiya vassaliga aylantirilgach, Xiva saroy kutubxonasidan nechta qo'lyozma Kaufman tomonidan musodara qilindi?",
+answers = {
+{text = "100 dona", correct = false},
+{text = "200 dona", correct = false},
+{text = "300 dona", correct = true},
+{text = "500 dona", correct = false},
+}
+},
+{
+question = "Xiva saroy kutubxonasidan musodara qilingan Qur'oni karim nusxalari soni qancha edi?",
+answers = {
+{text = "10 dona", correct = false},
+{text = "18 dona", correct = true},
+{text = "25 dona", correct = false},
+{text = "30 dona", correct = false},
+}
+},
+{
+question = "Amudaryo bo'limidagi qoraqalpoqlarga nisbatan jabr-zulm kuchayishi natijasida qaysi volostlarda xalq qo'zg'oloni bo'lib o'tdi?",
+answers = {
+{text = "Chimboy va Mo'ynoq", correct = false},
+{text = "Biybozor va Nukus", correct = true},
+{text = "Taxta va Xazorasp", correct = false},
+{text = "Xo'jayli va Qo'ng'irot", correct = false},
+}
+},
+{
+question = "Biybozor va Nukus volostidagi xalq qo'zg'oloniga kim boshchilik qilgan?",
+answers = {
+{text = "Damin kulol", correct = false},
+{text = "Bobo Go'klan", correct = true},
+{text = "Dukchi eshon", correct = false},
+{text = "Yetimxon", correct = false},
+}
+},
+{
+question = "Qoraqalpoq biylarini Xiva xonlari tayinlab, ularga tasdiq uchun nima berilgan?",
+answers = {
+{text = "Maosh", correct = false},
+{text = "Tasdiqlovchi yorliq", correct = true},
+{text = "Yer maydoni", correct = false},
+{text = "Harbiy unvon", correct = false},
+}
+},
+{
+question = "Xiva xonligida savdo-sotiq munosabatlari qaysi davlatlar bilan rivojlangan?",
+answers = {
+{text = "Rossiya, qozoq juzlari, Kavkaz, Eron", correct = true},
+{text = "Angliya, Hindiston, Xitoy", correct = false},
+{text = "Afg'oniston, Eron, Turkiya", correct = false},
+{text = "Fransiya, Germaniya, Italiya", correct = false},
+}
+},
+{
+question = "Rossiya imperiyasi va mahalliy kapital hamkorligi natijasida nima tuzishga harakat qilindi?",
+answers = {
+{text = "Qo'shma bank uyushmalari", correct = true},
+{text = "Harbiy ittifoq", correct = false},
+{text = "Diniy tashkilot", correct = false},
+{text = "Ta'lim muassasasi", correct = false},
+}
+},
+{
+question = "Qoraqum eshon madrasasi qaysi davrda qurilgan?",
+answers = {
+{text = "O'n to'qqizinchi asr boshlarida", correct = false},
+{text = "O'n to'qqizinchi asr o'rtalarida", correct = true},
+{text = "O'n to'qqizinchi asr oxirida", correct = false},
+{text = "Yigirmanchi asr boshlarida", correct = false},
+}
+},
+{
+question = "Tosh madrasa qaysi yilda va kim tomonidan qurdirilgan?",
+answers = {
+{text = "1841-yilda Mang'it hokimi Xo'janiyoz tomonidan", correct = true},
+{text = "1850-yilda Berdaq tomonidan", correct = false},
+{text = "1861-yilda Ajiniyoz tomonidan", correct = false},
+{text = "1870-yilda Kunxo'ja tomonidan", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asr boshlarida qoraqalpoqlarda nechta maktab mavjud bo'lgan?",
+answers = {
+{text = "150 ta", correct = false},
+{text = "218 ta", correct = false},
+{text = "318 ta", correct = true},
+{text = "418 ta", correct = false},
+}
+},
+{
+question = "Qoraqalpoq shoiri Kunxo'ja qaysi yillarda yashagan?",
+answers = {
+{text = "1788-1875", correct = false},
+{text = "1799-1880", correct = true},
+{text = "1824-1878", correct = false},
+{text = "1827-1900", correct = false},
+}
+},
+{
+question = "Qoraqalpoq shoiri Ajiniyozning taxallusi nima edi?",
+answers = {
+{text = "Zevar", correct = true},
+{text = "Berdaq", correct = false},
+{text = "Furqat", correct = false},
+{text = "Muqimiy", correct = false},
+}
+},
+{
+question = "Ajiniyoz Mo'ynoqdagi maktabda, so'ngra qaysi madrasada ta'lim olgan?",
+answers = {
+{text = "Xivadagi Sherg'ozixon madrasasida", correct = true},
+{text = "Buxorodagi Mir Arab madrasasida", correct = false},
+{text = "Qo'qondagi Norbo'tabiy madrasasida", correct = false},
+{text = "Toshkentdagi Ko'kaldosh madrasasida", correct = false},
+}
+},
+{
+question = "Ajiniyozning qaysi dostonida qoraqalpoq xalqining ko'chib yurish jarayoni katta mahorat bilan tasvirlangan?",
+answers = {
+{text = "«Qirq qiz»", correct = false},
+{text = "«Bo'zatov»", correct = true},
+{text = "«Qiz Mengesh bilan aytishuv»", correct = false},
+{text = "«Xalq uchun»", correct = false},
+}
+},
+{
+question = "Qoraqalpoq shoiri Berdaq qaysi yillarda yashagan?",
+answers = {
+{text = "1788-1875", correct = false},
+{text = "1799-1880", correct = false},
+{text = "1824-1878", correct = false},
+{text = "1827-1900", correct = true},
+}
+},
+{
+question = "Berdaq qayerda tug'ilgan?",
+answers = {
+{text = "Orolbo'yida", correct = true},
+{text = "Xorazmda", correct = false},
+{text = "Farg'ona vodiysida", correct = false},
+{text = "Zarafshon vodiysida", correct = false},
+}
+},
+{
+question = "Berdaq necha yoshidan she'r yoza boshlagan?",
+answers = {
+{text = "15 yoshidan", correct = false},
+{text = "18 yoshidan", correct = false},
+{text = "20 yoshidan", correct = true},
+{text = "25 yoshidan", correct = false},
+}
+},
+{
+question = "«Qirq qiz» dostonida Sarkub hukmdori kim bo'lgan?",
+answers = {
+{text = "Olloyor", correct = true},
+{text = "Arslon", correct = false},
+{text = "Guloyim", correct = false},
+{text = "Xo'janiyoz", correct = false},
+}
+},
+{
+question = "«Qirq qiz» dostonida Guloyimga yordam bergan xorazmlik bahodir kim edi?",
+answers = {
+{text = "Damin", correct = false},
+{text = "Arslon", correct = true},
+{text = "Berdaq", correct = false},
+{text = "Ajiniyoz", correct = false},
+}
+},
+{
+question = "Qoraqalpoq xalq og'zaki ijodida kulgi qahramoni bo'lgan obraz qanday nomlangan?",
+answers = {
+{text = "Nasriddin Afandi", correct = false},
+{text = "O'mirbek laqqi", correct = true},
+{text = "Aldar ko'sa", correct = false},
+{text = "Ravshan", correct = false},
+}
+},
+{
+question = "Yigirmanchi asr boshlarida qoraqalpoq adabiyotidagi demokratik an'analarni qaysi yangi avlod vakillari davom ettirdi?",
+answers = {
+{text = "Kunxo'ja, Ajiniyoz, Berdaq", correct = false},
+{text = "Umar, Sariboy, Qulmurot, Sodiq", correct = true},
+{text = "Yetimxon, Darvishxon, Po'latxon", correct = false},
+{text = "Dukchi eshon, Ziyovuddin maxsum", correct = false},
+}
+},
+{
+question = "Qoraqalpoq xalqining og'zaki ijodi qanday xususiyati bilan ajralib turadi?",
+answers = {
+{text = "Chuqur mazmun va xalqchillik", correct = true},
+{text = "Faqat diniy mavzular", correct = false},
+{text = "Faqat harbiy mavzular", correct = false},
+{text = "Faqat lirik janr", correct = false},
+}
+},
+{
+question = "«Qirq qiz» dostonida Guloyim va uning kanizaklari nima qilishadi?",
+answers = {
+{text = "Qal'a barpo etib, dushmanga qarshi kurashadi", correct = true},
+{text = "Savdo ishlari bilan shug'ullanadi", correct = false},
+{text = "Ta'lim beradi", correct = false},
+{text = "Hunarmandchilik qiladi", correct = false},
+}
+},
+}

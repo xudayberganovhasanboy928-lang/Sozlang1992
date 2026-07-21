@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Buxoro amirligi necha ta viloyatga bo'lingan edi?",
+answers = {
+{text = "15 ta", correct = false},
+{text = "18 ta", correct = false},
+{text = "40 ta", correct = true},
+{text = "20 ta", correct = false},
+}
+},
+{
+question = "Buxoro amirligining aholisi soni qancha bo'lgan?",
+answers = {
+{text = "800 ming atrofida", correct = false},
+{text = "2 million atrofida", correct = true},
+{text = "3 millionga yaqin", correct = false},
+{text = "5 million atrofida", correct = false},
+}
+},
+{
+question = "Xiva xonligi necha ta beklikka bo'lingan edi?",
+answers = {
+{text = "15 ta", correct = false},
+{text = "18 ta", correct = true},
+{text = "40 ta", correct = false},
+{text = "12 ta", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi qaysi davlatdan ajralib chiqib tashkil topgan?",
+answers = {
+{text = "Xiva xonligidan", correct = false},
+{text = "Buxoro amirligidan", correct = true},
+{text = "Eron davlatidan", correct = false},
+{text = "Afg'oniston davlatidan", correct = false},
+}
+},
+{
+question = "Qo'qon xonligining aholisi soni qancha bo'lgan?",
+answers = {
+{text = "800 ming atrofida", correct = false},
+{text = "2 million atrofida", correct = false},
+{text = "3 millionga yaqin", correct = true},
+{text = "5 million atrofida", correct = false},
+}
+},
+{
+question = "Buxoro amirligida moliya va xazina ishlarini, soliqlar to'planishini kim idora qilgan?",
+answers = {
+{text = "Qo'shbegi", correct = false},
+{text = "Devonbegi", correct = true},
+{text = "Mirzaboshi", correct = false},
+{text = "Mushrif", correct = false},
+}
+},
+{
+question = "Buxoro amirligida xalqning shikoyatlari bilan qaysi lavozim egasi shug'ullangan?",
+answers = {
+{text = "Parvonachi", correct = false},
+{text = "Shayxulislom", correct = false},
+{text = "Dodxoh", correct = true},
+{text = "Ko'kaldosh", correct = false},
+}
+},
+{
+question = "Xiva xonligi qaysi sulola tomonidan boshqarilgan?",
+answers = {
+{text = "Mang'itlar", correct = false},
+{text = "Qo'ng'irotlar", correct = true},
+{text = "Minglar", correct = false},
+{text = "Ashtarxoniylar", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi qaysi sulola tomonidan boshqarilgan?",
+answers = {
+{text = "Mang'itlar", correct = false},
+{text = "Qo'ng'irotlar", correct = false},
+{text = "Minglar", correct = true},
+{text = "Kaspiylar", correct = false},
+}
+},
+{
+question = "Xiva xonligida oliy amaldor kim hisoblangan?",
+answers = {
+{text = "Qo'shbegi", correct = false},
+{text = "Devonbegi", correct = true},
+{text = "Mehtar", correct = false},
+{text = "Otaliq", correct = false},
+}
+},
+{
+question = "Qo'qon xonligida eng yuqori harbiy lavozim qanday atalgan?",
+answers = {
+{text = "To'pchiboshi", correct = false},
+{text = "Yasovulboshi", correct = false},
+{text = "Amirlashkar", correct = true},
+{text = "Mirshabboshi", correct = false},
+}
+},
+{
+question = "AQSHda Shimol va Janub o'rtasida bo'lgan fuqarolar urushi qaysi yillarda kechgan?",
+answers = {
+{text = "1855-1860-yillarda", correct = false},
+{text = "1861-1865-yillarda", correct = true},
+{text = "1865-1870-yillarda", correct = false},
+{text = "1847-1853-yillarda", correct = false},
+}
+},
+{
+question = "1842-yilda Buxoro amiri tomonidan qatl qilingan Angliyaning Ost-Indiya kompaniyasi vakillari kimlar edi?",
+answers = {
+{text = "A. Byorns va J. Abbot", correct = false},
+{text = "Ch. Stoddart va A. Konnoli", correct = true},
+{text = "M. Murkroft va I. Volf", correct = false},
+{text = "P. Lessar va N. Krijanovskiy", correct = false},
+}
+},
+{
+question = "1855-yilda Amudaryoning janubiy sohilidagi hududlar qaysi davlat viloyatiga aylantirildi?",
+answers = {
+{text = "Eron", correct = false},
+{text = "Afg'oniston", correct = true},
+{text = "Hindiston", correct = false},
+{text = "Angliya", correct = false},
+}
+},
+{
+question = "Marg'ilon shahri qaysi hunarmandchilik sohalari bilan mashhur bo'lgan?",
+answers = {
+{text = "Kulolchilik", correct = false},
+{text = "Pichoqchilik", correct = false},
+{text = "Atlas to'qish va do'ppichilik", correct = true},
+{text = "Zargarlik", correct = false},
+}
+},
+{
+question = "O'rta Osiyo xonliklarida madrasada o'qish mavsumi odatda necha oyni tashkil etgan?",
+answers = {
+{text = "4 oy", correct = false},
+{text = "6 oy", correct = true},
+{text = "8 oy", correct = false},
+{text = "10 oy", correct = false},
+}
+},
+{
+question = "1847-yilda Sirdaryoning Orolga quyilish joyida qanday istehkom bunyod etildi?",
+answers = {
+{text = "Perovskiy forti", correct = false},
+{text = "Raim qal'asi", correct = true},
+{text = "Oqmachit qal'asi", correct = false},
+{text = "Niyozbek qal'asi", correct = false},
+}
+},
+{
+question = "Oqmachit qal'asi qaysi yilda Rossiya imperiyasi qo'shinlari tomonidan egallandi?",
+answers = {
+{text = "1847-yilda", correct = false},
+{text = "1852-yilda", correct = false},
+{text = "1853-yilda", correct = true},
+{text = "1859-yilda", correct = false},
+}
+},
+{
+question = "Oqmachit qal'asini 20 kun davomida himoya qilgan qo'riqchilar soni qancha edi?",
+answers = {
+{text = "200 kishi", correct = false},
+{text = "400 kishi", correct = true},
+{text = "3000 kishi", correct = false},
+{text = "1000 kishi", correct = false},
+}
+},
+{
+question = "Oqmachit qal'asi bosib olinganidan so'ng unga qanday nom berildi?",
+answers = {
+{text = "Raim forti", correct = false},
+{text = "Perovskiy forti", correct = true},
+{text = "Chimkent qal'asi", correct = false},
+{text = "Toshkent forti", correct = false},
+}
+},
+{
+question = "Turkiston va Chimkent shaharlari mudofaasiga Qo'qon xonining amirlashkari sifatida kim rahbarlik qildi?",
+answers = {
+{text = "M. Chernyayev", correct = false},
+{text = "Aliquli (Alimqul)", correct = true},
+{text = "Fon Kaufman", correct = false},
+{text = "N. Krijanovskiy", correct = false},
+}
+},
+{
+question = "Toshkentni bosib olish harakatlariga qaysi qo'mondon rahbarlik qildi?",
+answers = {
+{text = "Fon Kaufman", correct = false},
+{text = "M. Chernyayev", correct = true},
+{text = "N. Krijanovskiy", correct = false},
+{text = "M. Skobelev", correct = false},
+}
+},
+{
+question = "Toshkent shahri necha ta darvozaga ega bo'lgan?",
+answers = {
+{text = "8 ta", correct = false},
+{text = "10 ta", correct = false},
+{text = "12 ta", correct = true},
+{text = "14 ta", correct = false},
+}
+},
+{
+question = "Toshkent shahri necha ta dahaga bo'lingan edi?",
+answers = {
+{text = "2 ta", correct = false},
+{text = "3 ta", correct = false},
+{text = "4 ta", correct = true},
+{text = "6 ta", correct = false},
+}
+},
+{
+question = "Toshkentni suv ta'minotidan mahrum qilish uchun qaysi qal'a bosib olindi?",
+answers = {
+{text = "Niyozbek qal'asi", correct = true},
+{text = "Oqmachit qal'asi", correct = false},
+{text = "Raim qal'asi", correct = false},
+{text = "Chimkent qal'asi", correct = false},
+}
+},
+{
+question = "Toshkent shahri qaysi yilda Rossiya imperiyasi qo'shinlari tomonidan egallandi?",
+answers = {
+{text = "1864-yilda", correct = false},
+{text = "1865-yilda", correct = true},
+{text = "1867-yilda", correct = false},
+{text = "1868-yilda", correct = false},
+}
+},
+{
+question = "1865-yil 6-avgustda qanday hujjat qabul qilindi?",
+answers = {
+{text = "Turkiston o'lkasini boshqarish haqidagi Nizom", correct = false},
+{text = "Turkiston viloyatini boshqarish to'g'risidagi Muvaqqat Nizom", correct = true},
+{text = "Gandimiyon shartnomasi", correct = false},
+{text = "Zirabuloq shartnomasi", correct = false},
+}
+},
+{
+question = "Turkiston general-gubernatorligi qaysi yilda tashkil qilindi?",
+answers = {
+{text = "1865-yilda", correct = false},
+{text = "1867-yilda", correct = true},
+{text = "1868-yilda", correct = false},
+{text = "1873-yilda", correct = false},
+}
+},
+{
+question = "Turkiston general-gubernatorligiga birinchi bo'lib kim tayinlandi?",
+answers = {
+{text = "M. Chernyayev", correct = false},
+{text = "N. Krijanovskiy", correct = false},
+{text = "Fon Kaufman", correct = true},
+{text = "M. Skobelev", correct = false},
+}
+},
+{
+question = "Turkiston general-gubernatorligi dastlab necha viloyatga bo'lingan edi?",
+answers = {
+{text = "2 ta", correct = true},
+{text = "3 ta", correct = false},
+{text = "4 ta", correct = false},
+{text = "5 ta", correct = false},
+}
+},
+{
+question = "Sirdaryo viloyatining markazi qaysi shahar edi?",
+answers = {
+{text = "Chimkent", correct = false},
+{text = "Verniy", correct = false},
+{text = "Toshkent", correct = true},
+{text = "Perovsk", correct = false},
+}
+},
+{
+question = "Yettisuv viloyatining markazi qaysi shahar edi?",
+answers = {
+{text = "Toshkent", correct = false},
+{text = "Verniy", correct = true},
+{text = "Chimkent", correct = false},
+{text = "Andijon", correct = false},
+}
+},
+{
+question = "Rossiya va Buxoro amirligi qo'shinlari o'rtasidagi jang qaysi qishloq yaqinida bo'lib o'tdi?",
+answers = {
+{text = "Zirabuloq", correct = false},
+{text = "Yerjar", correct = true},
+{text = "Gandimiyon", correct = false},
+{text = "Chimkent", correct = false},
+}
+},
+{
+question = "Yerjar jangi qaysi yilda bo'lib o'tdi?",
+answers = {
+{text = "1864-yilda", correct = false},
+{text = "1866-yilda", correct = true},
+{text = "1868-yilda", correct = false},
+{text = "1873-yilda", correct = false},
+}
+},
+{
+question = "Kitob begi va Shahrisabz begi boshchiligida Samarqandda kurash olib borgan shaxslar kimlar edi?",
+answers = {
+{text = "Jo'rabek va Bobobek", correct = true},
+{text = "Yetimxon va Darvishxon", correct = false},
+{text = "Aliquli va Po'latxon", correct = false},
+{text = "Dukchi eshon va Ziyovuddin maxsum", correct = false},
+}
+},
+{
+question = "Buxoro amirligini Rossiya imperiyasi protektoratiga aylantirgan shartnoma qaysi yilda imzolandi?",
+answers = {
+{text = "1866-yilda", correct = false},
+{text = "1868-yilda", correct = true},
+{text = "1873-yilda", correct = false},
+{text = "1876-yilda", correct = false},
+}
+},
+{
+question = "Buxoro amirligiga Rossiya imperiyasining birinchi vakili etib kim tayinlandi?",
+answers = {
+{text = "N. Krijanovskiy", correct = false},
+{text = "Fon Kaufman", correct = false},
+{text = "P. Lessar", correct = true},
+{text = "M. Skobelev", correct = false},
+}
+},
+{
+question = "Gandimiyon shartnomasi qaysi yilda imzolandi?",
+answers = {
+{text = "1868-yilda", correct = false},
+{text = "1873-yilda", correct = true},
+{text = "1875-yilda", correct = false},
+{text = "1876-yilda", correct = false},
+}
+},
+{
+question = "Gandimiyon shartnomasiga ko'ra Xiva xonligi qancha tovonni 20 yil davomida to'lashi belgilandi?",
+answers = {
+{text = "1 million rubl", correct = false},
+{text = "2 million 200 ming rubl", correct = true},
+{text = "100 ming rubl", correct = false},
+{text = "3 million rubl", correct = false},
+}
+},
+{
+question = "Gandimiyon shartnomasini imzolashga qaysi Xiva xoni majbur bo'ldi?",
+answers = {
+{text = "Muhammad Rahimxon II", correct = true},
+{text = "Nasriddinbek", correct = false},
+{text = "Xudoyorxon", correct = false},
+{text = "Muzaffar", correct = false},
+}
+},
+{
+question = "1839-yilda Xiva xonligiga muvaffaqiyatsiz hujum uyushtirgan qo'mondon kim edi?",
+answers = {
+{text = "A. Bekovich-Cherkasskiy", correct = false},
+{text = "V. Perovskiy", correct = true},
+{text = "Fon Kaufman", correct = false},
+{text = "M. Chernyayev", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi taslim bo'lganligi haqidagi shartnoma qaysi yilda imzolandi?",
+answers = {
+{text = "1873-yilda", correct = false},
+{text = "1875-yilda", correct = true},
+{text = "1876-yilda", correct = false},
+{text = "1868-yilda", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi taslim bo'lganligi haqidagi shartnomani qaysi xon imzoladi?",
+answers = {
+{text = "Xudoyorxon", correct = false},
+{text = "Nasriddinbek", correct = true},
+{text = "Po'latxon", correct = false},
+{text = "Olimxon", correct = false},
+}
+},
+{
+question = "Namangan bo'limiga boshliq etib kim tayinlandi?",
+answers = {
+{text = "Fon Kaufman", correct = false},
+{text = "N. Krijanovskiy", correct = false},
+{text = "M. Skobelev", correct = true},
+{text = "P. Lessar", correct = false},
+}
+},
+{
+question = "Po'latxon nomi bilan mashhur bo'lgan shaxsning asl ismi nima edi?",
+answers = {
+{text = "Muhammad Ali", correct = false},
+{text = "Is'hoq Hasan o'g'li", correct = true},
+{text = "Ziyovuddin maxsum", correct = false},
+{text = "Yetimxon", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi tugatilganligi to'g'risidagi farmon qaysi yilda e'lon qilindi?",
+answers = {
+{text = "1873-yilda", correct = false},
+{text = "1875-yilda", correct = false},
+{text = "1876-yilda", correct = true},
+{text = "1880-yilda", correct = false},
+}
+},
+{
+question = "Qo'qon xonligi tugatilgach, uning hududida qaysi viloyat tashkil qilindi?",
+answers = {
+{text = "Sirdaryo viloyati", correct = false},
+{text = "Samarqand viloyati", correct = false},
+{text = "Farg'ona viloyati", correct = true},
+{text = "Yettisuv viloyati", correct = false},
+}
+},
+{
+question = "O'rta Osiyoning Rossiya imperiyasi tomonidan bosib olinishining to'rtinchi bosqichida kimlar bo'ysundirildi?",
+answers = {
+{text = "Qozoqlar", correct = false},
+{text = "Turkmanlar", correct = true},
+{text = "Qoraqalpoqlar", correct = false},
+{text = "Qirg'izlar", correct = false},
+}
+},
+{
+question = "Turkiston viloyatini idora qilish to'g'risidagi Muvaqqat Nizomni qaysi imperator tasdiqladi?",
+answers = {
+{text = "Aleksandr II", correct = true},
+{text = "Aleksandr III", correct = false},
+{text = "Nikolay I", correct = false},
+{text = "Nikolay II", correct = false},
+}
+},
+{
+question = "Turkiston viloyatini idora qilish to'g'risidagi Muvaqqat Nizom qaysi yilda tasdiqlandi?",
+answers = {
+{text = "1865-yilda", correct = true},
+{text = "1867-yilda", correct = false},
+{text = "1877-yilda", correct = false},
+{text = "1886-yilda", correct = false},
+}
+},
+{
+question = "Turkiston o'lkasida joriy etilgan boshqaruv tizimi qanday nom bilan atalgan?",
+answers = {
+{text = "Mustamlakachi boshqaruv", correct = false},
+{text = "Harbiy-xalq boshqaruvi", correct = true},
+{text = "Ma'muriy-hududiy boshqaruv", correct = false},
+{text = "Vassal boshqaruvi", correct = false},
+}
+},
+{
+question = "Boshqaruv tizimining quyi bosqichida volost boshlig'i yana qanday nomlangan?",
+answers = {
+{text = "Oqsoqol", correct = false},
+{text = "Mingboshi", correct = true},
+{text = "Yuzboshi", correct = false},
+{text = "Ellikboshi", correct = false},
+}
+},
+{
+question = "Har bir volost odatda necha o'toqli oiladan (o'tovdan) iborat bo'lgan?",
+answers = {
+{text = "100-200", correct = false},
+{text = "1000-2000", correct = true},
+{text = "500-800", correct = false},
+{text = "2000-3000", correct = false},
+}
+},
+{
+question = "Toshkentda «Shahar nizomi» qaysi yilda joriy etildi?",
+answers = {
+{text = "1865-yilda", correct = false},
+{text = "1867-yilda", correct = false},
+{text = "1877-yilda", correct = true},
+{text = "1886-yilda", correct = false},
+}
+},
+{
+question = "Toshkentdagi Duma tarkibida Yangi shahar hududidan necha nafar deputat qatnashgan?",
+answers = {
+{text = "21 nafar", correct = false},
+{text = "48 nafar", correct = true},
+{text = "80 nafar", correct = false},
+{text = "100 nafar", correct = false},
+}
+},
+{
+question = "Yangi «Turkiston o'lkasini boshqarish haqidagi Nizom» qaysi imperator tomonidan tasdiqlandi?",
+answers = {
+{text = "Aleksandr I", correct = false},
+{text = "Aleksandr II", correct = false},
+{text = "Aleksandr III", correct = true},
+{text = "Nikolay II", correct = false},
+}
+},
+{
+question = "1886-yilgi Nizomga muvofiq Zarafshon okrugi qaysi viloyatga aylantirildi?",
+answers = {
+{text = "Sirdaryo viloyatiga", correct = false},
+{text = "Samarqand viloyatiga", correct = true},
+{text = "Farg'ona viloyatiga", correct = false},
+{text = "Yettisuv viloyatiga", correct = false},
+}
+},
+{
+question = "1886-yilgi Nizomga ko'ra Qurama uyezdining nomi qanday o'zgartirildi?",
+answers = {
+{text = "Samarqand uyezdi", correct = false},
+{text = "Xo'jand uyezdi", correct = false},
+{text = "Toshkent uyezdi", correct = true},
+{text = "Jizzax uyezdi", correct = false},
+}
+},
+{
+question = "1886-yilgi Nizom asosida qanday yangi idora tashkil etildi?",
+answers = {
+{text = "Turkiston general-gubernatori Kengashi", correct = true},
+{text = "Davlat Dumasi", correct = false},
+{text = "Viloyat mahkamasi", correct = false},
+{text = "Siyosiy agentlik", correct = false},
+}
+},
+{
+question = "Buxoroda Rossiya imperatorining siyosiy agentligi qaysi yildan faoliyat yuritdi?",
+answers = {
+{text = "1873-yildan", correct = false},
+{text = "1877-yildan", correct = false},
+{text = "1885-yildan", correct = true},
+{text = "1886-yildan", correct = false},
+}
+},
+{
+question = "Turkiston general-gubernatori S. Duxovskoyning fikricha, Turkiston o'lkasi nimasi bilan alohida e'tiborni talab qilgan?",
+answers = {
+{text = "Boyligi bilan", correct = false},
+{text = "Tarixiy o'tmishi va etnografik xususiyatlari bilan", correct = true},
+{text = "Harbiy salohiyati bilan", correct = false},
+{text = "Savdo yo'llari bilan", correct = false},
+}
+},
+{
+question = "Rossiyadan ko'chib kelganlar dastlabki necha yil soliqlardan ozod etilgan?",
+answers = {
+{text = "3 yil", correct = false},
+{text = "5 yil", correct = true},
+{text = "7 yil", correct = false},
+{text = "10 yil", correct = false},
+}
+},
+{
+question = "Turkiston o'lkasida viloyatlarni kimlar boshqargan?",
+answers = {
+{text = "Uyezd boshliqlari", correct = false},
+{text = "Harbiy gubernatorlar", correct = true},
+{text = "Volost boshliqlari", correct = false},
+{text = "Oqsoqollar", correct = false},
+}
+},
+{
+question = "General-gubernatorlik devoni qanday organ hisoblangan?",
+answers = {
+{text = "Maslahat organi", correct = false},
+{text = "Asosiy ijrochi organ", correct = true},
+{text = "Sud organi", correct = false},
+{text = "Diniy organ", correct = false},
+}
+},
+{
+question = "1878-yilda Mingtepada kim boshchiligida qo'zg'olon ko'tarildi?",
+answers = {
+{text = "Dukchi eshon", correct = false},
+{text = "Yetimxon", correct = true},
+{text = "Darvishxon", correct = false},
+{text = "Po'latxon", correct = false},
+}
+},
+{
+question = "1885-yilning yozida Andijonda kim boshchiligida qo'zg'olon bo'lib o'tdi?",
+answers = {
+{text = "Yetimxon", correct = false},
+{text = "Darvishxon", correct = true},
+{text = "Dukchi eshon", correct = false},
+{text = "Ziyovuddin maxsum", correct = false},
+}
+},
+{
+question = "Tarixda «Vabo isyoni» yoki «Tosh otar voqeasi» nomi bilan mashhur bo'lgan qo'zg'olon qaysi yilda boshlandi?",
+answers = {
+{text = "1885-yilda", correct = false},
+{text = "1891-yilda", correct = false},
+{text = "1892-yilda", correct = true},
+{text = "1898-yilda", correct = false},
+}
+},
+{
+question = "«Vabo isyoni» davrida Toshkent shahar boshlig'i lavozimida kim ishlagan?",
+answers = {
+{text = "N. Korolkov", correct = false},
+{text = "S. Putinsev", correct = true},
+{text = "Fon Kaufman", correct = false},
+{text = "M. Skobelev", correct = false},
+}
+},
+{
+question = "«Vabo isyoni» paytida Eski shahar oqsoqoli kim edi?",
+answers = {
+{text = "Muhammad Yoqub", correct = true},
+{text = "Dukchi eshon", correct = false},
+{text = "Ziyovuddin maxsum", correct = false},
+{text = "Yetimxon", correct = false},
+}
+},
+{
+question = "Vabo kasalligi qaysi davlatdan Turkistonga tarqaldi?",
+answers = {
+{text = "Eron", correct = false},
+{text = "Afg'onistondan", correct = true},
+{text = "Hindiston", correct = false},
+{text = "Xitoy", correct = false},
+}
+},
+{
+question = "1892-yildan boshlab mustamlakachi ma'murlar norozilik bildirgan fuqarolarni qanday sudga bera boshladi?",
+answers = {
+{text = "Fuqarolik sudi", correct = false},
+{text = "Harbiy dala sudi", correct = true},
+{text = "Shariat sudi", correct = false},
+{text = "Qozilar sudi", correct = false},
+}
+},
+{
+question = "1886-yilgi Nizomga ko'ra Rossiyadan ko'chib kelganlar uchun nima tashkil etildi?",
+answers = {
+{text = "Harbiy okrug", correct = false},
+{text = "Yer fondi", correct = true},
+{text = "Siyosiy agentlik", correct = false},
+{text = "Duma", correct = false},
+}
+},
+{
+question = "1891-yilda qaysi viloyatga Rossiyadan ko'plab aholi ko'chirib keltirildi?",
+answers = {
+{text = "Sirdaryo viloyatiga", correct = false},
+{text = "Samarqand viloyatiga", correct = false},
+{text = "Farg'ona viloyatiga", correct = true},
+{text = "Yettisuv viloyatiga", correct = false},
+}
+},
+{
+question = "1898-yilgi Andijon qo'zg'oloniga kim rahbarlik qildi?",
+answers = {
+{text = "Yetimxon", correct = false},
+{text = "Darvishxon", correct = false},
+{text = "Dukchi eshon (Muhammad Ali)", correct = true},
+{text = "Po'latxon", correct = false},
+}
+},
+{
+question = "Dukchi eshonning asl ismi nima edi?",
+answers = {
+{text = "Is'hoq Hasan o'g'li", correct = false},
+{text = "Muhammad Ali", correct = true},
+{text = "Ziyovuddin maxsum", correct = false},
+{text = "Muhammad Yoqub", correct = false},
+}
+},
+{
+question = "Dukchi eshon boshchiligidagi qo'zg'olonchilarning bir qismiga kim boshchilik qildi?",
+answers = {
+{text = "Ziyovuddin maxsum", correct = true},
+{text = "Yetimxon", correct = false},
+{text = "Darvishxon", correct = false},
+{text = "Muhammad Yoqub", correct = false},
+}
+},
+{
+question = "1898-yilgi Andijon qo'zg'olonchilari qaysi obyektga hujum uyushtirdilar?",
+answers = {
+{text = "Viloyat mahkamasiga", correct = false},
+{text = "Harbiy kazarmaga", correct = true},
+{text = "Bozorga", correct = false},
+{text = "Vaqf yerlariga", correct = false},
+}
+},
+{
+question = "Andijon qo'zg'olonini bostirish uchun jazo ekspeditsiyasiga qaysi general-gubernator rahbarlik qildi?",
+answers = {
+{text = "Fon Kaufman", correct = false},
+{text = "M. Skobelev", correct = false},
+{text = "N. Korolkov", correct = true},
+{text = "S. Duxovskoy", correct = false},
+}
+},
+{
+question = "1880-yilning noyabrida qaysi tumanlarda xalq qo'zg'oloni bo'lib o'tdi?",
+answers = {
+{text = "Namangan va Chust", correct = false},
+{text = "Xo'jand va O'ratepa", correct = true},
+{text = "Andijon va Marg'ilon", correct = false},
+{text = "Jizzax va Samarqand", correct = false},
+}
+},
+{
+question = "1879-yilning kuzida qaysi hududda xalq qo'zg'oloni boshlandi?",
+answers = {
+{text = "Namangan", correct = false},
+{text = "Farg'ona", correct = true},
+{text = "Xo'jand", correct = false},
+{text = "Toshkent", correct = false},
+}
+},
+}
