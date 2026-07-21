@@ -1,0 +1,722 @@
+questions = {
+{
+question = "«Jadid» so'zi qaysi tildan olingan bo'lib, qanday ma'noni anglatadi?",
+answers = {
+{text = "Fors tilidan, «bilim»", correct = false},
+{text = "Arab tilidan, «yangi»", correct = true},
+{text = "Turk tilidan, «harakat»", correct = false},
+{text = "Rus tilidan, «ozodlik»", correct = false},
+}
+},
+{
+question = "Butun turkiy xalqlar o'rtasida yoyilgan jadidchilik harakatining asoschisi kim hisoblanadi?",
+answers = {
+{text = "Mahmudxo'ja Behbudiy", correct = false},
+{text = "Ismoil G'aspirali", correct = true},
+{text = "Munavvarqori Abdurashidxonov", correct = false},
+{text = "Abdulla Avloniy", correct = false},
+}
+},
+{
+question = "Ismoil G'aspirali qaysi yillarda yashagan?",
+answers = {
+{text = "1841-1904", correct = false},
+{text = "1851-1914", correct = true},
+{text = "1861-1920", correct = false},
+{text = "1871-1930", correct = false},
+}
+},
+{
+question = "Jadidchilik g'oyalarining keng yoyilishida qaysi gazeta muhim o'rin tutgan?",
+answers = {
+{text = "«Sadoi Turkiston»", correct = false},
+{text = "«Tarjimon»", correct = true},
+{text = "«Shuhrat»", correct = false},
+{text = "«Al-Isloh»", correct = false},
+}
+},
+{
+question = "Ismoil G'aspiralining Toshkent, Samarqand va Buxoroga tashrifi qaysi yilda bo'lib o'tgan?",
+answers = {
+{text = "1885-yilda", correct = false},
+{text = "1893-yilda", correct = true},
+{text = "1898-yilda", correct = false},
+{text = "1905-yilda", correct = false},
+}
+},
+{
+question = "Buxoro amirligida birinchi yangi usul maktabi qaysi yilda faoliyat ko'rsata boshlagan?",
+answers = {
+{text = "1888-yilda", correct = false},
+{text = "1893-yilda", correct = true},
+{text = "1898-yilda", correct = false},
+{text = "1905-yilda", correct = false},
+}
+},
+{
+question = "O'rta Osiyodagi milliy taraqqiyparvarlik harakati hududiy xususiyatiga ko'ra necha guruh jadidlarga bo'lingan?",
+answers = {
+{text = "2 ta", correct = false},
+{text = "3 ta", correct = true},
+{text = "4 ta", correct = false},
+{text = "5 ta", correct = false},
+}
+},
+{
+question = "Buxoroda jadidchilik harakati qaysi yildan boshlab siyosiy tashkilot sifatida shakllana boshladi?",
+answers = {
+{text = "1898-yildan", correct = false},
+{text = "1905-yildan", correct = false},
+{text = "1910-yildan", correct = true},
+{text = "1917-yildan", correct = false},
+}
+},
+{
+question = "Xiva xonligida jadidchilikning o'ng oqimiga kim boshchilik qilgan?",
+answers = {
+{text = "Bobooxun Salimov", correct = false},
+{text = "Islomxo'ja", correct = true},
+{text = "Polvonniyoz hoji Yusupov", correct = false},
+{text = "Fayzulla Xo'jayev", correct = false},
+}
+},
+{
+question = "Xiva xonligida jadidchilikning so'l oqimiga kim rahbarlik qilgan?",
+answers = {
+{text = "Islomxo'ja", correct = false},
+{text = "Bobooxun Salimov", correct = true},
+{text = "Abdurauf Fitrat", correct = false},
+{text = "Sadriddin Ayniy", correct = false},
+}
+},
+{
+question = "Turkistonda taraqqiyparvarlik harakati rivojlanishining birinchi bosqichi nimadan boshlangan?",
+answers = {
+{text = "Siyosiy kurashdan", correct = false},
+{text = "Ma'rifatparvarlikdan", correct = true},
+{text = "Qurolli qo'zg'olondan", correct = false},
+{text = "Diniy islohotdan", correct = false},
+}
+},
+{
+question = "Turkiston taraqqiyparvarlik harakati qaysi yilga kelib o'zining ikkinchi, siyosiy bosqichiga aylandi?",
+answers = {
+{text = "1905-yilga", correct = false},
+{text = "1910-yilga", correct = false},
+{text = "1917-yilga", correct = true},
+{text = "1920-yilga", correct = false},
+}
+},
+{
+question = "1898-yilda Qo'qon shahrida kim ikkinchi jadid maktabini ochdi?",
+answers = {
+{text = "Shamsiddin domla", correct = false},
+{text = "Mannon qori", correct = false},
+{text = "Salohiddin domla", correct = true},
+{text = "Munavvarqori", correct = false},
+}
+},
+{
+question = "1899-yilda Andijonda kim jadid maktabini ochdi?",
+answers = {
+{text = "Shamsiddin domla", correct = true},
+{text = "Mannon qori", correct = false},
+{text = "Salohiddin domla", correct = false},
+{text = "Bobooxun Salimov", correct = false},
+}
+},
+{
+question = "1899-yilda Toshkentda kim jadid maktabini ochdi?",
+answers = {
+{text = "Shamsiddin domla", correct = false},
+{text = "Mannon qori", correct = true},
+{text = "Salohiddin domla", correct = false},
+{text = "Munavvarqori", correct = false},
+}
+},
+{
+question = "1909-yildan boshlab yangi usul maktablarini ochish uchun nima talab qilingan?",
+answers = {
+{text = "Davlat mablag'i", correct = false},
+{text = "Maxsus ruxsatnoma", correct = true},
+{text = "Diniy ruxsat", correct = false},
+{text = "Xalqaro sertifikat", correct = false},
+}
+},
+{
+question = "O'rta Osiyo jadidchilik harakatining asoschisi va yo'lboshchisi sifatida tan olingan, «O'rta Osiyo jadidlarining otasi» deb ataluvchi shaxs kim edi?",
+answers = {
+{text = "Munavvarqori Abdurashidxonov", correct = false},
+{text = "Mahmudxo'ja Behbudiy", correct = true},
+{text = "Abdulla Avloniy", correct = false},
+{text = "Abdurauf Fitrat", correct = false},
+}
+},
+{
+question = "Mahmudxo'ja Behbudiy qaysi yillarda yashagan?",
+answers = {
+{text = "1865-1915", correct = false},
+{text = "1875-1919", correct = true},
+{text = "1878-1931", correct = false},
+{text = "1885-1925", correct = false},
+}
+},
+{
+question = "Abdulla Avloniy qaysi yilda va qaysi shaharda tug'ilgan?",
+answers = {
+{text = "1875-yilda Buxoroda", correct = false},
+{text = "1878-yilda Toshkentda", correct = true},
+{text = "1880-yilda Samarqandda", correct = false},
+{text = "1885-yilda Andijonda", correct = false},
+}
+},
+{
+question = "Abdulla Avloniy qaysi yilda «Shuhrat» gazetasiga asos solgan?",
+answers = {
+{text = "1905-yilda", correct = false},
+{text = "1907-yilda", correct = true},
+{text = "1910-yilda", correct = false},
+{text = "1917-yilda", correct = false},
+}
+},
+{
+question = "Munavvarqori Abdurashidxonov qaysi yillarda yashagan?",
+answers = {
+{text = "1875-1919", correct = false},
+{text = "1878-1931", correct = true},
+{text = "1880-1935", correct = false},
+{text = "1885-1938", correct = false},
+}
+},
+{
+question = "Abdulla Avloniy tomonidan qanday teatr truppasi tashkil etilgan?",
+answers = {
+{text = "«Sadoi Turkiston»", correct = false},
+{text = "«Turon»", correct = true},
+{text = "«Sho'royi islomiya»", correct = false},
+{text = "«Behbudiya»", correct = false},
+}
+},
+{
+question = "Mahmudxo'ja Behbudiy tashabbusi bilan otasi sharafiga qanday kutubxona tashkil qilingan?",
+answers = {
+{text = "«Munavvar kutubxonasi»", correct = false},
+{text = "«Behbudiya kutubxonasi»", correct = true},
+{text = "«Avloniya kutubxonasi»", correct = false},
+{text = "«Turon kutubxonasi»", correct = false},
+}
+},
+{
+question = "Andijonlik qaysi taraqqiyparvar o'z hisobidan ma'rifatparvarlik ishlariga katta mablag' ajratgan edi?",
+answers = {
+{text = "Mirkomil Mirmo'minboyev", correct = true},
+{text = "Abduvohid Burhonov", correct = false},
+{text = "Hamidxo'ja Mehriy", correct = false},
+{text = "Ahmadjon Abdusaidov", correct = false},
+}
+},
+{
+question = "1908-yilda Buxoroda «Tarbiyai atfol» («Bolalar tarbiyasi») jamiyatini kimlar tashkil qilgan?",
+answers = {
+{text = "Behbudiy va Avloniy", correct = false},
+{text = "Abduvohid Burhonov, Mukammil Burhonov va boshqalar", correct = true},
+{text = "Fitrat va Ayniy", correct = false},
+{text = "Islomxo'ja va Salimov", correct = false},
+}
+},
+{
+question = "«Tarbiyai atfol» jamiyati 1912-yilda nechta talabani Turkiyaga o'qishga yubordi?",
+answers = {
+{text = "15 nafar", correct = false},
+{text = "20 nafar", correct = false},
+{text = "30 nafar", correct = true},
+{text = "45 nafar", correct = false},
+}
+},
+{
+question = "1917-yil 10-avgustda Toshkent shahrida qanday jamiyat tashkil topdi?",
+answers = {
+{text = "«Tarbiyai atfol»", correct = false},
+{text = "«Sho'royi islomiya»", correct = false},
+{text = "«Fuqaho jamiyati»", correct = true},
+{text = "«Sho'royi ulamo»", correct = false},
+}
+},
+{
+question = "«Fuqaho jamiyati»ning nashri bo'lgan jurnal qanday nomlangan?",
+answers = {
+{text = "«Sadoi Turkiston»", correct = false},
+{text = "«Izhor ul-Haq»", correct = true},
+{text = "«Al-Isloh»", correct = false},
+{text = "«Shuhrat»", correct = false},
+}
+},
+{
+question = "Rossiyada huquqshunoslik bo'yicha ta'lim olib, birinchi oliy ma'lumotli o'zbek advokati bo'lgan taraqqiyparvar kim edi?",
+answers = {
+{text = "Ubaydullaxo'ja Asadullaxo'jayev", correct = true},
+{text = "Munavvarqori Abdurashidxonov", correct = false},
+{text = "Mahmudxo'ja Behbudiy", correct = false},
+{text = "Abdulla Avloniy", correct = false},
+}
+},
+{
+question = "Ubaydullaxo'ja Asadullaxo'jayev buyuk rus yozuvchisi kim bilan yozishmalar olib borgan?",
+answers = {
+{text = "Anton Chexov", correct = false},
+{text = "Lev Tolstoy", correct = true},
+{text = "Maksim Gorkiy", correct = false},
+{text = "Aleksandr Pushkin", correct = false},
+}
+},
+{
+question = "Hoji Muinning «Oila tarbiyasi» maqolasi qaysi gazetada chop etilgan?",
+answers = {
+{text = "«Sadoi Turkiston»", correct = false},
+{text = "«Mehnatkashlar tovushi»", correct = true},
+{text = "«Al-Isloh»", correct = false},
+{text = "«Shuhrat»", correct = false},
+}
+},
+{
+question = "1917-yilning fevral voqealaridan keyin jadidlar qanday siyosiy talablarni ilgari surdilar?",
+answers = {
+{text = "Faqat diniy erkinlik", correct = false},
+{text = "Mahalliy aholi huquqlarini kengaytirish va islohotlar o'tkazish", correct = true},
+{text = "Faqat iqtisodiy imtiyozlar", correct = false},
+{text = "Faqat harbiy islohotlar", correct = false},
+}
+},
+{
+question = "Toshkentda Turkiston muzeyi (hozirgi O'zbekiston tarixi davlat muzeyi) qaysi yilda tashkil etildi?",
+answers = {
+{text = "1868-yilda", correct = false},
+{text = "1870-yilda", correct = false},
+{text = "1876-yilda", correct = true},
+{text = "1886-yilda", correct = false},
+}
+},
+{
+question = "O'zbek tilidagi ilk tarixiy asar bo'lgan «Tarixi Turkiston» asarining muallifi kim edi?",
+answers = {
+{text = "Ahmad Donish", correct = false},
+{text = "Mulla Olim Mahdum hoji", correct = true},
+{text = "Abdulla Qodiriy", correct = false},
+{text = "Muqimiy", correct = false},
+}
+},
+{
+question = "Ulug'bek rasadxonasi binosi qoldiqlari qaysi yilda topilgan?",
+answers = {
+{text = "1898-yilda", correct = false},
+{text = "1908-yilda", correct = true},
+{text = "1912-yilda", correct = false},
+{text = "1917-yilda", correct = false},
+}
+},
+{
+question = "«O'rta Osiyo Olimlar jamiyati» qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1868-yilda", correct = false},
+{text = "1871-yilda", correct = true},
+{text = "1886-yilda", correct = false},
+{text = "1893-yilda", correct = false},
+}
+},
+{
+question = "«O'rta Osiyo Olimlar jamiyati» mablag' yo'qligi sababli qaysi yilda faoliyatini to'xtatdi?",
+answers = {
+{text = "1886-yilda", correct = false},
+{text = "1893-yilda", correct = true},
+{text = "1898-yilda", correct = false},
+{text = "1908-yilda", correct = false},
+}
+},
+{
+question = "Pomir tog' tizimini o'rganib, botanika va minerallarga oid namunalar to'plagan olim kim edi?",
+answers = {
+{text = "P. P. Semyonov-Tyan-Shanskiy", correct = false},
+{text = "N. A. Seversev", correct = true},
+{text = "A. Middendorf", correct = false},
+{text = "N. Krijanovskiy", correct = false},
+}
+},
+{
+question = "Tyanshan tog' tizimini o'rganib, muzlik va vulqonlar haqida ma'lumot to'plagan olim kim edi?",
+answers = {
+{text = "N. A. Seversev", correct = false},
+{text = "P. P. Semyonov-Tyan-Shanskiy", correct = true},
+{text = "A. Middendorf", correct = false},
+{text = "S. Duxovskoy", correct = false},
+}
+},
+{
+question = "Jadid adabiyotida 1910-yilda ilk nasriy asarlarini e'lon qilgan yozuvchi kim edi?",
+answers = {
+{text = "Muqimiy", correct = false},
+{text = "Furqat", correct = false},
+{text = "Abdulla Qodiriy", correct = true},
+{text = "Zavqiy", correct = false},
+}
+},
+{
+question = "Toshkentda Turkiston xalq kutubxonasi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1868-yilda", correct = false},
+{text = "1870-yilda", correct = true},
+{text = "1876-yilda", correct = false},
+{text = "1886-yilda", correct = false},
+}
+},
+{
+question = "Mahmudxo'ja Behbudiy tomonidan yozilgan mashhur pyesa qanday nomlangan?",
+answers = {
+{text = "«Padarkush»", correct = true},
+{text = "«Turkiy guliston»", correct = false},
+{text = "«Yer yuzi»", correct = false},
+{text = "«Adibi avval»", correct = false},
+}
+},
+{
+question = "Behbudiyning teatr haqidagi mashhur fikri qanday edi?",
+answers = {
+{text = "«Teatr – bu maktabdir»", correct = false},
+{text = "«Teatr – bu ibratxonadir»", correct = true},
+{text = "«Teatr – bu san'atdir»", correct = false},
+{text = "«Teatr – bu ma'rifatdir»", correct = false},
+}
+},
+{
+question = "1886-yilda Toshkent shahrida Rossiya Xalq maorifi vazirligiga tegishli nechta ta'lim muassasasi faoliyat yuritgan?",
+answers = {
+{text = "5 ta", correct = false},
+{text = "9 ta", correct = true},
+{text = "14 ta", correct = false},
+{text = "20 ta", correct = false},
+}
+},
+{
+question = "1889-yilga kelib Toshkentda Rossiya Xalq maorifi vazirligiga tegishli nechta ta'lim muassasasi bo'lgan?",
+answers = {
+{text = "9 ta", correct = false},
+{text = "14 ta", correct = true},
+{text = "20 ta", correct = false},
+{text = "25 ta", correct = false},
+}
+},
+{
+question = "Yigirmanchi asr boshlaridan O'zbekistonda zamonaviy futbol qoidalari asosida birinchi jamoa qaysi yilda tuzildi?",
+answers = {
+{text = "1908-yilda", correct = false},
+{text = "1912-yilda", correct = true},
+{text = "1917-yilda", correct = false},
+{text = "1920-yilda", correct = false},
+}
+},
+{
+question = "Xudoybergan Devonov qaysi yilda tug'ilgan va u qanday soha bilan mashhur bo'lgan?",
+answers = {
+{text = "1870-yilda, adabiyot bilan", correct = false},
+{text = "1878-yilda, fotosuratchilik bilan", correct = true},
+{text = "1885-yilda, me'morchilik bilan", correct = false},
+{text = "1890-yilda, tibbiyot bilan", correct = false},
+}
+},
+{
+question = "Xorazm maqomlarini xalqning daxlsiz mulki deb e'lon qilgan farmoni oliy qaysi yilda imzolangan?",
+answers = {
+{text = "1876-yilda", correct = false},
+{text = "1882-yilda", correct = true},
+{text = "1893-yilda", correct = false},
+{text = "1903-yilda", correct = false},
+}
+},
+{
+question = "Nikolay II taxtdan 1917-yilning qaysi kunida voz kechdi?",
+answers = {
+{text = "1-martda", correct = false},
+{text = "15-martda", correct = true},
+{text = "25-oktyabrda", correct = false},
+{text = "1-noyabrda", correct = false},
+}
+},
+{
+question = "Nikolay II taxtdan voz kechganidan so'ng Rossiyada hokimiyat boshqaruviga qanday hukumat keldi?",
+answers = {
+{text = "Sovet hukumati", correct = false},
+{text = "Muvaqqat hukumat", correct = true},
+{text = "Harbiy hukumat", correct = false},
+{text = "Millat hukumati", correct = false},
+}
+},
+{
+question = "1917-yil mart oyida tashkil topgan «Sho'royi islomiya» tashkilotiga kim rahbarlik qildi?",
+answers = {
+{text = "Mahmudxo'ja Behbudiy", correct = false},
+{text = "Munavvarqori Abdurashidxonov", correct = true},
+{text = "Abdurauf Fitrat", correct = false},
+{text = "Fayzulla Xo'jayev", correct = false},
+}
+},
+{
+question = "«Sho'royi islomiya»dan 1917-yil iyun oyida qanday tashkilot ajralib chiqdi?",
+answers = {
+{text = "«Sho'royi ulamo»", correct = true},
+{text = "«Turk adami markaziyat firqasi»", correct = false},
+{text = "«Fuqaho jamiyati»", correct = false},
+{text = "«Tarbiyai atfol»", correct = false},
+}
+},
+{
+question = "1917-yil iyul oyida «Sho'royi islomiya»dan ajralib chiqqan «Turk adami markaziyat firqasi» yana qanday nomlangan?",
+answers = {
+{text = "«Turkiston federalistlar partiyasi»", correct = true},
+{text = "«Turkiston sotsialistlar partiyasi»", correct = false},
+{text = "«Turkiston millatchilar ittifoqi»", correct = false},
+{text = "«Turkiston demokratlar firqasi»", correct = false},
+}
+},
+{
+question = "Butunturkiston musulmonlarining birinchi o'lka qurultoyi qaysi shaharda bo'lib o'tdi?",
+answers = {
+{text = "Buxoroda", correct = false},
+{text = "Toshkentda", correct = true},
+{text = "Samarqandda", correct = false},
+{text = "Andijonda", correct = false},
+}
+},
+{
+question = "Butunturkiston musulmonlarining birinchi o'lka qurultoyi 1917-yilning qaysi kunlari bo'lib o'tdi?",
+answers = {
+{text = "16-23 mart", correct = false},
+{text = "16-23 aprel", correct = true},
+{text = "16-23 iyun", correct = false},
+{text = "16-23 avgust", correct = false},
+}
+},
+{
+question = "Butunturkiston musulmonlarining birinchi o'lka qurultoyida taxminan nechta delegat qatnashdi?",
+answers = {
+{text = "100 ga yaqin", correct = false},
+{text = "150 ga yaqin", correct = true},
+{text = "200 ga yaqin", correct = false},
+{text = "250 ga yaqin", correct = false},
+}
+},
+{
+question = "Turkistonda paydo bo'lgan uchinchi hokimiyatchilik qanday nomlangan?",
+answers = {
+{text = "Rossiya Muvaqqat hukumatining vaqtli Turkiston komiteti", correct = false},
+{text = "Ishchi va askar deputatlari Sovetlari", correct = false},
+{text = "«Sho'royi islomiya» tashkiloti va Milliy Markaz", correct = true},
+{text = "Bolsheviklar partiyasi", correct = false},
+}
+},
+{
+question = "Bolsheviklar Toshkentda sovet hokimiyatini qaysi kunda o'rnatdilar?",
+answers = {
+{text = "1917-yil 25-oktyabrda", correct = false},
+{text = "1917-yil 1-noyabrda", correct = true},
+{text = "1917-yil 15-martda", correct = false},
+{text = "1918-yil 1-yanvarda", correct = false},
+}
+},
+{
+question = "Rossiya markazida bolsheviklar hokimiyatni qanday yo'l bilan egallab oldilar?",
+answers = {
+{text = "Tinch yo'l bilan", correct = false},
+{text = "Zo'ravonlik yo'li bilan to'ntarish yasab", correct = true},
+{text = "Saylov orqali", correct = false},
+{text = "Muzokaralar orqali", correct = false},
+}
+},
+{
+question = "Jadidchilik harakatining yirik nazariyotchisi Abdurauf Fitrat bolsheviklarni qanday atagan?",
+answers = {
+{text = "«Ozodlik farishtasi»", correct = false},
+{text = "«Bolshevik balosi»", correct = true},
+{text = "«Yangi tong»", correct = false},
+{text = "«Xalq do'sti»", correct = false},
+}
+},
+{
+question = "Mahmudxo'ja Behbudiy tomonidan ilgari surilgan va butun millatning jangovar chaqirig'iga aylangan shior qanday edi?",
+answers = {
+{text = "«Ozodlik yoki o'lim!»", correct = false},
+{text = "«Haq olinur, berilmas!»", correct = true},
+{text = "«Yashasin mustaqillik!»", correct = false},
+{text = "«Birlik va tenglik!»", correct = false},
+}
+},
+{
+question = "Turkiston bo'ylab eski ma'muriyat idoralari Muvaqqat hukumat tomonidan tugatilib, o'rniga qanday qo'mitalar tashkil topa boshladi?",
+answers = {
+{text = "Harbiy qo'mitalar", correct = false},
+{text = "Jamoat xavfsizligi qo'mitalari", correct = true},
+{text = "Diniy qo'mitalar", correct = false},
+{text = "Savdo qo'mitalari", correct = false},
+}
+},
+{
+question = "Muvaqqat hukumat qonuniga ko'ra, to'qqiz yoshga yetmagan va ota-onasi ma'lum bo'lmagan bolalar kimning dinida hisoblangan?",
+answers = {
+{text = "Otasining dinida", correct = false},
+{text = "Onasining dinida", correct = false},
+{text = "Vasiylarining dinida", correct = true},
+{text = "Davlat dinida", correct = false},
+}
+},
+{
+question = "Rossiyaning Birinchi jahon urushidagi muvaffaqiyatsizligi va iqtisodiy inqiroz natijasida nima boshlandi?",
+answers = {
+{text = "Ocharchilik", correct = true},
+{text = "Vabo epidemiyasi", correct = false},
+{text = "Er qo'zg'olishi", correct = false},
+{text = "Suv toshqini", correct = false},
+}
+},
+{
+question = "Yosh buxoroliklar o'z faoliyatlarini qaysi yildan boshlashgan?",
+answers = {
+{text = "1905-yildan", correct = false},
+{text = "1910-yildan", correct = true},
+{text = "1915-yildan", correct = false},
+{text = "1917-yildan", correct = false},
+}
+},
+{
+question = "Yosh buxoroliklar siyosiy harakatining tashkil etilishiga qaysi tashkilot katta ta'sir ko'rsatgan?",
+answers = {
+{text = "«Tarjimon» gazetasi", correct = false},
+{text = "Yosh turklarning «Ittihodi va taraqqiy» partiyasi", correct = true},
+{text = "«Sho'royi islomiya»", correct = false},
+{text = "Rossiya Davlat Dumasi", correct = false},
+}
+},
+{
+question = "Amir Abdulahad qaysi yilning 10-dekabr kunida vafot etdi?",
+answers = {
+{text = "1905-yilda", correct = false},
+{text = "1910-yilda", correct = true},
+{text = "1915-yilda", correct = false},
+{text = "1917-yilda", correct = false},
+}
+},
+{
+question = "Amir Abdulahad vafotidan so'ng Buxoro taxtini kim egalladi?",
+answers = {
+{text = "Muzaffar", correct = false},
+{text = "Nasrullo", correct = false},
+{text = "Said Olimxon", correct = true},
+{text = "Abdulahad II", correct = false},
+}
+},
+{
+question = "Amir Abdulahad o'g'li Sayid Olimxonni qaysi yilda Peterburgga o'qishga jo'natgan edi?",
+answers = {
+{text = "1888-yilda", correct = false},
+{text = "1893-yilda", correct = true},
+{text = "1898-yilda", correct = false},
+{text = "1905-yilda", correct = false},
+}
+},
+{
+question = "Sayid Olimxon Peterburgda necha yil davomida harbiy ishlar va davlat boshqaruvi asoslarini o'rgangan?",
+answers = {
+{text = "2 yil", correct = false},
+{text = "3 yil", correct = true},
+{text = "5 yil", correct = false},
+{text = "7 yil", correct = false},
+}
+},
+{
+question = "1917-yil bahorida amirning farmonini kim o'qib eshittirdi?",
+answers = {
+{text = "Qo'shbegi", correct = false},
+{text = "Bosh qozi", correct = true},
+{text = "Devonbegi", correct = false},
+{text = "Shayxulislom", correct = false},
+}
+},
+{
+question = "1917-yil 8-aprelda jadidlar qaysi shaharlarda namoyishlar o'tkazishdi?",
+answers = {
+{text = "Buxoro va Samarqand", correct = false},
+{text = "Karki va Buxoro", correct = true},
+{text = "Toshkent va Qarshi", correct = false},
+{text = "Chorjo'y va Termiz", correct = false},
+}
+},
+{
+question = "Buxorodagi namoyishga to'plangan taxminan nechta kishiga Fayzulla Xo'jayev va Abdurauf Fitrat boshchilik qilishdi?",
+answers = {
+{text = "100 kishi", correct = false},
+{text = "150 kishi", correct = true},
+{text = "200 kishi", correct = false},
+{text = "300 kishi", correct = false},
+}
+},
+{
+question = "1917-yilgi Buxoro namoyishida nechta namoyishchi hibsga olindi?",
+answers = {
+{text = "20 dan ziyod", correct = false},
+{text = "30 dan ziyod", correct = true},
+{text = "50 dan ziyod", correct = false},
+{text = "100 dan ziyod", correct = false},
+}
+},
+{
+question = "1920-yil yanvarda Toshkentda Fayzulla Xo'jayev rahbarligida qanday tashkilot tuzildi?",
+answers = {
+{text = "«Yosh buxoroliklar qo'mitasi»", correct = false},
+{text = "«Inqilobchi yosh buxoroliklarning Turkistondagi markaziy byurosi»", correct = true},
+{text = "«Fuqaho jamiyati»", correct = false},
+{text = "«Sho'royi ulamo»", correct = false},
+}
+},
+{
+question = "1920-yil avgustda Chorjo'yda qanday qo'mita tuzildi?",
+answers = {
+{text = "Muvaqqat inqilobiy qo'mita", correct = true},
+{text = "Xalq Nozirlar Kengashi", correct = false},
+{text = "Ijroiya qo'mitasi", correct = false},
+{text = "Milliy Markaz", correct = false},
+}
+},
+{
+question = "Sovet qo'shinlari hujumidan so'ng amir Olimxon qayerga chekinishga majbur bo'ldi?",
+answers = {
+{text = "Eronga", correct = false},
+{text = "Afg'onistonga", correct = true},
+{text = "Hindistonga", correct = false},
+{text = "Turkiyaga", correct = false},
+}
+},
+{
+question = "Bolsheviklar armiyasi qo'shinlari qaysi kunda Buxoroga kirdi?",
+answers = {
+{text = "1920-yil 2-avgustda", correct = false},
+{text = "1920-yil 2-sentyabrda", correct = true},
+{text = "1920-yil 6-oktyabrda", correct = false},
+{text = "1920-yil 1-noyabrda", correct = false},
+}
+},
+{
+question = "Buxoro Xalq Sovet Respublikasi va birinchi hukumat – Xalq Nozirlar Kengashi qaysi kunda tuzilganligi e'lon qilindi?",
+answers = {
+{text = "1920-yil 2-sentyabrda", correct = false},
+{text = "1920-yil 6-oktyabrda", correct = true},
+{text = "1920-yil 15-noyabrda", correct = false},
+{text = "1921-yil 1-yanvarda", correct = false},
+}
+},
+{
+question = "Buxoro Xalq Sovet Respublikasining birinchi hukumati – Xalq Nozirlar Kengashiga kim boshchilik qildi?",
+answers = {
+{text = "Abdurauf Fitrat", correct = false},
+{text = "Fayzulla Xo'jayev", correct = true},
+{text = "Sadriddin Ayniy", correct = false},
+{text = "Usmon Xo'ja", correct = false},
+}
+},
+}

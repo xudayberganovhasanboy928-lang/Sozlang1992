@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Muhammad Rahimxon II vafotidan so'ng Xiva taxtini kim egalladi?",
+answers = {
+{text = "Said Abdulla", correct = false},
+{text = "Asfandiyorxon", correct = true},
+{text = "Junaydxon", correct = false},
+{text = "Polvonniyoz Yusupov", correct = false},
+}
+},
+{
+question = "Asfandiyorxon qaysi yillarda hukmronlik qilgan?",
+answers = {
+{text = "1905-1915", correct = false},
+{text = "1910-1918", correct = true},
+{text = "1915-1920", correct = false},
+{text = "1918-1924", correct = false},
+}
+},
+{
+question = "1917-yil 4-aprel kuni xon devonxonasi ro'parasida taxminan qancha kishi ishtirokida namoyish bo'lib o'tdi?",
+answers = {
+{text = "1 ming kishi", correct = false},
+{text = "Bir necha ming kishi", correct = true},
+{text = "10 ming kishi", correct = false},
+{text = "100 ming kishi", correct = false},
+}
+},
+{
+question = "1917-yil 5-aprel kuni Asfandiyorxon nimani imzoladi?",
+answers = {
+{text = "Konstitutsiyani", correct = false},
+{text = "Yosh xivaliklar taqdim etgan manifestni", correct = true},
+{text = "Sulh shartnomasini", correct = false},
+{text = "Farmoni oliyni", correct = false},
+}
+},
+{
+question = "Xorazm manifestga muvofiq qanday boshqaruv shakli sifatida belgilandi?",
+answers = {
+{text = "Respublika", correct = false},
+{text = "Konstitutsiyaviy monarxiya", correct = true},
+{text = "Sovet respublikasi", correct = false},
+{text = "Federatsiya", correct = false},
+}
+},
+{
+question = "1917-yil 26-aprelda bo'lib o'tgan Majlisning birinchi sessiyasida nechta xivalik deputat ishtirok etdi?",
+answers = {
+{text = "15 nafar", correct = false},
+{text = "30 nafar", correct = true},
+{text = "45 nafar", correct = false},
+{text = "60 nafar", correct = false},
+}
+},
+{
+question = "Majlisning birinchi sessiyasida turkmanlardan nechta vakil ishtirok etdi?",
+answers = {
+{text = "5 nafar", correct = false},
+{text = "7 nafar", correct = true},
+{text = "10 nafar", correct = false},
+{text = "12 nafar", correct = false},
+}
+},
+{
+question = "Asfandiyorxon bosh qo'mondon etib kimni tayinladi?",
+answers = {
+{text = "Polvonniyoz Yusupov", correct = false},
+{text = "Junaydxon", correct = true},
+{text = "Husaynbek Matmurodov", correct = false},
+{text = "Said Abdulla", correct = false},
+}
+},
+{
+question = "Junaydxon qaysi yilning oktyabr oyida davlat to'ntarishini amalga oshirdi?",
+answers = {
+{text = "1916-yilda", correct = false},
+{text = "1917-yilda", correct = false},
+{text = "1918-yilda", correct = true},
+{text = "1920-yilda", correct = false},
+}
+},
+{
+question = "Junaydxon Asfandiyorxonga qaysi saroyda suiqasd uyushtirdi?",
+answers = {
+{text = "Toshhovli saroyida", correct = false},
+{text = "Nurullaboy saroyida", correct = true},
+{text = "Kunya-Ark saroyida", correct = false},
+{text = "Islomxo'ja saroyida", correct = false},
+}
+},
+{
+question = "Asfandiyorxon suiqasddan so'ng taxtga uning kimi o'tirdi?",
+answers = {
+{text = "O'g'li", correct = false},
+{text = "Akasi Said Abdulla", correct = true},
+{text = "Ukasi Muhammad Rahim", correct = false},
+{text = "Amakisi Polvonniyoz", correct = false},
+}
+},
+{
+question = "Amalda hokimiyat kim qo'lida to'plangan edi?",
+answers = {
+{text = "Said Abdulla", correct = false},
+{text = "Junaydxon", correct = true},
+{text = "Polvonniyoz Yusupov", correct = false},
+{text = "Husaynbek Matmurodov", correct = false},
+}
+},
+{
+question = "1920-yil yanvar oyidan Xivaga qarshi hujumga qaysi kuchlar o'tgan edi?",
+answers = {
+{text = "Angliya qo'shinlari", correct = false},
+{text = "Sovetlar", correct = true},
+{text = "Buxoro amiri qo'shini", correct = false},
+{text = "Eron qo'shini", correct = false},
+}
+},
+{
+question = "Said Abdullaxon qaysi yilda taxtdan voz kechdi?",
+answers = {
+{text = "1918-yilda", correct = false},
+{text = "1919-yilda", correct = false},
+{text = "1920-yilda", correct = true},
+{text = "1921-yilda", correct = false},
+}
+},
+{
+question = "Butunxorazm qurultoyi 1920-yilning qaysi kunlarida Xivada bo'lib o'tdi?",
+answers = {
+{text = "27-30 mart", correct = false},
+{text = "27-30 aprel", correct = true},
+{text = "27-30 iyun", correct = false},
+{text = "27-30 avgust", correct = false},
+}
+},
+{
+question = "Butunxorazm qurultoyida saylangan Xalq Nozirlar Kengashining birinchi raisi kim bo'ldi?",
+answers = {
+{text = "Junaydxon", correct = false},
+{text = "Said Abdulla", correct = false},
+{text = "Polvonniyoz Yusupov", correct = true},
+{text = "Husaynbek Matmurodov", correct = false},
+}
+},
+{
+question = "Butunturkiston o'lka musulmonlarining favqulodda IV qurultoyi qaysi shaharda bo'lib o'tdi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Qo'qonda", correct = true},
+{text = "Samarqandda", correct = false},
+{text = "Buxoroda", correct = false},
+}
+},
+{
+question = "Butunturkiston o'lka musulmonlarining favqulodda IV qurultoyi 1917-yilning qaysi kunlarida bo'lib o'tdi?",
+answers = {
+{text = "16-23 aprel", correct = false},
+{text = "26-28 noyabr", correct = true},
+{text = "19-26 yanvar", correct = false},
+{text = "22-fevral", correct = false},
+}
+},
+{
+question = "Turkiston Muxtoriyati qaysi kuni tashkil topgan hukumat sifatida e'lon qilindi?",
+answers = {
+{text = "26-noyabrda", correct = false},
+{text = "27-noyabrda", correct = true},
+{text = "28-noyabrda", correct = false},
+{text = "30-noyabrda", correct = false},
+}
+},
+{
+question = "Turkiston Muxtoriyati hukumati jami necha kun umr ko'rdi?",
+answers = {
+{text = "45 kun", correct = false},
+{text = "60 kun", correct = false},
+{text = "72 kun", correct = true},
+{text = "90 kun", correct = false},
+}
+},
+{
+question = "Toshkent Sovetiga o'sha davrda kim rahbarlik qilgan?",
+answers = {
+{text = "P. Kobozev", correct = false},
+{text = "Ivan Tobolin", correct = true},
+{text = "N. Veryovkin-Roxalskiy", correct = false},
+{text = "M. Frunze", correct = false},
+}
+},
+{
+question = "Bolsheviklar qaysi yilning 19-yanvarida Orenburgni qo'lga oldilar?",
+answers = {
+{text = "1917-yilda", correct = false},
+{text = "1918-yilda", correct = true},
+{text = "1919-yilda", correct = false},
+{text = "1920-yilda", correct = false},
+}
+},
+{
+question = "Turkiston o'lkasi ishchi, soldat va dehqon deputatlari Sovetlarining favqulodda IV syezdi qachon bo'lib o'tdi?",
+answers = {
+{text = "1917-yil 26-28 noyabrda", correct = false},
+{text = "1918-yil 19-26 yanvarda", correct = true},
+{text = "1918-yil 22-fevralda", correct = false},
+{text = "1918-yil 30-aprelda", correct = false},
+}
+},
+{
+question = "Turkiston Respublikasi Xalq Komissarlari Soveti harbiy harakatlarni qaysi kuni boshladi?",
+answers = {
+{text = "1918-yil 19-yanvarda", correct = false},
+{text = "1918-yil 30-yanvarda", correct = true},
+{text = "1918-yil 22-fevralda", correct = false},
+{text = "1918-yil 31-yanvarda", correct = false},
+}
+},
+{
+question = "Bolsheviklar Qo'qondagi Turkiston Muxtoriyati hukumatini tarqatib yuborish haqida qarorni qaysi kuni qabul qildilar?",
+answers = {
+{text = "1918-yil 19-yanvarda", correct = false},
+{text = "1918-yil 30-yanvarda", correct = false},
+{text = "1918-yil 31-yanvarda", correct = true},
+{text = "1918-yil 22-fevralda", correct = false},
+}
+},
+{
+question = "Qo'qon shahridagi Rus-Osiyo banki binosida «tinchlik shartnomasi» qaysi kuni imzolandi?",
+answers = {
+{text = "1918-yil 19-yanvarda", correct = false},
+{text = "1918-yil 30-yanvarda", correct = false},
+{text = "1918-yil 31-yanvarda", correct = false},
+{text = "1918-yil 22-fevralda", correct = true},
+}
+},
+{
+question = "«Tinchlik shartnomasi»ning 2-moddasiga ko'ra aholi nimani tan olishi lozim edi?",
+answers = {
+{text = "Turkiston Muxtoriyatini", correct = false},
+{text = "Xalq Komissarlari Soveti hokimiyati va barcha mahalliy sovet tashkilotlarini", correct = true},
+{text = "Amir hokimiyatini", correct = false},
+{text = "Xon hokimiyatini", correct = false},
+}
+},
+{
+question = "Fitrat muxtoriyat e'lon qilingan 27-noyabr tunini qanday atagan?",
+answers = {
+{text = "«Milliy uyg'onish»", correct = false},
+{text = "«Milliy laylatulqadrimiz»", correct = true},
+{text = "«Milliy bayram»", correct = false},
+{text = "«Milliy ozodlik»", correct = false},
+}
+},
+{
+question = "Turkiston Muxtoriyati tashkil topgach, hokimiyat qaysi ikki organ qo'lida jamlandi?",
+answers = {
+{text = "Muvaqqat kengash va Turkiston Milliy majlisi", correct = true},
+{text = "Xalq Komissarlari Soveti va Ijroiya qo'mitasi", correct = false},
+{text = "Sho'royi islomiya va Sho'royi ulamo", correct = false},
+{text = "Kraymussovet va Milliy Markaz", correct = false},
+}
+},
+{
+question = "Turkiston Muxtoriyati e'lon qilingan qarorga ko'ra, u Rossiya Federativ Respublikasi tarkibida qanday deb e'lon qilindi?",
+answers = {
+{text = "Mustaqil davlat", correct = false},
+{text = "Hududiy jihatdan muxtor", correct = true},
+{text = "Vassal davlat", correct = false},
+{text = "Avtonom viloyat", correct = false},
+}
+},
+{
+question = "Turkiston Muxtoriyati hukumatini tugatish uchun bolsheviklar qizil gvardiyachilardan tashqari yana kimlardan foydalandilar?",
+answers = {
+{text = "Xorijiy legionlardan", correct = false},
+{text = "Yollangan qurolli guruhlardan", correct = true},
+{text = "Kazak otryadlaridan", correct = false},
+{text = "Musulmon askarlaridan", correct = false},
+}
+},
+{
+question = "Turkiston Muxtoriyatining tugatilishi natijasida qaysi shaharda ko'plab aholi halok bo'ldi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Samarqandda", correct = false},
+{text = "Qo'qonda", correct = true},
+{text = "Buxoroda", correct = false},
+}
+},
+{
+question = "Sovet hukumati topshirig'i bilan O'rta Osiyoning favqulodda komissari etib kim Toshkentga jo'natildi?",
+answers = {
+{text = "Ivan Tobolin", correct = false},
+{text = "P. Kobozev", correct = true},
+{text = "M. Frunze", correct = false},
+{text = "I. V. Stalin", correct = false},
+}
+},
+{
+question = "«RSFSRning Turkiston Sovet Respublikasi haqidagi Nizom» qaysi kuni qabul qilindi?",
+answers = {
+{text = "1918-yil 19-yanvarda", correct = false},
+{text = "1918-yil 22-fevralda", correct = false},
+{text = "1918-yil 30-aprelda", correct = true},
+{text = "1918-yil 31-yanvarda", correct = false},
+}
+},
+{
+question = "Nizomga ko'ra RSFSR tarkibida qanday avtonom respublika tuzilganligi e'lon qilindi?",
+answers = {
+{text = "Buxoro Xalq Sovet Respublikasi", correct = false},
+{text = "Turkiston Avtonom Sovet Sotsialistik Respublikasi", correct = true},
+{text = "Xorazm Xalq Sovet Respublikasi", correct = false},
+{text = "Qozog'iston ASSR", correct = false},
+}
+},
+{
+question = "Turkiston ASSR tarkibiga qaysi hududlar kirmadi?",
+answers = {
+{text = "Sirdaryo va Farg'ona viloyatlari", correct = false},
+{text = "Buxoro amirligi va Xiva xonligi", correct = true},
+{text = "Samarqand viloyati", correct = false},
+{text = "Yettisuv viloyati", correct = false},
+}
+},
+{
+question = "Moskva Turkiston ASSR ustidan nazorat o'rnatish uchun yana qanday idora tuzdi?",
+answers = {
+{text = "Xalq Nozirlar Kengashi", correct = false},
+{text = "Turkiston komissiyasi", correct = true},
+{text = "Milliy Markaz", correct = false},
+{text = "Kraymussovet", correct = false},
+}
+},
+{
+question = "1918-1920-yillar mobaynida yuritilgan iqtisodiy siyosat qanday nomlangan?",
+answers = {
+{text = "NEP", correct = false},
+{text = "«Harbiy kommunizm»", correct = true},
+{text = "Industrlashtirish", correct = false},
+{text = "Kollektivlashtirish", correct = false},
+}
+},
+{
+question = "«Harbiy kommunizm» siyosati davrida dehqonlar mahsulotning ortiqchasini davlatga qanday topshirgan?",
+answers = {
+{text = "Soliq sifatida", correct = false},
+{text = "Oziq-ovqat razvyorstkasi (taqsimoti) orqali", correct = true},
+{text = "Ijara haqi sifatida", correct = false},
+{text = "Bozor orqali sotib", correct = false},
+}
+},
+{
+question = "«Harbiy kommunizm» davrida mehnatga yaroqli barcha aholi qanday jarayonga jalb qilindi?",
+answers = {
+{text = "Ixtiyoriy mehnatga", correct = false},
+{text = "Majburiy mehnatga (mehnat militarizatsiyasi)", correct = true},
+{text = "Qishloq xo'jaligiga", correct = false},
+{text = "Harbiy xizmatga", correct = false},
+}
+},
+{
+question = "NEP (Yangi iqtisodiy siyosat)ning asosiy mohiyati nimadan iborat edi?",
+answers = {
+{text = "Xususiy mulkni yanada kengaytirish", correct = false},
+{text = "Dehqonlarga bir qadar erkinlik berish", correct = true},
+{text = "Sanoatni to'liq davlatlashtirish", correct = false},
+{text = "Chet el investitsiyalarini jalb qilish", correct = false},
+}
+},
+{
+question = "1921-yil ko'klamiga kelib mamlakat iqtisodiy munosabatlarida qanday o'zgarish yuz berdi?",
+answers = {
+{text = "«Harbiy kommunizm» kuchaytirildi", correct = false},
+{text = "Keskin o'zgarishlar yuzaga keldi", correct = true},
+{text = "Hech qanday o'zgarish bo'lmadi", correct = false},
+{text = "Bozor iqtisodiyoti butunlay tugatildi", correct = false},
+}
+},
+{
+question = "O'rta Osiyoda xususiy mulkni tugatish maqsadida qanday islohot amalga oshirildi?",
+answers = {
+{text = "Sanoat islohoti", correct = false},
+{text = "Yer-suv islohoti", correct = true},
+{text = "Ta'lim islohoti", correct = false},
+{text = "Pul islohoti", correct = false},
+}
+},
+{
+question = "Yer-suv islohotining dastlabki natijasiga ko'ra yer tuzish jamg'armasiga qancha yer qo'shildi?",
+answers = {
+{text = "600.000 desyatina", correct = false},
+{text = "1.722.626 desyatina", correct = true},
+{text = "2.000.000 desyatina", correct = false},
+{text = "500.000 desyatina", correct = false},
+}
+},
+{
+question = "Sovet hokimiyati tomonidan mahalliy aholiga ekin ekish va yaylovlar uchun qancha yer ajratildi?",
+answers = {
+{text = "600.000 desyatina", correct = true},
+{text = "1.722.626 desyatina", correct = false},
+{text = "1.000.000 desyatina", correct = false},
+{text = "2.000.000 desyatina", correct = false},
+}
+},
+{
+question = "O'rta Osiyoda xususiy mulkni tugatish qaysi yillardan boshlandi?",
+answers = {
+{text = "1918-1919-yillardan", correct = false},
+{text = "1921-1922-yillardan", correct = true},
+{text = "1924-1925-yillardan", correct = false},
+{text = "1929-1930-yillardan", correct = false},
+}
+},
+{
+question = "Katta yer egaligi dastlab qaysi respublikalarda yo'qotildi?",
+answers = {
+{text = "Buxoro va Xorazmda", correct = false},
+{text = "Turkiston ASSR va Qozog'iston ASSRda", correct = true},
+{text = "Faqat Farg'ona viloyatida", correct = false},
+{text = "Faqat Samarqand viloyatida", correct = false},
+}
+},
+{
+question = "Yer-suv islohoti jarayonida yana qanday yerlar tugatila boshlandi?",
+answers = {
+{text = "Xususiy bog'lar", correct = false},
+{text = "Vaqf yerlari", correct = true},
+{text = "Davlat yerlari", correct = false},
+{text = "Chorva yaylovlari", correct = false},
+}
+},
+{
+question = "Turkistonda sovet hokimiyatiga qarshi milliy-ozodlik harakati qancha yil davom etgan?",
+answers = {
+{text = "10 yilga yaqin", correct = false},
+{text = "15 yilga yaqin", correct = false},
+{text = "Sal kam 20 yil", correct = true},
+{text = "25 yildan ortiq", correct = false},
+}
+},
+{
+question = "Sovet hokimiyatiga qarshi kurash qaysi yilning fevral oyi oxirlarida boshlandi?",
+answers = {
+{text = "1917-yilda", correct = false},
+{text = "1918-yilda", correct = true},
+{text = "1919-yilda", correct = false},
+{text = "1920-yilda", correct = false},
+}
+},
+{
+question = "Farg'ona vodiysidagi istiqlolchilik harakati qaysi davrda o'zining eng yuqori cho'qqisiga chiqdi?",
+answers = {
+{text = "1918-yil bahorida", correct = false},
+{text = "1919-yil yozi oxiri va kuzida", correct = true},
+{text = "1920-yil qishida", correct = false},
+{text = "1921-yil bahorida", correct = false},
+}
+},
+{
+question = "Madaminbek boshchiligida Farg'ona muvaqqat muxtoriyat hukumati qaysi ovulda tuzildi?",
+answers = {
+{text = "Qo'qonda", correct = false},
+{text = "Ergashtomda", correct = true},
+{text = "Andijonda", correct = false},
+{text = "Marg'ilonda", correct = false},
+}
+},
+{
+question = "Farg'ona muvaqqat muxtoriyat hukumati qaysi kuni tuzildi?",
+answers = {
+{text = "1919-yil 12-oktyabrda", correct = true},
+{text = "1919-yil 12-noyabrda", correct = false},
+{text = "1920-yil 12-yanvarda", correct = false},
+{text = "1918-yil 12-fevralda", correct = false},
+}
+},
+{
+question = "1919-yil kech kuzida Madaminbek qo'l ostida taxminan nechta yigit bo'lgan?",
+answers = {
+{text = "8 000 nafar", correct = false},
+{text = "20 000 nafar", correct = false},
+{text = "30 000 nafarga yaqin", correct = true},
+{text = "50 000 nafar", correct = false},
+}
+},
+{
+question = "Madaminbek va N. Veryovkin-Roxalskiy o'rtasida yarash bitimi qaysi shaharda imzolandi?",
+answers = {
+{text = "Qo'qonda", correct = false},
+{text = "Skobelev shahrida", correct = true},
+{text = "Andijonda", correct = false},
+{text = "Marg'ilonda", correct = false},
+}
+},
+{
+question = "Madaminbek qaysi yilning mayida noaniq vaziyatda o'ldirildi?",
+answers = {
+{text = "1919-yilda", correct = false},
+{text = "1920-yilda", correct = true},
+{text = "1921-yilda", correct = false},
+{text = "1922-yilda", correct = false},
+}
+},
+{
+question = "Sobiq amir Olimxon 1921-yil mart oyida mag'lubiyatga uchrab qayerga o'tib ketdi?",
+answers = {
+{text = "Eronga", correct = false},
+{text = "Afg'onistonga", correct = true},
+{text = "Hindistonga", correct = false},
+{text = "Turkiyaga", correct = false},
+}
+},
+{
+question = "G'arbiy Buxoro hududida qaysi qo'rboshi harakatga rahbarlik qildi?",
+answers = {
+{text = "Ibrohimbek", correct = false},
+{text = "Mulla Abdulqahhor", correct = true},
+{text = "Davlatmandbek", correct = false},
+{text = "Fuzayl Maxsum", correct = false},
+}
+},
+{
+question = "Mulla Abdulqahhor qo'rboshi qaysi yilning oxirida Qizilqumda halok bo'ldi?",
+answers = {
+{text = "1921-yilda", correct = false},
+{text = "1922-yilda", correct = false},
+{text = "1924-yilda", correct = true},
+{text = "1925-yilda", correct = false},
+}
+},
+{
+question = "Turkiyadan kelgan va Buxorodagi istiqlolchilik harakati rahbarlaridan biri bo'lgan general kim edi?",
+answers = {
+{text = "M. Frunze", correct = false},
+{text = "Anvar Posho", correct = true},
+{text = "N. Veryovkin-Roxalskiy", correct = false},
+{text = "P. Kobozev", correct = false},
+}
+},
+{
+question = "Anvar Posho qaysi yilning avgustida Obidara qishlog'idagi jangda halok bo'ldi?",
+answers = {
+{text = "1921-yilda", correct = false},
+{text = "1922-yilda", correct = true},
+{text = "1923-yilda", correct = false},
+{text = "1924-yilda", correct = false},
+}
+},
+{
+question = "Xorazmda istiqlolchilik harakatiga kim boshchilik qildi?",
+answers = {
+{text = "Ibrohimbek", correct = false},
+{text = "Junaydxon", correct = true},
+{text = "Fuzayl Maxsum", correct = false},
+{text = "Katta Ergash", correct = false},
+}
+},
+{
+question = "Junaydxon 1924-yil 17-iyunda 20 nafar hamrohi bilan qaysi shaharga yetib keldi?",
+answers = {
+{text = "Buxoroga", correct = false},
+{text = "Hirot shahriga", correct = true},
+{text = "Toshkentga", correct = false},
+{text = "Andijonga", correct = false},
+}
+},
+{
+question = "Turkistondagi istiqlolchilik harakati qaysi yilga kelib mag'lubiyatga uchradi?",
+answers = {
+{text = "1924-yilda", correct = false},
+{text = "1929-yilda", correct = false},
+{text = "1935-yilda", correct = true},
+{text = "1940-yilda", correct = false},
+}
+},
+{
+question = "O'rta Osiyoni hududiy chegaralab bo'lish masalasi qaysi yildan amalga oshirila boshlandi?",
+answers = {
+{text = "1920-yildan", correct = false},
+{text = "1922-yildan", correct = false},
+{text = "1924-yildan", correct = true},
+{text = "1926-yildan", correct = false},
+}
+},
+{
+question = "Yagona Turkistonni alohida qismlarga ajratib bo'lmaydi, degan g'oyani kim ilgari surgan edi?",
+answers = {
+{text = "Fayzulla Xo'jayev", correct = false},
+{text = "Turor Risqulov", correct = true},
+{text = "Sultonbek Xo'janov", correct = false},
+{text = "I. V. Stalin", correct = false},
+}
+},
+{
+question = "Markaz kommunistlari yagona Turkiston g'oyasini qanday deb baholadilar?",
+answers = {
+{text = "«Ilg'or fikr»", correct = false},
+{text = "«Panturkizm» va «burjua millatchiligi»", correct = true},
+{text = "«Demokratik yondashuv»", correct = false},
+{text = "«Foydali taklif»", correct = false},
+}
+},
+{
+question = "1924-yil fevralda Buxoro Kompartiyasi chegaralanish masalasi bo'yicha kimning tezislarini qabul qildi?",
+answers = {
+{text = "Turor Risqulovning", correct = false},
+{text = "Fayzulla Xo'jayevning", correct = true},
+{text = "Sultonbek Xo'janovning", correct = false},
+{text = "I. V. Stalinning", correct = false},
+}
+},
+{
+question = "1920-yil 10-martda bo'lgan Turkiston ASSR MIK kengashida kimlar O'rta Osiyo federatsiyasini tuzish taklifi bilan chiqdi?",
+answers = {
+{text = "Fayzulla Xo'jayev va Turor Risqulov", correct = false},
+{text = "Sultonbek Xo'janov, Sanjar Asfandiyorov va N. Paskutskiy", correct = true},
+{text = "Qalandar Odinayev va Rustam Islomov", correct = false},
+{text = "Akmal Ikromov va Qori Yo'ldosh Po'latov", correct = false},
+}
+},
+{
+question = "1923-yil dekabrda Farg'ona vodiysi vakillari qanday taklif bilan chiqdilar?",
+answers = {
+{text = "Farg'ona muxtor viloyatini tashkil etish", correct = true},
+{text = "Farg'ona respublikasini tuzish", correct = false},
+{text = "Farg'onani Buxoroga qo'shish", correct = false},
+{text = "Farg'onani mustaqil davlat qilish", correct = false},
+}
+},
+{
+question = "1924-yil 8-mayda Xorazm rahbarlari RKP(b) MKga qanday maktub yubordilar?",
+answers = {
+{text = "Chegaralanishni tezlashtirish haqida", correct = false},
+{text = "Xorazmni chegaralanishga qo'shmaslik haqida", correct = true},
+{text = "Yangi poytaxt tanlash haqida", correct = false},
+{text = "Yer-suv islohoti haqida", correct = false},
+}
+},
+{
+question = "Xorazm Kompartiyasi Markaziy Komiteti mas'ul kotibi Qalandar Odinayev qaysi yilning iyulida vazifasidan olib tashlandi?",
+answers = {
+{text = "1922-yilda", correct = false},
+{text = "1923-yilda", correct = false},
+{text = "1924-yilda", correct = true},
+{text = "1925-yilda", correct = false},
+}
+},
+{
+question = "Sultonbek Xo'janov qaysi yilda qamoqqa olindi?",
+answers = {
+{text = "1930-yilda", correct = false},
+{text = "1935-yilda", correct = false},
+{text = "1937-yilda", correct = true},
+{text = "1940-yilda", correct = false},
+}
+},
+{
+question = "Sultonbek Xo'janov qaysi yilda otishga hukm qilindi?",
+answers = {
+{text = "1937-yil 16-iyunda", correct = false},
+{text = "1938-yil 8-fevralda", correct = true},
+{text = "1939-yilda", correct = false},
+{text = "1940-yilda", correct = false},
+}
+},
+{
+question = "Sultonbek Xo'janov qaysi yilda oqlangan?",
+answers = {
+{text = "1953-yilda", correct = false},
+{text = "1957-yilda", correct = true},
+{text = "1960-yilda", correct = false},
+{text = "1965-yilda", correct = false},
+}
+},
+{
+question = "RKP(b) MK Siyosiy byurosining «O'rta Osiyo respublikalarini milliy-hududiy chegaralash to'g'risida»gi maxsus qarori kimning taklifi bilan qabul qilindi?",
+answers = {
+{text = "Y. Rudzutakning", correct = false},
+{text = "I. V. Stalinning", correct = true},
+{text = "Fayzulla Xo'jayevning", correct = false},
+{text = "Turor Risqulovning", correct = false},
+}
+},
+{
+question = "RKP(b) MK Siyosiy byurosining maxsus qarori qaysi kuni qabul qilingan?",
+answers = {
+{text = "1924-yil 12-iyunda", correct = true},
+{text = "1924-yil 15-iyulda", correct = false},
+{text = "1924-yil 27-oktyabrda", correct = false},
+{text = "1924-yil 8-mayda", correct = false},
+}
+},
+{
+question = "RKP(b) MK O'rta Osiyo byurosi yangi respublikalar va oblastlarning muvaqqat byurosini qaysi kuni tashkil etdi?",
+answers = {
+{text = "1924-yil 12-iyunda", correct = false},
+{text = "1924-yil 15-iyulda", correct = true},
+{text = "1924-yil 27-oktyabrda", correct = false},
+{text = "1924-yil 8-mayda", correct = false},
+}
+},
+{
+question = "Butunittifoq (SSSR) Markaziy Ijroiya Qo'mitasining III sessiyasi O'rta Osiyoda milliy respublikalar tuzish to'g'risidagi maxsus qarorni qaysi kuni qabul qildi?",
+answers = {
+{text = "1924-yil 12-iyunda", correct = false},
+{text = "1924-yil 15-iyulda", correct = false},
+{text = "1924-yil 27-oktyabrda", correct = true},
+{text = "1924-yil 8-mayda", correct = false},
+}
+},
+{
+question = "Turkiston ASSR, Buxoro va Xorazm respublikalari o'rnida nechta milliy davlat birlashmasi tashkil etildi?",
+answers = {
+{text = "4 ta", correct = false},
+{text = "5 ta", correct = false},
+{text = "6 ta", correct = true},
+{text = "7 ta", correct = false},
+}
+},
+}
