@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Butun-o'zbek (O'zbekiston SSR) Sovetlarining I ta'sis qurultoyi qaysi shaharda bo'lib o'tdi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Buxoroda", correct = true},
+{text = "Samarqandda", correct = false},
+{text = "Xivada", correct = false},
+}
+},
+{
+question = "Butun-o'zbek Sovetlarining I ta'sis qurultoyi 1925-yilning qaysi kunlarida bo'lib o'tdi?",
+answers = {
+{text = "13-17 fevralda", correct = true},
+{text = "21-25 martda", correct = false},
+{text = "6-12 fevralda", correct = false},
+{text = "29-30 yanvarda", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR tarkibiga qaysi avtonom respublika ham kirgan edi?",
+answers = {
+{text = "Qoraqalpog'iston ASSR", correct = false},
+{text = "Tojikiston ASSR", correct = true},
+{text = "Qozog'iston ASSR", correct = false},
+{text = "Qirg'iziston ASSR", correct = false},
+}
+},
+{
+question = "Qurultoyda O'zbekiston SSR Xalq Komissarlari Soveti raisi etib kim saylandi?",
+answers = {
+{text = "Yo'ldosh Oxunboboyev", correct = false},
+{text = "Fayzulla Xo'jayev", correct = true},
+{text = "Akmal Ikromov", correct = false},
+{text = "Vladimir Ivanov", correct = false},
+}
+},
+{
+question = "Qurultoyda O'zbekiston SSR Markaziy Ijroiya Qo'mitasi raisi etib kim saylandi?",
+answers = {
+{text = "Fayzulla Xo'jayev", correct = false},
+{text = "Yo'ldosh Oxunboboyev", correct = true},
+{text = "Akmal Ikromov", correct = false},
+{text = "Bobon Mavlonbekov", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR tashkil topgan paytda respublika poytaxti qaysi shahar edi?",
+answers = {
+{text = "Toshkent", correct = false},
+{text = "Samarqand", correct = false},
+{text = "Buxoro", correct = true},
+{text = "Xiva", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR poytaxti 1925-yil apreldan 1930-yil sentyabrgacha qaysi shaharda joylashgan edi?",
+answers = {
+{text = "Buxoroda", correct = false},
+{text = "Samarqandda", correct = true},
+{text = "Toshkentda", correct = false},
+{text = "Andijonda", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR poytaxti Toshkentga qaysi yilning 20-sentyabrida ko'chirildi?",
+answers = {
+{text = "1925-yilda", correct = false},
+{text = "1927-yilda", correct = false},
+{text = "1930-yilda", correct = true},
+{text = "1932-yilda", correct = false},
+}
+},
+{
+question = "O'zbekiston SSRda ilk bor ma'muriy-hududiy bo'linish qaysi kuni o'tkazildi?",
+answers = {
+{text = "1925-yil 13-fevralda", correct = false},
+{text = "1925-yil 29-yanvarda", correct = true},
+{text = "1926-yil 29-sentyabrda", correct = false},
+{text = "1927-yil 30-martda", correct = false},
+}
+},
+{
+question = "O'zbekiston Kommunistik partiyasining I ta'sis syezdi qaysi shaharda bo'lib o'tdi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Eski Buxoro shahrida", correct = true},
+{text = "Samarqandda", correct = false},
+{text = "Xivada", correct = false},
+}
+},
+{
+question = "O'zbekiston Kompartiyasi Markaziy Komiteti mas'ul sekretarlari qilib kimlar saylandi?",
+answers = {
+{text = "Fayzulla Xo'jayev va Yo'ldosh Oxunboboyev", correct = false},
+{text = "Vladimir Ivanov va Akmal Ikromov", correct = true},
+{text = "Bobon Mavlonbekov va Rahim Inog'omov", correct = false},
+{text = "Turor Risqulov va Sultonbek Xo'janov", correct = false},
+}
+},
+{
+question = "O'zSSRning birinchi Konstitutsiyasi qaysi kuni qabul qilindi?",
+answers = {
+{text = "1925-yil 13-fevralda", correct = false},
+{text = "1926-yil 29-sentyabrda", correct = false},
+{text = "1927-yil 30-martda", correct = true},
+{text = "1929-yil 16-oktyabrda", correct = false},
+}
+},
+{
+question = "O'zbekiston kasaba uyushmalariga qaysi kuni asos solindi?",
+answers = {
+{text = "1925-yil 21-martda", correct = true},
+{text = "1926-yil 1-dekabrda", correct = false},
+{text = "1927-yil 30-martda", correct = false},
+{text = "1929-yil 16-oktyabrda", correct = false},
+}
+},
+{
+question = "«Qo'shchi» ittifoqi qaysi yillarda faoliyat ko'rsatgan?",
+answers = {
+{text = "1918-1925-yillarda", correct = false},
+{text = "1920-1933-yillarda", correct = true},
+{text = "1925-1932-yillarda", correct = false},
+{text = "1929-1936-yillarda", correct = false},
+}
+},
+{
+question = "Tojikiston ASSR o'rniga Tojikiston SSR qaysi yilda tashkil topib, O'zbekiston SSR tarkibidan chiqdi?",
+answers = {
+{text = "1925-yilda", correct = false},
+{text = "1926-yilda", correct = false},
+{text = "1929-yilda", correct = true},
+{text = "1936-yilda", correct = false},
+}
+},
+{
+question = "Qoraqalpog'iston ASSR hududi O'zbekiston SSR tarkibiga qaysi yilning 5-dekabrida kiritildi?",
+answers = {
+{text = "1929-yilda", correct = false},
+{text = "1932-yilda", correct = false},
+{text = "1936-yilda", correct = true},
+{text = "1940-yilda", correct = false},
+}
+},
+{
+question = "Yer-suv islohotining ikkinchi bosqichi qaysi yillarda amalga oshirildi?",
+answers = {
+{text = "1918-1920-yillarda", correct = false},
+{text = "1921-1922-yillarda", correct = false},
+{text = "1925-1929-yillarda", correct = true},
+{text = "1930-1932-yillarda", correct = false},
+}
+},
+{
+question = "«Agrar inqilob»ning strategiya va taktikasi qaysi yilning noyabrida tasdiqlandi?",
+answers = {
+{text = "1924-yilda", correct = false},
+{text = "1925-yilda", correct = true},
+{text = "1927-yilda", correct = false},
+{text = "1929-yilda", correct = false},
+}
+},
+{
+question = "Yer-suv islohotining birinchi bosqichi qaysi hududlarda va qachon o'tkazildi?",
+answers = {
+{text = "Zarafshon viloyatida, 1927-yilda", correct = false},
+{text = "Farg'ona, Toshkent, Samarqand viloyatlarida, 1925-1926-yillarda", correct = true},
+{text = "Qashqadaryo, Surxondaryo, Xorazm okruglarida, 1928-1929-yillarda", correct = false},
+{text = "Butun respublikada, 1930-yilda", correct = false},
+}
+},
+{
+question = "Yer-suv islohotining uchinchi bosqichi qaysi hududlarda o'tkazildi?",
+answers = {
+{text = "Farg'ona, Toshkent, Samarqand viloyatlarida", correct = false},
+{text = "Zarafshon viloyatida", correct = false},
+{text = "Qashqadaryo, Surxondaryo, Xorazm okruglarida", correct = true},
+{text = "Faqat Buxoro okrugida", correct = false},
+}
+},
+{
+question = "1925-1929-yillardagi islohotlar natijasida taxminan nechta boy xo'jalik tugatildi?",
+answers = {
+{text = "3 000 ga yaqin", correct = false},
+{text = "5 000 ga yaqin", correct = true},
+{text = "8 000 ga yaqin", correct = false},
+{text = "10 000 ga yaqin", correct = false},
+}
+},
+{
+question = "«Kollektivlashtirish va quloq xo'jaliklarini tugatish to'g'risida»gi qaror qaysi yilda qabul qilindi?",
+answers = {
+{text = "1925-yilda", correct = false},
+{text = "1928-yilda", correct = false},
+{text = "1930-yilda", correct = true},
+{text = "1932-yilda", correct = false},
+}
+},
+{
+question = "O'zbekiston qishloq xo'jaligini kollektivlashtirish rasman qaysi yilda tugallandi?",
+answers = {
+{text = "1929-yilda", correct = false},
+{text = "1930-yilda", correct = false},
+{text = "1932-yilda", correct = true},
+{text = "1935-yilda", correct = false},
+}
+},
+{
+question = "O'zbekistonda yakka dehqon xo'jaliklariga qaysi yilga kelib butkul barham berildi?",
+answers = {
+{text = "1932-yilda", correct = false},
+{text = "1935-yilda", correct = false},
+{text = "1939-yilda", correct = true},
+{text = "1940-yilda", correct = false},
+}
+},
+{
+question = "Birinchi besh yillik davrida (1928-1932) O'zbekistonda nechta yangi sanoat korxonasi qurildi va ishga tushirildi?",
+answers = {
+{text = "150 ta", correct = false},
+{text = "289 ta", correct = true},
+{text = "350 ta", correct = false},
+{text = "420 ta", correct = false},
+}
+},
+{
+question = "Birinchi besh yillik rejasi qaysi yilning oktyabrida boshlandi?",
+answers = {
+{text = "1925-yilda", correct = false},
+{text = "1927-yilda", correct = false},
+{text = "1928-yilda", correct = true},
+{text = "1930-yilda", correct = false},
+}
+},
+{
+question = "Birinchi besh yillik rejasi muddatidan necha oy oldin yakunlandi?",
+answers = {
+{text = "3 oy", correct = false},
+{text = "6 oy", correct = false},
+{text = "9 oy", correct = true},
+{text = "12 oy", correct = false},
+}
+},
+{
+question = "Toshkent qishloq xo'jaligi mashinasozligi zavodi qanday sanoat sohasining birinchisi bo'lgan?",
+answers = {
+{text = "To'qimachilik sanoatining", correct = false},
+{text = "Mashinasozlik sanoatining", correct = true},
+{text = "Kimyo sanoatining", correct = false},
+{text = "Metallurgiya sanoatining", correct = false},
+}
+},
+{
+question = "Fayzulla Xo'jayevning tashabbusi bilan 1925-yil martda kim raisligida «Davlat apparatini mahalliylashtirish Markaziy komissiyasi» tuzildi?",
+answers = {
+{text = "Akmal Ikromov", correct = false},
+{text = "Bobon Mavlonbekov", correct = true},
+{text = "Rahim Inog'omov", correct = false},
+{text = "Vladimir Ivanov", correct = false},
+}
+},
+{
+question = "1927-yilda «Davlat apparatini mahalliylashtirish Markaziy komissiyasi»ning nomi qanday o'zgartirildi?",
+answers = {
+{text = "«Davlat apparati va sanoatni O'zbeklashtirish Markaziy komissiyasi»", correct = true},
+{text = "«Mahalliy kadrlar komissiyasi»", correct = false},
+{text = "«Ta'lim va madaniyat komissiyasi»", correct = false},
+{text = "«Yer-suv islohoti komissiyasi»", correct = false},
+}
+},
+{
+question = "SSSR MIKning «O'zSSR apparatini o'zbeklashtirish to'g'risida»gi qarori qaysi yilda qabul qilindi?",
+answers = {
+{text = "1927-yilda", correct = false},
+{text = "1929-yilda", correct = false},
+{text = "1931-yilda", correct = true},
+{text = "1932-yilda", correct = false},
+}
+},
+{
+question = "Mahalliylashtirish jarayoni to'xtatilib, u qanday deb e'lon qilindi?",
+answers = {
+{text = "«Foydali islohot»", correct = false},
+{text = "«Burjua millatchiligi»", correct = true},
+{text = "«Ilg'or tashabbus»", correct = false},
+{text = "«Zarur chora»", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR Fanlar komiteti qaysi kuni tuzildi?",
+answers = {
+{text = "1929-yil 1-dekabrda", correct = false},
+{text = "1932-yil 14-oktyabrda", correct = true},
+{text = "1936-yil 5-dekabrda", correct = false},
+{text = "1940-yil 8-mayda", correct = false},
+}
+},
+{
+question = "Ikkinchi besh yillik davrida umumiy ta'lim maktablaridagi o'quvchilar soni qanchaga yetdi?",
+answers = {
+{text = "500 000 nafarga", correct = false},
+{text = "725 000 nafarga", correct = false},
+{text = "931 800 nafarga", correct = true},
+{text = "1 200 000 nafarga", correct = false},
+}
+},
+{
+question = "Respublika maktablarida o'qish nechta tilda olib borilgan?",
+answers = {
+{text = "10 tilda", correct = false},
+{text = "14 tilda", correct = false},
+{text = "18 tilda", correct = true},
+{text = "22 tilda", correct = false},
+}
+},
+{
+question = "1937-yili nechta xotin-qiz o'qish va yozishni o'rganib oldi?",
+answers = {
+{text = "89 000 nafar", correct = false},
+{text = "139 000 nafar", correct = true},
+{text = "200 000 nafar", correct = false},
+{text = "250 000 nafar", correct = false},
+}
+},
+{
+question = "1940-yilga kelib respublikada nechta oliy o'quv yurti ishlab turdi?",
+answers = {
+{text = "15 ta", correct = false},
+{text = "20 ta", correct = false},
+{text = "30 ta", correct = true},
+{text = "45 ta", correct = false},
+}
+},
+{
+question = "O'zbek yozuvini arab grafikasidan lotin grafikasiga o'tkazish haqidagi qaror qaysi shaharda qabul qilindi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Samarqandda", correct = true},
+{text = "Buxoroda", correct = false},
+{text = "Andijonda", correct = false},
+}
+},
+{
+question = "O'zbekistonda arab alifbosidan lotin yozuviga qaysi yilning 1-dekabrida o'tildi?",
+answers = {
+{text = "1927-yilda", correct = false},
+{text = "1929-yilda", correct = true},
+{text = "1931-yilda", correct = false},
+{text = "1933-yilda", correct = false},
+}
+},
+{
+question = "Lotin yozuvidan kirill asosidagi o'zbek yozuviga o'tish to'g'risidagi qaror qaysi kuni qabul qilindi?",
+answers = {
+{text = "1938-yil 4-oktyabrda", correct = false},
+{text = "1939-yil 1-sentyabrda", correct = false},
+{text = "1940-yil 8-mayda", correct = true},
+{text = "1941-yil 22-iyunda", correct = false},
+}
+},
+{
+question = "O'zbek musiqa va vokal san'atining rivojlanishida 1936-yili Toshkentda qanday muassasa ochildi?",
+answers = {
+{text = "Opera teatri", correct = false},
+{text = "Davlat konservatoriyasi", correct = true},
+{text = "Musiqa maktabi", correct = false},
+{text = "Filarmoniya", correct = false},
+}
+},
+{
+question = "«Hujum» kompaniyasi qaysi yilning sentyabrida O'rta Osiyo xotin-qizlari kengashida e'lon qilindi?",
+answers = {
+{text = "1925-yilda", correct = false},
+{text = "1926-yilda", correct = true},
+{text = "1927-yilda", correct = false},
+{text = "1928-yilda", correct = false},
+}
+},
+{
+question = "«Hujum» kompaniyasi qaysi kundan boshlashga qaror qilingan edi?",
+answers = {
+{text = "1926-yil 8-martdan", correct = false},
+{text = "1927-yil 8-martdan", correct = true},
+{text = "1928-yil 8-martdan", correct = false},
+{text = "1929-yil 8-martdan", correct = false},
+}
+},
+{
+question = "1927-yil 8-martdagi ommaviy mitinglarda nechta xotin-qiz paranjilarini gulxanda yoqdi?",
+answers = {
+{text = "50 000 dan ortiq", correct = false},
+{text = "100 000 dan ortiq", correct = true},
+{text = "150 000 dan ortiq", correct = false},
+{text = "200 000 dan ortiq", correct = false},
+}
+},
+{
+question = "1927-1928-yillarda O'zbekistonda «Hujum»ga qarshi kurash oqibatida nechta faol xotin-qiz halok bo'ldi?",
+answers = {
+{text = "1 000 dan ortiq", correct = false},
+{text = "1 500 dan ortiq", correct = false},
+{text = "2 500 dan ortiq", correct = true},
+{text = "3 500 dan ortiq", correct = false},
+}
+},
+{
+question = "1927-yili respublikadagi tuman ijroiya qo'mitalari a'zolarining necha foizi ayollar edi?",
+answers = {
+{text = "10 foizi", correct = false},
+{text = "20 foizi", correct = true},
+{text = "30 foizi", correct = false},
+{text = "40 foizi", correct = false},
+}
+},
+{
+question = "Jahon Obidova qanday lavozimda ishlagan?",
+answers = {
+{text = "O'zSSR Xalq Komissarlari Soveti raisi", correct = false},
+{text = "O'zSSR Markaziy Ijroiya Komiteti Prezidiumi raisining o'rinbosari", correct = true},
+{text = "O'zSSR Oliy sudi raisi", correct = false},
+{text = "O'zLKSM raisi", correct = false},
+}
+},
+{
+question = "Toshkent va Samarqand shaharlarida qanday oliy ta'lim muassasalari tashkil etilgan?",
+answers = {
+{text = "Politexnika institutlari", correct = false},
+{text = "Davlat universitetlari", correct = true},
+{text = "Pedagogika institutlari", correct = false},
+{text = "Tibbiyot institutlari", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR Oliy sudining raisi Sa'dulla Qosimov qaysi yilning mart oyida lavozimidan bo'shatilib qamoqqa olindi?",
+answers = {
+{text = "1927-yilda", correct = false},
+{text = "1929-yilda", correct = true},
+{text = "1931-yilda", correct = false},
+{text = "1932-yilda", correct = false},
+}
+},
+{
+question = "Sa'dulla Qosimov va uning 6 nafar safdoshi necha yil muddatga qamoq jazosiga hukm qilindi?",
+answers = {
+{text = "5 yilga", correct = false},
+{text = "10 yilga", correct = true},
+{text = "15 yilga", correct = false},
+{text = "20 yilga", correct = false},
+}
+},
+{
+question = "«Badriddinovchilik» ishi bo'yicha sud jarayoni qaysi yilning may-iyun oylarida o'tkazildi?",
+answers = {
+{text = "1929-yilda", correct = false},
+{text = "1931-yilda", correct = false},
+{text = "1932-yilda", correct = true},
+{text = "1934-yilda", correct = false},
+}
+},
+{
+question = "1929-yil 5-noyabrda Toshkentda kim boshchiligidagi 38 nafar kishi qamoqqa olindi?",
+answers = {
+{text = "Sa'dulla Qosimov", correct = false},
+{text = "Munavvarqori Abdurashidxonov", correct = true},
+{text = "Shamsutdin Badriddinov", correct = false},
+{text = "Mannon Ramziy", correct = false},
+}
+},
+{
+question = "Munavvarqori boshchiligidagi qamoqqa olinganlar sonining oxir-oqibat necha kishiga yetganligi ma'lum?",
+answers = {
+{text = "38 kishiga", correct = false},
+{text = "50 kishiga", correct = false},
+{text = "87 kishiga", correct = true},
+{text = "100 kishiga", correct = false},
+}
+},
+{
+question = "1931-yil 25-aprelda Moskvada bo'lib o'tgan sud majlisida nechta «Milliy Istiqlol» a'zosi otib o'ldirilishga hukm qilindi?",
+answers = {
+{text = "10 nafar", correct = false},
+{text = "15 nafar", correct = true},
+{text = "20 nafar", correct = false},
+{text = "25 nafar", correct = false},
+}
+},
+{
+question = "Mirkomil Mirsharopov qaysi shaharda 1937-yil 28-oktyabrda qamoqqa olindi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Moskvada", correct = false},
+{text = "Maykopda", correct = true},
+{text = "Samarqandda", correct = false},
+}
+},
+{
+question = "Mirkomil Mirsharopov boshchiligidagi nechta o'zbek harbiy komandiri va askari 1938-yil 10-oktyabrda otib tashlandi?",
+answers = {
+{text = "10 nafar", correct = false},
+{text = "15 nafar", correct = false},
+{text = "18 nafar", correct = true},
+{text = "25 nafar", correct = false},
+}
+},
+{
+question = "Fitrat, Cho'lpon va Abdulla Qodiriy qaysi kuni Toshkent shahri atrofida otib tashlandi?",
+answers = {
+{text = "1937-yil 28-oktyabrda", correct = false},
+{text = "1938-yil 4-oktyabrda", correct = true},
+{text = "1938-yil 10-oktyabrda", correct = false},
+{text = "1939-yil 1-sentyabrda", correct = false},
+}
+},
+{
+question = "1937-1938-yillarda O'zbekistonda nechta kishi soxta ayblar bo'yicha hibsga olindi?",
+answers = {
+{text = "25 000 nafardan ortiq", correct = false},
+{text = "41 000 nafardan ortiq", correct = true},
+{text = "55 000 nafardan ortiq", correct = false},
+{text = "70 000 nafardan ortiq", correct = false},
+}
+},
+{
+question = "1937-1938-yillarda O'zbekistonda nechta kishi otishga hukm qilindi?",
+answers = {
+{text = "3 500 nafar", correct = false},
+{text = "4 811 nafar", correct = false},
+{text = "6 920 nafar", correct = true},
+{text = "8 000 nafar", correct = false},
+}
+},
+{
+question = "Davlat va jamoat arboblari, yozuvchi, shoir va olimlardan nechta kishi qamoqqa olingan?",
+answers = {
+{text = "3 758 nafar", correct = false},
+{text = "4 811 nafar", correct = false},
+{text = "5 758 nafar", correct = true},
+{text = "6 920 nafar", correct = false},
+}
+},
+{
+question = "«Shahidlar xotirasi» yodgorlik majmuasi qaysi kuni ochildi?",
+answers = {
+{text = "1998-yil 4-oktyabrda", correct = false},
+{text = "2000-yil 12-mayda", correct = true},
+{text = "2001-yil 9-mayda", correct = false},
+{text = "1995-yil 1-sentyabrda", correct = false},
+}
+},
+{
+question = "«Shahidlar xotirasi» yodgorlik majmuasi Toshkentning qaysi tumanida joylashgan?",
+answers = {
+{text = "Chilonzor tumanida", correct = false},
+{text = "Yunusobod tumanida", correct = true},
+{text = "Mirzo Ulug'bek tumanida", correct = false},
+{text = "Shayxontohur tumanida", correct = false},
+}
+},
+{
+question = "Kommunistik partiya saflarini «tozalash» kampaniyasi natijasida O'zbekiston kompartiyasi a'zolarining necha foizi firqadan chiqarildi?",
+answers = {
+{text = "15,6 foizi", correct = false},
+{text = "20,4 foizi", correct = false},
+{text = "25,6 foizi", correct = true},
+{text = "30,2 foizi", correct = false},
+}
+},
+{
+question = "«Qosimovchilik» ishi bo'yicha ayblanganlarga qanday aybnoma qo'yilgan edi?",
+answers = {
+{text = "Faqat davlat mulkini o'g'irlashda", correct = false},
+{text = "«Bosmachilar»ni qo'llab-quvvatlashda va islom dinini himoya qilishda", correct = true},
+{text = "Faqat xorijiy davlatlar bilan aloqada", correct = false},
+{text = "Faqat soliq to'lamaslikda", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi qaysi yildan qaysi yilgacha davom etgan?",
+answers = {
+{text = "1938-1944-yillarda", correct = false},
+{text = "1939-yil 1-sentyabrdan 1945-yil 2-sentyabrgacha", correct = true},
+{text = "1940-1945-yillarda", correct = false},
+{text = "1941-1945-yillarda", correct = false},
+}
+},
+{
+question = "SSSR Millatlar ligasidan qaysi kuni chiqarildi?",
+answers = {
+{text = "1939-yil 1-sentyabrda", correct = false},
+{text = "1939-yil 14-dekabrda", correct = true},
+{text = "1940-yil yozida", correct = false},
+{text = "1941-yil 22-iyunda", correct = false},
+}
+},
+{
+question = "Sovet-Finlyandiya urushida qatnashgan o'zbekistonlik artilleriya general-leytenanti kim edi?",
+answers = {
+{text = "Sobir Rahimov", correct = false},
+{text = "Fayzulla Norxo'jayev", correct = true},
+{text = "Usmon Yusupov", correct = false},
+{text = "Amirali Saidbekov", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi yillarida O'zbekistondan taxminan nechta kishi safarbar etildi?",
+answers = {
+{text = "1 million 200 mingga yaqin", correct = false},
+{text = "1 million 951 mingga yaqin", correct = true},
+{text = "2 million 500 mingga yaqin", correct = false},
+{text = "3 milliondan ortiq", correct = false},
+}
+},
+{
+question = "Gitlerchilar Germaniyasi SSSRga qaysi kuni hujum qildi?",
+answers = {
+{text = "1941-yil 22-iyunda", correct = true},
+{text = "1939-yil 1-sentyabrda", correct = false},
+{text = "1940-yil 22-iyunda", correct = false},
+{text = "1942-yil 1-yanvarda", correct = false},
+}
+},
+{
+question = "SSSRga hujum boshlangach, Toshkentda ko'p ming kishilik miting qaysi kuni bo'lib o'tdi?",
+answers = {
+{text = "22-iyunda", correct = false},
+{text = "23-iyunda", correct = true},
+{text = "30-iyunda", correct = false},
+{text = "1-iyulda", correct = false},
+}
+},
+{
+question = "Davlat mudofaa komiteti qaysi kuni tuzildi?",
+answers = {
+{text = "1941-yil 22-iyunda", correct = false},
+{text = "1941-yil 23-iyunda", correct = false},
+{text = "1941-yil 30-iyunda", correct = true},
+{text = "1941-yil 1-iyulda", correct = false},
+}
+},
+{
+question = "Front va front oldi hududlaridan O'zbekistonga taxminan nechta kishi evakuatsiya qilindi?",
+answers = {
+{text = "500 ming kishi", correct = false},
+{text = "1 million kishi", correct = false},
+{text = "1 million 500 ming kishi", correct = true},
+{text = "2 million kishi", correct = false},
+}
+},
+{
+question = "Toshkentlik temirchi Shoahmad Shomahmudov va uning turmush o'rtog'i Bahri Akromova nechta bolani tarbiyasiga oldi?",
+answers = {
+{text = "10 nafar", correct = false},
+{text = "13 nafar", correct = false},
+{text = "14 nafar", correct = true},
+{text = "20 nafar", correct = false},
+}
+},
+{
+question = "Urush yillarida O'zbekistonda nechta evakuatsiya gospitali faoliyat yuritdi?",
+answers = {
+{text = "80 dan ortiq", correct = false},
+{text = "100 dan ortiq", correct = false},
+{text = "120 dan ortiq", correct = true},
+{text = "150 dan ortiq", correct = false},
+}
+},
+{
+question = "O'zbekiston aholisi mudofaa jamg'armasiga jami qancha pul mablag'i topshirdi?",
+answers = {
+{text = "349,9 mln rubl", correct = false},
+{text = "649,9 mln rubl", correct = true},
+{text = "849,9 mln rubl", correct = false},
+{text = "949,9 mln rubl", correct = false},
+}
+},
+{
+question = "Respublikaga urush yillarida rahbarlik qilgan va «mamlakat ichkarisidagi marshal» deb atalgan shaxs kim edi?",
+answers = {
+{text = "Yo'ldosh Oxunboboyev", correct = false},
+{text = "Usmon Yusupov", correct = true},
+{text = "Fayzulla Xo'jayev", correct = false},
+{text = "Akmal Ikromov", correct = false},
+}
+},
+{
+question = "Front hududlaridan O'zbekistonga urush yillarida nechta zavod ko'chirib keltirildi?",
+answers = {
+{text = "100 ta", correct = false},
+{text = "130 ta", correct = false},
+{text = "151 ta", correct = true},
+{text = "200 ta", correct = false},
+}
+},
+{
+question = "Respublikadagi taxminan nechta korxonada harbiy mahsulotlar ishlab chiqarilgan?",
+answers = {
+{text = "150 taga yaqin", correct = false},
+{text = "230 taga yaqin", correct = false},
+{text = "300 taga yaqin", correct = true},
+{text = "400 taga yaqin", correct = false},
+}
+},
+{
+question = "O'zbekiston aholisi urush yillarida davlatga necha million tonnadan ziyod paxta yetkazib berdi?",
+answers = {
+{text = "2 milliondan", correct = false},
+{text = "3 milliondan", correct = false},
+{text = "4 milliondan", correct = true},
+{text = "5 milliondan", correct = false},
+}
+},
+{
+question = "1943-yildan boshlab qaysi viloyatlarda O'zbekiston uchun yangi ekin – qand lavlagi ekila boshlandi?",
+answers = {
+{text = "Buxoro, Xorazm, Navoiy", correct = false},
+{text = "Samarqand, Farg'ona, Toshkent, Qashqadaryo", correct = true},
+{text = "Surxondaryo, Jizzax, Sirdaryo", correct = false},
+{text = "Namangan, Andijon, Farg'ona", correct = false},
+}
+},
+}

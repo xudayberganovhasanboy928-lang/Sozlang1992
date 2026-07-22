@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Brest qal'asi mudofaasida halok bo'lgan o'zbekistonlik jangchi kim edi?",
+answers = {
+{text = "Qo'chqor Turdiyev", correct = false},
+{text = "Avazmat Niyozmatov", correct = true},
+{text = "Sobir Rahimov", correct = false},
+{text = "Botir Boboyev", correct = false},
+}
+},
+{
+question = "O'zbekistonda urush yillarida nechta alohida o'qchilar brigadasi tashkil etildi?",
+answers = {
+{text = "5 ta", correct = false},
+{text = "7 ta", correct = false},
+{text = "9 ta", correct = true},
+{text = "12 ta", correct = false},
+}
+},
+{
+question = "O'zbekistonda urush yillarida nechta kavaleriya diviziyasi tashkil etildi?",
+answers = {
+{text = "3 ta", correct = false},
+{text = "5 ta", correct = true},
+{text = "7 ta", correct = false},
+{text = "9 ta", correct = false},
+}
+},
+{
+question = "O'zbekistonliklardan nechta kishi «Moskva mudofaasi uchun» medali bilan taqdirlandi?",
+answers = {
+{text = "1 500 kishi", correct = false},
+{text = "1 753 kishi", correct = true},
+{text = "2 000 kishi", correct = false},
+{text = "2 738 kishi", correct = false},
+}
+},
+{
+question = "O'zbeklardan birinchi bo'lib Sovet Ittifoqi Qahramoni unvonini olgan jangchi kim edi?",
+answers = {
+{text = "Sobir Rahimov", correct = false},
+{text = "Qo'chqor Turdiyev", correct = true},
+{text = "Botir Boboyev", correct = false},
+{text = "Samig' Abdullayev", correct = false},
+}
+},
+{
+question = "Qo'chqor Turdiyevga Sovet Ittifoqi Qahramoni unvoni qaysi kuni berildi?",
+answers = {
+{text = "1941-yil 15-oktyabrda", correct = false},
+{text = "1942-yil 27-martda", correct = true},
+{text = "1943-yil 19-martda", correct = false},
+{text = "1945-yil 25-martda", correct = false},
+}
+},
+{
+question = "Moskva janglarida snayper sifatida 129 nafar fashistni yo'q qilgan o'zbekistonlik ayol kim edi?",
+answers = {
+{text = "Rixsixon Mo'minova", correct = false},
+{text = "Zebo G'aniyeva", correct = true},
+{text = "Muqaddam Ashrapova", correct = false},
+{text = "Halima Nosirova", correct = false},
+}
+},
+{
+question = "Sobir Rahimovga general-mayor unvoni qaysi kuni berildi?",
+answers = {
+{text = "1941-yil 15-oktyabrda", correct = false},
+{text = "1942-yil 27-martda", correct = false},
+{text = "1943-yil 19-martda", correct = true},
+{text = "1945-yil 25-martda", correct = false},
+}
+},
+{
+question = "Jami nechta o'zbekistonlik «Stalingrad mudofaasi uchun» medali bilan taqdirlandi?",
+answers = {
+{text = "1 753 nafar", correct = false},
+{text = "2 738 nafar", correct = true},
+{text = "3 000 nafar", correct = false},
+{text = "5 000 nafar", correct = false},
+}
+},
+{
+question = "Dushman zarbalari ostida 3 mingga yaqin minani zararsizlantirgan va Sovet Ittifoqi Qahramoni bo'lgan jangchi kim edi?",
+answers = {
+{text = "Samig' Abdullayev", correct = true},
+{text = "Qudrat Suyunov", correct = false},
+{text = "Bois Ergashev", correct = false},
+{text = "Shodi Shoimov", correct = false},
+}
+},
+{
+question = "«Sharqlik o'n bir qahramon tepaligi»da jang qilgan 11 kishidan nechtasi o'zbekistonlik edi?",
+answers = {
+{text = "5 nafari", correct = false},
+{text = "8 nafari", correct = true},
+{text = "10 nafari", correct = false},
+{text = "11 nafarining barchasi", correct = false},
+}
+},
+{
+question = "Belorusiyani ozod qilishda jasorat ko'rsatib, vafotidan keyin Sovet Ittifoqi Qahramoni unvoni berilgan jangchi kim edi?",
+answers = {
+{text = "Eson Jovbo'riyev", correct = false},
+{text = "Shodi Shoimov", correct = true},
+{text = "Mamadali Topivoldiyev", correct = false},
+{text = "G'anitoy Toshniyozov", correct = false},
+}
+},
+{
+question = "General-mayor Sobir Rahimov qaysi shahar uchun bo'lgan jangda og'ir yarador bo'lib, vafot etdi?",
+answers = {
+{text = "Berlinda", correct = false},
+{text = "Vengriyada", correct = false},
+{text = "Dansig (Gdansk) shahrida", correct = true},
+{text = "Vyazma shahrida", correct = false},
+}
+},
+{
+question = "Sobir Rahimovga Sovet Ittifoqi Qahramoni unvoni qaysi yilda berildi?",
+answers = {
+{text = "1945-yilda", correct = false},
+{text = "1955-yilda", correct = false},
+{text = "1965-yilda", correct = true},
+{text = "1975-yilda", correct = false},
+}
+},
+{
+question = "Berlin operatsiyasida Oder daryosini birinchilardan bo'lib kechib o'tgan jangchi kim edi?",
+answers = {
+{text = "Botir Boboyev", correct = true},
+{text = "Plis Nurpeysov", correct = false},
+{text = "Abdusamat Taymetov", correct = false},
+{text = "Tojiali Boboyev", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushida jami nechta o'zbekistonlik halok bo'lgan yoki bedarak yo'qolgan?",
+answers = {
+{text = "300 mingdan ziyod", correct = false},
+{text = "538 mingdan ziyod halok bo'lgan, yana 158 mingi bedarak yo'qolgan", correct = true},
+{text = "700 mingdan ziyod", correct = false},
+{text = "1 milliondan ziyod", correct = false},
+}
+},
+{
+question = "«Yovga o'lim!» she'rining muallifi kim edi?",
+answers = {
+{text = "Hamid Olimjon", correct = false},
+{text = "Oybek", correct = true},
+{text = "G'afur G'ulom", correct = false},
+{text = "Abdulla Qahhor", correct = false},
+}
+},
+{
+question = "«Qo'lingga qurol ol!» she'rining muallifi kim edi?",
+answers = {
+{text = "Oybek", correct = false},
+{text = "Hamid Olimjon", correct = true},
+{text = "Mirtemir", correct = false},
+{text = "Amin Umariy", correct = false},
+}
+},
+{
+question = "Oybekning mashhur «Navoiy» romani qaysi yilda chop etildi?",
+answers = {
+{text = "1941-yilda", correct = false},
+{text = "1943-yilda", correct = false},
+{text = "1944-yilda", correct = true},
+{text = "1945-yilda", correct = false},
+}
+},
+{
+question = "O'zbekiston xalq rassomi O'rol Tansiqboev urush yillarida qanday turkum asarlarini yaratdi?",
+answers = {
+{text = "«Front bo'ylab»", correct = false},
+{text = "«Urush yo'llarida»", correct = true},
+{text = "«G'alaba bayrog'i»", correct = false},
+{text = "«Qahramonlik simfoniyasi»", correct = false},
+}
+},
+{
+question = "Qatag'on qilingan mashhur o'zbek shoiri Usmon Nosir qaysi yilda Kemerovodagi lagerda vafot etdi?",
+answers = {
+{text = "1941-yilda", correct = false},
+{text = "1943-yilda", correct = false},
+{text = "1944-yilda", correct = true},
+{text = "1945-yilda", correct = false},
+}
+},
+{
+question = "«Qahramonlik simfoniyasi»ning muallifi kim edi?",
+answers = {
+{text = "Yunus Rajabiy", correct = false},
+{text = "Muxtor Ashrafiy", correct = true},
+{text = "Mutavakkil Burhonov", correct = false},
+{text = "To'xtasin Jalilov", correct = false},
+}
+},
+{
+question = "Muxtor Ashrafiy «Qahramonlik simfoniyasi» uchun olgan mukofot pulini nimaga topshirdi?",
+answers = {
+{text = "Gospitallar qurishga", correct = false},
+{text = "Samolyot va tank kolonnalarini qurish fondiga", correct = true},
+{text = "Bolalar uylariga", correct = false},
+{text = "Maktablar qurilishiga", correct = false},
+}
+},
+{
+question = "Urush yillarida O'zbekiston san'at ustalari nechta konsert brigadasi tarkibida faoliyat yuritdi?",
+answers = {
+{text = "20 dan ortiq", correct = false},
+{text = "30 dan ortiq", correct = true},
+{text = "40 dan ortiq", correct = false},
+{text = "50 dan ortiq", correct = false},
+}
+},
+{
+question = "1941-yil noyabrigacha O'zbekistonga nechta ilmiy tadqiqot instituti evakuatsiya qilindi?",
+answers = {
+{text = "16 ta", correct = false},
+{text = "22 ta", correct = true},
+{text = "30 ta", correct = false},
+{text = "40 ta", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR Fanlar akademiyasi qaysi kuni tashkil etildi?",
+answers = {
+{text = "1941-yil 22-iyunda", correct = false},
+{text = "1943-yil 4-noyabrda", correct = true},
+{text = "1944-yil sentyabrda", correct = false},
+{text = "1945-yil 9-mayda", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR Fanlar akademiyasining ilk prezidenti kim etib saylandi?",
+answers = {
+{text = "Toshmuhammad Qori-Niyoziy", correct = true},
+{text = "Eshon Boboxon", correct = false},
+{text = "Muxtor Ashrafiy", correct = false},
+{text = "Oybek", correct = false},
+}
+},
+{
+question = "1945-yilga kelib Fanlar akademiyasi tarkibida nechta ilmiy tadqiqot instituti mavjud edi?",
+answers = {
+{text = "10 ta", correct = false},
+{text = "15 ta", correct = false},
+{text = "20 ta", correct = true},
+{text = "25 ta", correct = false},
+}
+},
+{
+question = "1943-yilda Ichki ishlar vazirligi qoshida qanday vakillik tashkil qilindi?",
+answers = {
+{text = "Din ishlari bo'yicha vakillik", correct = false},
+{text = "Rus pravoslav cherkovi ishlari vakilligi", correct = true},
+{text = "Musulmonlar diniy boshqarmasi", correct = false},
+{text = "Fanlar akademiyasi vakilligi", correct = false},
+}
+},
+{
+question = "1943-yil 20-oktyabrda Toshkent shahrida qanday tadbir bo'lib o'tdi?",
+answers = {
+{text = "Fanlar akademiyasi ochilishi", correct = false},
+{text = "Musulmon vakillari qurultoyi", correct = true},
+{text = "Konservatoriya ochilishi", correct = false},
+{text = "Xalq deputatlari qurultoyi", correct = false},
+}
+},
+{
+question = "«O'rta Osiyo va Qozog'iston musulmonlari diniy boshqarmasi»ning muftiysi etib kim saylandi?",
+answers = {
+{text = "Toshmuhammad Qori-Niyoziy", correct = false},
+{text = "Eshon Boboxon", correct = true},
+{text = "Mannon Ramziy", correct = false},
+{text = "Munavvarqori Abdurashidxonov", correct = false},
+}
+},
+{
+question = "1944-yili Eshon Boboxon boshchiligidagi vakillar birinchi bor qaysi mamlakatga haj safariga yo'l oldilar?",
+answers = {
+{text = "Iroqqa", correct = false},
+{text = "Misrga", correct = false},
+{text = "Saudiya Arabistoniga", correct = true},
+{text = "Eronga", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi yillarida O'zbekiston o'z iqtisodining necha foizini urush xarajatlariga yo'naltirgan?",
+answers = {
+{text = "40 foizini", correct = false},
+{text = "50 foizini", correct = false},
+{text = "60 foizini", correct = true},
+{text = "70 foizini", correct = false},
+}
+},
+{
+question = "To'rtinchi besh yillikda (1948-1952) paxtachilikka ajratilgan maydon necha ming gektarga ko'paydi?",
+answers = {
+{text = "100 ming gektarga", correct = false},
+{text = "148 ming gektarga", correct = true},
+{text = "200 ming gektarga", correct = false},
+{text = "250 ming gektarga", correct = false},
+}
+},
+{
+question = "Kolxozlarni yiriklashtirish siyosati qaysi yildan boshlandi?",
+answers = {
+{text = "1945-yildan", correct = false},
+{text = "1948-yildan", correct = false},
+{text = "1950-yildan", correct = true},
+{text = "1955-yildan", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR kommunistik partiyasi markaziy komitetining X plenumi qaysi yilning fevralida bo'lib o'tdi?",
+answers = {
+{text = "1948-yilda", correct = false},
+{text = "1950-yilda", correct = false},
+{text = "1952-yilda", correct = true},
+{text = "1955-yilda", correct = false},
+}
+},
+{
+question = "X plenum qarorlarida qaysi xalq dostoni jaholatparastlikda ayblandi?",
+answers = {
+{text = "«Qirq qiz»", correct = false},
+{text = "«Alpomish»", correct = true},
+{text = "«Bo'zatov»", correct = false},
+{text = "«Go'ro'g'li»", correct = false},
+}
+},
+{
+question = "«Feodal o'tmishni ideallashtirganliklari» uchun qatag'on qilingan yozuvchilar orasida kim bor edi?",
+answers = {
+{text = "Fitrat va Cho'lpon", correct = false},
+{text = "Oybek va Maqsud Shayxzoda", correct = true},
+{text = "Munavvarqori va Behbudiy", correct = false},
+{text = "Fayzulla Xo'jayev va Ayniy", correct = false},
+}
+},
+{
+question = "Hukumat qaysi kundan boshlab go'sht va yog' narxini oshirdi?",
+answers = {
+{text = "1959-yil 15-martdan", correct = false},
+{text = "1962-yil 1-iyundan", correct = true},
+{text = "1966-yil 26-apreldan", correct = false},
+{text = "1970-yildan", correct = false},
+}
+},
+{
+question = "1963-yildan boshlab davlat nima qilishga majbur bo'ldi?",
+answers = {
+{text = "G'alla eksport qilishga", correct = false},
+{text = "Chetdan g'alla sotib olishga", correct = true},
+{text = "Paxta ishlab chiqarishni to'xtatishga", correct = false},
+{text = "Yangi shaharlar qurishga", correct = false},
+}
+},
+{
+question = "O'zbekiston Kompartiyasi Markaziy Komitetining birinchi sekretari lavozimiga Sharof Rashidov qaysi kuni saylandi?",
+answers = {
+{text = "1950-yil 15-martda", correct = false},
+{text = "1959-yil 15-martda", correct = true},
+{text = "1966-yil 26-aprelda", correct = false},
+{text = "1970-yil 1-yanvarda", correct = false},
+}
+},
+{
+question = "Sharof Rashidov qaysi shaharda tug'ilgan?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Samarqandda", correct = false},
+{text = "Jizzaxda", correct = true},
+{text = "Buxoroda", correct = false},
+}
+},
+{
+question = "Sharof Rashidov 1950-1959-yillarda qanday lavozimda ishlagan?",
+answers = {
+{text = "O'zSSR Xalq Komissarlari Soveti raisi", correct = false},
+{text = "O'zbekiston SSR Oliy Soveti Prezidiumining raisi", correct = true},
+{text = "O'zSSR Fanlar akademiyasi prezidenti", correct = false},
+{text = "O'zbekiston Kompartiyasi kotibi", correct = false},
+}
+},
+{
+question = "Toshkentda kuchli zilzila qaysi yilda yuz berdi?",
+answers = {
+{text = "1959-yilda", correct = false},
+{text = "1962-yilda", correct = false},
+{text = "1966-yilda", correct = true},
+{text = "1970-yilda", correct = false},
+}
+},
+{
+question = "Toshkent metropolitenining birinchi navbati (9 ta bekat) qaysi yilning noyabrida ishga tushirildi?",
+answers = {
+{text = "1970-yilda", correct = false},
+{text = "1973-yilda", correct = false},
+{text = "1977-yilda", correct = true},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "SSSRning yangi Konstitutsiyasi qaysi kuni qabul qilindi?",
+answers = {
+{text = "1966-yil 26-aprelda", correct = false},
+{text = "1977-yil 7-oktyabrda", correct = true},
+{text = "1978-yilda", correct = false},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "Buxoro viloyatida Gazli neft-gaz koni qaysi yilda topildi?",
+answers = {
+{text = "1950-yilda", correct = false},
+{text = "1956-yilda", correct = true},
+{text = "1958-yilda", correct = false},
+{text = "1961-yilda", correct = false},
+}
+},
+{
+question = "Navoiy shahriga asos solingan kun qaysi edi?",
+answers = {
+{text = "1956-yil", correct = false},
+{text = "1958-yil 3-sentyabr", correct = true},
+{text = "1961-yil", correct = false},
+{text = "1966-yil", correct = false},
+}
+},
+{
+question = "Afg'on urushida halok bo'lgan o'zbekistonlik harbiylar soni qancha edi?",
+answers = {
+{text = "515 nafar", correct = false},
+{text = "1 015 nafar", correct = false},
+{text = "1 515 nafar", correct = true},
+{text = "2 015 nafar", correct = false},
+}
+},
+{
+question = "Afg'onistonga o'n yil davomida sarflangan mablag' qancha bo'lgan?",
+answers = {
+{text = "10 milliard rubldan ortiq", correct = false},
+{text = "50 milliard rubldan ortiq", correct = false},
+{text = "100 milliard rubldan ortiq", correct = true},
+{text = "200 milliard rubldan ortiq", correct = false},
+}
+},
+{
+question = "«Paxta ishi» deb atalgan siyosiy qatag'onlar qaysi kuni qabul qilingan plenum qarorlari bilan boshlandi?",
+answers = {
+{text = "1983-yil aprelda", correct = false},
+{text = "1984-yil 23-iyunda", correct = true},
+{text = "1985-yilda", correct = false},
+{text = "1989-yilda", correct = false},
+}
+},
+{
+question = "T. Gdlyan va N. Ivanov rahbarligidagi maxsus tergovchilar guruhi qaysi yilning aprelida tuzilgan edi?",
+answers = {
+{text = "1980-yilda", correct = false},
+{text = "1983-yilda", correct = true},
+{text = "1985-yilda", correct = false},
+{text = "1987-yilda", correct = false},
+}
+},
+{
+question = "1985-1990-yillarda O'zbekistonda «paxta ishi» bo'yicha jami nechta kishi tergov qilindi?",
+answers = {
+{text = "20 000 kishi", correct = false},
+{text = "30 000 kishi", correct = false},
+{text = "40 000 kishi", correct = true},
+{text = "50 000 kishi", correct = false},
+}
+},
+{
+question = "«Paxta ishi» bo'yicha nechta kishi soxta ayblar bilan jinoiy javobgarlikka tortildi?",
+answers = {
+{text = "3 000 nafar", correct = false},
+{text = "5 000 nafar", correct = true},
+{text = "7 000 nafar", correct = false},
+{text = "10 000 nafar", correct = false},
+}
+},
+{
+question = "Sharof Rashidov qaysi kuni vafot etdi?",
+answers = {
+{text = "1980-yil 1-yanvarda", correct = false},
+{text = "1983-yil 31-oktyabrda", correct = true},
+{text = "1985-yil 23-iyunda", correct = false},
+{text = "1989-yil 21-oktyabrda", correct = false},
+}
+},
+{
+question = "1987-yilda respublika umumta'lim maktablarining necha foizida o'qish ikki smenada tashkil etilgan edi?",
+answers = {
+{text = "50,5 foizida", correct = false},
+{text = "62,3 foizida", correct = false},
+{text = "72,1 foizida", correct = true},
+{text = "85,4 foizida", correct = false},
+}
+},
+{
+question = "1989-yilda Toshkent shahrida nechta maktab uch smenada ishlashiga to'g'ri kelgan?",
+answers = {
+{text = "15 ta", correct = false},
+{text = "25 ta", correct = false},
+{text = "30 ta", correct = true},
+{text = "45 ta", correct = false},
+}
+},
+{
+question = "KPSS MK Aprel plenumi qaysi yilda qayta qurish yo'lini e'lon qildi?",
+answers = {
+{text = "1982-yilda", correct = false},
+{text = "1985-yilda", correct = true},
+{text = "1987-yilda", correct = false},
+{text = "1989-yilda", correct = false},
+}
+},
+{
+question = "Qayta qurishning birinchi bosqichi qaysi yillarni o'z ichiga oldi?",
+answers = {
+{text = "1983-1984-yillar", correct = false},
+{text = "1985-1986-yillar", correct = true},
+{text = "1987-1989-yillar", correct = false},
+{text = "1989-1991-yillar", correct = false},
+}
+},
+{
+question = "Qayta qurishning ikkinchi bosqichi qaysi yillarni o'z ichiga oldi?",
+answers = {
+{text = "1985-1986-yillar", correct = false},
+{text = "1987-1989-yillar", correct = true},
+{text = "1989-1990-yillar", correct = false},
+{text = "1990-1991-yillar", correct = false},
+}
+},
+{
+question = "1989-yil may-iyun oylarida Quvasoyda yoshlar o'rtasida bo'lgan bezorilik qanday to'qnashuvni keltirib chiqardi?",
+answers = {
+{text = "Diniy to'qnashuvni", correct = false},
+{text = "Millatlararo to'qnashuvni (mesxeti turklari bilan)", correct = true},
+{text = "Siyosiy to'qnashuvni", correct = false},
+{text = "Iqtisodiy to'qnashuvni", correct = false},
+}
+},
+{
+question = "1989-yil 7-8-iyunda Qo'qon shahridagi tinch namoyish natijasida nechta namoyishchi halok bo'ldi?",
+answers = {
+{text = "30 dan ziyod", correct = false},
+{text = "50 dan ziyod", correct = true},
+{text = "70 dan ziyod", correct = false},
+{text = "100 dan ziyod", correct = false},
+}
+},
+{
+question = "1989-yil 3-12-iyunda Farg'ona viloyatidagi to'qnashuvlar natijasida nechta kishi halok bo'ldi?",
+answers = {
+{text = "50 nafar", correct = false},
+{text = "80 nafar", correct = false},
+{text = "103 nafar", correct = true},
+{text = "150 nafar", correct = false},
+}
+},
+{
+question = "1989-yil Farg'ona voqealarida nechta xonadonga o't qo'yilib, vayron etildi?",
+answers = {
+{text = "500 dan ortiq", correct = false},
+{text = "757 ta", correct = true},
+{text = "900 dan ortiq", correct = false},
+{text = "1 011 ta", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR rahbarligiga Islom Karimov qaysi kuni keldi?",
+answers = {
+{text = "1985-yil 23-iyunda", correct = false},
+{text = "1989-yil 23-iyunda", correct = true},
+{text = "1990-yil 24-martda", correct = false},
+{text = "1991-yil 31-avgustda", correct = false},
+}
+},
+{
+question = "«O'zbekiston SSR davlat tili haqida»gi Qonun qaysi kuni qabul qilindi?",
+answers = {
+{text = "1989-yil 23-iyunda", correct = false},
+{text = "1989-yil 21-oktyabrda", correct = true},
+{text = "1990-yil 24-martda", correct = false},
+{text = "1990-yil 20-iyunda", correct = false},
+}
+},
+{
+question = "O'zbekiston Oliy Soveti Islom Karimovni respublika prezidenti etib qaysi kuni saylaydi?",
+answers = {
+{text = "1989-yil 23-iyunda", correct = false},
+{text = "1989-yil 21-oktyabrda", correct = false},
+{text = "1990-yil 24-martda", correct = true},
+{text = "1990-yil 20-iyunda", correct = false},
+}
+},
+{
+question = "Mustaqillik Deklaratsiyasi qaysi kuni qabul qilindi?",
+answers = {
+{text = "1990-yil 24-martda", correct = false},
+{text = "1990-yil 20-iyunda", correct = true},
+{text = "1991-yil 19-avgustda", correct = false},
+{text = "1991-yil 31-avgustda", correct = false},
+}
+},
+{
+question = "Moskvada davlat to'ntarishi uyushtirilishga urinish qaysi kuni sodir bo'ldi?",
+answers = {
+{text = "1990-yil 20-iyunda", correct = false},
+{text = "1991-yil 19-avgustda", correct = true},
+{text = "1991-yil 25-avgustda", correct = false},
+{text = "1991-yil 31-avgustda", correct = false},
+}
+},
+{
+question = "Moskvadagi davlat to'ntarishi urinishi necha kundan keyin muvaffaqiyatsizlikka uchradi?",
+answers = {
+{text = "1 kundan", correct = false},
+{text = "2 kundan", correct = false},
+{text = "3 kundan", correct = true},
+{text = "5 kundan", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR Prezidentining farmoni bilan respublika ichki ishlar vazirligi va davlat xavfsizligi qo'mitasi qaysi kuni O'zbekiston SSRning qonuniy tasarrufiga olindi?",
+answers = {
+{text = "1991-yil 19-avgustda", correct = false},
+{text = "1991-yil 25-avgustda", correct = true},
+{text = "1991-yil 28-avgustda", correct = false},
+{text = "1991-yil 31-avgustda", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasining Davlat mustaqilligi to'g'risidagi Qonun qaysi kuni qabul qilindi?",
+answers = {
+{text = "1990-yil 20-iyunda", correct = false},
+{text = "1991-yil 19-avgustda", correct = false},
+{text = "1991-yil 25-avgustda", correct = false},
+{text = "1991-yil 31-avgustda", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasining Davlat mustaqilligi to'g'risidagi Qonun qaysi organ tomonidan qabul qilindi?",
+answers = {
+{text = "O'zbekiston Kompartiyasi Markaziy Komiteti", correct = false},
+{text = "O'zbekiston SSR Oliy Sovetining o'n ikkinchi chaqiriq navbatdan tashqari 6-sessiyasi", correct = true},
+{text = "O'zbekiston Konstitutsiyaviy sudi", correct = false},
+{text = "O'zbekiston Vazirlar Mahkamasi", correct = false},
+}
+},
+{
+question = "Mustaqillik e'lon qilinishi o'zbek xalqi uchun qancha yillik qaramlik davridan so'ng sodir bo'lgan voqea sifatida bayon etiladi?",
+answers = {
+{text = "Yarim asrdan ortiq", correct = false},
+{text = "Bir asrdan ortiq", correct = true},
+{text = "Ikki asrdan ortiq", correct = false},
+{text = "Uch asrdan ortiq", correct = false},
+}
+},
+{
+question = "Mustaqillikning e'lon qilinishi necha yillik o'tmishga ega o'zbek davlatchiligi tarixiga zarhal sahifa bo'lib yozildi?",
+answers = {
+{text = "2 500 yillik", correct = false},
+{text = "3 000 yillik", correct = false},
+{text = "3 500 yillik", correct = true},
+{text = "4 000 yillik", correct = false},
+}
+},
+{
+question = "Farg'ona, Qo'qon, Quvasoy, Guliston, Parkent, Bo'kada nima maqsadda millatlararo mojarolar chiqarilgan edi?",
+answers = {
+{text = "Iqtisodiy islohotlarni tezlashtirish uchun", correct = false},
+{text = "Milliy-ozodlik harakatini so'ndirish uchun", correct = true},
+{text = "Diniy erkinlikni cheklash uchun", correct = false},
+{text = "Ta'lim tizimini isloh qilish uchun", correct = false},
+}
+},
+{
+question = "Islom Karimovning O'zbekiston SSR rahbarligiga kelishi qanday davrda sodir bo'ldi?",
+answers = {
+{text = "Tinch va barqaror davrda", correct = false},
+{text = "O'ta qaltis va og'ir davrda", correct = true},
+{text = "Iqtisodiy yuksalish davrida", correct = false},
+{text = "Urush davrida", correct = false},
+}
+},
+{
+question = "1990-yil 24-mart voqeasi O'zbekiston tarixida qanday ahamiyatga ega?",
+answers = {
+{text = "Birinchi bor prezident saylanishi", correct = true},
+{text = "Birinchi bor parlament tuzilishi", correct = false},
+{text = "Birinchi bor konstitutsiya qabul qilinishi", correct = false},
+{text = "Birinchi bor referendum o'tkazilishi", correct = false},
+}
+},
+{
+question = "Mustaqillik Deklaratsiyasining qabul qilinishi qanday ahamiyatga ega bo'ldi?",
+answers = {
+{text = "Davlat mustaqilligini tiklash sari qo'yilgan zalvorli qadam bo'ldi", correct = true},
+{text = "Iqtisodiy islohotlarni yakunladi", correct = false},
+{text = "Yangi konstitutsiya qabul qilindi", correct = false},
+{text = "Yangi hukumat tuzildi", correct = false},
+}
+},
+{
+question = "1991-yil 31-avgust voqeasi qanday umumiy ahamiyatga ega deb baholanadi?",
+answers = {
+{text = "Xalqning yigirmanchi asrda erishgan eng yuksak yutug'i", correct = true},
+{text = "Iqtisodiy inqirozning boshlanishi", correct = false},
+{text = "Diniy erkinlikning cheklanishi", correct = false},
+{text = "Ta'lim tizimidagi islohot", correct = false},
+}
+},
+}

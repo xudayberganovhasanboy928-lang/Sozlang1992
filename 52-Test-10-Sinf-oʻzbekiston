@@ -1,0 +1,362 @@
+questions = {
+{
+question = "O'zbekiston SSR rahbarligiga Islom Karimov qachon kelgan?",
+answers = {
+{text = "1988-yil 23-iyun", correct = false},
+{text = "1989-yil 23-iyun", correct = true},
+{text = "1990-yil 23-iyun", correct = false},
+{text = "1991-yil 23-iyun", correct = false},
+}
+},
+{
+question = "Islom Karimovning O'zbekiston SSR rahbarligiga kelishi qanday imkoniyat yaratdi?",
+answers = {
+{text = "Ittifoqni yanada mustahkamlash imkonini berdi", correct = false},
+{text = "Mustaqillikni tiklash jarayoniga ilg'or boshqaruvchilarni uyushtirish imkonini berdi", correct = true},
+{text = "Paxta yakkahokimligini kuchaytirish imkonini berdi", correct = false},
+{text = "Ateistik tarbiyani kuchaytirish imkonini berdi", correct = false},
+}
+},
+{
+question = "Respublika Oliy Sovetining o'n birinchi sessiyasida qanday nomdagi Qonun qabul qilindi?",
+answers = {
+{text = "«O'zbekiston SSR fuqaroligi haqida»gi Qonun", correct = false},
+{text = "«O'zbekiston SSR davlat tili haqida»gi Qonun", correct = true},
+{text = "«O'zbekiston SSR yer islohoti haqida»gi Qonun", correct = false},
+{text = "«O'zbekiston SSR ta'lim haqida»gi Qonun", correct = false},
+}
+},
+{
+question = "«O'zbekiston SSR davlat tili haqida»gi Qonun qachon qabul qilingan?",
+answers = {
+{text = "1988-yil 21-oktyabr", correct = false},
+{text = "1989-yil 21-oktyabr", correct = true},
+{text = "1990-yil 21-oktyabr", correct = false},
+{text = "1991-yil 21-oktyabr", correct = false},
+}
+},
+{
+question = "«O'zbekiston SSR davlat tili haqida»gi Qonunga ko'ra qaysi tilga davlat tili maqomi berildi?",
+answers = {
+{text = "Rus tiliga", correct = false},
+{text = "O'zbek tiliga", correct = true},
+{text = "Qoraqalpoq tiliga", correct = false},
+{text = "Tojik tiliga", correct = false},
+}
+},
+{
+question = "O'zbek tiliga davlat tili maqomi berilgan Qonun respublika Oliy Sovetining nechanchi sessiyasida qabul qilingan?",
+answers = {
+{text = "O'ninchi sessiyasida", correct = false},
+{text = "O'n birinchi sessiyasida", correct = true},
+{text = "O'n ikkinchi sessiyasida", correct = false},
+{text = "O'n uchinchi sessiyasida", correct = false},
+}
+},
+{
+question = "Islom Karimov O'zbekiston SSRning prezidenti etib qachon saylangan?",
+answers = {
+{text = "1989-yil 24-mart", correct = false},
+{text = "1990-yil 24-mart", correct = true},
+{text = "1991-yil 24-mart", correct = false},
+{text = "1992-yil 24-mart", correct = false},
+}
+},
+{
+question = "Islom Karimovni O'zbekiston SSR prezidenti etib qaysi organ saylagan?",
+answers = {
+{text = "Xalq deputatlari qurultoyi", correct = false},
+{text = "Oliy Sovet", correct = true},
+{text = "Xalq referendumi", correct = false},
+{text = "Vazirlar Mahkamasi", correct = false},
+}
+},
+{
+question = "Mustaqillik Deklaratsiyasi qachon qabul qilingan?",
+answers = {
+{text = "1989-yil 20-iyun", correct = false},
+{text = "1990-yil 20-iyun", correct = true},
+{text = "1991-yil 20-iyun", correct = false},
+{text = "1992-yil 20-iyun", correct = false},
+}
+},
+{
+question = "Mustaqillik Deklaratsiyasining qabul qilinishi matnda qanday baholanadi?",
+answers = {
+{text = "Xalqning kundalik ovqatlanish tartibini o'zgartirgan hujjat sifatida", correct = false},
+{text = "Davlat mustaqilligini tiklash sari qo'yilgan zalvorli qadam sifatida", correct = true},
+{text = "Faqat mafkuraviy ahamiyatga ega hujjat sifatida", correct = false},
+{text = "Ittifoqni saqlab qolish loyihasi sifatida", correct = false},
+}
+},
+{
+question = "Moskvadagi imperiyaparast kuchlar davlat to'ntarishini qachon uyushtirgan?",
+answers = {
+{text = "1990-yil 19-avgust", correct = false},
+{text = "1991-yil 19-avgust", correct = true},
+{text = "1991-yil 19-sentyabr", correct = false},
+{text = "1992-yil 19-avgust", correct = false},
+}
+},
+{
+question = "1991-yil 19-avgustdagi davlat to'ntarishi qanday maqsadda uyushtirilgan?",
+answers = {
+{text = "O'zbekistonni mustaqil qilish maqsadida", correct = false},
+{text = "SSSRni saqlab qolish maqsadida", correct = true},
+{text = "Yangi Ittifoq shartnomasini bekor qilish maqsadida", correct = false},
+{text = "Islom Karimovni prezidentlikdan chetlatish maqsadida", correct = false},
+}
+},
+{
+question = "1991-yil 19-avgustdagi davlat to'ntarishi necha kun ichida muvaffaqiyatsizlikka uchragan?",
+answers = {
+{text = "Bir kundan oshmagan", correct = false},
+{text = "Uch kundan oshmagan", correct = true},
+{text = "Bir haftadan oshmagan", correct = false},
+{text = "O'n kundan oshmagan", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR Prezidentining farmoni bilan qaysi ikki tuzilma respublika qonuniy tasarrufiga olindi?",
+answers = {
+{text = "Moliya vazirligi va Adliya vazirligi", correct = false},
+{text = "Ichki ishlar vazirligi va Davlat xavfsizligi qo'mitasi", correct = true},
+{text = "Mudofaa vazirligi va Tashqi ishlar vazirligi", correct = false},
+{text = "Sog'liqni saqlash vazirligi va Xalq ta'limi vazirligi", correct = false},
+}
+},
+{
+question = "Ichki ishlar vazirligi va Davlat xavfsizligi qo'mitasi respublika tasarrufiga olinishi haqidagi farmon qachon chiqarilgan?",
+answers = {
+{text = "1991-yil 19-avgust", correct = false},
+{text = "1991-yil 25-avgust", correct = true},
+{text = "1991-yil 28-avgust", correct = false},
+{text = "1991-yil 31-avgust", correct = false},
+}
+},
+{
+question = "SSSR Ichki ishlar vazirligining ichki qo'shinlari kimga bevosita bo'ysundirilgan?",
+answers = {
+{text = "SSSR Mudofaa vaziriga", correct = false},
+{text = "O'zbekiston SSR Prezidentiga", correct = true},
+{text = "Moskva Sovetiga", correct = false},
+{text = "Turkiston harbiy okrugi qo'mondoniga", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasining Davlat mustaqilligi qachon e'lon qilingan?",
+answers = {
+{text = "1990-yil 31-avgust", correct = false},
+{text = "1991-yil 31-avgust", correct = true},
+{text = "1991-yil 1-sentyabr", correct = false},
+{text = "1992-yil 31-avgust", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasining Davlat mustaqilligi O'zbekiston SSR Oliy Sovetining nechanchi chaqiriqidagi sessiyasida e'lon qilingan?",
+answers = {
+{text = "O'ninchi chaqiriq", correct = false},
+{text = "O'n birinchi chaqiriq", correct = false},
+{text = "O'n ikkinchi chaqiriq", correct = true},
+{text = "O'n uchinchi chaqiriq", correct = false},
+}
+},
+{
+question = "1991-yil 31-avgustda O'zbekiston SSR Oliy Sovetining navbatdan tashqari nechanchi sessiyasi bo'lib o'tgan?",
+answers = {
+{text = "To'rtinchi sessiya", correct = false},
+{text = "Beshinchi sessiya", correct = false},
+{text = "Oltinchi sessiya", correct = true},
+{text = "Yettinchi sessiya", correct = false},
+}
+},
+{
+question = "1991-yil 31-avgustda qabul qilingan qonun qanday nomlangan?",
+answers = {
+{text = "«O'zbekiston Respublikasining Konstitutsiyasi to'g'risida»gi Qonun", correct = false},
+{text = "«O'zbekiston Respublikasining Davlat mustaqilligi asoslari to'g'risida»gi Qonun", correct = true},
+{text = "«O'zbekiston Respublikasining fuqaroligi to'g'risida»gi Qonun", correct = false},
+{text = "«O'zbekiston Respublikasining bayrog'i to'g'risida»gi Qonun", correct = false},
+}
+},
+{
+question = "1991-yil 31-avgustda Davlat mustaqilligi asoslari to'g'risidagi Qonun bilan birga yana qanday hujjat qabul qilingan?",
+answers = {
+{text = "O'zbekiston Respublikasining Konstitutsiyasi", correct = false},
+{text = "O'zbekiston Respublikasining Davlat mustaqilligi to'g'risida Oliy Kengash bayonoti", correct = true},
+{text = "O'zbekiston Respublikasining Davlat bayrog'i to'g'risidagi qonun", correct = false},
+{text = "O'zbekiston Respublikasi va Rossiya o'rtasidagi shartnoma", correct = false},
+}
+},
+{
+question = "O'zbek xalqi mustaqillikka erishgunga qadar necha yildan ortiq qaramlikda bo'lgan?",
+answers = {
+{text = "Yarim asrdan ortiq", correct = false},
+{text = "Bir asrdan ortiq", correct = true},
+{text = "Ikki asrdan ortiq", correct = false},
+{text = "O'ttiz yildan ortiq", correct = false},
+}
+},
+{
+question = "Manbaga ko'ra, o'zbek xalqi va davlatchiligi tarixi kamida necha yillik o'tmishga ega?",
+answers = {
+{text = "2000 yillik", correct = false},
+{text = "2500 yillik", correct = false},
+{text = "3500 yillik", correct = true},
+{text = "5000 yillik", correct = false},
+}
+},
+{
+question = "Mustaqillik xalqimizning qaysi asrda erishgan eng yuksak yutug'i sifatida baholanadi?",
+answers = {
+{text = "O'n to'qqizinchi asrda", correct = false},
+{text = "Yigirmanchi asrda", correct = true},
+{text = "O'n sakkizinchi asrda", correct = false},
+{text = "Yigirma birinchi asrda", correct = false},
+}
+},
+{
+question = "Matnda mustaqillik nimaning mahsuli sifatida ta'riflanadi?",
+answers = {
+{text = "Faqat siyosiy kelishuvlarning mahsuli", correct = false},
+{text = "Ajdodlar to'kkan qutlug' va tabarruk qonning mahsuli", correct = true},
+{text = "Xalqaro tashkilotlar yordamining mahsuli", correct = false},
+{text = "Iqtisodiy islohotlarning mahsuli", correct = false},
+}
+},
+{
+question = "Quyidagi shaharlardan qaysi biri millatlararo mojaro chiqarilgan hududlar qatorida ko'rsatilmagan?",
+answers = {
+{text = "Farg'ona", correct = false},
+{text = "Quvasoy", correct = false},
+{text = "Namangan", correct = true},
+{text = "Guliston", correct = false},
+}
+},
+{
+question = "Farg'ona, Qo'qon, Quvasoy, Guliston, Parkent va Bo'kada millatlararo mojarolar kimlar tomonidan tashkil etilgan deb ta'kidlanadi?",
+answers = {
+{text = "Mahalliy xalq tashabbusi bilan", correct = false},
+{text = "Sovet Ittifoqi rahbariyati va maxsus xizmatlar tomonidan", correct = true},
+{text = "Chet el razvedkasi tomonidan", correct = false},
+{text = "Diniy ekstremistik guruhlar tomonidan", correct = false},
+}
+},
+{
+question = "Sovet Ittifoqi rahbariyati millatlararo mojarolarni tashkil etish orqali nimaga erishmoqchi bo'lgan?",
+answers = {
+{text = "Iqtisodiy islohotlarni tezlashtirishga", correct = false},
+{text = "Milliy-ozodlik harakatini so'ndirishga", correct = true},
+{text = "Ta'lim tizimini isloh qilishga", correct = false},
+{text = "Diniy erkinlikni kengaytirishga", correct = false},
+}
+},
+{
+question = "Atamalar izohiga ko'ra, «Deklaratsiya» nima?",
+answers = {
+{text = "Davlatlararo harbiy ittifoq shartnomasi", correct = false},
+{text = "Hukumatning muhim hujjat, qonun yoki voqeani ko'pchilik e'tiboriga yetkazuvchi bayonoti", correct = true},
+{text = "Sud qarorining ijro varaqasi", correct = false},
+{text = "Soliq to'lovi haqidagi hisobot", correct = false},
+}
+},
+{
+question = "Quyidagi voqealardan qaysi biri boshqalaridan oldinroq sodir bo'lgan?",
+answers = {
+{text = "Islom Karimovning O'zbekiston SSR rahbarligiga kelishi", correct = true},
+{text = "Mustaqillik Deklaratsiyasining qabul qilinishi", correct = false},
+{text = "Islom Karimovning prezident etib saylanishi", correct = false},
+{text = "Davlat mustaqilligining e'lon qilinishi", correct = false},
+}
+},
+{
+question = "Quyidagi voqealardan qaysi biri barchasidan keyinroq sodir bo'lgan?",
+answers = {
+{text = "Davlat tili to'g'risidagi Qonunning qabul qilinishi", correct = false},
+{text = "Islom Karimovning prezident etib saylanishi", correct = false},
+{text = "Mustaqillik Deklaratsiyasining qabul qilinishi", correct = false},
+{text = "Davlat mustaqilligining e'lon qilinishi", correct = true},
+}
+},
+{
+question = "Islom Karimovning prezident etib saylanishi bilan davlat tili to'g'risidagi Qonun qabul qilinishidan qaysi biri avvalroq bo'lgan?",
+answers = {
+{text = "Davlat tili to'g'risidagi Qonun", correct = true},
+{text = "Prezidentlikka saylanish", correct = false},
+{text = "Ikkalasi bir kunda bo'lgan", correct = false},
+{text = "Prezidentlikka saylanishdan keyin qabul qilingan", correct = false},
+}
+},
+{
+question = "Mustaqillik Deklaratsiyasi bilan 1991-yil 19-avgustdagi davlat to'ntarishidan qaysi biri oldinroq sodir bo'lgan?",
+answers = {
+{text = "Davlat to'ntarishi", correct = false},
+{text = "Mustaqillik Deklaratsiyasi", correct = true},
+{text = "Ikkalasi bir vaqtda bo'lgan", correct = false},
+{text = "Davlat to'ntarishidan keyin qabul qilingan", correct = false},
+}
+},
+{
+question = "1991-yil 25-avgustdagi farmon bilan 1991-yil 31-avgustdagi mustaqillik e'lonidan qaysi biri avval bo'lgan?",
+answers = {
+{text = "Mustaqillik e'loni", correct = false},
+{text = "25-avgustdagi farmon", correct = true},
+{text = "Ikkalasi bir kunda bo'lgan", correct = false},
+{text = "Mustaqillik e'lonidan keyin chiqqan", correct = false},
+}
+},
+{
+question = "1991-yil 25-avgustdagi farmonga ko'ra Ichki ishlar vazirligi va Davlat xavfsizligi qo'mitasi kimning tasarrufiga o'tkazilgan?",
+answers = {
+{text = "SSSR Ministrlar Sovetining", correct = false},
+{text = "O'zbekiston SSRning qonuniy tasarrufiga", correct = true},
+{text = "Moskva harbiy komendaturasining", correct = false},
+{text = "Turkiston harbiy okrugining", correct = false},
+}
+},
+{
+question = "Davlat to'ntarishi muvaffaqiyatsizlikka uchraganidan so'ng O'zbekistonda qanday jarayon yanada avj oldi?",
+answers = {
+{text = "Ittifoqni saqlab qolish harakati", correct = false},
+{text = "Mustaqillik sari intilishlar", correct = true},
+{text = "Diniy targ'ibot harakati", correct = false},
+{text = "Ateistik tarbiya kampaniyasi", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi qachon dunyo siyosiy xaritasida mustaqil davlat sifatida paydo bo'ldi?",
+answers = {
+{text = "1990-yil 20-iyunda", correct = false},
+{text = "1990-yil 24-martda", correct = false},
+{text = "1991-yil 31-avgustda", correct = true},
+{text = "1991-yil 19-avgustda", correct = false},
+}
+},
+{
+question = "1991-yil 31-avgustda qabul qilingan hujjatlarga ko'ra, O'zbekiston Respublikasi davlat mustaqilligi qanday asosda tiklandi?",
+answers = {
+{text = "Oliy Kengash bayonoti va maxsus Qonun asosida", correct = true},
+{text = "Xalqaro tashkilotlar qaroriga asosan", correct = false},
+{text = "Ittifoq Konstitutsiyasiga muvofiq", correct = false},
+{text = "Referendum natijalariga ko'ra", correct = false},
+}
+},
+{
+question = "O'zbekiston SSR Prezidentining 1991-yil 25-avgustdagi farmoni qaysi voqeadan keyin qabul qilingan?",
+answers = {
+{text = "Mustaqillik Deklaratsiyasidan keyin", correct = false},
+{text = "1991-yil 19-avgustdagi davlat to'ntarishidan keyin", correct = true},
+{text = "Davlat tili to'g'risidagi Qonundan keyin", correct = false},
+{text = "Islom Karimov prezident bo'lishidan oldin", correct = false},
+}
+},
+{
+question = "1989-yil 21-oktyabrdan 1991-yil 31-avgustgacha bo'lgan davrda sodir bo'lgan voqealar qanday umumiy jarayonni ifodalaydi?",
+answers = {
+{text = "Sovet Ittifoqini mustahkamlash jarayonini", correct = false},
+{text = "O'zbekistonning mustaqillikka erishuv jarayonini", correct = true},
+{text = "Diniy siyosatning kuchayish jarayonini", correct = false},
+{text = "Paxta yakkahokimligining rivojlanish jarayonini", correct = false},
+}
+},
+}
