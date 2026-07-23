@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Richard Trevitik tarixda ilk parovozni qaysi yilda yasab, amalda sinovdan o'tkazgan?",
+answers = {
+{text = "1802-yilda", correct = false},
+{text = "1804-yilda", correct = true},
+{text = "1810-yilda", correct = false},
+{text = "1814-yilda", correct = false},
+}
+},
+{
+question = "Richard Trevitik qaysi davlatning muhandisi bo'lgan?",
+answers = {
+{text = "Fransiya", correct = false},
+{text = "Angliya", correct = true},
+{text = "Germaniya", correct = false},
+{text = "AQSH", correct = false},
+}
+},
+{
+question = "Richard Trevitik yasagan parovozning og'irligi qancha bo'lgan?",
+answers = {
+{text = "3 tonna atrofida", correct = false},
+{text = "5 tonna atrofida", correct = true},
+{text = "8 tonna atrofida", correct = false},
+{text = "10 tonna atrofida", correct = false},
+}
+},
+{
+question = "Trevitik parovozi bir vaqtning o'zida nechta vagonni tortib keta olgan?",
+answers = {
+{text = "3 ta", correct = false},
+{text = "4 ta", correct = false},
+{text = "5 ta", correct = true},
+{text = "7 ta", correct = false},
+}
+},
+{
+question = "Trevitik parovozi qanday tezlik bilan harakatlangan?",
+answers = {
+{text = "5 km / soat", correct = false},
+{text = "8 km / soat", correct = true},
+{text = "12 km / soat", correct = false},
+{text = "15 km / soat", correct = false},
+}
+},
+{
+question = "Tomas Edison uzoq yonib turuvchi uglerod tolali lampochkani qaysi yilda yaratishga muvaffaq bo'lgan?",
+answers = {
+{text = "1875-yilda", correct = false},
+{text = "1879-yilda", correct = true},
+{text = "1885-yilda", correct = false},
+{text = "1890-yilda", correct = false},
+}
+},
+{
+question = "Tomas Edison yaratgan lampochka necha soat uzluksiz yonib turgan?",
+answers = {
+{text = "20 soat", correct = false},
+{text = "30 soat", correct = false},
+{text = "40 soat", correct = true},
+{text = "50 soat", correct = false},
+}
+},
+{
+question = "Tomas Edison qaysi mamlakat ixtirochisi bo'lgan?",
+answers = {
+{text = "Angliya", correct = false},
+{text = "Fransiya", correct = false},
+{text = "AQSH", correct = true},
+{text = "Germaniya", correct = false},
+}
+},
+{
+question = "Sanoat to'ntarishi dastlab qaysi mamlakatda boshlanib, keyin boshqa davlatlarga tarqalgan?",
+answers = {
+{text = "Fransiya", correct = false},
+{text = "Angliya", correct = true},
+{text = "Germaniya", correct = false},
+{text = "Rossiya", correct = false},
+}
+},
+{
+question = "Po'lat eritishning yangi usullarini joriy etib, uni arzonlashtirishga erishgan olimlar kimlar bo'lgan?",
+answers = {
+{text = "Tomas Edison va Richard Trevitik", correct = false},
+{text = "Pyer Marten va Genri Bessemer", correct = true},
+{text = "Sidney Tomas va Birinchi Vilgelm", correct = false},
+{text = "Jozef Kipling va Sesil Rods", correct = false},
+}
+},
+{
+question = "Suyuq cho'yanni tozalash usulini kashf etib, fosfatga boy temir rudalaridan foydalanish imkonini yaratgan ingliz metallurgi kim bo'lgan?",
+answers = {
+{text = "Genri Bessemer", correct = false},
+{text = "Pyer Marten", correct = false},
+{text = "Sidney Tomas", correct = true},
+{text = "Richard Trevitik", correct = false},
+}
+},
+{
+question = "1870-yildan 1900-yilgacha jahonda po'lat ishlab chiqarish necha barobar oshgan?",
+answers = {
+{text = "26 barobar", correct = false},
+{text = "40 barobar", correct = false},
+{text = "56 barobar", correct = true},
+{text = "70 barobar", correct = false},
+}
+},
+{
+question = "Elektrdvigatel, elektrlampa va telefon qaysi davrda kashf etilgan?",
+answers = {
+{text = "o'n to'qqizinchi asrning oltmishinchi yillarida", correct = false},
+{text = "o'n to'qqizinchi asrning yetmishinchi yillarida", correct = true},
+{text = "yigirmanchi asr boshlarida", correct = false},
+{text = "o'n sakkizinchi asr oxirida", correct = false},
+}
+},
+{
+question = "Yirik mablag'larni bir joyga jamlash uchun o'n to'qqizinchi asr oxirida qanday kompaniyalar tashkil qilingan?",
+answers = {
+{text = "Davlat korxonalari", correct = false},
+{text = "Aksionerlik kompaniyalari", correct = true},
+{text = "Kasaba uyushmalari", correct = false},
+{text = "Diniy tashkilotlar", correct = false},
+}
+},
+{
+question = "Sekulyarlik tushunchasi nimani anglatadi?",
+answers = {
+{text = "Fuqarolarning qonun oldidagi tengligini", correct = false},
+{text = "Hukumat va huquq manbalarining dinning har qanday turidan alohida bo'lishini", correct = true},
+{text = "Ishlab chiqarish vositalarining davlat mulki bo'lishini", correct = false},
+{text = "Monarxiya boshqaruv shaklini", correct = false},
+}
+},
+{
+question = "Industrial sivilizatsiyaning bosh qadriyatlari nimalardan iborat bo'lgan?",
+answers = {
+{text = "Diniy e'tiqod va an'analar", correct = false},
+{text = "Harbiy qudrat va hududiy kengayish", correct = false},
+{text = "Texnik taraqqiyot va inson erkinligi", correct = true},
+{text = "Qishloq xo'jaligi va dehqonchilik", correct = false},
+}
+},
+{
+question = "Angliya jahon siyosatida uzoq yillar yetakchilik qilib, qanday nom bilan mashhur bo'lgan?",
+answers = {
+{text = "\"Ozodlik diyori\"", correct = false},
+{text = "\"Jahon ustaxonasi\"", correct = true},
+{text = "\"Quyosh botmaydigan imperiya\"", correct = false},
+{text = "\"Sanoat maskani\"", correct = false},
+}
+},
+{
+question = "Xalqaro sotsialistik ishchilar va kasaba uyushmalari kongressi qaysi yilda va qayerda o'tkazilgan?",
+answers = {
+{text = "1889-yilda, Parijda", correct = false},
+{text = "1896-yilda, Londonda", correct = true},
+{text = "1900-yilda, Berlinda", correct = false},
+{text = "1905-yilda, Moskvada", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asrning yetmishinchi yillariga kelib Angliya sanoat rivojlanish sur'atlari bo'yicha qaysi davlatlardan ortda qola boshlagan?",
+answers = {
+{text = "Fransiya va Italiya", correct = false},
+{text = "Germaniya va AQSH", correct = true},
+{text = "Rossiya va Ispaniya", correct = false},
+{text = "Yaponiya va Xitoy", correct = false},
+}
+},
+{
+question = "Yigirmanchi asr boshlarida dunyoning birinchi sanoat mamlakatiga qaysi davlat aylangan?",
+answers = {
+{text = "Angliya", correct = false},
+{text = "Germaniya", correct = false},
+{text = "AQSH", correct = true},
+{text = "Fransiya", correct = false},
+}
+},
+{
+question = "1868-yilda Angliyada qanday muhim islohot amalga oshirilgan?",
+answers = {
+{text = "Ayollarga saylov huquqi berilgan", correct = false},
+{text = "Shaharlarda ishchilarning bir qismi saylov huquqiga ega bo'lgan", correct = true},
+{text = "Krepostnoylik bekor qilingan", correct = false},
+{text = "Parlament ikki palataga bo'lingan", correct = false},
+}
+},
+{
+question = "Qirolicha Viktoriya Britaniya imperiyasiga necha yil hukmronlik qilgan?",
+answers = {
+{text = "50 yil", correct = false},
+{text = "64 yil", correct = true},
+{text = "70 yil", correct = false},
+{text = "45 yil", correct = false},
+}
+},
+{
+question = "Qirolicha Viktoriya qaysi yilda vafot etgan?",
+answers = {
+{text = "1895-yilda", correct = false},
+{text = "1901-yilda", correct = true},
+{text = "1910-yilda", correct = false},
+{text = "1914-yilda", correct = false},
+}
+},
+{
+question = "Qirolicha Viktoriyadan so'ng Britaniya taxtiga uning qaysi farzandi o'tirgan?",
+answers = {
+{text = "Katta o'g'li Yettinchi Eduard", correct = true},
+{text = "Kichik o'g'li Birinchi Jorj", correct = false},
+{text = "Qizi Yelizaveta", correct = false},
+{text = "Nabirasi Ikkinchi Jorj", correct = false},
+}
+},
+{
+question = "Yettinchi Eduard ingliz diplomatiyasida qanday siyosatga chek qo'ygan?",
+answers = {
+{text = "\"Qit'a qamali\" siyosatiga", correct = false},
+{text = "\"Ajoyib izolyatsiya\" siyosatiga", correct = true},
+{text = "Panamerika siyosatiga", correct = false},
+{text = "\"Yangi kurs\" siyosatiga", correct = false},
+}
+},
+{
+question = "\"Oq tanlilar yuki\" nomli she'r muallifi kim bo'lgan?",
+answers = {
+{text = "Charlz Dilk", correct = false},
+{text = "Jon Sili", correct = false},
+{text = "Jozef Redyard Kipling", correct = true},
+{text = "Sesil Rods", correct = false},
+}
+},
+{
+question = "Imperiya haqidagi mifni yaratgan, britaniyaliklar boshqaruvini eng yaxshi boshqaruv usuli deb hisoblagan imperiya maddohlaridan kimlarni bilasiz?",
+answers = {
+{text = "Charlz Dilk, Jon Sili va Sesil Rods", correct = true},
+{text = "Teodor Ruzvelt va Vudro Vilson", correct = false},
+{text = "Bismark va Ikkinchi Vilgelm", correct = false},
+{text = "Dias va Madero", correct = false},
+}
+},
+{
+question = "Pax Britanica atamasi qaysi davrni anglatadi?",
+answers = {
+{text = "1789-yilgi inqilobdan Vena kongressigacha bo'lgan davrni", correct = false},
+{text = "1815-yilgi Vaterloo jangidan Birinchi jahon urushigacha bo'lgan davrni", correct = true},
+{text = "Ikkinchi jahon urushidan keyingi davrni", correct = false},
+{text = "O'n sakkizinchi asr davrini", correct = false},
+}
+},
+{
+question = "Dominion tushunchasi qanday davlatni anglatadi?",
+answers = {
+{text = "To'liq mustaqil bo'lgan davlatni", correct = false},
+{text = "Ingliz qirolini davlat boshlig'i deb tan oluvchi va Britaniya imperiyasi tarkibidagi davlatni", correct = true},
+{text = "Faqat harbiy ittifoqdosh davlatni", correct = false},
+{text = "Mustamlaka bo'lmagan davlatni", correct = false},
+}
+},
+{
+question = "Qaysi davlatlar dominion maqomiga ega bo'lgan?",
+answers = {
+{text = "Hindiston, Misr, Sudan", correct = false},
+{text = "Kanada, Yangi Zelandiya, Avstraliya", correct = true},
+{text = "Kuba, Puerto-Riko, Filippin", correct = false},
+{text = "Braziliya, Argentina, Chili", correct = false},
+}
+},
+{
+question = "Angliya uzoq davom etgan urushdan so'ng ikkita respublikani qaysi yilda o'ziga bo'ysundirgan?",
+answers = {
+{text = "1898-yilda", correct = false},
+{text = "1902-yilda", correct = true},
+{text = "1910-yilda", correct = false},
+{text = "1914-yilda", correct = false},
+}
+},
+{
+question = "Angliya inqilobiy o'zgarishlardan qochib, taraqqiyot uchun qanday yo'lni tanlagan?",
+answers = {
+{text = "Inqilobiy yo'lni", correct = false},
+{text = "Evolyutsion yo'lni", correct = true},
+{text = "Harbiy yo'lni", correct = false},
+{text = "Diniy islohotlar yo'lini", correct = false},
+}
+},
+{
+question = "Fransiyada Ikkinchi imperiya qaysi yilgacha mavjud bo'lgan?",
+answers = {
+{text = "1860-yilgacha", correct = false},
+{text = "1870-yilgacha", correct = true},
+{text = "1875-yilgacha", correct = false},
+{text = "1880-yilgacha", correct = false},
+}
+},
+{
+question = "Fransiya - Prussiya urushida qaysi fransuz imperatori asir olingan?",
+answers = {
+{text = "Birinchi Napoleon", correct = false},
+{text = "Uchinchi Napoleon", correct = true},
+{text = "Ikkinchi Lyudovik", correct = false},
+{text = "Bismark", correct = false},
+}
+},
+{
+question = "Parij kommunasi jami necha kunlik faoliyat ko'rsatgan?",
+answers = {
+{text = "60 kun", correct = false},
+{text = "72 kun", correct = true},
+{text = "90 kun", correct = false},
+{text = "100 kun", correct = false},
+}
+},
+{
+question = "Parij kommunasi qaysi kuni qulagan?",
+answers = {
+{text = "18-mart", correct = false},
+{text = "4-sentyabr", correct = false},
+{text = "28-may", correct = true},
+{text = "1-iyun", correct = false},
+}
+},
+{
+question = "Parij kommunasi qaysi yilning martida qo'zg'olon natijasida tashkil topgan?",
+answers = {
+{text = "1870-yilda", correct = false},
+{text = "1871-yilda", correct = true},
+{text = "1875-yilda", correct = false},
+{text = "1878-yilda", correct = false},
+}
+},
+{
+question = "Fransiyada Uchinchi respublika qaysi sanada e'lon qilingan?",
+answers = {
+{text = "1870-yil 4-sentyabrda", correct = true},
+{text = "1871-yil 18-martda", correct = false},
+{text = "1875-yil 1-yanvarda", correct = false},
+{text = "1880-yil 14-iyulda", correct = false},
+}
+},
+{
+question = "Fransiyadagi Uchinchi respublika qachongacha mavjud bo'lgan?",
+answers = {
+{text = "Birinchi jahon urushigacha", correct = false},
+{text = "Ikkinchi jahon urushigacha", correct = true},
+{text = "1914-yilgacha", correct = false},
+{text = "1900-yilgacha", correct = false},
+}
+},
+{
+question = "Fransiya konstitutsiyasi qaysi yilda qabul qilinib, mamlakatning keyingi rivojlanishi uchun asos bo'lgan?",
+answers = {
+{text = "1871-yilda", correct = false},
+{text = "1875-yilda", correct = true},
+{text = "1889-yilda", correct = false},
+{text = "1900-yilda", correct = false},
+}
+},
+{
+question = "Germaniya imperatori deb kim va qayerda e'lon qilingan?",
+answers = {
+{text = "Bismark, Berlinda", correct = false},
+{text = "Birinchi Vilgelm, Versal saroyida", correct = true},
+{text = "Ikkinchi Vilgelm, Reyxstagda", correct = false},
+{text = "Frans Iosif, Venada", correct = false},
+}
+},
+{
+question = "Germaniyani birlashtirish uchun olib borilgan uzoq yillik kurashni kim uddalagan?",
+answers = {
+{text = "Birinchi Vilgelm", correct = false},
+{text = "Bismark", correct = true},
+{text = "Ikkinchi Vilgelm", correct = false},
+{text = "Frans Iosif", correct = false},
+}
+},
+{
+question = "Birinchi Germaniya imperiyasi reyxstagi konstitutsiyani qaysi vaqtda qabul qilgan?",
+answers = {
+{text = "1870-yil kuzida", correct = false},
+{text = "1871-yil bahorida", correct = true},
+{text = "1875-yil qishida", correct = false},
+{text = "1880-yil yozida", correct = false},
+}
+},
+{
+question = "1913-yilga kelib Germaniya sanoat ishlab chiqarish hajmi bo'yicha jahonda qaysi o'rinni egallagan?",
+answers = {
+{text = "Birinchi o'rinni", correct = false},
+{text = "Ikkinchi o'rinni", correct = true},
+{text = "Uchinchi o'rinni", correct = false},
+{text = "To'rtinchi o'rinni", correct = false},
+}
+},
+{
+question = "1871-yilda Germaniya aholisining qanday qismi shaharlarda istiqomat qilgan?",
+answers = {
+{text = "To'rtdan bir qismi", correct = false},
+{text = "Uchdan bir qismi", correct = true},
+{text = "Yarmi", correct = false},
+{text = "Uchdan ikki qismi", correct = false},
+}
+},
+{
+question = "1910-yilga kelib Germaniya aholisining qanday qismi shaharlarda istiqomat qilgan?",
+answers = {
+{text = "Uchdan bir qismi", correct = false},
+{text = "Yarmi", correct = false},
+{text = "Uchdan ikki qismi", correct = true},
+{text = "To'rtdan uch qismi", correct = false},
+}
+},
+{
+question = "Imperator Ikkinchi Vilgelm qanday siyosiy kursni e'lon qilgan?",
+answers = {
+{text = "\"Yangi erkinlik\"", correct = false},
+{text = "\"Yangi kurs\"", correct = true},
+{text = "\"Qit'a qamali\"", correct = false},
+{text = "\"Ajoyib izolyatsiya\"", correct = false},
+}
+},
+{
+question = "Dekret atamasi qanday ma'noni anglatadi?",
+answers = {
+{text = "Fuqarolar o'rtasidagi shartnomani", correct = false},
+{text = "Oliy hokimiyat yoki boshqaruv organi chiqargan, qonun kuchiga ega bo'lgan qarorni", correct = true},
+{text = "Davlatlararo ittifoq shartnomasini", correct = false},
+{text = "Diniy farmonni", correct = false},
+}
+},
+{
+question = "Serbiya qaysi yilda va qaysi davlat yordamida o'z mustaqilligini e'lon qilgan?",
+answers = {
+{text = "1878-yilda, Rossiya yordamida", correct = true},
+{text = "1908-yilda, Avstriya yordamida", correct = false},
+{text = "1912-yilda, Angliya yordamida", correct = false},
+{text = "1867-yilda, Fransiya yordamida", correct = false},
+}
+},
+{
+question = "Bosniya va Gersegovina qaysi yilda Avstriya tomonidan anneksiya qilingan?",
+answers = {
+{text = "1878-yilda", correct = false},
+{text = "1908-yilda", correct = true},
+{text = "1912-yilda", correct = false},
+{text = "1918-yilda", correct = false},
+}
+},
+{
+question = "Avstriya - Vengriya imperiyasi qaysi yilda ikki davlat kelishuvi asosida tashkil topgan?",
+answers = {
+{text = "1848-yilda", correct = false},
+{text = "1867-yilda", correct = true},
+{text = "1878-yilda", correct = false},
+{text = "1908-yilda", correct = false},
+}
+},
+{
+question = "Avstriya - Vengriya imperiyasida 1918-yilgacha qaysi sulola taxtda o'tirgan?",
+answers = {
+{text = "Romanovlar sulolasi", correct = false},
+{text = "Gabsburglar sulolasi", correct = true},
+{text = "Bonapartlar sulolasi", correct = false},
+{text = "Xoxensollernlar sulolasi", correct = false},
+}
+},
+{
+question = "1912-yili boshlangan qanday jarayon Avstriya - Vengriya ahvolini yanada og'irlashtirgan?",
+answers = {
+{text = "Diniy islohotlar", correct = false},
+{text = "Iqtisodiy inqiroz", correct = true},
+{text = "Harbiy to'ntarish", correct = false},
+{text = "Yer islohoti", correct = false},
+}
+},
+{
+question = "Rossiyada krepostnoylik huquqining bekor qilinishi va boshqa islohotlar qaysi imperator davrida amalga oshirilgan?",
+answers = {
+{text = "Birinchi Aleksandr", correct = false},
+{text = "Ikkinchi Aleksandr", correct = true},
+{text = "Uchinchi Aleksandr", correct = false},
+{text = "Ikkinchi Nikolay", correct = false},
+}
+},
+{
+question = "Rossiyada yer, moliya, universitet, maktab va matbuot islohotlari qaysi davrda o'tkazilgan?",
+answers = {
+{text = "O'n to'qqizinchi asrning oltmish-yetmishinchi yillarida", correct = true},
+{text = "O'n to'qqizinchi asrning to'qsoninchi yillarida", correct = false},
+{text = "Yigirmanchi asr boshlarida", correct = false},
+{text = "O'n sakkizinchi asr oxirida", correct = false},
+}
+},
+{
+question = "Birinchi rus inqilobi qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "1900-1903-yillar", correct = false},
+{text = "1905-1907-yillar", correct = true},
+{text = "1910-1913-yillar", correct = false},
+{text = "1914-1917-yillar", correct = false},
+}
+},
+{
+question = "Birinchi rus inqilobidan so'ng podsho hokimiyati qanday organlar bilan cheklangan?",
+answers = {
+{text = "Senat va Sinod bilan", correct = false},
+{text = "Davlat Kengashi va Davlat Dumasi bilan", correct = true},
+{text = "Milliy majlis va Bosh shtab bilan", correct = false},
+{text = "Reyxstag va Bundesrat bilan", correct = false},
+}
+},
+{
+question = "Birinchi rus inqilobidan so'ng ish vaqti necha soatgacha qisqartirilgan?",
+answers = {
+{text = "6-7 soatgacha", correct = false},
+{text = "9-10 soatgacha", correct = true},
+{text = "12-13 soatgacha", correct = false},
+{text = "14-15 soatgacha", correct = false},
+}
+},
+{
+question = "Bu davrda ijod qilgan rus yozuvchilaridan kimlarni bilasiz?",
+answers = {
+{text = "F. M. Dostoyevskiy, L. N. Tolstoy va A. P. Chexov", correct = true},
+{text = "Uolt Uitmen va Mark Tven", correct = false},
+{text = "Diyego Rivera va Xose Orosko", correct = false},
+{text = "Jozef Kipling va Charlz Dilk", correct = false},
+}
+},
+{
+question = "Bu davrda ijod qilgan rus kompozitorlaridan kimlarni bilasiz?",
+answers = {
+{text = "M. P. Musorgskiy, P. I. Chaykovskiy va N. A. Rimskiy-Korsakov", correct = true},
+{text = "Uinslou Homer va Tomas Ikins", correct = false},
+{text = "Sezar Valyexo va Gabriela Mistral", correct = false},
+{text = "Jeyms Uistler va David Sikeyros", correct = false},
+}
+},
+{
+question = "Samoderjaviye atamasi nimani anglatadi?",
+answers = {
+{text = "Xalq tomonidan saylanadigan boshqaruv shaklini", correct = false},
+{text = "Podshoning cheklanmagan mustabid hokimiyati va shu asosga qurilgan davlat tuzumini", correct = true},
+{text = "Ikki palatali parlament tizimini", correct = false},
+{text = "Diniy boshqaruv shaklini", correct = false},
+}
+},
+{
+question = "Anneksiya atamasi qanday siyosatni anglatadi?",
+answers = {
+{text = "Boshqa davlat hududini butunlay yoki qisman egallab olish yoki o'ziga qo'shib olish siyosatini", correct = true},
+{text = "Ikki davlat o'rtasidagi tinchlik shartnomasini", correct = false},
+{text = "Mustamlakaga mustaqillik berish siyosatini", correct = false},
+{text = "Ittifoqchi davlatlarga yordam berish siyosatini", correct = false},
+}
+},
+{
+question = "Byurokratiya atamasi dastlab nimani ifodalagan?",
+answers = {
+{text = "Diniy muassasalar faoliyatini", correct = false},
+{text = "Hukumat idoralari rahbarlari va amaldorlari hokimiyatini", correct = true},
+{text = "Xalq milliy armiyasini", correct = false},
+{text = "Savdo-sotiq tizimini", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asr oxirida Sharqiy Yevropaga qaysi mamlakat va imperiyalarning hududlari kirgan?",
+answers = {
+{text = "Faqat Bolqon mamlakatlari", correct = false},
+{text = "Bolqon mamlakatlari, Avstriya-Vengriya va Rossiya imperiyalarining bir qismi", correct = true},
+{text = "Faqat Germaniya va Fransiya", correct = false},
+{text = "Faqat Usmoniylar imperiyasi", correct = false},
+}
+},
+{
+question = "AQSHda fuqarolar urushi qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1855-1860-yillarda", correct = false},
+{text = "1861-1865-yillarda", correct = true},
+{text = "1870-1875-yillarda", correct = false},
+{text = "1880-1885-yillarda", correct = false},
+}
+},
+{
+question = "1894-yilga kelib AQSH sanoat mahsulotlari umumiy hajmi bo'yicha qanday o'rinni egallagan?",
+answers = {
+{text = "Ikkinchi o'rinni", correct = false},
+{text = "Birinchi o'rinni", correct = true},
+{text = "Uchinchi o'rinni", correct = false},
+{text = "To'rtinchi o'rinni", correct = false},
+}
+},
+{
+question = "1901-yilda AQSH prezidentlik lavozimini kim egallagan?",
+answers = {
+{text = "Vudro Vilson", correct = false},
+{text = "Teodor Ruzvelt", correct = true},
+{text = "Abraham Linkoln", correct = false},
+{text = "Jorj Vashington", correct = false},
+}
+},
+{
+question = "1912-yilgi prezidentlik saylovlarida demokratlar vakili sifatida kim g'alaba qozongan?",
+answers = {
+{text = "Teodor Ruzvelt", correct = false},
+{text = "Vudro Vilson", correct = true},
+{text = "Uilyam Taft", correct = false},
+{text = "Frenklin Ruzvelt", correct = false},
+}
+},
+{
+question = "Birinchi Panamerika konferensiyasi qaysi yilda va qayerda chaqirilgan?",
+answers = {
+{text = "1889-yilda, Vashingtonda", correct = true},
+{text = "1898-yilda, Nyu-Yorkda", correct = false},
+{text = "1901-yilda, Chikagoda", correct = false},
+{text = "1912-yilda, Bostonda", correct = false},
+}
+},
+{
+question = "1898-yilda AQSH qaysi davlat bilan bo'lgan urushda g'olib chiqqan?",
+answers = {
+{text = "Angliya bilan", correct = false},
+{text = "Ispaniya bilan", correct = true},
+{text = "Fransiya bilan", correct = false},
+{text = "Meksika bilan", correct = false},
+}
+},
+{
+question = "1898-yilgi urush natijasida AQSH qaysi orollarni o'ziga qo'shib olgan?",
+answers = {
+{text = "Gavayi va Kuba", correct = false},
+{text = "Puerto-Riko va Guam", correct = true},
+{text = "Filippin va Yamayka", correct = false},
+{text = "Bermud va Bagama", correct = false},
+}
+},
+{
+question = "1898-yilgi urushdan so'ng qaysi davlat AQSH mustamlakasiga aylangan?",
+answers = {
+{text = "Kuba", correct = false},
+{text = "Filippin", correct = true},
+{text = "Meksika", correct = false},
+{text = "Braziliya", correct = false},
+}
+},
+{
+question = "O'n to'qqizinchi asrning oltmish-to'qsoninchi yillarida AQSH adabiyotida qaysi ijodkorlar faoliyat yuritgan?",
+answers = {
+{text = "Uolt Uitmen va Mark Tven", correct = true},
+{text = "Dostoyevskiy va Tolstoy", correct = false},
+{text = "Kipling va Dilk", correct = false},
+{text = "Valyexo va Mistral", correct = false},
+}
+},
+{
+question = "Braziliyada qulchilik qaysi yilda bekor qilingan?",
+answers = {
+{text = "1875-yilda", correct = false},
+{text = "1888-yilda", correct = true},
+{text = "1898-yilda", correct = false},
+{text = "1910-yilda", correct = false},
+}
+},
+{
+question = "Braziliya qaysi yilda respublika deb e'lon qilingan?",
+answers = {
+{text = "1888-yilda", correct = false},
+{text = "1891-yilda", correct = true},
+{text = "1901-yilda", correct = false},
+{text = "1917-yilda", correct = false},
+}
+},
+{
+question = "Meksika inqilobi qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "1905-1910-yillar", correct = false},
+{text = "1910-1917-yillar", correct = true},
+{text = "1917-1920-yillar", correct = false},
+{text = "1898-1905-yillar", correct = false},
+}
+},
+{
+question = "1911-yilda Meksikada qaysi diktatorning hokimiyati ag'darilgan?",
+answers = {
+{text = "General Uerta", correct = false},
+{text = "Dias", correct = true},
+{text = "Madero", correct = false},
+{text = "Karranza", correct = false},
+}
+},
+{
+question = "1911-yildagi prezidentlik saylovlarida Meksikada kim g'olib chiqqan?",
+answers = {
+{text = "Dias", correct = false},
+{text = "General Uerta", correct = false},
+{text = "Madero", correct = true},
+{text = "Karranza", correct = false},
+}
+},
+{
+question = "1913-yil fevralida boshlangan qo'zg'olon natijasida Meksika hokimiyatiga kim kelgan?",
+answers = {
+{text = "Madero", correct = false},
+{text = "General Uerta", correct = true},
+{text = "Dias", correct = false},
+{text = "Karranza", correct = false},
+}
+},
+{
+question = "AQSH qo'shinlari Meksikadan qaysi yilda olib chiqilgan?",
+answers = {
+{text = "1916-yil dekabrda", correct = false},
+{text = "1917-yil fevralda", correct = true},
+{text = "1918-yil martda", correct = false},
+{text = "1919-yil yanvarda", correct = false},
+}
+},
+}

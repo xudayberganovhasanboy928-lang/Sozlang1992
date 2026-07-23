@@ -1,0 +1,623 @@
+questions = {
+{
+question = "Meydzi davri Yaponiya tarixida qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "1860-1900-yillar", correct = false},
+{text = "1868-1912-yillar", correct = true},
+{text = "1870-1905-yillar", correct = false},
+{text = "1889-1914-yillar", correct = false},
+}
+},
+{
+question = "Yaponiyada harbiy-feodal hukumat - Tokugava syogunligi qaysi yilda ag'darilgan?",
+answers = {
+{text = "1866-yilda", correct = false},
+{text = "1868-yilda", correct = true},
+{text = "1871-yilda", correct = false},
+{text = "1889-yilda", correct = false},
+}
+},
+{
+question = "Yaponiyada syogunlik butunlay qaysi yilda tugatilgan?",
+answers = {
+{text = "1868-yilda", correct = false},
+{text = "1869-yilda", correct = true},
+{text = "1871-yilda", correct = false},
+{text = "1876-yilda", correct = false},
+}
+},
+{
+question = "Yapon imperatori Mutsuxitoning hukmronlik davri rasman qanday atalgan va bu nom qanday ma'noni anglatgan?",
+answers = {
+{text = "Sinxay - \"yangi tong\"", correct = false},
+{text = "Meydzi - \"ma'rifatli boshqaruv\"", correct = true},
+{text = "Gomindan - \"milliy partiya\"", correct = false},
+{text = "Bushido - \"jasorat yo'li\"", correct = false},
+}
+},
+{
+question = "Yaponiyada feodal yer mulklari tugatilib, mamlakatning yagona davlatga birlashish jarayoni qaysi yilda yakunlangan?",
+answers = {
+{text = "1868-yilda", correct = false},
+{text = "1869-yilda", correct = false},
+{text = "1871-yilda", correct = true},
+{text = "1889-yilda", correct = false},
+}
+},
+{
+question = "Rus - yapon urushi qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1898-1899-yillarda", correct = false},
+{text = "1904-1905-yillarda", correct = true},
+{text = "1910-1911-yillarda", correct = false},
+{text = "1911-1912-yillarda", correct = false},
+}
+},
+{
+question = "Koreya qaysi yildan rasman Yaponiyaning mustamlakasiga aylangan?",
+answers = {
+{text = "1904-yildan", correct = false},
+{text = "1905-yildan", correct = false},
+{text = "1910-yildan", correct = true},
+{text = "1912-yildan", correct = false},
+}
+},
+{
+question = "Yaponiya konstitutsiyasi qaysi yilda qabul qilinib, mamlakat qanday tuzumga aylangan?",
+answers = {
+{text = "1868-yilda, respublikaga", correct = false},
+{text = "1871-yilda, federatsiyaga", correct = false},
+{text = "1889-yilda, konstitutsion monarxiyaga", correct = true},
+{text = "1912-yilda, imperiyaga", correct = false},
+}
+},
+{
+question = "Xitoy tarixida ikkinchi \"afyun urushi\" qaysi yillarda bo'lib o'tgan?",
+answers = {
+{text = "1840-1842-yillarda", correct = false},
+{text = "1856-1860-yillarda", correct = true},
+{text = "1894-1895-yillarda", correct = false},
+{text = "1911-1912-yillarda", correct = false},
+}
+},
+{
+question = "Xitoyda \"o'z-o'zini kuchaytirish\" (\"szi syan\") nomli taraqqiyot yo'li qaysi yilgacha jiddiy o'zgarishlarsiz amalga oshirilgan?",
+answers = {
+{text = "1885-yilgacha", correct = false},
+{text = "1895-yilgacha", correct = true},
+{text = "1905-yilgacha", correct = false},
+{text = "1911-yilgacha", correct = false},
+}
+},
+{
+question = "Xitoyda Sinxay inqilobi kim boshchiligida boshlangan?",
+answers = {
+{text = "Sun Yatsen", correct = true},
+{text = "Gomindan", correct = false},
+{text = "Muhammad ibn Abdulla", correct = false},
+{text = "Mutsuxito", correct = false},
+}
+},
+{
+question = "1911-1912-yillardagi inqilob natijasida Xitoyda qaysi sulola taxtdan ag'darilgan?",
+answers = {
+{text = "Tan sulolasi", correct = false},
+{text = "Sun sulolasi", correct = false},
+{text = "Manchjurlar sulolasi", correct = true},
+{text = "Min sulolasi", correct = false},
+}
+},
+{
+question = "Sun Yatsen 1912-yilda qanday partiyaga asos solgan?",
+answers = {
+{text = "Gomindan (\"Milliy partiya\")", correct = true},
+{text = "Musulmon ligasi", correct = false},
+{text = "Yosh Turkiya", correct = false},
+{text = "\"Yangi usmoniylar\"", correct = false},
+}
+},
+{
+question = "Hindiston milliy kongressi (HMK) qaysi yilda va qaysi shaharda tashkil qilingan?",
+answers = {
+{text = "1885-yil dekabrda, Bombeyda", correct = true},
+{text = "1889-yil yanvarda, Dehlida", correct = false},
+{text = "1906-yil fevralda, Kalkuttada", correct = false},
+{text = "1913-yil martda, Madrasda", correct = false},
+}
+},
+{
+question = "Hind musulmonlarining partiyasi - Musulmon ligasi qaysi yillarda tashkil qilingan?",
+answers = {
+{text = "1885-1886-yillarda", correct = false},
+{text = "1895-1896-yillarda", correct = false},
+{text = "1906-1907-yillarda", correct = true},
+{text = "1911-1912-yillarda", correct = false},
+}
+},
+{
+question = "Rabindranath Thakur \"Gitanjali\" (\"Qurbonlik qo'shiqlari\") turkum she'rlari uchun qaysi yilda adabiyot sohasida Nobel mukofotiga sazovor bo'lgan?",
+answers = {
+{text = "1901-yilda", correct = false},
+{text = "1907-yilda", correct = false},
+{text = "1913-yilda", correct = true},
+{text = "1918-yilda", correct = false},
+}
+},
+{
+question = "1865-yilda Istanbulda tuzilgan maxfiy siyosiy tashkilot a'zolari o'zlarini qanday atashgan?",
+answers = {
+{text = "\"Yangi usmoniylar\"", correct = true},
+{text = "\"Yosh Fors\"", correct = false},
+{text = "\"Milliy mudofaa\"", correct = false},
+{text = "\"Qojarlar\"", correct = false},
+}
+},
+{
+question = "Yevropada 1865-yilgi maxfiy tashkilot va uning a'zolari qanday nom olgan?",
+answers = {
+{text = "\"Yosh Turkiya\" va \"yosh turklar\"", correct = true},
+{text = "\"Yangi Fors\" va \"yangi forslar\"", correct = false},
+{text = "\"Milliy uyg'onish\" va \"milliychilar\"", correct = false},
+{text = "\"Sinxay\" va \"sinxaychilar\"", correct = false},
+}
+},
+{
+question = "1876-yilda Usmoniylar imperiyasi taxtiga kim kelgan?",
+answers = {
+{text = "Sulton Abdulaziz", correct = false},
+{text = "Sulton Abdulhamid II", correct = true},
+{text = "Midhat posho", correct = false},
+{text = "Anvar posho", correct = false},
+}
+},
+{
+question = "1876-yilda buyuk vazir lavozimini egallab, konstitutsiya loyihasini tayyorlashga ruxsat olgan davlat arbobi kim bo'lgan?",
+answers = {
+{text = "Midhat posho", correct = true},
+{text = "Tal'at posho", correct = false},
+{text = "Jamol posho", correct = false},
+{text = "Mahmud Nadim posho", correct = false},
+}
+},
+{
+question = "\"Midhat konstitutsiyasi\" qaysi yilning dekabrida qabul qilinib, Turkiyani qanday davlat deb e'lon qilgan?",
+answers = {
+{text = "1871-yilda, respublika", correct = false},
+{text = "1876-yilda, konstitutsion monarxiya", correct = true},
+{text = "1878-yilda, federatsiya", correct = false},
+{text = "1908-yilda, imperiya", correct = false},
+}
+},
+{
+question = "Rossiya - Turkiya urushi qaysi yilning bahorida boshlangan?",
+answers = {
+{text = "1871-yilda", correct = false},
+{text = "1876-yilda", correct = false},
+{text = "1877-yilda", correct = true},
+{text = "1878-yilda", correct = false},
+}
+},
+{
+question = "1878-yil martda Istanbul yaqinidagi qaysi joyda ruslar bilan sulh imzolangan?",
+answers = {
+{text = "San Stefano", correct = true},
+{text = "Versal", correct = false},
+{text = "Berlin", correct = false},
+{text = "Bryussel", correct = false},
+}
+},
+{
+question = "San Stefano sulhining asosiy sharti nimadan iborat bo'lgan?",
+answers = {
+{text = "Mustaqil Bolgariya davlatini tuzish", correct = true},
+{text = "Turkiyaning konstitutsion monarxiyaga aylanishi", correct = false},
+{text = "Fors bilan chegara shartnomasi tuzish", correct = false},
+{text = "Turkiyaning Germaniya bilan ittifoq tuzishi", correct = false},
+}
+},
+{
+question = "1871-yilda sulton Abdulazizning bosh vaziri Mahmud Nadim posho nimaga erishgan?",
+answers = {
+{text = "\"Yosh turklar\"ning afv etilishiga", correct = true},
+{text = "Midhat konstitutsiyasining bekor qilinishiga", correct = false},
+{text = "San Stefano sulhining imzolanishiga", correct = false},
+{text = "Germaniya bilan maxfiy shartnoma tuzishga", correct = false},
+}
+},
+{
+question = "1908-yilgi Turkiya inqilobi qanday nom bilan tarixga kirgan?",
+answers = {
+{text = "Sinxay inqilobi", correct = false},
+{text = "Yosh turklar inqilobi", correct = true},
+{text = "Meydzi inqilobi", correct = false},
+{text = "Milliy uyg'onish inqilobi", correct = false},
+}
+},
+{
+question = "1913-yili hokimiyatga kelgan \"Yosh turklar\" partiyasi vakillari uchligiga kimlar kirgan?",
+answers = {
+{text = "Anvar posho, Tal'at posho va Jamol posho", correct = true},
+{text = "Midhat posho, Mahmud Nadim posho va Abdulhamid II", correct = false},
+{text = "Sun Yatsen, Mutsuxito va Vivekananda", correct = false},
+{text = "Muzaffariddin shoh, qojarlar va kazaklar", correct = false},
+}
+},
+{
+question = "Turkiya bilan Germaniya o'rtasidagi maxfiy shartnoma qaysi yilning avgustida imzolangan?",
+answers = {
+{text = "1908-yilda", correct = false},
+{text = "1913-yilda", correct = false},
+{text = "1914-yilda", correct = true},
+{text = "1918-yilda", correct = false},
+}
+},
+{
+question = "Fors armiyasining yagona jangovar qismiga aylangan kazaklar polki qaysi yilda rus ofitserlari boshchiligida tuzilgan?",
+answers = {
+{text = "1871-yilda", correct = false},
+{text = "1879-yilda", correct = true},
+{text = "1889-yilda", correct = false},
+{text = "1905-yilda", correct = false},
+}
+},
+{
+question = "Forsdagi burjua - demokratik inqilob qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "1895-1900-yillar", correct = false},
+{text = "1900-1904-yillar", correct = false},
+{text = "1905-1911-yillar", correct = true},
+{text = "1911-1917-yillar", correct = false},
+}
+},
+{
+question = "1889-1890-yillardagi Bryussel konferensiyasi nimani taqiqlagan?",
+answers = {
+{text = "Qul savdosini", correct = true},
+{text = "Chet el kapitali kiritilishini", correct = false},
+{text = "Mustamlakalar tashkil etilishini", correct = false},
+{text = "Diniy tashkilotlar faoliyatini", correct = false},
+}
+},
+{
+question = "Qariyb to'rt asr ichida yevropaliklar Amerikaga taxminan necha million qul olib kelgan?",
+answers = {
+{text = "5-6 million", correct = false},
+{text = "10-12 million", correct = false},
+{text = "15-16 million", correct = true},
+{text = "25-30 million", correct = false},
+}
+},
+{
+question = "Atlantika okeani orqali amalga oshirilgan qul savdosi jarayonida taxminan necha million kishi halok bo'lgan?",
+answers = {
+{text = "20-30 million", correct = false},
+{text = "40-50 million", correct = false},
+{text = "60-70 million", correct = true},
+{text = "80-90 million", correct = false},
+}
+},
+{
+question = "1884-1885-yillardagi Berlin konferensiyasi qaysi ikki davlatning tashabbusi bilan chaqirilgan?",
+answers = {
+{text = "Angliya va AQSH", correct = false},
+{text = "Germaniya va Fransiya", correct = true},
+{text = "Rossiya va Turkiya", correct = false},
+{text = "Italiya va Ispaniya", correct = false},
+}
+},
+{
+question = "Berlin konferensiyasida AQSH va Turkiyadan tashqari nechta Yevropa davlati qatnashgan?",
+answers = {
+{text = "8 ta", correct = false},
+{text = "10 ta", correct = false},
+{text = "12 ta", correct = true},
+{text = "15 ta", correct = false},
+}
+},
+{
+question = "1876-yilgacha Yevropa davlatlari Afrika qit'asining qancha qismini egallagan edi?",
+answers = {
+{text = "5 %ini", correct = false},
+{text = "10 %ini", correct = true},
+{text = "25 %ini", correct = false},
+{text = "50 %ini", correct = false},
+}
+},
+{
+question = "1900-yilga kelib Afrika qit'asining qancha qismi mustamlakachi bosqinchilar qo'liga o'tgan?",
+answers = {
+{text = "Yarmi", correct = false},
+{text = "Uchdan ikki qismi", correct = false},
+{text = "9/10 qismi", correct = true},
+{text = "To'liq barchasi", correct = false},
+}
+},
+{
+question = "Afrika qit'asining katta qismini bosib olib, bu hududlarda Afrika umumiy aholisining qariyb yarmi istiqomat qilgan davlat qaysi bo'lgan?",
+answers = {
+{text = "Fransiya", correct = false},
+{text = "Buyuk Britaniya", correct = true},
+{text = "Germaniya", correct = false},
+{text = "Belgiya", correct = false},
+}
+},
+{
+question = "Afrika aholisining qariyb uchdan bir qismi yashagan hududlarni qaysi davlat egallagan?",
+answers = {
+{text = "Buyuk Britaniya", correct = false},
+{text = "Fransiya", correct = true},
+{text = "Portugaliya", correct = false},
+{text = "Ispaniya", correct = false},
+}
+},
+{
+question = "Mustamlakachilikka qarshi kurashda o'z jasoratlari va uddaburonliklari bilan mashhur bo'lgan Afrika sarkardalaridan kimlarni bilasiz?",
+answers = {
+{text = "Samori, Behanzin, Raboh, Muhammad ibn Abdulla", correct = true},
+{text = "Sun Yatsen, Mutsuxito, Vivekananda, Thakur", correct = false},
+{text = "Midhat posho, Anvar posho, Tal'at posho, Jamol posho", correct = false},
+{text = "Franklin Ruzvelt, Cherchill, Chemberlen, Bismark", correct = false},
+}
+},
+{
+question = "1882-yilda Uchlar ittifoqi harbiy-siyosiy bloki qaysi davlatlar tomonidan tashkil qilingan?",
+answers = {
+{text = "Buyuk Britaniya, Fransiya va Rossiya", correct = false},
+{text = "Germaniya, Avstriya-Vengriya va Italiya", correct = true},
+{text = "AQSH, Yaponiya va Turkiya", correct = false},
+{text = "Fransiya, Italiya va Ispaniya", correct = false},
+}
+},
+{
+question = "Antanta harbiy-siyosiy bloki qaysi yillarda va qaysi davlatlar o'rtasida shakllangan?",
+answers = {
+{text = "1882-yilda, Germaniya, Avstriya-Vengriya va Italiya o'rtasida", correct = false},
+{text = "1904-1907-yillarda, Buyuk Britaniya, Fransiya va Rossiya o'rtasida", correct = true},
+{text = "1914-yilda, AQSH, Yaponiya va Xitoy o'rtasida", correct = false},
+{text = "1919-yilda, Germaniya va Turkiya o'rtasida", correct = false},
+}
+},
+{
+question = "Avstriya-Vengriya taxti vorisi Frans Ferdinand va uning rafiqasi qaysi shaharda otib o'ldirilgan?",
+answers = {
+{text = "Belgradda", correct = false},
+{text = "Sarayevoda", correct = true},
+{text = "Venada", correct = false},
+{text = "Budapeshtda", correct = false},
+}
+},
+{
+question = "Frans Ferdinand va rafiqasini kim otib o'ldirgan?",
+answers = {
+{text = "Gavrilo Prinsip", correct = true},
+{text = "Sun Yatsen", correct = false},
+{text = "Midhat posho", correct = false},
+{text = "Anvar posho", correct = false},
+}
+},
+{
+question = "Gavrilo Prinsip qaysi tashkilotning a'zosi bo'lgan?",
+answers = {
+{text = "\"Yosh Turkiya\"", correct = false},
+{text = "\"Mlada Bosna\" (\"Yosh Bosniya\")", correct = true},
+{text = "Gomindan", correct = false},
+{text = "Millatlar Ligasi", correct = false},
+}
+},
+{
+question = "Avstriya - Vengriya Serbiyaga qaysi kuni ultimatum e'lon qilgan?",
+answers = {
+{text = "28-iyunda", correct = false},
+{text = "23-iyulda", correct = true},
+{text = "28-iyulda", correct = false},
+{text = "1-avgustda", correct = false},
+}
+},
+{
+question = "Avstriya - Vengriya Serbiyaga qaysi kuni urush e'lon qilgan?",
+answers = {
+{text = "23-iyulda", correct = false},
+{text = "28-iyulda", correct = true},
+{text = "1-avgustda", correct = false},
+{text = "3-avgustda", correct = false},
+}
+},
+{
+question = "Germaniya Rossiyaga qaysi kuni urush e'lon qilgan?",
+answers = {
+{text = "28-iyulda", correct = false},
+{text = "1-avgustda", correct = true},
+{text = "3-avgustda", correct = false},
+{text = "4-avgustda", correct = false},
+}
+},
+{
+question = "Angliya Germaniyaga qaysi kuni urush e'lon qilgan?",
+answers = {
+{text = "1-avgustda", correct = false},
+{text = "3-avgustda", correct = false},
+{text = "4-avgustda", correct = true},
+{text = "11-avgustda", correct = false},
+}
+},
+{
+question = "Verden jangi qaysi yilning fevralida boshlangan va necha oy davom etgan?",
+answers = {
+{text = "1914-yilda, uch oy", correct = false},
+{text = "1916-yilda, o'n oy", correct = true},
+{text = "1917-yilda, olti oy", correct = false},
+{text = "1918-yilda, ikki oy", correct = false},
+}
+},
+{
+question = "Verden jangida Germaniya necha ming kishisidan ayrilgan?",
+answers = {
+{text = "360 ming", correct = false},
+{text = "500 ming", correct = false},
+{text = "600 ming", correct = true},
+{text = "800 ming", correct = false},
+}
+},
+{
+question = "Germaniya qaysi sanada taslim bo'lib, Birinchi jahon urushi yakunlanganligi e'lon qilingan?",
+answers = {
+{text = "1918-yil 28-iyun", correct = false},
+{text = "1918-yil 11-noyabr", correct = true},
+{text = "1919-yil 18-yanvar", correct = false},
+{text = "1919-yil 28-iyun", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushida jami nechta davlat qatnashgan?",
+answers = {
+{text = "27 ta", correct = false},
+{text = "32 ta", correct = false},
+{text = "38 ta", correct = true},
+{text = "45 ta", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushida halok bo'lganlar soni qanchani tashkil etgan?",
+answers = {
+{text = "10 mln dan ortiq", correct = false},
+{text = "13,6 mln dan ortiq", correct = true},
+{text = "20 mln dan ortiq", correct = false},
+{text = "25 mln dan ortiq", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushi necha yil davom etgan?",
+answers = {
+{text = "3 yil 6 oy", correct = false},
+{text = "4 yil 3,5 oy", correct = true},
+{text = "5 yil 2 oy", correct = false},
+{text = "6 yil 1 oy", correct = false},
+}
+},
+{
+question = "Versal tinchlik konferensiyasi qaysi sanalar oralig'ida bo'lib o'tgan?",
+answers = {
+{text = "1918-yil 11-noyabrdan 1919-yil 18-yanvargacha", correct = false},
+{text = "1919-yil 18-yanvardan 1920-yil 21-yanvargacha", correct = true},
+{text = "1920-yil 21-yanvardan 1921-yil noyabrgacha", correct = false},
+{text = "1921-yil noyabrdan 1922-yil fevralgacha", correct = false},
+}
+},
+{
+question = "Versal tinchlik konferensiyasida nechta davlat vakili ishtirok etgan?",
+answers = {
+{text = "12 ta", correct = false},
+{text = "20 ta", correct = false},
+{text = "27 ta", correct = true},
+{text = "38 ta", correct = false},
+}
+},
+{
+question = "Germaniya Versal tinchlik shartnomasini qaysi sanada imzolagan?",
+answers = {
+{text = "1918-yil 11-noyabrda", correct = false},
+{text = "1919-yil 18-yanvarda", correct = false},
+{text = "1919-yil 28-iyunda", correct = true},
+{text = "1920-yil 21-yanvarda", correct = false},
+}
+},
+{
+question = "1919-yilda tinchlik, xavfsizlik va xalqlar hamkorligi masalalari bilan shug'ullanish uchun qanday xalqaro tashkilot tuzilgan?",
+answers = {
+{text = "Millatlar Ligasi", correct = true},
+{text = "Antanta", correct = false},
+{text = "Uchlar ittifoqi", correct = false},
+{text = "Gomindan", correct = false},
+}
+},
+{
+question = "Uzoq Sharq va Tinch okeandagi bahsli muammolarni hal qilish maqsadida bo'lib o'tgan Vashington konferensiyasi qaysi vaqt oralig'ida o'tkazilgan?",
+answers = {
+{text = "1919-yil yanvar - fevral", correct = false},
+{text = "1920-yil mart - aprel", correct = false},
+{text = "1921-yil noyabr - 1922-yil fevral", correct = true},
+{text = "1923-yil yanvar - iyun", correct = false},
+}
+},
+{
+question = "Vashington konferensiyasida qaysi davlatlar o'rtasida shartnoma imzolangan?",
+answers = {
+{text = "AQSH, Buyuk Britaniya, Fransiya va Yaponiya", correct = true},
+{text = "Germaniya, Avstriya-Vengriya va Italiya", correct = false},
+{text = "Rossiya, Turkiya va Fors", correct = false},
+{text = "Xitoy, Hindiston va Yaponiya", correct = false},
+}
+},
+{
+question = "1919-1923-yillari imzolangan shartnomalar va jahondagi kuchlarning yangi nisbati xalqaro munosabatlarning qanday tizimi deb atalgan?",
+answers = {
+{text = "Uchlar ittifoqi tizimi", correct = false},
+{text = "Versal - Vashington tizimi", correct = true},
+{text = "Antanta tizimi", correct = false},
+{text = "San Stefano tizimi", correct = false},
+}
+},
+{
+question = "Jahon iqtisodiy inqirozi Nyu-York fond birjasida qaysi sanada boshlangan?",
+answers = {
+{text = "1919-yil 28-iyunda", correct = false},
+{text = "1929-yil 24-oktyabrda", correct = true},
+{text = "1932-yil noyabrda", correct = false},
+{text = "1933-yilda", correct = false},
+}
+},
+{
+question = "1929-1932-yillari AQSHda sanoat ishlab chiqarish hajmi necha foizga qisqargan?",
+answers = {
+{text = "25 %ga", correct = false},
+{text = "35 %ga", correct = false},
+{text = "50 %ga", correct = true},
+{text = "70 %ga", correct = false},
+}
+},
+{
+question = "1932-yil noyabrdagi saylovlarda Amerika xalqiga yangi kurs va'da qilib g'olib chiqqan davlat arbobi kim bo'lgan?",
+answers = {
+{text = "Teodor Ruzvelt", correct = false},
+{text = "Vudro Vilson", correct = false},
+{text = "Franklin Ruzvelt", correct = true},
+{text = "Uinston Cherchill", correct = false},
+}
+},
+{
+question = "AQSH SSSR bilan diplomatik munosabatlarni qaysi yilda o'rnatgan?",
+answers = {
+{text = "1929-yilda", correct = false},
+{text = "1932-yilda", correct = false},
+{text = "1933-yilda", correct = true},
+{text = "1936-yilda", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya jahon iqtisodiy inqirozidan qaysi yildan chiqa boshlagan?",
+answers = {
+{text = "1930-yildan", correct = false},
+{text = "1932-yildan", correct = false},
+{text = "1934-yildan", correct = true},
+{text = "1937-yildan", correct = false},
+}
+},
+{
+question = "1937-1940-yillari Buyuk Britaniya hukumatiga konservatorlar yetakchisi sifatida kim boshchilik qilgan?",
+answers = {
+{text = "Uinston Cherchill", correct = false},
+{text = "Nevill Chemberlen", correct = true},
+{text = "Franklin Ruzvelt", correct = false},
+{text = "Vudro Vilson", correct = false},
+}
+},
+{
+question = "Versal shartnomasiga binoan Fransiya qaysi ikki hududni qaytarib olgan?",
+answers = {
+{text = "Elzas va Lotaringiyani", correct = true},
+{text = "Saar va Reyn havzasini", correct = false},
+{text = "Bavariya va Prussiyani", correct = false},
+{text = "Sileziya va Pomeraniyani", correct = false},
+}
+},
+}
