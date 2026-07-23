@@ -1,0 +1,659 @@
+questions = {
+{
+question = "Rossiyada davlat to'ntarishi natijasida sovet hokimiyati qaysi sanada o'rnatilgan?",
+answers = {
+{text = "1917-yil fevralda", correct = false},
+{text = "1917-yil 7-noyabrda", correct = true},
+{text = "1918-yilda", correct = false},
+{text = "1922-yil 30-dekabrda", correct = false},
+}
+},
+{
+question = "Bolsheviklar hukumati - Xalq komissarlari sovetiga kim boshchilik qilgan?",
+answers = {
+{text = "V. Lenin", correct = true},
+{text = "Adolf Gitler", correct = false},
+{text = "Benito Mussolini", correct = false},
+{text = "Paul fon Gindenburg", correct = false},
+}
+},
+{
+question = "Rossiyada fuqarolar urushi qaysi yillar oralig'ida davom etgan?",
+answers = {
+{text = "1914-1918-yillar", correct = false},
+{text = "1917-1922-yillar", correct = true},
+{text = "1921-1928-yillar", correct = false},
+{text = "1928-1933-yillar", correct = false},
+}
+},
+{
+question = "Sovet Sotsialistik Respublikalari Ittifoqi (SSSR) qaysi sanada tashkil topgan?",
+answers = {
+{text = "1917-yil 7-noyabrda", correct = false},
+{text = "1921-yilda", correct = false},
+{text = "1922-yil 30-dekabrda", correct = true},
+{text = "1928-yilda", correct = false},
+}
+},
+{
+question = "1921-yildan boshlangan, bozor iqtisodiyotini qisman tiklashga qaratilgan siyosat qanday nom olgan?",
+answers = {
+{text = "Harbiy kommunizm", correct = false},
+{text = "Yangi iqtisodiy siyosat (YIS)", correct = true},
+{text = "Madaniy inqilob", correct = false},
+{text = "Kollektivlashtirish", correct = false},
+}
+},
+{
+question = "SSSRda birinchi besh yillik reja qaysi yillarga mo'ljallangan edi?",
+answers = {
+{text = "1918-1922-yillarga", correct = false},
+{text = "1928-1932-yillarga", correct = true},
+{text = "1933-1937-yillarga", correct = false},
+{text = "1930-1935-yillarga", correct = false},
+}
+},
+{
+question = "1933-yilgi dahshatli ocharchilikda Ukraina, Kuban, Volgabo'yi va Qozog'istonda necha million kishi vafot etgan?",
+answers = {
+{text = "3 mln dan ortiq", correct = false},
+{text = "5 mln dan ortiq", correct = false},
+{text = "7 mln dan ortiq", correct = true},
+{text = "10 mln dan ortiq", correct = false},
+}
+},
+{
+question = "1933-1937-yillarni qamrab olgan ikkinchi besh yillikdan so'ng SSSR sanoat ishlab chiqarish hajmi bo'yicha dunyoda qaysi o'rinni egallagan?",
+answers = {
+{text = "Birinchi o'rinni", correct = false},
+{text = "Ikkinchi o'rinni (AQSHdan keyin)", correct = true},
+{text = "Uchinchi o'rinni", correct = false},
+{text = "To'rtinchi o'rinni", correct = false},
+}
+},
+{
+question = "1922-yil oktyabrda fashistik guruhlarning mashhur Rimga yurishidan so'ng qirol Viktor Emmanuel III kimni hukumat boshlig'i etib tayinlagan?",
+answers = {
+{text = "Adolf Gitler", correct = false},
+{text = "Benito Mussolini", correct = true},
+{text = "Paul fon Gindenburg", correct = false},
+{text = "Anton Dreksler", correct = false},
+}
+},
+{
+question = "1935-1936-yillarda Italiya qaysi hududlarni o'z mustamlakasiga aylantirgan?",
+answers = {
+{text = "Efiopiya, Eritreya va Somalining bir qismini", correct = true},
+{text = "Polsha va Chexoslovakiyani", correct = false},
+{text = "Avstriya va Vengriyani", correct = false},
+{text = "Koreya va Manchjuriyani", correct = false},
+}
+},
+{
+question = "Germaniyada Veymar respublikasi konstitutsiyasi qaysi sanada qabul qilingan?",
+answers = {
+{text = "1918-yil noyabrda", correct = false},
+{text = "1919-yil 31-iyulda", correct = true},
+{text = "1923-yil noyabrda", correct = false},
+{text = "1933-yil 30-yanvarda", correct = false},
+}
+},
+{
+question = "Germaniya natsional-sotsialistik ishchi partiyasiga kim asos solgan?",
+answers = {
+{text = "Adolf Gitler", correct = false},
+{text = "Anton Dreksler", correct = true},
+{text = "Paul fon Gindenburg", correct = false},
+{text = "Benito Mussolini", correct = false},
+}
+},
+{
+question = "1923-yil noyabrda Myunxen shahrida bo'lib o'tgan, natsistlarning hokimiyatga kelish uchun birinchi urinishi bo'lgan isyon qanday nom olgan?",
+answers = {
+{text = "\"Pivo isyoni\"", correct = true},
+{text = "\"Rimga yurish\"", correct = false},
+{text = "\"30-may harakati\"", correct = false},
+{text = "\"Antikomintern pakti\"", correct = false},
+}
+},
+{
+question = "Adolf Gitler qaysi sanada va kim tomonidan reyxskansler lavozimiga tayinlangan?",
+answers = {
+{text = "1932-yilda, natsional-sotsialistlar tomonidan", correct = false},
+{text = "1933-yil 30-yanvarda, prezident Paul fon Gindenburg tomonidan", correct = true},
+{text = "1934-yilda, Reyxstag tomonidan", correct = false},
+{text = "1935-yilda, harbiylar tomonidan", correct = false},
+}
+},
+{
+question = "Yaponiya va Germaniya \"Antikomintern pakti\" deb ataluvchi hujjatni qaysi yilda imzolagan?",
+answers = {
+{text = "1933-yilda", correct = false},
+{text = "1935-yilda", correct = false},
+{text = "1936-yilda", correct = true},
+{text = "1939-yilda", correct = false},
+}
+},
+{
+question = "1934-yili prezident Gindenburg vafot etgandan so'ng Gitler qanday unvon oldi?",
+answers = {
+{text = "Reyxskansler", correct = false},
+{text = "Germaniyaning fyureri (dohiysi)", correct = true},
+{text = "Reyxstag raisi", correct = false},
+{text = "Bosh vazir", correct = false},
+}
+},
+{
+question = "Turkiyada Antanta davlatlariga qarshi qarshilik harakatiga kim rahbarlik qilgan?",
+answers = {
+{text = "Sulton Mehmed VI", correct = false},
+{text = "General Mustafo Kamol posho", correct = true},
+{text = "Midhat posho", correct = false},
+{text = "Anvar posho", correct = false},
+}
+},
+{
+question = "M. Kamol qo'shinlari butun Turkiya hududini qaysi yilning oktyabrida ozod qilgan?",
+answers = {
+{text = "1918-yilda", correct = false},
+{text = "1920-yilda", correct = false},
+{text = "1922-yilda", correct = true},
+{text = "1924-yilda", correct = false},
+}
+},
+{
+question = "Turkiya Buyuk Millat majlisi monarxiyani qaysi sanada bekor qilgan?",
+answers = {
+{text = "1922-yil 1-noyabrda", correct = true},
+{text = "1923-yil 29-oktyabrda", correct = false},
+{text = "1924-yilda", correct = false},
+{text = "1932-yilda", correct = false},
+}
+},
+{
+question = "Turkiyada taxtdan ag'darilib, mamlakatni tark etgan so'nggi sulton kim bo'lgan?",
+answers = {
+{text = "Sulton Abdulhamid II", correct = false},
+{text = "Sulton Abdulaziz", correct = false},
+{text = "Sulton Mehmed VI", correct = true},
+{text = "Sulton Muzaffariddin", correct = false},
+}
+},
+{
+question = "Turkiya qaysi sanada respublika deb e'lon qilingan?",
+answers = {
+{text = "1922-yil 1-noyabrda", correct = false},
+{text = "1923-yil 29-oktyabrda", correct = true},
+{text = "1924-yilda", correct = false},
+{text = "1932-yilda", correct = false},
+}
+},
+{
+question = "Turkiya respublikasi prezidenti etib kim saylangan?",
+answers = {
+{text = "Sulton Mehmed VI", correct = false},
+{text = "Midhat posho", correct = false},
+{text = "Mustafo Kamol", correct = true},
+{text = "Anvar posho", correct = false},
+}
+},
+{
+question = "Buyuk millat majlisi xalifalikni tugatish to'g'risida qaysi yilda qaror qabul qilgan?",
+answers = {
+{text = "1922-yilda", correct = false},
+{text = "1923-yilda", correct = false},
+{text = "1924-yilda", correct = true},
+{text = "1932-yilda", correct = false},
+}
+},
+{
+question = "Buyuk millat majlisi Mustafo Kamolga rasman qanday nasab bergan?",
+answers = {
+{text = "\"Fyurer\"", correct = false},
+{text = "\"Otaturk\"", correct = true},
+{text = "\"Amir ul-mo'minin\"", correct = false},
+{text = "\"Xalifa\"", correct = false},
+}
+},
+{
+question = "Turkiya qaysi yilda Millatlar Ligasiga a'zo bo'lgan?",
+answers = {
+{text = "1923-yilda", correct = false},
+{text = "1924-yilda", correct = false},
+{text = "1932-yilda", correct = true},
+{text = "1941-yilda", correct = false},
+}
+},
+{
+question = "Xitoylik talabalarning Pekindagi mashhur namoyishi qaysi sanada boshlangan?",
+answers = {
+{text = "1919-yil 4-mayda", correct = true},
+{text = "1920-yil iyulda", correct = false},
+{text = "1921-yilda", correct = false},
+{text = "1925-yil bahorda", correct = false},
+}
+},
+{
+question = "1921-1922-yillari Vashingtonda bo'lib o'tgan konferensiya natijasida barcha ishtirokchi davlatlar nimani kafolatladilar?",
+answers = {
+{text = "Xitoyning suvereniteti va hududiy yaxlitligini", correct = true},
+{text = "Turkiyaning respublika bo'lishini", correct = false},
+{text = "Hindiston mustaqilligini", correct = false},
+{text = "Koreyaning mustamlaka maqomini", correct = false},
+}
+},
+{
+question = "1921-yili Xitoy Respublikasi prezidenti lavozimiga kim saylangan?",
+answers = {
+{text = "Mao Szedun", correct = false},
+{text = "Sun Yatsen", correct = true},
+{text = "U Peyfu", correct = false},
+{text = "Mustafo Kamol", correct = false},
+}
+},
+{
+question = "1925-yil bahorda Shanxayda boshlangan, Xitoy suverenitetini tiklash shiori ostida o'tgan vatanparvarlik harakati qanday nom olgan?",
+answers = {
+{text = "\"4-may harakati\"", correct = false},
+{text = "\"30-may harakati\"", correct = true},
+{text = "\"Pivo isyoni\"", correct = false},
+{text = "\"Sinxay harakati\"", correct = false},
+}
+},
+{
+question = "1931-yili e'lon qilingan Xitoy Sovet respublikasi raisi etib kim saylangan?",
+answers = {
+{text = "Sun Yatsen", correct = false},
+{text = "U Peyfu", correct = false},
+{text = "Mao Szedun", correct = true},
+{text = "Gomindan", correct = false},
+}
+},
+{
+question = "Hindistonda zo'ravonliksiz qarshilik ko'rsatish taktikasini ishlab chiqqan va Hindiston Milliy kongressining g'oyaviy rahbariga aylangan xalq yetakchisi kim bo'lgan?",
+answers = {
+{text = "Svami Vivekananda", correct = false},
+{text = "Rabindranath Thakur", correct = false},
+{text = "Mahatma Gandi", correct = true},
+{text = "Ramakrishna Paramahamsa", correct = false},
+}
+},
+{
+question = "Afrika qit'asi keng ma'noda qaysi ikki qismga bo'linadi?",
+answers = {
+{text = "Shimoliy va Janubiy Afrika", correct = false},
+{text = "Shimoliy va Tropik Afrika", correct = true},
+{text = "Sharqiy va G'arbiy Afrika", correct = false},
+{text = "Markaziy va Ekvatorial Afrika", correct = false},
+}
+},
+{
+question = "Shimoliy Afrikada qaysi davlatlar joylashgan edi?",
+answers = {
+{text = "Misr, Jazoir, Tunis, Marokash, Liviya", correct = true},
+{text = "Efiopiya, Eritreya, Somali", correct = false},
+{text = "Janubiy Afrika, Nigeriya, Kongo", correct = false},
+{text = "Sudan, Chad, Niger", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya o'z protektoratini bekor qilib, Misrning to'liq mustaqilligini qaysi sanada tan olgan?",
+answers = {
+{text = "1918-yil noyabrda", correct = false},
+{text = "1922-yil fevralda", correct = true},
+{text = "1923-yilda", correct = false},
+{text = "1926-yilda", correct = false},
+}
+},
+{
+question = "1923-yili qabul qilingan konstitutsiyaga ko'ra Misr qanday davlat deb e'lon qilingan?",
+answers = {
+{text = "Respublika", correct = false},
+{text = "Monarxiya", correct = true},
+{text = "Federatsiya", correct = false},
+{text = "Protektorat", correct = false},
+}
+},
+{
+question = "1941-yili Misr hududiga qaysi ikki davlatning qo'shinlari kiritilgan?",
+answers = {
+{text = "Buyuk Britaniya va Fransiya", correct = false},
+{text = "Germaniya va Italiya", correct = true},
+{text = "AQSH va SSSR", correct = false},
+{text = "Yaponiya va Turkiya", correct = false},
+}
+},
+{
+question = "Jazoirda milliy-ozodlik harakatiga kim boshchilik qilgan?",
+answers = {
+{text = "Farhod Abbos", correct = true},
+{text = "Habib Burg'iba", correct = false},
+{text = "Abdul Karim", correct = false},
+{text = "Mustafo Kamol", correct = false},
+}
+},
+{
+question = "Tunisda milliy-ozodlik harakatiga kim boshchilik qilgan?",
+answers = {
+{text = "Farhod Abbos", correct = false},
+{text = "Habib Burg'iba", correct = true},
+{text = "Abdul Karim", correct = false},
+{text = "Sun Yatsen", correct = false},
+}
+},
+{
+question = "Marokashda milliy-ozodlik harakatiga kim boshchilik qilgan?",
+answers = {
+{text = "Farhod Abbos", correct = false},
+{text = "Habib Burg'iba", correct = false},
+{text = "Abdul Karim", correct = true},
+{text = "Mahatma Gandi", correct = false},
+}
+},
+{
+question = "Liviyada Italiya qo'shinlariga qarshi qarshilik harakati qaysi yilda bostirilib, uning rahbarlari qatl etilgan?",
+answers = {
+{text = "1922-yilda", correct = false},
+{text = "1926-yilda", correct = false},
+{text = "1931-yilda", correct = true},
+{text = "1941-yilda", correct = false},
+}
+},
+{
+question = "Millatlar Ligasi Qullik haqida konvensiyani qaysi yilda qabul qilgan?",
+answers = {
+{text = "1919-yilda", correct = false},
+{text = "1920-yilda", correct = false},
+{text = "1926-yilda", correct = true},
+{text = "1931-yilda", correct = false},
+}
+},
+{
+question = "Birinchi Panafrika konferensiyasi qaysi yilda va qayerda bo'lib o'tgan?",
+answers = {
+{text = "1900-yilda, Londonda", correct = true},
+{text = "1910-yilda, Parijda", correct = false},
+{text = "1919-yilda, Nyu-Yorkda", correct = false},
+{text = "1920-yilda, Berlinda", correct = false},
+}
+},
+{
+question = "Panafrikanizm harakati qaysi yilgi Ta'sis kongressida rasmiylashtirilgan?",
+answers = {
+{text = "1900-yilda", correct = false},
+{text = "1910-yilda", correct = false},
+{text = "1919-yilda", correct = true},
+{text = "1926-yilda", correct = false},
+}
+},
+{
+question = "Afrikada birinchi siyosiy partiya - Afrika milliy kongressi (AMK) qaysi yilda tashkil topgan?",
+answers = {
+{text = "1910-yilda", correct = false},
+{text = "1919-yilda", correct = false},
+{text = "1920-yilda", correct = true},
+{text = "1926-yilda", correct = false},
+}
+},
+{
+question = "Janubiy Afrika Ittifoqi (JAI) Buyuk Britaniyaning o'zini o'zi boshqaruvchi dominioni sifatida qaysi yilda tuzilgani e'lon qilingan?",
+answers = {
+{text = "1900-yilda", correct = false},
+{text = "1910-yilda", correct = true},
+{text = "1919-yilda", correct = false},
+{text = "1926-yilda", correct = false},
+}
+},
+{
+question = "Janubiy Afrika to'g'risidagi akt, dunyodagi eng irqchi konstitutsiya sifatida, necha yil amal qilgan?",
+answers = {
+{text = "30 yil", correct = false},
+{text = "40 yil", correct = false},
+{text = "50 yil", correct = true},
+{text = "60 yil", correct = false},
+}
+},
+{
+question = "Birinchi jahon urushidan so'ng Afrikaning janubiy va markaziy qismidagi hududlar, ularda aholining yarmidan ko'pi istiqomat qilgan holda, qaysi davlatga qarashli bo'lgan?",
+answers = {
+{text = "Fransiya", correct = false},
+{text = "Buyuk Britaniya", correct = true},
+{text = "Belgiya", correct = false},
+{text = "Portugaliya", correct = false},
+}
+},
+{
+question = "Germaniyada Adolf Gitler boshchiligidagi natsional-sotsialistik ishchi partiyasi qaysi yilning yanvarida hokimiyatga kelgan?",
+answers = {
+{text = "1930-yilda", correct = false},
+{text = "1933-yilda", correct = true},
+{text = "1936-yilda", correct = false},
+{text = "1938-yilda", correct = false},
+}
+},
+{
+question = "Chexoslovakiyaning kapitulyatsiyasi qaysi sanada Myunxenda rasmiylashtirilgan?",
+answers = {
+{text = "1936-yil sentyabrda", correct = false},
+{text = "1938-yil 29-sentyabrda", correct = true},
+{text = "1939-yil 23-avgustda", correct = false},
+{text = "1940-yil sentyabrda", correct = false},
+}
+},
+{
+question = "Sovet - German pakti (Molotov - Ribbentrop pakti) qaysi sanada imzolangan?",
+answers = {
+{text = "1938-yil 29-sentyabrda", correct = false},
+{text = "1939-yil 23-avgustda", correct = true},
+{text = "1939-yil 1-sentyabrda", correct = false},
+{text = "1940-yil sentyabrda", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi qaysi sanada boshlangan?",
+answers = {
+{text = "1938-yil 29-sentyabrda", correct = false},
+{text = "1939-yil 23-avgustda", correct = false},
+{text = "1939-yil 1-sentyabrda", correct = true},
+{text = "1940-yil sentyabrda", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi qaysi sanagacha davom etgan?",
+answers = {
+{text = "1944-yil dekabrgacha", correct = false},
+{text = "1945-yil 8-maygacha", correct = false},
+{text = "1945-yil 2-sentyabrgacha", correct = true},
+{text = "1946-yil oktyabrgacha", correct = false},
+}
+},
+{
+question = "Germaniya, Yaponiya va Italiya o'rtasidagi harbiy hamkorlik to'g'risidagi kelishuv - Uchlar pakti qaysi yilning sentyabrida imzolangan?",
+answers = {
+{text = "1938-yilda", correct = false},
+{text = "1939-yilda", correct = false},
+{text = "1940-yilda", correct = true},
+{text = "1941-yilda", correct = false},
+}
+},
+{
+question = "Germaniya SSSRga qaysi sanada hujum boshlagan?",
+answers = {
+{text = "1939-yil 1-sentyabrda", correct = false},
+{text = "1940-yil sentyabrda", correct = false},
+{text = "1941-yil 22-iyunda", correct = true},
+{text = "1942-yil noyabrda", correct = false},
+}
+},
+{
+question = "Germaniyaning SSSRga hujumi qanday reja asosida amalga oshirilgan?",
+answers = {
+{text = "\"Barbarossa\" rejasi", correct = true},
+{text = "\"Atlantik xartiya\" rejasi", correct = false},
+{text = "\"Uchlar pakti\" rejasi", correct = false},
+{text = "\"Antikomintern\" rejasi", correct = false},
+}
+},
+{
+question = "AQSH va Buyuk Britaniya o'rtasida Atlantik xartiya deklaratsiyasi qaysi yilning avgustida imzolangan?",
+answers = {
+{text = "1939-yilda", correct = false},
+{text = "1940-yilda", correct = false},
+{text = "1941-yilda", correct = true},
+{text = "1942-yilda", correct = false},
+}
+},
+{
+question = "Sovet qo'shinlari Stalingrad ostonalarida qarshi hujumga qaysi yilning noyabrida o'tgan?",
+answers = {
+{text = "1941-yilda", correct = false},
+{text = "1942-yilda", correct = true},
+{text = "1943-yilda", correct = false},
+{text = "1944-yilda", correct = false},
+}
+},
+{
+question = "Qurshovga tushib qolgan nemis qo'shinlari qaysi yilning fevralida taslim bo'lgan?",
+answers = {
+{text = "1941-yilda", correct = false},
+{text = "1942-yilda", correct = false},
+{text = "1943-yilda", correct = true},
+{text = "1944-yilda", correct = false},
+}
+},
+{
+question = "Urush yillarida SSSR, AQSH va Buyuk Britaniya liderlarining uchrashuvlari qaysi shaharlarda bo'lib o'tgan?",
+answers = {
+{text = "Tehron, Qrim (Yalta) va Potsdam", correct = true},
+{text = "Versal, Vashington va San-Fransisko", correct = false},
+{text = "Myunxen, Berlin va Moskva", correct = false},
+{text = "Parij, London va Nyu-York", correct = false},
+}
+},
+{
+question = "Germaniyaning so'zsiz taslim bo'lganligi to'g'risidagi akt qaysi sanada imzolangan?",
+answers = {
+{text = "1945-yil 16-aprelda", correct = false},
+{text = "1945-yil 8-mayda", correct = true},
+{text = "1945-yil 6-avgustda", correct = false},
+{text = "1945-yil 2-sentyabrda", correct = false},
+}
+},
+{
+question = "AQSH Yaponiyaning Xirosima shahriga atom bombasini qaysi sanada tashlagan?",
+answers = {
+{text = "1945-yil 8-mayda", correct = false},
+{text = "1945-yil 6-avgustda", correct = true},
+{text = "1945-yil 9-avgustda", correct = false},
+{text = "1945-yil 2-sentyabrda", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushida jami taxminan necha million kishi halok bo'lgan?",
+answers = {
+{text = "13,6 mln dan ortiq", correct = false},
+{text = "20 mln dan ortiq", correct = false},
+{text = "65-70 mln", correct = true},
+{text = "110 mln", correct = false},
+}
+},
+{
+question = "BMT Ustavi qaysi sanada kuchga kirgan?",
+answers = {
+{text = "1945-yil 8-mayda", correct = false},
+{text = "1945-yil 2-sentyabrda", correct = false},
+{text = "1945-yil 24-oktyabrda", correct = true},
+{text = "1946-yil noyabrda", correct = false},
+}
+},
+{
+question = "1950-yillarda qaysi mamlakatlar o'zining \"iqtisodiy mo'jiza\"sini namoyish qilgan?",
+answers = {
+{text = "Italiya, Germaniya Federativ Respublikasi va Shvetsiya", correct = true},
+{text = "Rossiya, Xitoy va Hindiston", correct = false},
+{text = "Turkiya, Fors va Afg'oniston", correct = false},
+{text = "Braziliya, Argentina va Meksika", correct = false},
+}
+},
+{
+question = "G'arbiy Yevropa va Shimoliy Amerikada shakllangan sivilizatsiya yigirmanchi asrda qanday nom olgan?",
+answers = {
+{text = "\"Industrial sivilizatsiya\"", correct = false},
+{text = "\"Yevroatlantik sivilizatsiya\"", correct = true},
+{text = "\"Postindustrial sivilizatsiya\"", correct = false},
+{text = "\"Pax Amerikana\"", correct = false},
+}
+},
+{
+question = "\"Umumiy farovonlik jamiyati\"ni qurish g'oyasi qaysi davrda paydo bo'lgan?",
+answers = {
+{text = "1940-yillarda", correct = false},
+{text = "1950-yillarda", correct = false},
+{text = "1960-yillarda", correct = true},
+{text = "1980-yillarda", correct = false},
+}
+},
+{
+question = "Sotsializmning \"skandinav modeli\" yoki \"shved modeli\" qaysi davlatlarda amalga oshirilgan?",
+answers = {
+{text = "Daniya, Norvegiya va Shvetsiyada", correct = true},
+{text = "Italiya, GFR va Fransiyada", correct = false},
+{text = "AQSH, Kanada va Buyuk Britaniyada", correct = false},
+{text = "Polsha, Vengriya va Ruminiyada", correct = false},
+}
+},
+{
+question = "Parij talabalarining mashhur namoyishi qaysi yilning mayida boshlangan?",
+answers = {
+{text = "1960-yilda", correct = false},
+{text = "1968-yilda", correct = true},
+{text = "1970-yilda", correct = false},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "1968-yildagi referendumdan so'ng qaysi fransuz prezidenti iste'foga chiqishga majbur bo'lgan?",
+answers = {
+{text = "Sharl de Goll", correct = true},
+{text = "Franklin Ruzvelt", correct = false},
+{text = "Uinston Cherchill", correct = false},
+{text = "Ronald Reygan", correct = false},
+}
+},
+{
+question = "G'arb mamlakatlaridagi rivojlanish modeli qaysi davrga kelib chuqur inqirozga kirib qolgan?",
+answers = {
+{text = "1950-yillar boshiga", correct = false},
+{text = "1960-yillar oxiriga", correct = false},
+{text = "1970-yillar oxiri - 1980-yillar boshiga", correct = true},
+{text = "1990-yillar boshiga", correct = false},
+}
+},
+{
+question = "1980-yili AQSHda hokimiyatga kim kelgan va u qaysi yilda qayta saylangan?",
+answers = {
+{text = "Franklin Ruzvelt, 1936-yilda", correct = false},
+{text = "Ronald Reygan, 1984-yilda", correct = true},
+{text = "Vudro Vilson, 1916-yilda", correct = false},
+{text = "Teodor Ruzvelt, 1904-yilda", correct = false},
+}
+},
+{
+question = "Buyuk Britaniyada konservativ partiyaning ketma-ket uch marta g'alaba qozonishiga kim boshchilik qilgan?",
+answers = {
+{text = "Nevill Chemberlen", correct = false},
+{text = "Uinston Cherchill", correct = false},
+{text = "Margaret Tetcher", correct = true},
+{text = "Ronald Reygan", correct = false},
+}
+},
+{
+question = "\"Postindustrial jamiyat\" atamasini kim va qaysi yilda muomalaga kiritgan?",
+answers = {
+{text = "Daniel Bell, 1962-yilda", correct = true},
+{text = "Ronald Reygan, 1980-yilda", correct = false},
+{text = "Margaret Tetcher, 1979-yilda", correct = false},
+{text = "Sharl de Goll, 1968-yilda", correct = false},
+}
+},
+}
