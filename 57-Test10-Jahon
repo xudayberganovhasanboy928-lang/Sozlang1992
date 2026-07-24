@@ -1,0 +1,605 @@
+questions = {
+{
+question = "Ispaniya diktatori Fransisko Franko rejimi Ikkinchi jahon urushidan so'ng yana necha yil hokimiyatda turgan?",
+answers = {
+{text = "O'n besh yil", correct = false},
+{text = "Yigirma yil", correct = false},
+{text = "O'ttiz yil", correct = true},
+{text = "Qirq yil", correct = false},
+}
+},
+{
+question = "1946-yili BMT Bosh Assambleyasi Ispaniya to'g'risida qanday maxsus qaror qabul qilgan?",
+answers = {
+{text = "Ispaniyani xalqaro tashkilotlarga qabul qilmaslik to'g'risida", correct = true},
+{text = "Ispaniyaga iqtisodiy yordam ko'rsatish to'g'risida", correct = false},
+{text = "Ispaniyani NATOga qabul qilish to'g'risida", correct = false},
+{text = "Ispaniyada referendum o'tkazish to'g'risida", correct = false},
+}
+},
+{
+question = "Ispaniya diktatori Fransisko Franko qaysi yilda vafot etgan?",
+answers = {
+{text = "1968-yilda", correct = false},
+{text = "1970-yilda", correct = false},
+{text = "1975-yilda", correct = true},
+{text = "1982-yilda", correct = false},
+}
+},
+{
+question = "Franko vafotidan so'ng Ispaniya taxtiga kim o'tirib, davlat boshlig'i lavozimini egallagan?",
+answers = {
+{text = "Xuan Karlos I", correct = true},
+{text = "Antonio Salazar", correct = false},
+{text = "Marselu Kaetanu", correct = false},
+{text = "Mariu Suaresh", correct = false},
+}
+},
+{
+question = "Ispaniya qaysi yilning mayida NATOga a'zo bo'lgan?",
+answers = {
+{text = "1975-yilda", correct = false},
+{text = "1979-yilda", correct = false},
+{text = "1982-yilda", correct = true},
+{text = "1985-yilda", correct = false},
+}
+},
+{
+question = "Ispaniya qaysi yilda Yevropa iqtisodiy hamjamiyatiga (YIH) a'zo bo'lgan?",
+answers = {
+{text = "1975-yilda", correct = false},
+{text = "1982-yilda", correct = false},
+{text = "1985-yilda", correct = true},
+{text = "1990-yilda", correct = false},
+}
+},
+{
+question = "Portugaliyada \"yangi davlat\" deb atalgan siyosiy rejimni boshqargan va sal kam qirq yil hokimiyatda o'tirgan diktator kim bo'lgan?",
+answers = {
+{text = "Fransisko Franko", correct = false},
+{text = "Antonio Salazar", correct = true},
+{text = "Marselu Kaetanu", correct = false},
+{text = "Antonio de Spinola", correct = false},
+}
+},
+{
+question = "Antonio Salazar qaysi yilda vafot etgan?",
+answers = {
+{text = "1960-yilda", correct = false},
+{text = "1968-yilda", correct = true},
+{text = "1974-yilda", correct = false},
+{text = "1976-yilda", correct = false},
+}
+},
+{
+question = "Salazar vafotidan so'ng bosh vazir lavozimini egallab, uning siyosatini davom ettirgan davlat arbobi kim bo'lgan?",
+answers = {
+{text = "Antonio de Spinola", correct = false},
+{text = "Marselu Kaetanu", correct = true},
+{text = "Mariu Suaresh", correct = false},
+{text = "Xuan Karlos I", correct = false},
+}
+},
+{
+question = "1974-yili Portugaliyada M. Kaetanu hukumatini deyarli qon to'kishlarsiz ag'darib tashlagan harakat qanday nom oldi?",
+answers = {
+{text = "\"Chinnigullar inqilobi\"", correct = true},
+{text = "\"Praga bahori\"", correct = false},
+{text = "\"Birdamlik\" harakati", correct = false},
+{text = "\"Kapitanlar harakati\"", correct = false},
+}
+},
+{
+question = "\"Chinnigullar inqilobi\"dan so'ng Milliy qutqaruv kengashiga kim boshchilik qilib, muvaqqat prezident deb e'lon qilingan?",
+answers = {
+{text = "Marselu Kaetanu", correct = false},
+{text = "General Antonio de Spinola", correct = true},
+{text = "Mariu Suaresh", correct = false},
+{text = "Antonio Salazar", correct = false},
+}
+},
+{
+question = "Portugaliyada respublika konstitutsiyasi qaysi yilda qabul qilingan?",
+answers = {
+{text = "1968-yilda", correct = false},
+{text = "1974-yilda", correct = false},
+{text = "1976-yilda", correct = true},
+{text = "1986-yilda", correct = false},
+}
+},
+{
+question = "1986-yili Portugaliya prezidentligiga birinchi marta fuqaroviy arbob sifatida kim saylangan?",
+answers = {
+{text = "Antonio de Spinola", correct = false},
+{text = "Marselu Kaetanu", correct = false},
+{text = "Mariu Suaresh", correct = true},
+{text = "Antonio Salazar", correct = false},
+}
+},
+{
+question = "Gretsiyada 1946-yilgi parlament saylovlari nimaning boshlanishiga olib kelgan?",
+answers = {
+{text = "Fuqarolar urushining", correct = true},
+{text = "\"Qora polkovniklar\" diktaturasining", correct = false},
+{text = "Kipr mojarosining", correct = false},
+{text = "Yevropa integratsiyasining", correct = false},
+}
+},
+{
+question = "Gretsiyada fuqarolar urushi qaysi yilda yakunlangan?",
+answers = {
+{text = "1946-yilda", correct = false},
+{text = "1947-yilda", correct = true},
+{text = "1956-yilda", correct = false},
+{text = "1967-yilda", correct = false},
+}
+},
+{
+question = "1967-yil mayda Gretsiyada hokimiyatni egallab olgan harbiy rejim qanday nom oldi?",
+answers = {
+{text = "\"Birdamlik\" harakati", correct = false},
+{text = "\"Qora polkovniklar\" diktaturasi", correct = true},
+{text = "\"Yangi davlat\" rejimi", correct = false},
+{text = "\"Kapitanlar harakati\"", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushida taxminan necha million sovet fuqarosi halok bo'lgan?",
+answers = {
+{text = "13,6 mln", correct = false},
+{text = "20 mln", correct = false},
+{text = "26,5 mln", correct = true},
+{text = "35 mln", correct = false},
+}
+},
+{
+question = "1946-yilgi qurg'oqchilik oqibatida necha million kishi ochlikdan vafot etgan?",
+answers = {
+{text = "Yarim million", correct = false},
+{text = "1 million", correct = true},
+{text = "2 million", correct = false},
+{text = "3 million", correct = false},
+}
+},
+{
+question = "SSSRda sanoat ishlab chiqarishi urushdan oldingi darajaga qaysi yilga kelib yetgan?",
+answers = {
+{text = "1946-yilga", correct = false},
+{text = "1948-yilga", correct = true},
+{text = "1950-yilga", correct = false},
+{text = "1953-yilga", correct = false},
+}
+},
+{
+question = "Iosif Stalin qaysi sanada vafot etgan?",
+answers = {
+{text = "1948-yil 5-martda", correct = false},
+{text = "1953-yil 5-martda", correct = true},
+{text = "1956-yil fevralda", correct = false},
+{text = "1961-yil aprelda", correct = false},
+}
+},
+{
+question = "KPSS XX syezdida \"Shaxsga sig'inish va uning oqibatlari to'g'risida\" mavzusida kim nutq so'zlagan?",
+answers = {
+{text = "Iosif Stalin", correct = false},
+{text = "Nikita Xrushchyov", correct = true},
+{text = "Leonid Brejnev", correct = false},
+{text = "Mixail Gorbachyov", correct = false},
+}
+},
+{
+question = "KPSS XX syezdi qaysi yilning fevralida bo'lib o'tgan?",
+answers = {
+{text = "1953-yilda", correct = false},
+{text = "1956-yilda", correct = true},
+{text = "1961-yilda", correct = false},
+{text = "1964-yilda", correct = false},
+}
+},
+{
+question = "Dunyoda birinchi kosmonavt Yuriy Gagarin qaysi sanada koinotga parvoz qilgan?",
+answers = {
+{text = "1956-yil fevralda", correct = false},
+{text = "1961-yil 12-aprelda", correct = true},
+{text = "1963-yilda", correct = false},
+{text = "1964-yil oktyabrda", correct = false},
+}
+},
+{
+question = "SSSR chetdan g'alla sotib olishni qaysi yildan boshlagan?",
+answers = {
+{text = "1956-yildan", correct = false},
+{text = "1961-yildan", correct = false},
+{text = "1963-yildan", correct = true},
+{text = "1970-yildan", correct = false},
+}
+},
+{
+question = "1964-yil oktyabrda N. Xrushchyov barcha lavozimlaridan ozod qilingandan so'ng KPSS MK Birinchi sekretari etib kim tayinlangan?",
+answers = {
+{text = "Aleksey Kosigin", correct = false},
+{text = "Leonid Brejnev", correct = true},
+{text = "Yuriy Andropov", correct = false},
+{text = "Konstantin Chernenko", correct = false},
+}
+},
+{
+question = "SSSRning yangi - rivojlangan sotsializm konstitutsiyasi qaysi yilda qabul qilingan?",
+answers = {
+{text = "1964-yilda", correct = false},
+{text = "1977-yilda", correct = true},
+{text = "1982-yilda", correct = false},
+{text = "1985-yilda", correct = false},
+}
+},
+{
+question = "L. Brejnev vafotidan so'ng (1982-yil) SSSRda Bosh kotib etib kim saylangan?",
+answers = {
+{text = "Aleksey Kosigin", correct = false},
+{text = "Yuriy Andropov", correct = true},
+{text = "Konstantin Chernenko", correct = false},
+{text = "Mixail Gorbachyov", correct = false},
+}
+},
+{
+question = "K. Chernenko vafotidan so'ng, 1985-yil 10-martda KPSS Bosh kotibi etib kim saylangan?",
+answers = {
+{text = "Leonid Brejnev", correct = false},
+{text = "Yuriy Andropov", correct = false},
+{text = "Mixail Gorbachyov", correct = true},
+{text = "Aleksey Kosigin", correct = false},
+}
+},
+{
+question = "Mustaqil Davlatlar Hamdo'stligi (MDH) tuzilganligi qaysi sanada e'lon qilingan?",
+answers = {
+{text = "1991-yil 19-avgustda", correct = false},
+{text = "1991-yil 21-avgustda", correct = false},
+{text = "1991-yil 8-dekabrda", correct = true},
+{text = "1992-yilda", correct = false},
+}
+},
+{
+question = "Markaziy va Sharqiy Yevropa mamlakatlarida kommunistlar bilan ularning siyosiy muxoliflari o'rtasidagi kurashning hal qiluvchi yillari qaysilar bo'lgan?",
+answers = {
+{text = "1945-1946-yillar", correct = false},
+{text = "1947-1948-yillar", correct = true},
+{text = "1949-1950-yillar", correct = false},
+{text = "1955-1956-yillar", correct = false},
+}
+},
+{
+question = "Chexoslovakiyada tub burilish qaysi sanada yuz bergan?",
+answers = {
+{text = "1947-yil dekabrda", correct = false},
+{text = "1948-yil fevralda", correct = true},
+{text = "1949-yil oktyabrda", correct = false},
+{text = "1956-yilda", correct = false},
+}
+},
+{
+question = "Chexoslovakiyada kommunistik partiya vakili sifatida hukumatni kim boshqargan va 1948-yil iyunda prezident etib saylangan?",
+answers = {
+{text = "Aleksandr Dubchek", correct = false},
+{text = "Klement Gotvald", correct = true},
+{text = "Imre Nad", correct = false},
+{text = "Nikolae Chaushesku", correct = false},
+}
+},
+{
+question = "1949-yilga kelib qaysi davlatlarda kommunistik partiyalar to'liq hokimiyatni egallagan?",
+answers = {
+{text = "Albaniya, Bolgariya, Vengriya, Polsha, Ruminiya, Chexoslovakiya, Yugoslaviya", correct = true},
+{text = "Ispaniya, Portugaliya, Gretsiya", correct = false},
+{text = "Fransiya, Italiya, GFR", correct = false},
+{text = "Buyuk Britaniya, Norvegiya, Shvetsiya", correct = false},
+}
+},
+{
+question = "1949-yil oktyabrda tashkil topib, \"xalq-demokratik\" davlatlar safiga qo'shilgan davlat qaysi?",
+answers = {
+{text = "Germaniya Federativ Respublikasi (GFR)", correct = false},
+{text = "Germaniya Demokratik Respublikasi (GDR)", correct = true},
+{text = "Avstriya Respublikasi", correct = false},
+{text = "Yugoslaviya Federatsiyasi", correct = false},
+}
+},
+{
+question = "1956-yilda Vengriyada totalitar rejimga qarshi demokratik inqilobga aylangan harakatga kim boshchilik qilgan?",
+answers = {
+{text = "Klement Gotvald", correct = false},
+{text = "Imre Nad", correct = true},
+{text = "Aleksandr Dubchek", correct = false},
+{text = "Nikolae Chaushesku", correct = false},
+}
+},
+{
+question = "1956-yilgi Vengriya qo'zg'olonida asosiy janglar qaysi shaharda bo'lib o'tgan?",
+answers = {
+{text = "Praga", correct = false},
+{text = "Varshava", correct = false},
+{text = "Budapesht", correct = true},
+{text = "Buxarest", correct = false},
+}
+},
+{
+question = "1968-yilda Chexoslovakiyada boshlangan, keyinchalik Varshava shartnomasi qo'shinlari tomonidan bostirilgan inqilobiy harakat qanday nom oldi?",
+answers = {
+{text = "\"Chinnigullar inqilobi\"", correct = false},
+{text = "\"Praga bahori\"", correct = true},
+{text = "\"Birdamlik\" harakati", correct = false},
+{text = "\"Qayta qurish\"", correct = false},
+}
+},
+{
+question = "\"Praga bahori\" davrida Chexoslovakiya kommunistik partiyasiga kim boshchilik qilgan?",
+answers = {
+{text = "Klement Gotvald", correct = false},
+{text = "Imre Nad", correct = false},
+{text = "Aleksandr Dubchek", correct = true},
+{text = "Nikolae Chaushesku", correct = false},
+}
+},
+{
+question = "1970-yillarning birinchi yarmida Markaziy va Sharqiy Yevropa mamlakatlarida sanoat ishlab chiqarishi yiliga necha foiz o'sib borgan?",
+answers = {
+{text = "2-4 %", correct = false},
+{text = "6-8 %", correct = true},
+{text = "10-12 %", correct = false},
+{text = "15-20 %", correct = false},
+}
+},
+{
+question = "Polshada ishchilar tomonidan tuzilgan mustaqil ommaviy kasaba uyushmasi qanday nom olgan va qaysi yilda hokimiyatga kelgan?",
+answers = {
+{text = "\"Birdamlik\", 1989-yilda", correct = true},
+{text = "\"Praga bahori\", 1968-yilda", correct = false},
+{text = "\"Kapitanlar harakati\", 1974-yilda", correct = false},
+{text = "\"Yosh Turkiya\", 1908-yilda", correct = false},
+}
+},
+{
+question = "Ruminiyada uzoq yillar rahbarlik qilgan va qo'zg'olon natijasida rafiqasi bilan otib tashlangan diktator kim bo'lgan?",
+answers = {
+{text = "Klement Gotvald", correct = false},
+{text = "Imre Nad", correct = false},
+{text = "Nikolae Chaushesku", correct = true},
+{text = "Aleksandr Dubchek", correct = false},
+}
+},
+{
+question = "1992-yilgi saylovlarda demokratik lider sifatida Albaniya prezidenti etib kim saylangan?",
+answers = {
+{text = "Sali Berisha", correct = true},
+{text = "Imre Nad", correct = false},
+{text = "Nikolae Chaushesku", correct = false},
+{text = "Aleksandr Dubchek", correct = false},
+}
+},
+{
+question = "1991-yilda qaysi ikki tashkilot tarqalib ketib, 40 yildan oshiq faoliyat yuritgan sotsialistik hamdo'stlik barham topgan?",
+answers = {
+{text = "NATO va YESA", correct = false},
+{text = "O'zaro iqtisodiy yordam kengashi va Varshava shartnomasi tashkiloti", correct = true},
+{text = "YIH va YEVROATOM", correct = false},
+{text = "Millatlar Ligasi va BMT", correct = false},
+}
+},
+{
+question = "1960-yil tarixga qanday nom bilan kirgan va shu yili nechta mustamlaka mamlakat mustaqillik e'lon qilgan?",
+answers = {
+{text = "\"Osiyo yili\", 12 ta", correct = false},
+{text = "\"Afrika yili\", 17 ta", correct = true},
+{text = "\"Lotin Amerikasi yili\", 10 ta", correct = false},
+{text = "\"Yevropa yili\", 15 ta", correct = false},
+}
+},
+{
+question = "Tarixda oxirgi mustamlakachi imperiya sifatida qaysi davlat 1975-yilda qulagan?",
+answers = {
+{text = "Buyuk Britaniya", correct = false},
+{text = "Fransiya", correct = false},
+{text = "Portugaliya", correct = true},
+{text = "Ispaniya", correct = false},
+}
+},
+{
+question = "Hindiston 1947-yilda diniy belgi asosida qaysi ikki davlatga ajralib ketgan?",
+answers = {
+{text = "Hindiston Ittifoqi va Pokiston", correct = true},
+{text = "Hindiston va Bangladesh", correct = false},
+{text = "Hindiston va Shri-Lanka", correct = false},
+{text = "Shimoliy va Janubiy Hindiston", correct = false},
+}
+},
+{
+question = "1947-yilda Falastin qaysi ikki davlatga bo'lingan bo'lib, bu Yaqin Sharqda doimiy tanglik o'chog'ini vujudga keltirgan?",
+answers = {
+{text = "Arab va yahudiy davlatlariga", correct = true},
+{text = "Musulmon va nasroniy davlatlariga", correct = false},
+{text = "Shimoliy va janubiy davlatlarga", correct = false},
+{text = "Sharqiy va g'arbiy davlatlarga", correct = false},
+}
+},
+{
+question = "Xitoy Xalq Respublikasi qaysi sanada e'lon qilinib, fuqarolar urushi yakunlangan?",
+answers = {
+{text = "1946-yil iyunda", correct = false},
+{text = "1949-yil 1-oktyabrda", correct = true},
+{text = "1950-yilda", correct = false},
+{text = "1958-yilda", correct = false},
+}
+},
+{
+question = "1950-yillarda Lotin Amerikasi mamlakatlarining ko'pchiligida qanday yo'nalishdagi hukumatlar faoliyat boshlagan?",
+answers = {
+{text = "Demokratik yo'nalishdagi", correct = true},
+{text = "Harbiy xunta yo'nalishidagi", correct = false},
+{text = "Monarxik yo'nalishdagi", correct = false},
+{text = "Kommunistik yo'nalishdagi", correct = false},
+}
+},
+{
+question = "1960-1970-yillari ko'pchilik Lotin Amerikasi mamlakatlarida davlat to'ntarishlari natijasida hokimiyatga kim kelgan?",
+answers = {
+{text = "Diniy rahbarlar", correct = false},
+{text = "Harbiy xuntalar", correct = true},
+{text = "Kommunistik partiyalar", correct = false},
+{text = "Monarxlar", correct = false},
+}
+},
+{
+question = "1979-yilda Eronda an'anaviy islom qadriyatlariga qaytish shiori ostida boshlangan harakat natijasida qaysi shoh chet elga qochishga majbur bo'lgan?",
+answers = {
+{text = "Muzaffariddin shoh", correct = false},
+{text = "Muhammad Rizo Pahlaviy", correct = true},
+{text = "Xuan Karlos I", correct = false},
+{text = "Sulton Mehmed VI", correct = false},
+}
+},
+{
+question = "Avtoritarizm qanday siyosiy rejim sifatida ta'riflanadi?",
+answers = {
+{text = "Xalq tomonidan to'liq nazorat qilinadigan demokratik rejim", correct = false},
+{text = "Bitta shaxs yoki guruh qo'lida hokimiyat jamlangan nodemokratik siyosiy rejim", correct = true},
+{text = "Diniy rahbarlar boshqaradigan teokratik rejim", correct = false},
+{text = "Ko'ppartiyaviylikka asoslangan parlamentar rejim", correct = false},
+}
+},
+{
+question = "Qaysi Lotin Amerikasi davlatlari avtoritar rejimlar sharoitida o'rtacha rivojlanish darajasiga yetgan?",
+answers = {
+{text = "Braziliya, Argentina, Chili", correct = true},
+{text = "Kuba, Meksika, Panama", correct = false},
+{text = "Peru, Boliviya, Ekvador", correct = false},
+{text = "Kolumbiya, Venesuela, Urugvay", correct = false},
+}
+},
+{
+question = "Yaponiyada urushdan keyin hokimiyat qaysi general boshchiligidagi AQSH okkupatsion qo'shinlari shtabiga o'tgan?",
+answers = {
+{text = "Duayt Eyzenhauer", correct = false},
+{text = "Duglas Makartur", correct = true},
+{text = "Richard Nikson", correct = false},
+{text = "Jorj Bush", correct = false},
+}
+},
+{
+question = "1950-yillar o'rtalariga kelib Yaponiyada bozor iqtisodiyoti infratuzilmasi shakllanib, qanday davr boshlangan?",
+answers = {
+{text = "\"Yapon iqtisodiy mo'jizasi\"", correct = true},
+{text = "\"Katta sakrash\"", correct = false},
+{text = "\"Madaniy inqilob\"", correct = false},
+{text = "\"To'rtta modernizatsiya\"", correct = false},
+}
+},
+{
+question = "1960-yillar oxiriga kelib Yaponiya yalpi ichki mahsulot (YaIM) hajmi bo'yicha dunyoda qaysi o'rinni egallagan?",
+answers = {
+{text = "Birinchi o'rinni", correct = false},
+{text = "Ikkinchi o'rinni (AQSHdan keyin)", correct = true},
+{text = "Uchinchi o'rinni", correct = false},
+{text = "To'rtinchi o'rinni", correct = false},
+}
+},
+{
+question = "1980-yillardan boshlab Yaponiyada nechta texnopolis (zamonaviy infratuzilmaga ega namunaviy shahar) tashkil qilingan?",
+answers = {
+{text = "10 ta", correct = false},
+{text = "18 ta", correct = false},
+{text = "26 ta", correct = true},
+{text = "40 ta", correct = false},
+}
+},
+{
+question = "1945-yil avgustda SSSR va AQSH vositachiligida qaysi ikki xitoy kuchi o'zaro dushmanlik harakatlarini to'xtatishga kelishgan?",
+answers = {
+{text = "Xitoy Kommunistik partiyasi (XKP) va Gomindan", correct = true},
+{text = "Mao Szedun va Den Syaopin tarafdorlari", correct = false},
+{text = "Shimoliy va Janubiy Xitoy armiyalari", correct = false},
+{text = "Xunveybinlar va szaofanlar", correct = false},
+}
+},
+{
+question = "Xitoyda fuqarolar urushi qaysi yilning iyunida qaytadan boshlangan?",
+answers = {
+{text = "1945-yilda", correct = false},
+{text = "1946-yilda", correct = true},
+{text = "1949-yilda", correct = false},
+{text = "1958-yilda", correct = false},
+}
+},
+{
+question = "Xitoy Xalq Respublikasi (XXR) e'lon qilingandan so'ng, uning raisi lavozimini kim egallab, oliy hokimiyat ramziga aylangan?",
+answers = {
+{text = "Den Syaopin", correct = false},
+{text = "Mao Szedun", correct = true},
+{text = "Klement Gotvald", correct = false},
+{text = "Sun Yatsen", correct = false},
+}
+},
+{
+question = "1958-yili Xitoyda muddatidan oldin sotsializm qurishni nazarda tutgan reja qanday nom oldi?",
+answers = {
+{text = "\"Katta sakrash\"", correct = true},
+{text = "\"Madaniy inqilob\"", correct = false},
+{text = "\"To'rtta modernizatsiya\"", correct = false},
+{text = "\"Yangi kurs\"", correct = false},
+}
+},
+{
+question = "Xitoyda byurokratiyaga qarshi kurash jarayoni sifatida boshlangan \"Madaniy inqilob\" qaysi yili boshlangan?",
+answers = {
+{text = "1958-yilda", correct = false},
+{text = "1966-yilda", correct = true},
+{text = "1976-yilda", correct = false},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "Mao Szedun qaysi sanada vafot etib, shu bilan \"Madaniy inqilob\" rasman yakunlangan?",
+answers = {
+{text = "1966-yil 9-sentyabrda", correct = false},
+{text = "1976-yil 9-sentyabrda", correct = true},
+{text = "1980-yilda", correct = false},
+{text = "1949-yilda", correct = false},
+}
+},
+{
+question = "Mao Szedun vafotidan keyin hokimiyatga kelib, \"to'rtta modernizatsiya\" konsepsiyasini ishlab chiqqan davlat arbobi kim bo'lgan?",
+answers = {
+{text = "Sun Yatsen", correct = false},
+{text = "Den Syaopin", correct = true},
+{text = "Klement Gotvald", correct = false},
+{text = "Aleksandr Dubchek", correct = false},
+}
+},
+{
+question = "Chet el kapitalini jalb qilish uchun Xitoy janubida nechta erkin iqtisodiy zona tashkil etilgan?",
+answers = {
+{text = "2 ta", correct = false},
+{text = "4 ta", correct = true},
+{text = "6 ta", correct = false},
+{text = "8 ta", correct = false},
+}
+},
+{
+question = "1953-yil iyulda Koreya urushi tugab, qaysi parallel bo'ylab chegara o'tkazilgan?",
+answers = {
+{text = "30-parallel", correct = false},
+{text = "35-parallel", correct = false},
+{text = "38-parallel", correct = true},
+{text = "40-parallel", correct = false},
+}
+},
+{
+question = "Janubiy Koreya po'lat quyish bo'yicha Osiyoda qaysi davlatdan keyin ikkinchi o'ringa chiqib olgan?",
+answers = {
+{text = "Xitoydan keyin", correct = false},
+{text = "Yaponiyadan keyin", correct = true},
+{text = "Hindistondan keyin", correct = false},
+{text = "AQSHdan keyin", correct = false},
+}
+},
+}

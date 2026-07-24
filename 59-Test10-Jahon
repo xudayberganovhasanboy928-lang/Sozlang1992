@@ -1,0 +1,812 @@
+questions = {
+{
+question = "ENIAC kompyuteri qaysi yilda yaratilgan?",
+answers = {
+{text = "1940-yilda", correct = false},
+{text = "1946-yilda", correct = true},
+{text = "1950-yilda", correct = false},
+{text = "1959-yilda", correct = false},
+}
+},
+{
+question = "ENIAC kompyuteri qaysi davlatda yaratilgan?",
+answers = {
+{text = "Angliyada", correct = false},
+{text = "AQSHda", correct = true},
+{text = "Sovet Ittifoqida", correct = false},
+{text = "Germaniyada", correct = false},
+}
+},
+{
+question = "ENIAC kompyuteri qaysi universitetda yaratilgan?",
+answers = {
+{text = "Garvard universitetida", correct = false},
+{text = "Pensilvaniya universitetida", correct = true},
+{text = "Kembrij universitetida", correct = false},
+{text = "Stenford universitetida", correct = false},
+}
+},
+{
+question = "Plastik sanoati qaysi davrda yuzaga kelgan?",
+answers = {
+{text = "1940-yillarda", correct = false},
+{text = "1950-yillarda", correct = true},
+{text = "1960-yillarda", correct = false},
+{text = "1970-yillarda", correct = false},
+}
+},
+{
+question = "Insonning koinotga ilk parvozi qaysi yilda amalga oshirilgan?",
+answers = {
+{text = "1957-yilda", correct = false},
+{text = "1959-yilda", correct = false},
+{text = "1961-yilda", correct = true},
+{text = "1969-yilda", correct = false},
+}
+},
+{
+question = "Insonning koinotga ilk parvozini kim amalga oshirgan?",
+answers = {
+{text = "S. P. Korolyov", correct = false},
+{text = "Y. A. Gagarin", correct = true},
+{text = "N. G. Basov", correct = false},
+{text = "Ch. Tauns", correct = false},
+}
+},
+{
+question = "Y. A. Gagarin qaysi kosmik kemada parvoz qilgan?",
+answers = {
+{text = "\"Soyuz\"", correct = false},
+{text = "\"Vostok\"", correct = true},
+{text = "\"Sputnik\"", correct = false},
+{text = "\"Apollon\"", correct = false},
+}
+},
+{
+question = "Y. A. Gagarin qaysi sanada koinotga parvoz qilgan?",
+answers = {
+{text = "1957-yil 4-oktyabrda", correct = false},
+{text = "1959-yilda", correct = false},
+{text = "1961-yil 12-aprelda", correct = true},
+{text = "1969-yilda", correct = false},
+}
+},
+{
+question = "Birinchi uyali telefon apparati qaysi kompaniya tomonidan va qaysi yilda yaratilgan?",
+answers = {
+{text = "\"IBM\", 1980-yilda", correct = false},
+{text = "\"Motorola\", 1984-yilda", correct = true},
+{text = "\"Ericsson\", 1970-yilda", correct = false},
+{text = "\"Apple\", 1990-yilda", correct = false},
+}
+},
+{
+question = "Shvetsiyaning qaysi kompaniyasi 1940-yillar oxirida uyali telefon yaratish ustida ish boshlagan?",
+answers = {
+{text = "\"Ericsson\"", correct = false},
+{text = "\"Televerket\"", correct = true},
+{text = "\"Philips\"", correct = false},
+{text = "\"Nokia\"", correct = false},
+}
+},
+{
+question = "Birinchi ommaviy uyali telefon aloqasi tizimi qanday nomlangan?",
+answers = {
+{text = "\"MTA - mobile telephone system\"", correct = true},
+{text = "\"GSM\"", correct = false},
+{text = "\"ARPANET\"", correct = false},
+{text = "\"CDMA\"", correct = false},
+}
+},
+{
+question = "1970-1980-yillari qaysi kompaniyalar uyali telefon apparatlarining yangi turlarini yaratgan?",
+answers = {
+{text = "Ericsson va Philips", correct = true},
+{text = "IBM va Apple", correct = false},
+{text = "Motorola va Nokia", correct = false},
+{text = "Intel va Microsoft", correct = false},
+}
+},
+{
+question = "Internetning o'tmishdoshi ARPANET qaysi yilda yaratilgan?",
+answers = {
+{text = "1959-yilda", correct = false},
+{text = "1961-yilda", correct = false},
+{text = "1969-yilda", correct = true},
+{text = "1973-yilda", correct = false},
+}
+},
+{
+question = "Uzoq masofadan kompyuter orqali aloqa o'rnatish mumkinligini qaysi institut xodimlari asoslagan?",
+answers = {
+{text = "Pensilvaniya universiteti", correct = false},
+{text = "Massachusets texnologiya instituti", correct = true},
+{text = "Stenford universiteti", correct = false},
+{text = "Garvard universiteti", correct = false},
+}
+},
+{
+question = "Dunyoda birinchi atom elektr stansiyasi qaysi yilda ishga tushirilgan?",
+answers = {
+{text = "1946-yilda", correct = false},
+{text = "1950-yilda", correct = false},
+{text = "1954-yilda", correct = true},
+{text = "1961-yilda", correct = false},
+}
+},
+{
+question = "Dunyodagi birinchi atom elektr stansiyasi qanday nom bilan ataladi?",
+answers = {
+{text = "Obninsk AESi", correct = true},
+{text = "Chernobil AESi", correct = false},
+{text = "Fukusima AESi", correct = false},
+{text = "Semipalatinsk poligoni", correct = false},
+}
+},
+{
+question = "Gen muhandisligi sohasidagi kashfiyot qaysi yilda amalga oshirilgan?",
+answers = {
+{text = "1954-yilda", correct = false},
+{text = "1969-yilda", correct = false},
+{text = "1973-yilda", correct = true},
+{text = "1984-yilda", correct = false},
+}
+},
+{
+question = "Gen muhandisligi sohasida kashfiyot qilgan olimlar kimlar bo'lgan?",
+answers = {
+{text = "N. G. Basov va A. M. Proxorov", correct = false},
+{text = "Stenli Kohen va Herbert Boyer", correct = true},
+{text = "D. Kilbi va R. Noys", correct = false},
+{text = "M. Plank va A. Eynshteyn", correct = false},
+}
+},
+{
+question = "Lazer qaysi yilda kashf etilgan?",
+answers = {
+{text = "1954-yilda", correct = false},
+{text = "1959-yilda", correct = false},
+{text = "1960-yilda", correct = true},
+{text = "1969-yilda", correct = false},
+}
+},
+{
+question = "Lazerni kashf etgan sovet fiziklari kimlar bo'lgan?",
+answers = {
+{text = "D. Kilbi va R. Noys", correct = false},
+{text = "N. G. Basov va A. M. Proxorov", correct = true},
+{text = "S. P. Korolyov va Y. Gagarin", correct = false},
+{text = "M. Plank va A. Eynshteyn", correct = false},
+}
+},
+{
+question = "Lazer kashfiyotida ishtirok etgan amerikalik olim kim bo'lgan?",
+answers = {
+{text = "R. Noys", correct = false},
+{text = "Ch. Tauns", correct = true},
+{text = "D. Kilbi", correct = false},
+{text = "A. Eynshteyn", correct = false},
+}
+},
+{
+question = "\"Lazer\" so'zi inglizcha qanday iboraning bosh harflaridan tashkil topgan?",
+answers = {
+{text = "\"Light amplification by stimulated emission of radiation\"", correct = true},
+{text = "\"Laser application system energy release\"", correct = false},
+{text = "\"Long-range analog signal emission\"", correct = false},
+{text = "\"Low amplitude synchronized energy radiation\"", correct = false},
+}
+},
+{
+question = "Lazerni kashf etgani uchun olimlarga qanday mukofot berilgan?",
+answers = {
+{text = "Kimyo bo'yicha Nobel mukofoti", correct = false},
+{text = "Fizika bo'yicha Nobel mukofoti", correct = true},
+{text = "Tinchlik bo'yicha Nobel mukofoti", correct = false},
+{text = "Adabiyot bo'yicha Nobel mukofoti", correct = false},
+}
+},
+{
+question = "Yarimo'tkazgichli integral mikrosxemalar qaysi yilda yaratilgan?",
+answers = {
+{text = "1954-yilda", correct = false},
+{text = "1957-yilda", correct = false},
+{text = "1959-yilda", correct = true},
+{text = "1961-yilda", correct = false},
+}
+},
+{
+question = "Yarimo'tkazgichli integral mikrosxemalarni qaysi amerikalik muhandislar yaratgan?",
+answers = {
+{text = "N. G. Basov va A. M. Proxorov", correct = false},
+{text = "D. Kilbi va R. Noys", correct = true},
+{text = "S. Kohen va H. Boyer", correct = false},
+{text = "M. Plank va A. Eynshteyn", correct = false},
+}
+},
+{
+question = "Integral mikrosxemalarning yaratilishi nimaga olib kelgan?",
+answers = {
+{text = "Kompyuter va boshqa asboblar hajmining keskin qisqarishiga", correct = true},
+{text = "Atom energiyasining kashf etilishiga", correct = false},
+{text = "Internetning yaratilishiga", correct = false},
+{text = "Lazerning kashf etilishiga", correct = false},
+}
+},
+{
+question = "Integral mikrosxemalarning yaratilishi olimlar tomonidan qanday baholangan?",
+answers = {
+{text = "Kam ahamiyatli ixtiro sifatida", correct = false},
+{text = "XX asrning so'nggi 50 yili ichidagi eng mashhur ixtiro sifatida", correct = true},
+{text = "Faqat harbiy soha uchun foydali deb", correct = false},
+{text = "Muvaffaqiyatsiz tajriba sifatida", correct = false},
+}
+},
+{
+question = "Yerning birinchi sun'iy yo'ldoshi qaysi sanada uchirilgan?",
+answers = {
+{text = "1954-yil 4-oktyabrda", correct = false},
+{text = "1957-yil 4-oktyabrda", correct = true},
+{text = "1961-yil 12-aprelda", correct = false},
+{text = "1969-yilda", correct = false},
+}
+},
+{
+question = "Yerning birinchi sun'iy yo'ldoshi qaysi davlatda uchirilgan?",
+answers = {
+{text = "AQSHda", correct = false},
+{text = "Sovet Ittifoqida", correct = true},
+{text = "Buyuk Britaniyada", correct = false},
+{text = "Fransiyada", correct = false},
+}
+},
+{
+question = "Oyga kosmik kema uchirish borasidagi tadqiqotlarga kim boshchilik qilgan?",
+answers = {
+{text = "Y. A. Gagarin", correct = false},
+{text = "Akademik S. P. Korolyov", correct = true},
+{text = "N. G. Basov", correct = false},
+{text = "D. Kilbi", correct = false},
+}
+},
+{
+question = "Makroiqtisodiyot yo'nalishini kim yaratgan?",
+answers = {
+{text = "Jon Keyns", correct = true},
+{text = "Maks Plank", correct = false},
+{text = "Albert Eynshteyn", correct = false},
+{text = "S. P. Korolyov", correct = false},
+}
+},
+{
+question = "Jon Keyns qaysi davlat iqtisodchisi bo'lgan?",
+answers = {
+{text = "AQSH", correct = false},
+{text = "Angliya", correct = true},
+{text = "Fransiya", correct = false},
+{text = "Germaniya", correct = false},
+}
+},
+{
+question = "J. Keyns nazariyasi fanda qanday nom oldi?",
+answers = {
+{text = "Monetarizm", correct = false},
+{text = "Keynschilik", correct = true},
+{text = "Marksizm", correct = false},
+{text = "Liberalizm", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushidan keyin keynschilik asosida yaratilgan nazariya qanday nom oldi?",
+answers = {
+{text = "Neoliberalizm", correct = false},
+{text = "Neokeynschilik", correct = true},
+{text = "Monetarizm", correct = false},
+{text = "Marksizm", correct = false},
+}
+},
+{
+question = "Fandagi inqirozni bartaraf etish jarayonida qaysi ikki olimning nomi ilmiy-texnik inqilob bilan bog'liq bo'lgan?",
+answers = {
+{text = "Jon Keyns va Adam Smit", correct = false},
+{text = "Maks Plank va Albert Eynshteyn", correct = true},
+{text = "S. P. Korolyov va Y. Gagarin", correct = false},
+{text = "D. Kilbi va R. Noys", correct = false},
+}
+},
+{
+question = "Isaak Nyutondan boshlangan va XIX asr oxiriga kelib o'z imkoniyatlarini yakunlagan dunyoqarash nimaga asoslangan edi?",
+answers = {
+{text = "Kvant nazariyasiga", correct = false},
+{text = "Mexanikaga", correct = true},
+{text = "Nisbiylik nazariyasiga", correct = false},
+{text = "Genetikaga", correct = false},
+}
+},
+{
+question = "Fan taraqqiyotida yuz bergan inqirozga qanday ikki kashfiyot katta turtki bo'lgan?",
+answers = {
+{text = "Lazer va kompyuterning kashf etilishi", correct = false},
+{text = "Elektron va radioaktivlikning kashf etilishi", correct = true},
+{text = "Internetning yaratilishi va gen muhandisligi", correct = false},
+{text = "Atom energiyasi va integral mikrosxemalar", correct = false},
+}
+},
+{
+question = "Mikroolam va katta tezlik sohasida ulkan yangilik bo'lgan qaysi ikki nazariya yaratilgan?",
+answers = {
+{text = "Kvant nazariyasi va nisbiylik nazariyasi", correct = true},
+{text = "Keynschilik va monetarizm", correct = false},
+{text = "Xromosoma va irsiyat nazariyalari", correct = false},
+{text = "Abstraksionizm va pop art nazariyalari", correct = false},
+}
+},
+{
+question = "Kvant nazariyasi fan va ishlab chiqarish oldida nima uchun keng imkoniyatlar ochib bergan?",
+answers = {
+{text = "Kosmosga parvoz qilish uchun", correct = false},
+{text = "Moddalarning kimyoviy transformatsiyasi uchun", correct = true},
+{text = "Uyali telefon yaratish uchun", correct = false},
+{text = "Internet yaratish uchun", correct = false},
+}
+},
+{
+question = "Irsiyat qonunlari sohasiga kirib borish natijasida qaysi fan rivojlangan?",
+answers = {
+{text = "Fizika", correct = false},
+{text = "Genetika", correct = true},
+{text = "Kimyo", correct = false},
+{text = "Iqtisodiyot", correct = false},
+}
+},
+{
+question = "San'atda keng ommalashgan mavhumlik yo'nalishi qanday ataladi?",
+answers = {
+{text = "Realizm", correct = false},
+{text = "Abstraksionizm", correct = true},
+{text = "Postmodernizm", correct = false},
+{text = "Pop art", correct = false},
+}
+},
+{
+question = "Abstraksionizm qanday san'at turining rivojlanishiga o'ziga xos javob tarzida paydo bo'lgan?",
+answers = {
+{text = "Musiqa san'ati", correct = false},
+{text = "Fotografiya san'ati", correct = true},
+{text = "Haykaltaroshlik", correct = false},
+{text = "Me'morchilik", correct = false},
+}
+},
+{
+question = "Pop art atamasi qanday ma'noni anglatadi?",
+answers = {
+{text = "Modaviy san'at", correct = false},
+{text = "Ommaviy san'at", correct = true},
+{text = "Zamonaviy san'at", correct = false},
+{text = "Diniy san'at", correct = false},
+}
+},
+{
+question = "Pop art ixlosmandlarining fikricha, dunyodagi har qanday buyum nima kasb etishi mumkin?",
+answers = {
+{text = "Diniy ahamiyat", correct = false},
+{text = "Badiiy-estetik sifat", correct = true},
+{text = "Iqtisodiy qiymat", correct = false},
+{text = "Siyosiy ma'no", correct = false},
+}
+},
+{
+question = "San'atdagi modernizm bosqichi o'z imkoniyatlarini tugatganidan so'ng qanday uslub paydo bo'lgan?",
+answers = {
+{text = "Realizm", correct = false},
+{text = "Postmodernizm", correct = true},
+{text = "Klassitsizm", correct = false},
+{text = "Romantizm", correct = false},
+}
+},
+{
+question = "Postmodernizm uslubi o'zida qanday elementlarni jamlagan?",
+answers = {
+{text = "Faqat G'arb san'atini", correct = false},
+{text = "G'arb va Sharq san'ati, o'tmish va zamonaviy uslublar, folklor va ommaviy madaniyat elementlarini", correct = true},
+{text = "Faqat diniy san'atni", correct = false},
+{text = "Faqat texnik ixtirolarni", correct = false},
+}
+},
+{
+question = "1960-yillardan keyin realizm nimaning quroliga aylangan?",
+answers = {
+{text = "Diniy targ'ibotning", correct = false},
+{text = "Jamiyatdagi yangi dolzarb muammolarni aks ettirishning", correct = true},
+{text = "Siyosiy mafkuraning", correct = false},
+{text = "Iqtisodiy islohotlarning", correct = false},
+}
+},
+{
+question = "XX asrning yangi adabiy yo'nalishi bo'lgan ommaviy adabiyot qanday tarzda yoziladi?",
+answers = {
+{text = "Murakkab falsafiy uslubda", correct = false},
+{text = "Aniq andazalar asosida, keng ommaga mo'ljallangan holda", correct = true},
+{text = "Faqat ilmiy tilda", correct = false},
+{text = "Faqat she'riy shaklda", correct = false},
+}
+},
+{
+question = "Ommaviy adabiyot XX asr birinchi yarmidagi adabiyotdan nimasi bilan farq qiladi?",
+answers = {
+{text = "Ochiq tijoriy xarakteri, ko'ngilochar funksiyasi va voqealar rivojining oldindan ma'lumligi bilan", correct = true},
+{text = "Faqat diniy mavzularni yoritishi bilan", correct = false},
+{text = "Faqat she'riy janrda yozilishi bilan", correct = false},
+{text = "Faqat qisqaligi bilan", correct = false},
+}
+},
+{
+question = "Ilmiy-texnik inqilobning asosiy belgilaridan biri nima bo'lgan?",
+answers = {
+{text = "Faqat qishloq xo'jaligini rivojlantirish", correct = false},
+{text = "Tabiiy va sintetik materiallardan tovarlarni ommaviy ishlab chiqarish", correct = true},
+{text = "Faqat harbiy sanoatni kuchaytirish", correct = false},
+{text = "Faqat diniy ta'limni isloh qilish", correct = false},
+}
+},
+{
+question = "Ilmiy-texnik inqilob jahon iqtisodiyotini qanday davrga olib chiqqan?",
+answers = {
+{text = "Agrar davrga", correct = false},
+{text = "Kapitalizmning postindustrial davriga", correct = true},
+{text = "Feodal davrga", correct = false},
+{text = "Sanoat inqilobi davriga", correct = false},
+}
+},
+{
+question = "Ilmiy-texnik inqilobning salbiy oqibatlaridan biri sifatida nima yuz bergan?",
+answers = {
+{text = "Ishsizlikning avj olishi", correct = true},
+{text = "Aholi sonining kamayishi", correct = false},
+{text = "Diniy ziddiyatlarning kuchayishi", correct = false},
+{text = "Urushlarning ko'payishi", correct = false},
+}
+},
+{
+question = "Energiyaning yangi turlaridan va sun'iy materiallardan foydalanish nimaga imkon berib, qanday salbiy oqibatga ham olib kelgan?",
+answers = {
+{text = "Tabiiy resurslarni o'zlashtirish imkoniyatini kengaytirgan, ammo tabiatga zarari ortgan", correct = true},
+{text = "Faqat foyda keltirgan, hech qanday zarari bo'lmagan", correct = false},
+{text = "Faqat harbiy sohada qo'llanilgan", correct = false},
+{text = "Faqat qishloq xo'jaligida qo'llanilgan", correct = false},
+}
+},
+{
+question = "Konveyer atamasi qanday qurilma sifatida ta'riflanadi?",
+answers = {
+{text = "Kosmik kema qurilmasi", correct = false},
+{text = "Yuk tashish yoki ishlanayotgan narsalarni bir ish joyidan ikkinchisiga uzluksiz yetkazib beruvchi transport qurilmasi", correct = true},
+{text = "Kompyuter qismi", correct = false},
+{text = "Atom reaktori qurilmasi", correct = false},
+}
+},
+{
+question = "Postmodernizm atamasi qanday davrni ifodalash uchun qo'llaniladi?",
+answers = {
+{text = "Modernizmdan oldingi davrni", correct = false},
+{text = "Modernizmdan keyin kelgan tarixiy davrni", correct = true},
+{text = "O'rta asrlar davrini", correct = false},
+{text = "Sanoat inqilobi davrini", correct = false},
+}
+},
+{
+question = "Kompyuter so'zi inglizchadan qanday tarjima qilinadi va dastlab qanday maqsadda yaratilgan?",
+answers = {
+{text = "\"Hisoblagich\", axborotni qayta ishlash va hisoblash uchun", correct = true},
+{text = "\"Aloqachi\", masofaviy muloqot uchun", correct = false},
+{text = "\"Kuzatuvchi\", harbiy razvedka uchun", correct = false},
+{text = "\"Yozuvchi\", matn tayyorlash uchun", correct = false},
+}
+},
+{
+question = "Dastlabki kompyuterlar qanday nom bilan yuritilib, qanday hajmga ega bo'lgan?",
+answers = {
+{text = "Mikroprotsessor deb yuritilgan, kichik hajmda", correct = false},
+{text = "Elektron hisoblash mashinasi (EHM) deb yuritilgan, juda katta hajmda", correct = true},
+{text = "Integral mikrosxema deb yuritilgan, o'rtacha hajmda", correct = false},
+{text = "Uyali qurilma deb yuritilgan, mobil hajmda", correct = false},
+}
+},
+{
+question = "Sovuq urush davrida AQSH va SSSR o'rtasidagi qurollanish poygasi yana qaysi sohaga ham ko'chgan?",
+answers = {
+{text = "Qishloq xo'jaligiga", correct = false},
+{text = "Kosmos sohasiga", correct = true},
+{text = "Diniy sohaga", correct = false},
+{text = "Adabiyot sohasiga", correct = false},
+}
+},
+{
+question = "1957-yil 4-oktyabr kuni qanday muhim voqea sodir bo'lgan?",
+answers = {
+{text = "Y. Gagarin koinotga parvoz qilgan", correct = false},
+{text = "Sovet Ittifoqida Yerning birinchi sun'iy yo'ldoshi uchirilgan", correct = true},
+{text = "Birinchi atom elektr stansiyasi ishga tushirilgan", correct = false},
+{text = "ENIAC kompyuteri yaratilgan", correct = false},
+}
+},
+{
+question = "Y. A. Gagarin parvozi natijasida qanday yangi davr boshlangan?",
+answers = {
+{text = "Atom davri", correct = false},
+{text = "Kosmonavtika davri", correct = true},
+{text = "Internet davri", correct = false},
+{text = "Postindustrial davr", correct = false},
+}
+},
+{
+question = "Kosmonavtika davri nimani kengaytirdi?",
+answers = {
+{text = "Iqtisodiy imkoniyatlarni", correct = false},
+{text = "Koinot haqidagi bilimlarimizni", correct = true},
+{text = "Diniy tasavvurlarni", correct = false},
+{text = "Adabiy janrlarni", correct = false},
+}
+},
+{
+question = "Jon Keyns iqtisodiy nazariyada qanday muhim o'zgarishni amalga oshirgan?",
+answers = {
+{text = "Monetarizmni yaratgan", correct = false},
+{text = "Makroiqtisodiyot yo'nalishini yaratgan", correct = true},
+{text = "Plan iqtisodiyotini joriy qilgan", correct = false},
+{text = "Erkin bozorni bekor qilgan", correct = false},
+}
+},
+{
+question = "Jon Keyns iqtisodiy nazariyadagi o'zgarishni XX asrning qaysi davrida amalga oshirgan?",
+answers = {
+{text = "Birinchi yarmida", correct = true},
+{text = "Ikkinchi yarmida", correct = false},
+{text = "Oxirida", correct = false},
+{text = "O'rtasida", correct = false},
+}
+},
+{
+question = "Neokeynschilik nazariyasi nimaga qaratilgan edi?",
+answers = {
+{text = "Iqtisodni yangi davr talabiga moslashtirishga", correct = true},
+{text = "Diniy islohotlarni amalga oshirishga", correct = false},
+{text = "Kosmik dasturlarni moliyalashtirishga", correct = false},
+{text = "Harbiy sanoatni rivojlantirishga", correct = false},
+}
+},
+{
+question = "XIX asr oxiri - XX asr boshlarida ilmiy tafakkurda qanday jarayon yuz bergan?",
+answers = {
+{text = "Yirik o'zgarishlar yuz berib, yangi davr fanining inqirozi boshlangan", correct = true},
+{text = "Hech qanday o'zgarish bo'lmagan", correct = false},
+{text = "Fan rivojlanishi to'xtab qolgan", correct = false},
+{text = "Faqat diniy ta'limotlar rivojlangan", correct = false},
+}
+},
+{
+question = "Elektron va radioaktivlikning kashf etilishi nimaga katta turtki bo'lgan?",
+answers = {
+{text = "Fandagi inqirozning yuzaga kelishiga", correct = true},
+{text = "Sanoat inqilobining boshlanishiga", correct = false},
+{text = "Birinchi jahon urushining kelib chiqishiga", correct = false},
+{text = "Qul savdosining tugatilishiga", correct = false},
+}
+},
+{
+question = "Kimyoviy elementlarning transformatsiyasi kashfiyoti qaysi davrga tegishli bo'lgan?",
+answers = {
+{text = "XVIII asrga", correct = false},
+{text = "XIX asr oxiri - XX asr boshlariga", correct = true},
+{text = "XX asr o'rtalariga", correct = false},
+{text = "XXI asrga", correct = false},
+}
+},
+{
+question = "Xromosoma nazariyasi qaysi fan sohasida shakllangan?",
+answers = {
+{text = "Fizikada", correct = false},
+{text = "Genetikada", correct = true},
+{text = "Kimyoda", correct = false},
+{text = "Iqtisodiyotda", correct = false},
+}
+},
+{
+question = "Ilmiy-texnik inqilob qaysi fandan boshlanib, fanning barcha sohalarini qamrab olgan?",
+answers = {
+{text = "Kimyodan", correct = false},
+{text = "Fizikadan", correct = true},
+{text = "Biologiyadan", correct = false},
+{text = "Iqtisodiyotdan", correct = false},
+}
+},
+{
+question = "Sintetik materiallardan tovarlarni ommaviy ishlab chiqarish qanday jarayonning belgisi bo'lgan?",
+answers = {
+{text = "Ilmiy-texnik inqilobning", correct = true},
+{text = "Sovuq urushning", correct = false},
+{text = "Qayta qurishning", correct = false},
+{text = "Iqtisodiy inqirozning", correct = false},
+}
+},
+{
+question = "Sanoat robotlari va konveyerli liniyalarning yaratilishi nimaning natijasi bo'lgan?",
+answers = {
+{text = "Ilmiy-texnik inqilobning", correct = true},
+{text = "Gen muhandisligining", correct = false},
+{text = "Kosmonavtikaning", correct = false},
+{text = "Postmodernizmning", correct = false},
+}
+},
+{
+question = "Ishlab chiqarishni avtomatlashtirish va kompyuterlashtirish natijasida nima yuz bergan?",
+answers = {
+{text = "Ish o'rinlari kamayib, ishsizlik avj olgan", correct = true},
+{text = "Ish haqi keskin oshgan", correct = false},
+{text = "Aholi soni ko'paygan", correct = false},
+{text = "Diniy tashkilotlar kuchaygan", correct = false},
+}
+},
+{
+question = "Abstraksionizm vakillari tasvirda nimani ifodalashga intilgan?",
+answers = {
+{text = "Aniq geometrik shakllarni", correct = false},
+{text = "Harakat va hissiyotni", correct = true},
+{text = "Diniy ramzlarni", correct = false},
+{text = "Tarixiy voqealarni", correct = false},
+}
+},
+{
+question = "Pop art yo'nalishi qaysi qit'aga tezda tarqalgan?",
+answers = {
+{text = "Osiyoga", correct = false},
+{text = "Yevropaga", correct = true},
+{text = "Afrikaga", correct = false},
+{text = "Avstraliyaga", correct = false},
+}
+},
+{
+question = "San'atdagi modernizm bosqichi o'z imkoniyatlarini tugatganini nima ko'rsatgan?",
+answers = {
+{text = "Olam qiyofasidagi mantiq va aniqlikning yo'qligi", correct = true},
+{text = "Yangi texnologiyalarning yaratilishi", correct = false},
+{text = "Diniy ta'limotlarning kuchayishi", correct = false},
+{text = "Iqtisodiy inqirozning boshlanishi", correct = false},
+}
+},
+{
+question = "Urushdan keyin bir qator yozuvchilarning romanlari qanday ruhda yozilgan?",
+answers = {
+{text = "Komediya ruhida", correct = false},
+{text = "Urushni badiiy usullar bilan aks ettirish ruhida", correct = true},
+{text = "Diniy targ'ibot ruhida", correct = false},
+{text = "Ilmiy-fantastik ruhda", correct = false},
+}
+},
+{
+question = "Adabiyotda inson va tabiat o'rtasidagi uzviy bog'liqlik qanday obrazlar orqali ifoda qilingan?",
+answers = {
+{text = "Quruq statistik ma'lumotlar orqali", correct = false},
+{text = "O'ta ta'sirli badiiy obrazlar orqali", correct = true},
+{text = "Faqat rasmlar orqali", correct = false},
+{text = "Faqat jadvallar orqali", correct = false},
+}
+},
+{
+question = "Ommaviy adabiyot mafkuraviy jihatdan nimaga yo'naltirilgan?",
+answers = {
+{text = "Mavjud tartiblarni qo'llab-quvvatlashga", correct = true},
+{text = "Mavjud tuzumni ag'darishga", correct = false},
+{text = "Diniy islohotlarni targ'ib qilishga", correct = false},
+{text = "Ilmiy kashfiyotlarni tashviq qilishga", correct = false},
+}
+},
+{
+question = "Integral mikrosxemalarning yaratilishi kompyuter va boshqa asboblar sohasida nimani ta'minladi?",
+answers = {
+{text = "Faoliyat sohasining keskin torayishini", correct = false},
+{text = "Faoliyat sohasining keskin kengayishini", correct = true},
+{text = "Narxlarning keskin oshishini", correct = false},
+{text = "Ishlab chiqarishning to'xtashini", correct = false},
+}
+},
+{
+question = "D. Kilbi va R. Noys qaysi davlat muhandislari bo'lgan?",
+answers = {
+{text = "Angliya", correct = false},
+{text = "AQSH", correct = true},
+{text = "SSSR", correct = false},
+{text = "Yaponiya", correct = false},
+}
+},
+{
+question = "Lazer nurining qanday yangi turi sifatida yaratilgan?",
+answers = {
+{text = "Mutlaqo yangi tur sifatida", correct = true},
+{text = "Eskirgan tur sifatida", correct = false},
+{text = "Tabiiy nur sifatida", correct = false},
+{text = "Radioaktiv nur sifatida", correct = false},
+}
+},
+{
+question = "Lazer kashfiyoti uchun fizika bo'yicha Nobel mukofotini nechta olim baham ko'rgan?",
+answers = {
+{text = "Ikkita", correct = false},
+{text = "Uchta", correct = true},
+{text = "To'rtta", correct = false},
+{text = "Beshta", correct = false},
+}
+},
+{
+question = "Gen muhandisligi sohasidagi kashfiyot qaysi ikki olim tomonidan va qaysi yilda amalga oshirilgan?",
+answers = {
+{text = "N. Basov va A. Proxorov, 1960-yilda", correct = false},
+{text = "Stenli Kohen va Herbert Boyer, 1973-yilda", correct = true},
+{text = "D. Kilbi va R. Noys, 1959-yilda", correct = false},
+{text = "M. Plank va A. Eynshteyn, 1900-yilda", correct = false},
+}
+},
+{
+question = "Konveyer so'zi qanday vazifani bajaruvchi maxsus transport qurilmasi sifatida ta'riflanadi?",
+answers = {
+{text = "Yukni bir joydan ikkinchisiga to'xtovsiz yoki davriy ravishda yetkazib beruvchi", correct = true},
+{text = "Odamlarni tashuvchi", correct = false},
+{text = "Ma'lumotlarni saqlovchi", correct = false},
+{text = "Energiya ishlab chiqaruvchi", correct = false},
+}
+},
+{
+question = "Maks Plank va Albert Eynshteyn kabi olimlarning nomi qanday nazariyalar bilan bog'liq?",
+answers = {
+{text = "Nisbiylik nazariyasi va kvant nazariyasi bilan", correct = true},
+{text = "Evolyutsiya nazariyasi bilan", correct = false},
+{text = "Iqtisodiy nazariya bilan", correct = false},
+{text = "Genetik nazariya bilan", correct = false},
+}
+},
+{
+question = "Elektron va radiyning kashf etilishi qaysi sohada ulkan yangilik bo'lgan?",
+answers = {
+{text = "Adabiyotda", correct = false},
+{text = "Mikroolam va katta tezlik sohasida", correct = true},
+{text = "Iqtisodiyotda", correct = false},
+{text = "San'atda", correct = false},
+}
+},
+{
+question = "Kompyuter, uyali aloqa va Internet kabi ixtirolar XX asrning ikkinchi yarmidagi qanday jarayon natijasi bo'lgan?",
+answers = {
+{text = "Sanoat inqilobi natijasi", correct = false},
+{text = "Ilmiy-texnik inqilob natijasi", correct = true},
+{text = "Qishloq xo'jaligi islohoti natijasi", correct = false},
+{text = "Diniy islohot natijasi", correct = false},
+}
+},
+{
+question = "\"Sovuq urush davrining top-7 kashfiyoti\" ro'yxatiga jami nechta soha kashfiyoti kiritilgan?",
+answers = {
+{text = "5 ta", correct = false},
+{text = "7 ta", correct = true},
+{text = "9 ta", correct = false},
+{text = "10 ta", correct = false},
+}
+},
+{
+question = "Kompyuter, plastik, kosmonavtika, uyali telefon, Internet, atom texnologiyalari va gen muhandisligi qanday davr kashfiyotlari sifatida sanab o'tilgan?",
+answers = {
+{text = "Sanoat inqilobi davri", correct = false},
+{text = "Sovuq urush davri", correct = true},
+{text = "O'rta asrlar davri", correct = false},
+{text = "Antik davr", correct = false},
+}
+},
+{
+question = "Ilmiy-texnik inqilob natijasida ishlab chiqarishning qanday yangi shakllari vujudga kelgan?",
+answers = {
+{text = "Konveyerli liniyalar va sanoat robotlari", correct = true},
+{text = "Faqat qo'l mehnati", correct = false},
+{text = "Faqat chorvachilik", correct = false},
+{text = "Faqat dehqonchilik texnikasi", correct = false},
+}
+},
+}

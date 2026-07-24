@@ -1,0 +1,605 @@
+questions = {
+{
+question = "Hindiston va Pokiston ikkita mustaqil davlat sifatida qaysi sanada tashkil topganligi e'lon qilingan?",
+answers = {
+{text = "1945-yil 8-mayda", correct = false},
+{text = "1947-yil 15-avgustda", correct = true},
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = false},
+}
+},
+{
+question = "Mustaqillik e'lon qilinganda Hindiston hukumatini kim boshqargan?",
+answers = {
+{text = "Javoharlal Neru", correct = true},
+{text = "Liakat Alixon", correct = false},
+{text = "Lal Bahadur Shastri", correct = false},
+{text = "Indira Gandi", correct = false},
+}
+},
+{
+question = "Mustaqillik e'lon qilinganda Pokiston hukumatini kim boshqargan?",
+answers = {
+{text = "Javoharlal Neru", correct = false},
+{text = "Liakat Alixon", correct = true},
+{text = "Ziyo ul-Haq", correct = false},
+{text = "Benazir Bhutto", correct = false},
+}
+},
+{
+question = "Hindistonning yangi konstitutsiyasi qaysi yilda qabul qilingan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1949-yilda", correct = true},
+{text = "1956-yilda", correct = false},
+{text = "1964-yilda", correct = false},
+}
+},
+{
+question = "1949-yilgi konstitutsiyaga binoan Hindiston qanday davlat deb e'lon qilingan?",
+answers = {
+{text = "Konstitutsion monarxiya", correct = false},
+{text = "Dunyoviy respublika", correct = true},
+{text = "Islom respublikasi", correct = false},
+{text = "Harbiy diktatura", correct = false},
+}
+},
+{
+question = "J. Neru qaysi yilda olamdan o'tib, uning o'rnini kim egallagan?",
+answers = {
+{text = "1956-yilda, Liakat Alixon", correct = false},
+{text = "1964-yilda, Lal Bahadur Shastri", correct = true},
+{text = "1966-yilda, Indira Gandi", correct = false},
+{text = "1970-yilda, Narasimha Rao", correct = false},
+}
+},
+{
+question = "\"Toshkent deklaratsiyasi\" qaysi yilning yanvarida imzolangan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1956-yilda", correct = false},
+{text = "1964-yilda", correct = false},
+{text = "1966-yilda", correct = true},
+}
+},
+{
+question = "Toshkentga kelib, deklaratsiya imzolangandan so'ng to'satdan vafot etgan Hindiston davlat arbobi kim bo'lgan?",
+answers = {
+{text = "Javoharlal Neru", correct = false},
+{text = "Lal Bahadur Shastri", correct = true},
+{text = "Indira Gandi", correct = false},
+{text = "Narasimha Rao", correct = false},
+}
+},
+{
+question = "Hokimiyatga kelgan J. Neruning qizi Indira Gandi qanday yangi agrar siyosatni amalga oshirgan?",
+answers = {
+{text = "\"Oq inqilob\"", correct = false},
+{text = "\"Yashil inqilob\"", correct = true},
+{text = "\"Madaniy inqilob\"", correct = false},
+{text = "\"Katta sakrash\"", correct = false},
+}
+},
+{
+question = "\"Yashil inqilob\" natijasida 1970-yili Hindistonda nima keskin o'sgan?",
+answers = {
+{text = "Neft ishlab chiqarish", correct = false},
+{text = "G'alla va sholi hosildorligi", correct = true},
+{text = "Sanoat mahsuloti eksporti", correct = false},
+{text = "Aholi soni", correct = false},
+}
+},
+{
+question = "1990-yillar boshida Hindiston iqtisodiy ahvoli yomonlashgach, hokimiyatga kelgan hukumat kimning rahbarligida bo'lgan?",
+answers = {
+{text = "Narasimha Rao", correct = true},
+{text = "Indira Gandi", correct = false},
+{text = "Lal Bahadur Shastri", correct = false},
+{text = "Javoharlal Neru", correct = false},
+}
+},
+{
+question = "Pokiston tarkibidan 1971-yilda qaysi yangi davlat ajralib chiqqan?",
+answers = {
+{text = "Sharqiy Bengaliya", correct = false},
+{text = "Bangladesh", correct = true},
+{text = "Kashmir", correct = false},
+{text = "Panjob", correct = false},
+}
+},
+{
+question = "Pokiston o'z mustaqilligini qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = true},
+{text = "1956-yilda", correct = false},
+}
+},
+{
+question = "1956-yilda qabul qilingan konstitutsiyaga binoan Pokiston qanday davlat deb e'lon qilingan?",
+answers = {
+{text = "Pokiston Dominioni", correct = false},
+{text = "Pokiston Respublikasi", correct = true},
+{text = "Pokiston Federatsiyasi", correct = false},
+{text = "Pokiston Xalifaligi", correct = false},
+}
+},
+{
+question = "1988-yilda harbiy diktator general Ziyo ul-Haq nima sababdan halok bo'lgan?",
+answers = {
+{text = "Suiqasd natijasida", correct = false},
+{text = "Aviahalokat oqibatida", correct = true},
+{text = "Kasallikdan", correct = false},
+{text = "Fuqarolar urushida", correct = false},
+}
+},
+{
+question = "Ziyo ul-Haq halok bo'lgandan so'ng o'tkazilgan saylovlar natijasida kim Pokiston bosh vaziri bo'lgan?",
+answers = {
+{text = "Liakat Alixon", correct = false},
+{text = "Zulfiqor Bhutto", correct = false},
+{text = "Benazir Bhutto", correct = true},
+{text = "G'ulom Is'hoqxon", correct = false},
+}
+},
+{
+question = "1980-yil sentyabrda Turkiyada navbatdagi harbiy to'ntarishni kim amalga oshirgan?",
+answers = {
+{text = "General Kenan Evren", correct = true},
+{text = "Turg'ut O'zol", correct = false},
+{text = "Sulaymon Demirel", correct = false},
+{text = "Ismet Inyonyu", correct = false},
+}
+},
+{
+question = "Turkiyada yangi konstitutsiya qaysi yilning noyabrida o'tkazilgan referendumda tasdiqlangan?",
+answers = {
+{text = "1980-yilda", correct = false},
+{text = "1982-yilda", correct = true},
+{text = "1983-yilda", correct = false},
+{text = "1989-yilda", correct = false},
+}
+},
+{
+question = "1983-yili Turkiya bosh vaziri bo'lib, mamlakatda jadal iqtisodiy islohotlarni boshlab yuborgan siyosatchi kim bo'lgan?",
+answers = {
+{text = "Kenan Evren", correct = false},
+{text = "Turg'ut O'zol", correct = true},
+{text = "Sulaymon Demirel", correct = false},
+{text = "Ismet Inyonyu", correct = false},
+}
+},
+{
+question = "1989-yilgi saylovlarda Turkiya Respublikasi prezidenti etib kim saylangan?",
+answers = {
+{text = "Kenan Evren", correct = false},
+{text = "Turg'ut O'zol", correct = true},
+{text = "Sulaymon Demirel", correct = false},
+{text = "Ismet Inyonyu", correct = false},
+}
+},
+{
+question = "1990-yildan Turkiyada bosh vazir lavozimini qaysi tajribali siyosatchi egallagan?",
+answers = {
+{text = "Kenan Evren", correct = false},
+{text = "Turg'ut O'zol", correct = false},
+{text = "Sulaymon Demirel", correct = true},
+{text = "Ismet Inyonyu", correct = false},
+}
+},
+{
+question = "Ingliz va sovet qo'shinlari Erondan qaysi yilda olib chiqib ketilgan?",
+answers = {
+{text = "1945-yilda", correct = false},
+{text = "1946-yilda", correct = true},
+{text = "1950-yilda", correct = false},
+{text = "1963-yilda", correct = false},
+}
+},
+{
+question = "Eron shohi Muhammad Rizo Pahlaviy 1963-yilda o'tkazgan referendum natijasida boshlangan islohotlar umumiy nom bilan qanday ataldi?",
+answers = {
+{text = "\"Yashil inqilob\"", correct = false},
+{text = "\"Oq inqilob\"", correct = true},
+{text = "\"Madaniy inqilob\"", correct = false},
+{text = "\"Islom inqilobi\"", correct = false},
+}
+},
+{
+question = "Eronda shoh rejimi ag'darilib, Eron Islom Respublikasi deb e'lon qilinishi qaysi sanada yuz bergan?",
+answers = {
+{text = "1963-yilda", correct = false},
+{text = "1973-yilda", correct = false},
+{text = "1979-yil fevralda", correct = true},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "Eron - Iroq urushi qaysi yilda boshlanib, qaysi yilgacha davom etgan?",
+answers = {
+{text = "1973-1979-yillar", correct = false},
+{text = "1979-1985-yillar", correct = false},
+{text = "1980-1988-yillar", correct = true},
+{text = "1985-1990-yillar", correct = false},
+}
+},
+{
+question = "Afg'oniston shohi Muhammad Zohirshoh qaysi yilda taxtdan ag'darilgan?",
+answers = {
+{text = "1963-yilda", correct = false},
+{text = "1973-yilda", correct = true},
+{text = "1977-yilda", correct = false},
+{text = "1978-yilda", correct = false},
+}
+},
+{
+question = "Shoh ag'darilgandan so'ng Afg'oniston prezidenti deb kim e'lon qilingan?",
+answers = {
+{text = "Muhammad Dovudxon", correct = true},
+{text = "Nur Muhammad Taraqqiy", correct = false},
+{text = "Hafizullo Amin", correct = false},
+{text = "Muhammad Najibullo", correct = false},
+}
+},
+{
+question = "1978-yil 27-aprelda Afg'onistonda harbiylar to'ntarishidan so'ng tuzilgan Inqilobiy kengashga kim boshchilik qilgan?",
+answers = {
+{text = "Muhammad Dovudxon", correct = false},
+{text = "Nur Muhammad Taraqqiy", correct = true},
+{text = "Hafizullo Amin", correct = false},
+{text = "Muhammad Najibullo", correct = false},
+}
+},
+{
+question = "Hokimiyatni egallab, SSSRdan Afg'onistonga qo'shin kiritishni so'ragan davlat arbobi kim bo'lgan?",
+answers = {
+{text = "Nur Muhammad Taraqqiy", correct = false},
+{text = "Hafizullo Amin", correct = true},
+{text = "Muhammad Dovudxon", correct = false},
+{text = "Muhammad Najibullo", correct = false},
+}
+},
+{
+question = "Sovet qo'shinlari Afg'onistonga qaysi sanada kiritilgan?",
+answers = {
+{text = "1978-yil aprelda", correct = false},
+{text = "1979-yil dekabrda", correct = true},
+{text = "1986-yilda", correct = false},
+{text = "1989-yilda", correct = false},
+}
+},
+{
+question = "Suriya Ikkinchi jahon urushidan oldin qaysi davlatning mandati ostida bo'lgan?",
+answers = {
+{text = "Buyuk Britaniya", correct = false},
+{text = "Fransiya", correct = true},
+{text = "Italiya", correct = false},
+{text = "Usmoniylar imperiyasi", correct = false},
+}
+},
+{
+question = "Suriya real mustaqillikka qaysi yilda erishgan (chet el qo'shinlari mamlakat hududidan olib chiqib ketilgach)?",
+answers = {
+{text = "1943-yilda", correct = false},
+{text = "1946-yilda", correct = true},
+{text = "1958-yilda", correct = false},
+{text = "1961-yilda", correct = false},
+}
+},
+{
+question = "1958-yil fevralda Suriya va Misr ittifoqqa birlashib qanday davlat deb e'lon qilingan?",
+answers = {
+{text = "Suriya Arab Respublikasi", correct = false},
+{text = "Birlashgan Arab Respublikasi (BAR)", correct = true},
+{text = "Islom Respublikasi", correct = false},
+{text = "Arab Federatsiyasi", correct = false},
+}
+},
+{
+question = "1961-yil sentyabrdagi harbiy to'ntarishdan so'ng Suriya qanday nom oldi?",
+answers = {
+{text = "Birlashgan Arab Respublikasi", correct = false},
+{text = "Suriya Arab Respublikasi", correct = true},
+{text = "Suriya Xalq Respublikasi", correct = false},
+{text = "Suriya Federatsiyasi", correct = false},
+}
+},
+{
+question = "1970-yil noyabrdagi harbiy to'ntarishdan so'ng Suriyada hokimiyatni kim egallagan?",
+answers = {
+{text = "Mudofaa vaziri general Hafiz Asad", correct = true},
+{text = "Saddam Husayn", correct = false},
+{text = "Abdul Karim Qosim", correct = false},
+{text = "Muammar Qazzofiy", correct = false},
+}
+},
+{
+question = "Iroq o'z mustaqilligini qaysi yilda e'lon qilgan?",
+answers = {
+{text = "1932-yilda", correct = true},
+{text = "1946-yilda", correct = false},
+{text = "1958-yilda", correct = false},
+{text = "1968-yilda", correct = false},
+}
+},
+{
+question = "1958-yilda Iroqda davlat to'ntarishini kimlar uyushtirib, qirol Feysalni o'ldirgan?",
+answers = {
+{text = "Saddam Husayn va Hafiz Asad", correct = false},
+{text = "Abdul Karim Qosim va Abdul Salim Aref", correct = true},
+{text = "Muammar Qazzofiy va Ja'far Nimeyri", correct = false},
+{text = "Anvar Sadat va Husni Muborak", correct = false},
+}
+},
+{
+question = "1968-yilgi navbatdagi davlat to'ntarishidan so'ng Iroqda real hokimiyat mudofaa vaziri sifatida kim qo'liga o'tgan?",
+answers = {
+{text = "Abdul Karim Qosim", correct = false},
+{text = "Abdul Salim Aref", correct = false},
+{text = "Saddam Husayn", correct = true},
+{text = "Hafiz Asad", correct = false},
+}
+},
+{
+question = "Saddam Husayn rasman Iroq prezidenti etib qaysi yilda saylangan?",
+answers = {
+{text = "1968-yilda", correct = false},
+{text = "1973-yilda", correct = false},
+{text = "1979-yilda", correct = true},
+{text = "1990-yilda", correct = false},
+}
+},
+{
+question = "Iroq Eronga qarshi urushni qaysi sanada boshlagan?",
+answers = {
+{text = "1979-yil fevralda", correct = false},
+{text = "1980-yil 22-sentyabrda", correct = true},
+{text = "1988-yilda", correct = false},
+{text = "1990-yilda", correct = false},
+}
+},
+{
+question = "1991-yil yanvarda Kuvaytni ozod qilish uchun xalqaro kuchlar qanday harbiy operatsiyani boshlagan?",
+answers = {
+{text = "\"Barbarossa\"", correct = false},
+{text = "\"Sahrodagi bo'ron\"", correct = true},
+{text = "\"Yangi kurs\"", correct = false},
+{text = "\"Katta sakrash\"", correct = false},
+}
+},
+{
+question = "Livan qaysi yilda \"erkin mamlakat\" deb e'lon qilingan?",
+answers = {
+{text = "1943-yilda", correct = false},
+{text = "1946-yilda", correct = false},
+{text = "1948-yilda", correct = true},
+{text = "1958-yilda", correct = false},
+}
+},
+{
+question = "1958-yil mayda Livanda boshlangan fuqarolar urushi necha ming kishining o'limiga olib kelgan?",
+answers = {
+{text = "1 ming", correct = false},
+{text = "3 ming", correct = true},
+{text = "5 ming", correct = false},
+{text = "10 ming", correct = false},
+}
+},
+{
+question = "Transiordaniyaning mustaqilligi qaysi sanada Londonda e'lon qilingan?",
+answers = {
+{text = "1945-yil oktyabrda", correct = false},
+{text = "1946-yil 22-martda", correct = true},
+{text = "1950-yilda", correct = false},
+{text = "1958-yilda", correct = false},
+}
+},
+{
+question = "Birlashgan Arab Amirliklari (BAA) federatsiyasi qaysi yilda tashkil qilingan va nechta amirlikni o'z ichiga olgan?",
+answers = {
+{text = "1958-yilda, 5 ta", correct = false},
+{text = "1967-yilda, 6 ta", correct = false},
+{text = "1971-yilda, 7 ta", correct = true},
+{text = "1973-yilda, 8 ta", correct = false},
+}
+},
+{
+question = "Fidel Kastro boshchiligidagi qo'zg'olonchilar Gavanaga qaysi sanada kirib kelib, inqilob g'alaba qozongan?",
+answers = {
+{text = "1958-yil dekabrda", correct = false},
+{text = "1959-yil 1-yanvarda", correct = true},
+{text = "1962-yilda", correct = false},
+{text = "1970-yilda", correct = false},
+}
+},
+{
+question = "Kuba hukumatining SSSR bilan kelishuvi natijasida qaysi yilgi xalqaro inqiroz yuz bergan?",
+answers = {
+{text = "1959-yilgi \"Gavana inqirozi\"", correct = false},
+{text = "1962-yilgi \"Karib inqirozi\"", correct = true},
+{text = "1970-yilgi \"Chili inqirozi\"", correct = false},
+{text = "1980-yilgi \"Meksika inqirozi\"", correct = false},
+}
+},
+{
+question = "1970-yili Xalq birligi bloki nomzodi sifatida kim Chili prezidenti etib saylangan?",
+answers = {
+{text = "Avgusto Pinochet", correct = false},
+{text = "Salvador Alyende", correct = true},
+{text = "Patrisio Eylvin", correct = false},
+{text = "Fidel Kastro", correct = false},
+}
+},
+{
+question = "1973-yilda Chilida davlat to'ntarishidan so'ng hokimiyatga kim boshchiligidagi harbiy xunta kelgan?",
+answers = {
+{text = "Salvador Alyende", correct = false},
+{text = "General Avgusto Pinochet", correct = true},
+{text = "Patrisio Eylvin", correct = false},
+{text = "Fidel Kastro", correct = false},
+}
+},
+{
+question = "1989-yilgi prezidentlik saylovlarida Chilida kim g'olib chiqib, shu bilan diktatura davri tugagan?",
+answers = {
+{text = "Salvador Alyende", correct = false},
+{text = "Avgusto Pinochet", correct = false},
+{text = "Patrisio Eylvin", correct = true},
+{text = "Fidel Kastro", correct = false},
+}
+},
+{
+question = "Meksika sanoat mahsulotlarining umumiy hajmi bo'yicha Lotin Amerikasida qaysi yilda birinchi o'ringa chiqqan?",
+answers = {
+{text = "1950-yilda", correct = false},
+{text = "1958-yilda", correct = true},
+{text = "1962-yilda", correct = false},
+{text = "1970-yilda", correct = false},
+}
+},
+{
+question = "1979-yilda qaysi Lotin Amerikasi davlatida inqilob yuz bergan?",
+answers = {
+{text = "Kubada", correct = false},
+{text = "Chilida", correct = false},
+{text = "Nikaraguada", correct = true},
+{text = "Meksikada", correct = false},
+}
+},
+{
+question = "XX asrda Lotin Amerikasi mamlakatlari uchun umumiy bo'lgan modernizatsiyalashning nechta varianti mavjud bo'lgan?",
+answers = {
+{text = "Ikkita", correct = false},
+{text = "Uchta", correct = true},
+{text = "To'rtta", correct = false},
+{text = "Beshta", correct = false},
+}
+},
+{
+question = "1989-yilgi Chili saylovida g'olib chiqqan Patrisio Eylvin qaysi partiyaning yetakchisi bo'lgan?",
+answers = {
+{text = "Sotsialistik partiya", correct = false},
+{text = "Xristian-demokratik partiyasi (XDP)", correct = true},
+{text = "Xalq birligi bloki", correct = false},
+{text = "Kommunistik partiya", correct = false},
+}
+},
+{
+question = "Misrda 1952-yildagi inqilobga \"Yosh ofitserlar\" nomidan kim boshchilik qilgan?",
+answers = {
+{text = "Anvar Sadat", correct = false},
+{text = "Jamol Abdul Nosir", correct = true},
+{text = "Husni Muborak", correct = false},
+{text = "Muammar Qazzofiy", correct = false},
+}
+},
+{
+question = "1954-yilda \"Ozodlik tashkiloti\" tarafdorlari bilan qonli to'qnashuvda tor-mor qilingan diniy-mutaassiblik tashkiloti qaysi?",
+answers = {
+{text = "\"Yosh Turkiya\"", correct = false},
+{text = "\"Musulmon birodarlar\"", correct = true},
+{text = "\"Yangi usmoniylar\"", correct = false},
+{text = "Gomindan", correct = false},
+}
+},
+{
+question = "J. A. Nosir vafotidan so'ng, 1970-yili Misr prezidenti etib kim saylangan?",
+answers = {
+{text = "Husni Muborak", correct = false},
+{text = "Anvar Sadat", correct = true},
+{text = "Ja'far Nimeyri", correct = false},
+{text = "Muammar Qazzofiy", correct = false},
+}
+},
+{
+question = "Anvar Sadat qaysi sanada o'ldirilgan?",
+answers = {
+{text = "1970-yilda", correct = false},
+{text = "1979-yilda", correct = false},
+{text = "1981-yil 6-oktyabrda", correct = true},
+{text = "1985-yilda", correct = false},
+}
+},
+{
+question = "Anvar Sadatdan keyin Misr prezidenti etib kim saylangan?",
+answers = {
+{text = "Jamol Abdul Nosir", correct = false},
+{text = "Husni Muborak", correct = true},
+{text = "Ja'far Nimeyri", correct = false},
+{text = "Muammar Qazzofiy", correct = false},
+}
+},
+{
+question = "Sudan qaysi yilda mustaqil bo'lib, unitar demokratik respublika deb e'lon qilingan?",
+answers = {
+{text = "1951-yilda", correct = false},
+{text = "1956-yilda", correct = true},
+{text = "1960-yilda", correct = false},
+{text = "1969-yilda", correct = false},
+}
+},
+{
+question = "1969-yilda Sudanda \"Ozod ofitserlar\" tashkiloti rejimni ag'darib, hokimiyat kimning boshchiligidagi Inqilobiy kengashga o'tgan?",
+answers = {
+{text = "Jamol Abdul Nosir", correct = false},
+{text = "Polkovnik Ja'far Nimeyri", correct = true},
+{text = "Muammar Qazzofiy", correct = false},
+{text = "Husni Muborak", correct = false},
+}
+},
+{
+question = "Liviya qaysi yilda mustaqil davlat deb e'lon qilingan?",
+answers = {
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = true},
+{text = "1956-yilda", correct = false},
+{text = "1969-yilda", correct = false},
+}
+},
+{
+question = "1969-yilda Liviyada monarxiyani ag'darib tashlagan \"Yosh ofitserlar\" tashkilotiga kim boshchilik qilgan?",
+answers = {
+{text = "Ja'far Nimeyri", correct = false},
+{text = "Muammar Qazzofiy", correct = true},
+{text = "Jamol Abdul Nosir", correct = false},
+{text = "Anvar Sadat", correct = false},
+}
+},
+{
+question = "1977-yilda Liviya Arab Respublikasi o'rniga qanday davlat e'lon qilingan?",
+answers = {
+{text = "Liviya Xalq Federatsiyasi", correct = false},
+{text = "Liviya Arab Sotsialistik Xalq Jamahiriyasi", correct = true},
+{text = "Liviya Islom Respublikasi", correct = false},
+{text = "Liviya Qo'shma Podshohligi", correct = false},
+}
+},
+{
+question = "V Panafrika kongressi qaysi yilning oktyabrida va qaysi shaharda bo'lib o'tgan?",
+answers = {
+{text = "1945-yilda, Manchesterda", correct = true},
+{text = "1900-yilda, Londonda", correct = false},
+{text = "1919-yilda, Nyu-Yorkda", correct = false},
+{text = "1960-yilda, Parijda", correct = false},
+}
+},
+{
+question = "1960-yil tarixga qanday nom bilan kirib, nechta yangi Afrika davlati paydo bo'lgan?",
+answers = {
+{text = "\"Osiyo yili\", 10 ta", correct = false},
+{text = "\"Afrika yili\", 17 ta", correct = true},
+{text = "\"Yevropa yili\", 12 ta", correct = false},
+{text = "\"Panafrika yili\", 20 ta", correct = false},
+}
+},
+{
+question = "1994-yilgi saylovlardan so'ng Janubiy Afrika Respublikasi (JAR) tarixidagi birinchi qora tanli prezident kim bo'lgan?",
+answers = {
+{text = "Nelson Mandela", correct = true},
+{text = "Jamol Abdul Nosir", correct = false},
+{text = "Ja'far Nimeyri", correct = false},
+{text = "Muammar Qazzofiy", correct = false},
+}
+},
+}

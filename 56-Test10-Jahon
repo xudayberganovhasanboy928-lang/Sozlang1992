@@ -1,0 +1,668 @@
+questions = {
+{
+question = "Sharqiy Yevropaning Polsha, Chexoslovakiya, Vengriya kabi davlatlari jahon siyosiy xaritasida qaysi voqeadan keyin paydo bo'lgan?",
+answers = {
+{text = "Fransiya inqilobidan keyin", correct = false},
+{text = "Birinchi jahon urushidan keyin", correct = true},
+{text = "Ikkinchi jahon urushidan keyin", correct = false},
+{text = "Sovuq urush boshlanganidan keyin", correct = false},
+}
+},
+{
+question = "Sharqiy Yevropa mamlakatlarida 1947-1948-yillari qanday jarayon yuz bergan?",
+answers = {
+{text = "Kommunistik qarashlarni yoqlamaganlar hukumatlar tarkibidan chiqarilgan", correct = true},
+{text = "Barcha davlatlar NATOga qo'shilgan", correct = false},
+{text = "Monarxiya boshqaruvi tiklangan", correct = false},
+{text = "Iqtisodiy hamjamiyat tuzilgan", correct = false},
+}
+},
+{
+question = "AQSH tomonidan \"Marshall rejasi\" qaysi yilda taklif qilingan?",
+answers = {
+{text = "1945-yilda", correct = false},
+{text = "1947-yilda", correct = true},
+{text = "1949-yilda", correct = false},
+{text = "1955-yilda", correct = false},
+}
+},
+{
+question = "O'zaro Iqtisodiy Yordam Kengashi (O'IYK) qaysi yilning yanvarida tuzilgan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1948-yilda", correct = false},
+{text = "1949-yilda", correct = true},
+{text = "1955-yilda", correct = false},
+}
+},
+{
+question = "Shimoliy Atlantika Shartnomasi Tashkiloti (NATO) qaysi yilning aprelida tuzilgan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1948-yilda", correct = false},
+{text = "1949-yilda", correct = true},
+{text = "1955-yilda", correct = false},
+}
+},
+{
+question = "NATOga javob tariqasida SSSR va unga do'st bo'lgan Sharqiy Yevropa davlatlarining harbiy-siyosiy ittifoqi - Varshava Shartnomasi Tashkiloti qaysi yilda tuzilgan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1949-yilda", correct = false},
+{text = "1955-yilda", correct = true},
+{text = "1960-yilda", correct = false},
+}
+},
+{
+question = "Sovet Ittifoqi kommunistik partiyasining XX syezdi qaysi yilning fevralida bo'lib o'tgan?",
+answers = {
+{text = "1953-yilda", correct = false},
+{text = "1956-yilda", correct = true},
+{text = "1960-yilda", correct = false},
+{text = "1965-yilda", correct = false},
+}
+},
+{
+question = "XX syezdda nutq so'zlab, Stalin davrida shakllangan shaxsga sig'inishni qoralagan sovet davlat arbobi kim bo'lgan?",
+answers = {
+{text = "V. Lenin", correct = false},
+{text = "Nikita Xrushchyov", correct = true},
+{text = "Konrad Adenauer", correct = false},
+{text = "Duayt Eyzenhauer", correct = false},
+}
+},
+{
+question = "G'arb va SSSR o'rtasidagi uzoq yillik qarama-qarshilik jahon tarixida qanday nom oldi?",
+answers = {
+{text = "\"Issiq urush\"", correct = false},
+{text = "\"Sovuq urush\"", correct = true},
+{text = "\"Yashirin urush\"", correct = false},
+{text = "\"Iqtisodiy urush\"", correct = false},
+}
+},
+{
+question = "Sovuq urush qaysi davrgacha davom etgan?",
+answers = {
+{text = "1960-yillar oxirigacha", correct = false},
+{text = "1970-yillar oxirigacha", correct = false},
+{text = "1980-yillar oxirigacha", correct = true},
+{text = "1990-yillar oxirigacha", correct = false},
+}
+},
+{
+question = "\"Kommunist\" atamasi qanday ma'noni anglatadi?",
+answers = {
+{text = "Kommunizm tamoyillarini qo'llab-quvvatlaydigan yoki unga ishonadigan odam", correct = true},
+{text = "Erkin bozor iqtisodiyoti tarafdori", correct = false},
+{text = "Diniy islohotchi", correct = false},
+{text = "Harbiy diktator", correct = false},
+}
+},
+{
+question = "\"Liberal\" atamasining ma'nolaridan biri qaysi javobda to'g'ri ko'rsatilgan?",
+answers = {
+{text = "Hur fikrli, erkin shaxs; murosasoz, kelishuvchi", correct = true},
+{text = "Qat'iy markazlashgan boshqaruv tarafdori", correct = false},
+{text = "Diniy dogmatik", correct = false},
+{text = "Harbiy mafkurachi", correct = false},
+}
+},
+{
+question = "Sovet rahbarlari SSSR sotsializm qurish yo'liga kirgan mamlakatlarga qanday yordam ko'rsata boshlagan?",
+answers = {
+{text = "Faqat texnik yordam", correct = false},
+{text = "Moliyaviy va harbiy yordam", correct = true},
+{text = "Faqat diplomatik yordam", correct = false},
+{text = "Faqat ilmiy yordam", correct = false},
+}
+},
+{
+question = "Qayta qurish yillarida kirib kelgan oshkoralik nimani ochib tashladi?",
+answers = {
+{text = "Stalinizmning va sovet totalitar tuzumining jinoyatlarini", correct = true},
+{text = "NATOning harbiy rejalarini", correct = false},
+{text = "Marshall rejasining maqsadlarini", correct = false},
+{text = "Yevropa integratsiyasining sabablarini", correct = false},
+}
+},
+{
+question = "SSSRdagi kommunistik mafkura inqirozi butun dunyoda nimaning inqiroziga olib keldi?",
+answers = {
+{text = "Diniy tashkilotlarning inqiroziga", correct = false},
+{text = "Kommunistik harakat va umuman so'l mafkuraning inqiroziga", correct = true},
+{text = "Yevropa integratsiyasining inqiroziga", correct = false},
+{text = "NATO tashkilotining inqiroziga", correct = false},
+}
+},
+{
+question = "Yevropa ikki guruhga bo'linib, bu qarama-qarshilik jahon tarixida qanday nom bilan mashhur bo'ldi?",
+answers = {
+{text = "\"Issiq urush\"", correct = false},
+{text = "\"Sovuq urush\"", correct = true},
+{text = "\"Iqtisodiy inqiroz\"", correct = false},
+{text = "\"Integratsiya davri\"", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi yillarida AQSH ishlab chiqarish quvvatlari necha barobar o'sgan?",
+answers = {
+{text = "Bir yarim barobar", correct = false},
+{text = "Ikki barobar", correct = true},
+{text = "Uch barobar", correct = false},
+{text = "Besh barobar", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi yillarida AQSH eksport hajmi necha barobar o'sgan?",
+answers = {
+{text = "Ikki barobar", correct = false},
+{text = "Uch barobar", correct = false},
+{text = "Besh barobar", correct = true},
+{text = "O'n barobar", correct = false},
+}
+},
+{
+question = "1952-yilgi saylovlarda respublikachilar partiyasi g'alaba qozonib, AQSH prezidenti etib qaysi general saylangan?",
+answers = {
+{text = "Duayt Eyzenhauer", correct = true},
+{text = "Jon Kennedi", correct = false},
+{text = "Richard Nikson", correct = false},
+{text = "Ronald Reygan", correct = false},
+}
+},
+{
+question = "1960-yilgi prezidentlik saylovlarida demokratik partiya nomzodi sifatida kim g'alaba qozongan?",
+answers = {
+{text = "Duayt Eyzenhauer", correct = false},
+{text = "Jon Kennedi", correct = true},
+{text = "Lindon Jonson", correct = false},
+{text = "Jimmi Karter", correct = false},
+}
+},
+{
+question = "Jon Kennedi ilgari surgan islohotchilik dasturi qanday nom olgan?",
+answers = {
+{text = "\"Yangi kurs\"", correct = false},
+{text = "\"Yangi marralar\"", correct = true},
+{text = "\"Reyganomika\"", correct = false},
+{text = "\"Yangi iqtisodiy siyosat\"", correct = false},
+}
+},
+{
+question = "Jon Kennedi qaysi sanada va qaysi shaharda yollanma qotil tomonidan o'ldirilgan?",
+answers = {
+{text = "1963-yil 22-noyabrda, Dallasda", correct = true},
+{text = "1968-yil 4-aprelda, Memfisda", correct = false},
+{text = "1964-yilda, Vashingtonda", correct = false},
+{text = "1960-yilda, Nyu-Yorkda", correct = false},
+}
+},
+{
+question = "1964-yilgi saylovlarda g'alaba qozonib, AQSH prezidenti lavozimini kim egallagan?",
+answers = {
+{text = "Jon Kennedi", correct = false},
+{text = "Lindon Jonson", correct = true},
+{text = "Richard Nikson", correct = false},
+{text = "Jimmi Karter", correct = false},
+}
+},
+{
+question = "Fuqarolar tengligi uchun harakatning mashhur rahbari, ruhoniy Martin Lyuter King qaysi sanada o'ldirilgan?",
+answers = {
+{text = "1963-yil 22-noyabrda", correct = false},
+{text = "1968-yil 4-aprelda", correct = true},
+{text = "1971-yilda", correct = false},
+{text = "1976-yilda", correct = false},
+}
+},
+{
+question = "Martin Lyuter King qaysi shaharda o'ldirilgan?",
+answers = {
+{text = "Dallasda", correct = false},
+{text = "Vashingtonda", correct = false},
+{text = "Memfisda", correct = true},
+{text = "Chikagoda", correct = false},
+}
+},
+{
+question = "1968-yilgi saylovlarda respublikachilar partiyasi vakili sifatida kim AQSH prezidenti etib saylangan?",
+answers = {
+{text = "Duayt Eyzenhauer", correct = false},
+{text = "Richard Nikson", correct = true},
+{text = "Ronald Reygan", correct = false},
+{text = "Jorj Bush", correct = false},
+}
+},
+{
+question = "R. Nikson iqtisodiy inqirozni bartaraf etish maqsadida qaysi yilda \"yangi iqtisodiy siyosat\"ni e'lon qilgan?",
+answers = {
+{text = "1968-yilda", correct = false},
+{text = "1971-yilda", correct = true},
+{text = "1976-yilda", correct = false},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "AQSH o'z mustaqilligining 200 yilligini qaysi yilda katta tantanalar bilan nishonlagan?",
+answers = {
+{text = "1968-yilda", correct = false},
+{text = "1971-yilda", correct = false},
+{text = "1976-yilda", correct = true},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "1976-yilgi prezidentlik saylovlarida demokratik partiya vakili sifatida kim g'alaba qozongan?",
+answers = {
+{text = "Lindon Jonson", correct = false},
+{text = "Richard Nikson", correct = false},
+{text = "Jimmi Karter", correct = true},
+{text = "Ronald Reygan", correct = false},
+}
+},
+{
+question = "AQSH siyosati va obro'yiga katta zarba bergan 1979-yilgi voqea nima bo'lgan?",
+answers = {
+{text = "Eron inqilobi", correct = true},
+{text = "Vyetnam urushining tugashi", correct = false},
+{text = "Uotergeyt mojarosi", correct = false},
+{text = "Kuba inqirozi", correct = false},
+}
+},
+{
+question = "1980-yilgi prezidentlik saylovlarida respublikachilar partiyasidan kim g'alaba qozongan?",
+answers = {
+{text = "Richard Nikson", correct = false},
+{text = "Jimmi Karter", correct = false},
+{text = "Ronald Reygan", correct = true},
+{text = "Jorj Bush", correct = false},
+}
+},
+{
+question = "Amerika tajovuzining Janubi-sharqiy Osiyoda to'liq mag'lubiyatga uchraganini anglatuvchi Vyetnamdagi urush qaysi yilda to'xtatilgan?",
+answers = {
+{text = "1968-yilda", correct = false},
+{text = "1971-yilda", correct = false},
+{text = "1973-yilda", correct = true},
+{text = "1976-yilda", correct = false},
+}
+},
+{
+question = "Buyuk Britaniyada sanoat ishlab chiqarishi hajmi urushdan oldingi darajaga qaysi yil oxirida yetgan?",
+answers = {
+{text = "1945-yil oxirida", correct = false},
+{text = "1947-yil oxirida", correct = true},
+{text = "1950-yil oxirida", correct = false},
+{text = "1955-yil oxirida", correct = false},
+}
+},
+{
+question = "1960-yillar o'rtalarida Buyuk Britaniyani ikkinchi o'rindan qaysi davlat siqib chiqargan?",
+answers = {
+{text = "Fransiya", correct = false},
+{text = "Germaniya Federativ Respublikasi (GFR)", correct = true},
+{text = "Yaponiya", correct = false},
+{text = "Italiya", correct = false},
+}
+},
+{
+question = "1970-yillar boshida Buyuk Britaniyani uchinchi o'rindan qaysi davlat siqib chiqargan?",
+answers = {
+{text = "GFR", correct = false},
+{text = "Fransiya", correct = false},
+{text = "Yaponiya", correct = true},
+{text = "Italiya", correct = false},
+}
+},
+{
+question = "1979-yilgi saylovlarda g'olib chiqib, Buyuk Britaniya tarixida birinchi marta hukumatga kelgan ayol siyosatchi kim bo'lgan?",
+answers = {
+{text = "Margaret Tetcher", correct = true},
+{text = "Jon Meyjor", correct = false},
+{text = "Uinston Cherchill", correct = false},
+{text = "Nevill Chemberlen", correct = false},
+}
+},
+{
+question = "Neokonservatizmning britaniyacha varianti bo'lgan ijtimoiy-iqtisodiy strategiya qanday nom oldi?",
+answers = {
+{text = "\"Reyganomika\"", correct = false},
+{text = "\"Tetcherizm\"", correct = true},
+{text = "\"Yangi kurs\"", correct = false},
+{text = "\"Iqtisodiy mo'jiza\"", correct = false},
+}
+},
+{
+question = "1982-yili Janubiy Atlantikadagi qaysi orollar ustida Buyuk Britaniya va Argentina o'rtasida harbiy mojaro yuz bergan?",
+answers = {
+{text = "Folklend (Malvin) orollari", correct = true},
+{text = "Kanar orollari", correct = false},
+{text = "Bermud orollari", correct = false},
+{text = "Sitsiliya oroli", correct = false},
+}
+},
+{
+question = "1990-yilgi saylovlarda kim bosh vazir etib saylanib, shu bilan \"tetcherizm\" davri tugagan?",
+answers = {
+{text = "Uinston Cherchill", correct = false},
+{text = "Jon Meyjor", correct = true},
+{text = "Margaret Tetcher", correct = false},
+{text = "Nevill Chemberlen", correct = false},
+}
+},
+{
+question = "Urush, ocharchilik va kasalliklar tufayli Fransiya necha million kishisidan ayrilgan?",
+answers = {
+{text = "1 mln", correct = false},
+{text = "3 mln", correct = true},
+{text = "5 mln", correct = false},
+{text = "7 mln", correct = false},
+}
+},
+{
+question = "1945-yildagi Ta'sis majlisi saylovlaridan so'ng koalitsion hukumatni kim boshqargan?",
+answers = {
+{text = "Jorj Pompidu", correct = false},
+{text = "Sharl de Goll", correct = true},
+{text = "Fransua Mitteran", correct = false},
+{text = "Jak Shirak", correct = false},
+}
+},
+{
+question = "Fransiyada To'rtinchi respublika necha yil davom etgan?",
+answers = {
+{text = "8 yil", correct = false},
+{text = "10 yil", correct = false},
+{text = "12 yil", correct = true},
+{text = "15 yil", correct = false},
+}
+},
+{
+question = "1958-yil sentyabrdagi referendumdan so'ng Fransiya qanday davlatga aylangan?",
+answers = {
+{text = "Konstitutsion monarxiyaga", correct = false},
+{text = "Prezidentlik respublikasiga", correct = true},
+{text = "Federatsiyaga", correct = false},
+{text = "Parlamentar respublikaga", correct = false},
+}
+},
+{
+question = "1958-yil dekabrda Fransiya prezidenti etib kim saylangan?",
+answers = {
+{text = "Jorj Pompidu", correct = false},
+{text = "Sharl de Goll", correct = true},
+{text = "Fransua Mitteran", correct = false},
+{text = "Jak Shirak", correct = false},
+}
+},
+{
+question = "Fransuz mustamlaka imperiyasi qaysi yilda Jazoirga mustaqillik berilishi bilan to'liq barham topgan?",
+answers = {
+{text = "1958-yilda", correct = false},
+{text = "1960-yilda", correct = false},
+{text = "1962-yilda", correct = true},
+{text = "1968-yilda", correct = false},
+}
+},
+{
+question = "1968-yil mayda qaysi shaharda talabalar namoyishi boshlangan bo'lib, u De Gollning iste'foga chiqishiga sabab bo'lgan omillardan biriga aylangan?",
+answers = {
+{text = "Marselda", correct = false},
+{text = "Parijda", correct = true},
+{text = "Lionda", correct = false},
+{text = "Bordoda", correct = false},
+}
+},
+{
+question = "1981-yilgi saylovlarda birinchi marta sotsialist sifatida Fransiya prezidenti etib kim saylangan?",
+answers = {
+{text = "Jorj Pompidu", correct = false},
+{text = "Sharl de Goll", correct = false},
+{text = "Fransua Mitteran", correct = true},
+{text = "Jak Shirak", correct = false},
+}
+},
+{
+question = "1986-yilgi parlament saylovlaridan so'ng bosh vazir lavozimini kim egallagan?",
+answers = {
+{text = "Jorj Pompidu", correct = false},
+{text = "Jak Shirak", correct = true},
+{text = "Fransua Mitteran", correct = false},
+{text = "Sharl de Goll", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushida Germaniya necha million aholisidan ayrilgan?",
+answers = {
+{text = "3 mln", correct = false},
+{text = "4,5 mln", correct = false},
+{text = "6,5 mln", correct = true},
+{text = "8 mln", correct = false},
+}
+},
+{
+question = "G'olib davlatlar urushdan so'ng Germaniya hududini nechta okkupatsiya zonasiga bo'lgan?",
+answers = {
+{text = "Ikkita", correct = false},
+{text = "Uchta", correct = false},
+{text = "To'rtta", correct = true},
+{text = "Beshta", correct = false},
+}
+},
+{
+question = "1949-yil 7-sentyabrda tashkil topgan yangi davlat - Germaniya Federativ Respublikasi (GFR) kansleri etib kim saylangan?",
+answers = {
+{text = "Konrad Adenauer", correct = true},
+{text = "Lyudvig Erhard", correct = false},
+{text = "Gelmut Kol", correct = false},
+{text = "Alchide de Gasperi", correct = false},
+}
+},
+{
+question = "Yangi tashkil topgan Germaniya Federativ Respublikasining poytaxti qaysi shahar bo'lgan?",
+answers = {
+{text = "Berlin", correct = false},
+{text = "Bonn", correct = true},
+{text = "Myunxen", correct = false},
+{text = "Frankfurt", correct = false},
+}
+},
+{
+question = "1949-yil 7-oktyabrda SSSRning okkupatsiya zonasi bo'lgan sharqiy qismda qaysi davlat tashkil qilingan?",
+answers = {
+{text = "Germaniya Federativ Respublikasi", correct = false},
+{text = "Germaniya Demokratik Respublikasi (GDR)", correct = true},
+{text = "Avstriya Respublikasi", correct = false},
+{text = "Sharqiy Prussiya", correct = false},
+}
+},
+{
+question = "Germaniyaning ikkita davlatga bo'lingan davri necha yil davom etgan?",
+answers = {
+{text = "25 yil", correct = false},
+{text = "30 yil", correct = false},
+{text = "40 yil", correct = true},
+{text = "50 yil", correct = false},
+}
+},
+{
+question = "GFR qaysi yilda NATOga a'zo bo'lgan?",
+answers = {
+{text = "1949-yilda", correct = false},
+{text = "1955-yilda", correct = true},
+{text = "1963-yilda", correct = false},
+{text = "1982-yilda", correct = false},
+}
+},
+{
+question = "1963-yilda K. Adenauer iste'foga chiqqandan so'ng \"nemis iqtisodiy mo'jizasining tan olingan otasi\" deb nomlangan siyosatchi kim bo'lgan?",
+answers = {
+{text = "Gelmut Kol", correct = false},
+{text = "Lyudvig Erhard", correct = true},
+{text = "Alchide de Gasperi", correct = false},
+{text = "Robert Shuman", correct = false},
+}
+},
+{
+question = "Yagona Germaniya davlati tashkil topganligi qaysi sanada e'lon qilingan?",
+answers = {
+{text = "1989-yilda", correct = false},
+{text = "1990-yil 3-oktyabrda", correct = true},
+{text = "1991-yilda", correct = false},
+{text = "1955-yilda", correct = false},
+}
+},
+{
+question = "Ikkinchi jahon urushi va fashistik rejim natijasida Italiyada taxminan necha ming kishi halok bo'lgan?",
+answers = {
+{text = "150 ming", correct = false},
+{text = "220 ming", correct = false},
+{text = "330 ming", correct = true},
+{text = "500 ming", correct = false},
+}
+},
+{
+question = "1947-yilda AQSH aralashuvi bilan Italiyada kommunistlarni hukumatdan chiqargan bosh vazir kim bo'lgan?",
+answers = {
+{text = "Alchide de Gasperi", correct = true},
+{text = "Konrad Adenauer", correct = false},
+{text = "Robert Shuman", correct = false},
+{text = "Gelmut Kol", correct = false},
+}
+},
+{
+question = "Italiya qaysi yilda NATOga a'zo bo'lgan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1949-yilda", correct = true},
+{text = "1955-yilda", correct = false},
+{text = "1957-yilda", correct = false},
+}
+},
+{
+question = "Yevropa iqtisodiy hamjamiyatini (YIH) tuzish to'g'risidagi Rim shartnomasi qaysi yilda imzolangan?",
+answers = {
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = false},
+{text = "1957-yilda", correct = true},
+{text = "1960-yilda", correct = false},
+}
+},
+{
+question = "1950-yillar oxirida Italiyada boshlangan jadal iqtisodiy o'sish jarayoni qanday nom oldi?",
+answers = {
+{text = "\"Nemis iqtisodiy mo'jizasi\"", correct = false},
+{text = "\"Italiya iqtisodiy mo'jizasi\"", correct = true},
+{text = "\"Reyganomika\"", correct = false},
+{text = "\"Tetcherizm\"", correct = false},
+}
+},
+{
+question = "Italiyada chuqur iqtisodiy inqiroz qaysi yilda boshlangan?",
+answers = {
+{text = "1963-yilda", correct = false},
+{text = "1970-yilda", correct = false},
+{text = "1974-yilda", correct = true},
+{text = "1980-yilda", correct = false},
+}
+},
+{
+question = "Tariflar va savdo bo'yicha bosh kelishuv (TSBK) qaysi yilda imzolangan?",
+answers = {
+{text = "1945-yilda", correct = false},
+{text = "1947-yilda", correct = true},
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = false},
+}
+},
+{
+question = "Tariflar va savdo bo'yicha bosh kelishuv (TSBK) keyinchalik qanday tashkilotga aylantirilgan?",
+answers = {
+{text = "Jahon savdo tashkilotiga (JST)", correct = true},
+{text = "Yevropa Ittifoqiga (YI)", correct = false},
+{text = "NATOga", correct = false},
+{text = "Varshava Shartnomasi Tashkilotiga", correct = false},
+}
+},
+{
+question = "Yevropa iqtisodiy hamkorlik tashkiloti (YIHT) qaysi yilda tuzilgan?",
+answers = {
+{text = "1947-yilda", correct = false},
+{text = "1948-yilda", correct = true},
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = false},
+}
+},
+{
+question = "Yevropa iqtisodiy hamkorlik tashkiloti (YIHT) qaysi yilda Iqtisodiy hamkorlik va taraqqiyot tashkiloti (IHTT) deb qayta nomlangan?",
+answers = {
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = false},
+{text = "1957-yilda", correct = false},
+{text = "1960-yilda", correct = true},
+}
+},
+{
+question = "IHTT faoliyatiga qaysi Osiyo davlati ham qo'shilgan?",
+answers = {
+{text = "Xitoy", correct = false},
+{text = "Yaponiya", correct = true},
+{text = "Hindiston", correct = false},
+{text = "Turkiya", correct = false},
+}
+},
+{
+question = "Germaniya va Fransiyaning iqtisodiy imkoniyatlarini birlashtirish tashabbusi bilan qaysi fransuz davlat arbobi chiqqan?",
+answers = {
+{text = "Sharl de Goll", correct = false},
+{text = "Fransua Mitteran", correct = false},
+{text = "Robert Shuman", correct = true},
+{text = "Jak Shirak", correct = false},
+}
+},
+{
+question = "Yevropa ko'mir va po'lat birlashmasi (YKPB) nomli tashkilot qaysi yilda tuzilgan?",
+answers = {
+{text = "1948-yilda", correct = false},
+{text = "1949-yilda", correct = false},
+{text = "1951-yilda", correct = true},
+{text = "1957-yilda", correct = false},
+}
+},
+{
+question = "1957-yilda Yevropa iqtisodiy hamjamiyati (YIH)ni tuzish haqidagi Rim shartnomasi bilan bir qatorda qanday shartnoma ham imzolangan?",
+answers = {
+{text = "Atom energiyasi bo'yicha Yevropa hamjamiyati (YEVROATOM) shartnomasi", correct = true},
+{text = "NATO shartnomasi", correct = false},
+{text = "Varshava shartnomasi", correct = false},
+{text = "Marshall rejasi shartnomasi", correct = false},
+}
+},
+{
+question = "Yevropa erkin savdo assotsiatsiyasi (YESA)ga qaysi davlatlar a'zo bo'lib kirgan?",
+answers = {
+{text = "GFR, Fransiya, Italiya, Belgiya", correct = false},
+{text = "Buyuk Britaniya, Avstriya, Daniya, Irlandiya, Norvegiya, Shvetsiya, Shveytsariya va Portugaliya", correct = true},
+{text = "Polsha, Vengriya, Ruminiya, Bolgariya", correct = false},
+{text = "AQSH, Kanada, Yaponiya", correct = false},
+}
+},
+{
+question = "Rim shartnomasi aniq qaysi sanada imzolangan?",
+answers = {
+{text = "1955-yil 8-mayda", correct = false},
+{text = "1957-yil 25-martda", correct = true},
+{text = "1960-yil 1-yanvarda", correct = false},
+{text = "1949-yil 4-aprelda", correct = false},
+}
+},
+{
+question = "Yagona Yevropa aktiga binoan Yevropa iqtisodiy hamjamiyati (YIH) qanday tashkilot sifatida qayta tashkil qilingan?",
+answers = {
+{text = "Yevropa Kengashi", correct = false},
+{text = "Yevropa Ittifoqi (YI)", correct = true},
+{text = "NATO", correct = false},
+{text = "YESA", correct = false},
+}
+},
+}
