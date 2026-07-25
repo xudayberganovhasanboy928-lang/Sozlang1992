@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Alisher Navoiy nomidagi davlat akademik katta teatri binosi qaysi yilda qayta ta'mirlangan?",
+answers = {
+{text = "2010-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2015-yilda", correct = true},
+}
+},
+{
+question = "Toshkentda \"Turkiston\" san'at saroyi qaysi yilda ish boshlagan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "\"Teatr: Sharq-G'arb\" xalqaro festivali qaysi yilda bo'lib o'tgan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1997-yilda", correct = true},
+}
+},
+{
+question = "Hamza nomidagi o'zbek davlat akademik drama teatriga \"Milliy teatr\" maqomi qaysi yilda berilgan?",
+answers = {
+{text = "1997-yilda", correct = false},
+{text = "2014-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2001-yilda", correct = true},
+}
+},
+{
+question = "O'zbekistonda ilk bor \"Turon\" harbiy teatr studiyasi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2014-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "Toshkent xalqaro kinofestivali 2021-yildan qayta tiklanib, qanday nom bilan tashkil etildi?",
+answers = {
+{text = "\"Oltin humo\"", correct = false},
+{text = "\"Tirik tarix\"", correct = false},
+{text = "\"Sharq taronalari\"", correct = false},
+{text = "\"Ipak yo'li durdonasi\"", correct = true},
+}
+},
+{
+question = "Kinoijodkorlarni munosib rag'batlantirish uchun qanday mukofot ta'sis etilgan?",
+answers = {
+{text = "\"Nihol\"", correct = false},
+{text = "\"Kamalak yulduzlari\"", correct = false},
+{text = "\"Sozlar navosi\"", correct = false},
+{text = "\"Oltin humo\"", correct = true},
+}
+},
+{
+question = "\"O'zbekiston - Vatanim manim\" nomli ko'rik-tanlov qaysi yildan o'tkazila boshlangan?",
+answers = {
+{text = "1993-yildan", correct = false},
+{text = "2002-yildan", correct = false},
+{text = "2020-yildan", correct = false},
+{text = "1996-yildan", correct = true},
+}
+},
+{
+question = "Toshkent davlat konservatoriyasi O'zbekiston davlat konservatoriyasiga qaysi yilda aylantirilgan?",
+answers = {
+{text = "1996-yilda", correct = false},
+{text = "2010-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2002-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston davlat xoreografiya akademiyasi Toshkent davlat milliy raqs va xoreografiya oliy maktabi negizida qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2010-yilda", correct = false},
+{text = "2015-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2020-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston Badiiy akademiyasi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1997-yilda", correct = true},
+}
+},
+{
+question = "Toshkent shahrida Adiblar xiyoboni qaysi yili barpo etilgan?",
+answers = {
+{text = "2015-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2020-yilda", correct = true},
+}
+},
+{
+question = "1996-yili Toshkentda qaysi muzey tashkil etilgan?",
+answers = {
+{text = "Qatag'on qurbonlari xotirasi muzeyi", correct = false},
+{text = "Arxeologiya muzeyi", correct = false},
+{text = "\"Shon-sharaf\" muzeyi", correct = false},
+{text = "Temuriylar tarixi davlat muzeyi", correct = true},
+}
+},
+{
+question = "Qatag'on qurbonlari xotirasi muzeyi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1996-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2002-yilda", correct = true},
+}
+},
+{
+question = "Xalqaro muzeylar kuni har yili qaysi sanada nishonlanadi?",
+answers = {
+{text = "1-sentyabrda", correct = false},
+{text = "9-mayda", correct = false},
+{text = "31-avgustda", correct = false},
+{text = "18-mayda", correct = true},
+}
+},
+{
+question = "2025-yilda qaysi muassasa qurilishiga tamal toshi qo'yilgan?",
+answers = {
+{text = "O'zbekiston Milliy bog'i", correct = false},
+{text = "O'zbekiston Milliy kutubxonasi", correct = false},
+{text = "\"Shon-sharaf\" muzeyi", correct = false},
+{text = "O'zbekiston Milliy muzeyi", correct = true},
+}
+},
+{
+question = "Jahon iqtisodiyoti va diplomatiya universiteti qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasi Konstitutsiyasining nechanchi bobi \"Tashqi siyosat\" deb nomlanadi?",
+answers = {
+{text = "Uchinchi bobi", correct = false},
+{text = "Beshinchi bobi", correct = false},
+{text = "Oltinchi bobi", correct = false},
+{text = "To'rtinchi bobi", correct = true},
+}
+},
+{
+question = "Konstitutsiyaning qaysi moddalari mamlakatning tashqi faoliyatini huquqiy jihatdan asoslaydi?",
+answers = {
+{text = "15-16-moddalar", correct = false},
+{text = "19-20-moddalar", correct = false},
+{text = "21-22-moddalar", correct = false},
+{text = "17-18-moddalar", correct = true},
+}
+},
+{
+question = "2025-yil holatiga ko'ra, O'zbekiston nechta davlat bilan o'zaro aloqalarni yo'lga qo'ygan?",
+answers = {
+{text = "150 ta", correct = false},
+{text = "175 ta", correct = false},
+{text = "180 ta", correct = false},
+{text = "163 ta", correct = true},
+}
+},
+{
+question = "O'zbekiston qanchaga yaqin \"Markaziy Osiyo+\" platformalari faoliyatida ishtirok etmoqda?",
+answers = {
+{text = "5 taga yaqin", correct = false},
+{text = "15 taga yaqin", correct = false},
+{text = "20 taga yaqin", correct = false},
+{text = "10 taga yaqin", correct = true},
+}
+},
+{
+question = "Qaysi yildan boshlab mamlakatimiz jahonning turli mamlakatlari va xalqaro tashkilotlari bilan ikki va ko'ptomonlama hamkorlikni yanada rivojlantirdi?",
+answers = {
+{text = "2010-yildan", correct = false},
+{text = "2016-yildan", correct = false},
+{text = "2020-yildan", correct = false},
+{text = "2017-yildan", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasi tashqi siyosatini amalga oshiruvchi qaysi vazirlik faoliyati yo'lga qo'yilgan?",
+answers = {
+{text = "Iqtisodiyot vazirligi", correct = false},
+{text = "Adliya vazirligi", correct = false},
+{text = "Ichki ishlar vazirligi", correct = false},
+{text = "Tashqi ishlar vazirligi", correct = true},
+}
+},
+{
+question = "O'zbekiston tashqi siyosatida qanday tuzilmalarga qo'shilmaslik tamoyiliga amal qiladi?",
+answers = {
+{text = "Iqtisodiy ittifoqlarga", correct = false},
+{text = "Madaniy tashkilotlarga", correct = false},
+{text = "Ta'lim tashkilotlariga", correct = false},
+{text = "Harbiy-siyosiy bloklarga", correct = true},
+}
+},
+{
+question = "Tashqi siyosiy faoliyatning bosh maqsadi nimalarni mustahkamlashga qaratilgan?",
+answers = {
+{text = "Faqat iqtisodiy manfaatlarni", correct = false},
+{text = "Faqat madaniy aloqalarni", correct = false},
+{text = "Faqat harbiy salohiyatni", correct = false},
+{text = "Davlat mustaqilligi va suverenitetini", correct = true},
+}
+},
+{
+question = "O'zbekiston hududidan qaysi tarixiy savdo yo'li o'tgan?",
+answers = {
+{text = "Lazurit yo'li", correct = false},
+{text = "Ambar yo'li", correct = false},
+{text = "Choy yo'li", correct = false},
+{text = "Buyuk ipak yo'li", correct = true},
+}
+},
+{
+question = "O'zbekiston geosiyosiy joylashuvining noqulayligi nimada ko'rinadi?",
+answers = {
+{text = "Iqlim sharoiti yomonligida", correct = false},
+{text = "Tabiiy resurslar yetishmasligida", correct = false},
+{text = "Aholi zichligi pastligida", correct = false},
+{text = "Xalqaro dengiz portlariga to'g'ridan-to'g'ri chiqish imkoniyati yo'qligida", correct = true},
+}
+},
+{
+question = "Tashqi siyosat tamoyillaridan biri sifatida O'zbekiston qanday tamoyilga amal qiladi?",
+answers = {
+{text = "Boshqa davlatlar ichki ishlariga aralashish", correct = false},
+{text = "Harbiy bloklarga qo'shilish", correct = false},
+{text = "Chegaralarni qayta ko'rib chiqish", correct = false},
+{text = "Boshqa davlatlarning ichki ishlariga aralashmaslik", correct = true},
+}
+},
+{
+question = "O'zbekiston tashqi siyosatining asosiy tamoyillaridan yana biri qaysi?",
+answers = {
+{text = "Iqtisodiy bosim o'tkazish", correct = false},
+{text = "Boshqa davlatlar bilan raqobatlashish", correct = false},
+{text = "Yagona partiya tizimini joriy qilish", correct = false},
+{text = "Kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik", correct = true},
+}
+},
+{
+question = "Tashqi siyosat tamoyillari qatoriga qaysi tamoyil kiradi?",
+answers = {
+{text = "Milliy valyutani bekor qilish", correct = false},
+{text = "Yagona din joriy etish", correct = false},
+{text = "Chegaralarni ochiq deb hisoblash", correct = false},
+{text = "Davlatlarning suveren tengligini hurmat qilish", correct = true},
+}
+},
+{
+question = "O'zbekiston tashqi siyosatida \"ochiqlik va...\" qaysi tushuncha bilan birga tamoyil sifatida ko'rsatilgan?",
+answers = {
+{text = "Radikalizm", correct = false},
+{text = "Izolyatsionizm", correct = false},
+{text = "Mafkuraviylik", correct = false},
+{text = "Pragmatizm", correct = true},
+}
+},
+{
+question = "O'zbekiston tashqi siyosati tamoyillari qatoriga yana qaysi tamoyil kiradi?",
+answers = {
+{text = "Boshqa davlatlar ustidan nazorat o'rnatish", correct = false},
+{text = "Xalqaro majburiyatlarni bajarish", correct = true},
+{text = "Faqat ikki tomonlama aloqalarni rivojlantirish", correct = false},
+{text = "Chegaralarni qayta ko'rib chiqish", correct = false},
+}
+},
+{
+question = "Mintaqadagi besh mamlakat mustaqillikning ilk yillariga qadar qanday nom bilan atalgan?",
+answers = {
+{text = "Turkiston", correct = false},
+{text = "Movarounnahr", correct = false},
+{text = "Xorazm", correct = false},
+{text = "O'rta Osiyo", correct = true},
+}
+},
+{
+question = "\"Markaziy Osiyo\" iborasi qaysi yilda Toshkentda bo'lib o'tgan anjumanda siyosiy va hududiy atama sifatida ishlatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "2002-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "1994-yilda O'zbekiston, Qozog'iston va Qirg'iziston ishtirokida tashkil etilgan iqtisodiy hamjamiyat 2002-yilda qanday nomga aylantirilgan?",
+answers = {
+{text = "Yevrosiyo iqtisodiy hamjamiyati", correct = false},
+{text = "Markaziy Osiyo Ittifoqi", correct = false},
+{text = "Turkiy davlatlar tashkiloti", correct = false},
+{text = "\"Markaziy Osiyo hamkorligi tashkiloti\"", correct = true},
+}
+},
+{
+question = "\"Markaziy Osiyo hamkorligi tashkiloti\" 2006-yilda qaysi tuzilmaga qo'shilib, faoliyatini to'xtatgan?",
+answers = {
+{text = "BMTga", correct = false},
+{text = "SHHTga", correct = false},
+{text = "Yevropa Ittifoqiga", correct = false},
+{text = "Yevrosiyo iqtisodiy hamjamiyatiga", correct = true},
+}
+},
+{
+question = "Markaziy Osiyo davlatlari rahbarlarining Maslahat uchrashuvini muntazam o'tkazish g'oyasi ilk bor qaysi yilda ilgari surilgan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2017-yilda", correct = true},
+}
+},
+{
+question = "Birinchi Maslahat uchrashuvi qaysi shaharda bo'lib o'tgan?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Bishkekda", correct = false},
+{text = "Dushanbeda", correct = false},
+{text = "Ostonada", correct = true},
+}
+},
+{
+question = "Ikkinchi Maslahat uchrashuvi qaysi shaharda bo'lib o'tgan?",
+answers = {
+{text = "Ostonada", correct = false},
+{text = "Dushanbeda", correct = false},
+{text = "Ashxobodda", correct = false},
+{text = "Toshkentda", correct = true},
+}
+},
+{
+question = "2025-yilda uch davlat rahbarlari \"Do'stlik\" stelasini qaysi shaharda tantanali ravishda ochdilar?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Bishkekda", correct = false},
+{text = "Ashxobodda", correct = false},
+{text = "Xo'jandda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Qozog'iston o'rtasida do'stlik va hamkorlik to'g'risidagi shartnoma qaysi shaharda imzolangan?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Ostonada", correct = false},
+{text = "Samarqandda", correct = false},
+{text = "Turkistonda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Qozog'iston o'rtasida Strategik sheriklik to'g'risidagi shartnoma qaysi yilda imzolangan?",
+answers = {
+{text = "1998-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2013-yilda", correct = true},
+}
+},
+{
+question = "2018-yil Qozog'istonda qanday yil deb e'lon qilingan?",
+answers = {
+{text = "\"Qozog'iston yili\"", correct = false},
+{text = "\"Do'stlik yili\"", correct = false},
+{text = "\"Hamkorlik yili\"", correct = false},
+{text = "\"O'zbekiston yili\"", correct = true},
+}
+},
+{
+question = "O'zbekiston va Qirg'iziston o'rtasida diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Qirg'iziston o'rtasida Abadiy do'stlik to'g'risidagi shartnoma qaysi yilda imzolangan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "2002-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Tojikiston o'rtasida diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Turkmaniston o'rtasida diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev O'zbekiston Prezidenti sifatida ilk xorijiy tashrifini qaysi davlatdan boshlagan?",
+answers = {
+{text = "Qozog'istondan", correct = false},
+{text = "Tojikistondan", correct = false},
+{text = "Qirg'izistondan", correct = false},
+{text = "Turkmanistondan", correct = true},
+}
+},
+{
+question = "O'zbekiston va Rossiya o'rtasida diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "2000-yilda Rossiya Prezidenti etib saylangan Vladimir Putin o'zining xorijga ilk rasmiy tashrifini qaysi davlatdan boshlagan?",
+answers = {
+{text = "Qozog'istondan", correct = false},
+{text = "Xitoydan", correct = false},
+{text = "AQSHdan", correct = false},
+{text = "O'zbekistondan", correct = true},
+}
+},
+{
+question = "O'zbekiston va Rossiya o'rtasida Strategik sheriklik to'g'risidagi shartnoma qaysi yilda imzolangan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "2005-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2004-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Rossiya o'rtasida Ittifoqchilik munosabatlari to'g'risidagi shartnoma qaysi yilda imzolangan?",
+answers = {
+{text = "2004-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2005-yilda", correct = true},
+}
+},
+{
+question = "Rossiya O'zbekistonning nechanchi eng yirik savdo sherigi hisoblanadi?",
+answers = {
+{text = "Birinchi", correct = false},
+{text = "Uchinchi", correct = false},
+{text = "To'rtinchi", correct = false},
+{text = "Ikkinchi", correct = true},
+}
+},
+{
+question = "O'zbekiston va Xitoy o'rtasida diplomatik aloqalar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Pop-Angren temiryo'li va Qamchiq tunneli qaysi davlat hamkorligida barpo etilgan?",
+answers = {
+{text = "Rossiya", correct = false},
+{text = "Yaponiya", correct = false},
+{text = "Koreya", correct = false},
+{text = "Xitoy", correct = true},
+}
+},
+{
+question = "O'zbekiston va Xitoy o'rtasida necha kungacha vizasiz rejim joriy etilgan?",
+answers = {
+{text = "15 kungacha", correct = false},
+{text = "45 kungacha", correct = false},
+{text = "60 kungacha", correct = false},
+{text = "30 kungacha", correct = true},
+}
+},
+{
+question = "O'zbekiston va AQSH o'rtasida diplomatik aloqalar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Birinchi Prezident Islom Karimov AQSHga rasmiy tashrifni qaysi yilda amalga oshirgan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "Germaniya va O'zbekiston diplomatik munosabatlari qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston 2020-yildan buyon qaysi shaharda o'tkaziladigan zamonaviy madaniyat, san'at va arxitektura biyennalelarida ishtirok etmoqda?",
+answers = {
+{text = "Rimda", correct = false},
+{text = "Florensiyada", correct = false},
+{text = "Parijda", correct = false},
+{text = "Venetsiyada", correct = true},
+}
+},
+{
+question = "Fransiya va O'zbekiston o'rtasidagi diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev Yevropaga ilk tashrifini qaysi davlatdan boshlagan?",
+answers = {
+{text = "Germaniyadan", correct = false},
+{text = "Italiyadan", correct = false},
+{text = "Vengriyadan", correct = false},
+{text = "Fransiyadan", correct = true},
+}
+},
+{
+question = "2025-yili qaysi shaharda \"Markaziy Osiyo - Yevropa Ittifoqi\" birinchi sammiti bo'lib o'tdi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Buxoroda", correct = false},
+{text = "Xivada", correct = false},
+{text = "Samarqandda", correct = true},
+}
+},
+{
+question = "2023-yilda O'zbekistonga rasmiy tashrif bilan kelgan Fransiya prezidenti kim bo'lgan?",
+answers = {
+{text = "Nikolya Sarkozi", correct = false},
+{text = "Fransua Olland", correct = false},
+{text = "Jak Shirak", correct = false},
+{text = "Emmanuel Makron", correct = true},
+}
+},
+{
+question = "Yaponiya-O'zbekiston diplomatik munosabatlari qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Toshkentda \"O'zbekiston - Yaponiya\" do'stlik jamiyati qaysi yilda ta'sis etilgan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "2004-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "1999-yilda", correct = true},
+}
+},
+{
+question = "2004-yili Yaponiyaning qaysi universitetida ulug' mutafakkir Alisher Navoiy haykali o'rnatilgan?",
+answers = {
+{text = "Vaseda universitetida", correct = false},
+{text = "Tokio universitetida", correct = false},
+{text = "Tsukuba universitetida", correct = false},
+{text = "Soka universitetida", correct = true},
+}
+},
+{
+question = "Birinchi Prezident Islom Karimovga qaysi ikkita yapon universiteti faxriy doktori unvonini bergan?",
+answers = {
+{text = "Nagoya va Tokio universitetlari", correct = false},
+{text = "Tsukuba va Kioto universitetlari", correct = false},
+{text = "Osaka va Nagoya universitetlari", correct = false},
+{text = "Vaseda va Soka universitetlari", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyevga qaysi yapon universiteti faxriy doktori unvonini bergan?",
+answers = {
+{text = "Vaseda universiteti", correct = false},
+{text = "Soka universiteti", correct = false},
+{text = "Tsukuba universiteti", correct = false},
+{text = "Nagoya universiteti", correct = true},
+}
+},
+{
+question = "O'zbekiston va Koreya Respublikasi o'rtasidagi diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Koreya o'rtasida Strategik sherikchilik to'g'risidagi qo'shma deklaratsiya qaysi yilda imzolangan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "2008-yilda", correct = false},
+{text = "2006-yilda", correct = true},
+}
+},
+{
+question = "2023-yilda qaysi Koreya kompaniyasi bilan hamkorlikda Jizzax viloyatida zamonaviy avtomobillar ishlab chiqarish yo'lga qo'yilgan?",
+answers = {
+{text = "\"Hyundai\"", correct = false},
+{text = "\"Samsung\"", correct = false},
+{text = "\"LG\"", correct = false},
+{text = "\"KIA\"", correct = true},
+}
+},
+{
+question = "O'zbekiston va Hindiston o'rtasidagi diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Toshkentda La'l Bahodir Shastri nomidagi Hind madaniyati markazi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "1995-yilda", correct = true},
+}
+},
+{
+question = "2022-yili Hindiston Bosh vaziri Narendra Modi qaysi sammitda ishtirok etish uchun O'zbekistonga tashrif buyurgan?",
+answers = {
+{text = "BMT sammitida", correct = false},
+{text = "G20 sammitida", correct = false},
+{text = "Yevropa Ittifoqi sammitida", correct = false},
+{text = "SHHT sammitida", correct = true},
+}
+},
+{
+question = "O'zbekiston va Turkiya o'rtasidagi diplomatik munosabatlar qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Samarqandda \"SamKochAvto\" qo'shma korxonasi qaysi yilda ishga tushirilgan?",
+answers = {
+{text = "1996-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "2004-yilda", correct = false},
+{text = "1999-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston va Turkiya o'rtasida Abadiy do'stlik va hamkorlik to'g'risidagi shartnoma qaysi yilda imzolangan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "2004-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "2024-yili Anqaraga tashrifi doirasida Prezident Shavkat Mirziyoyev qanday nishon bilan taqdirlangan?",
+answers = {
+{text = "\"Oltin Qiron\" nishoni", correct = false},
+{text = "\"Do'stlik\" nishoni", correct = false},
+{text = "\"Buyuk xizmatlari uchun\" nishoni", correct = false},
+{text = "\"Turkiya Respublikasi nishoni\"", correct = true},
+}
+},
+{
+question = "\"Korean Air\" kompaniyasi 2008-yildan beri qaysi xalqaro aeroport orqali yuk tashimoqda?",
+answers = {
+{text = "Toshkent xalqaro aeroporti", correct = false},
+{text = "Samarqand xalqaro aeroporti", correct = false},
+{text = "Buxoro xalqaro aeroporti", correct = false},
+{text = "Navoiy xalqaro aeroporti", correct = true},
+}
+},
+}

@@ -1,0 +1,722 @@
+questions = {
+{
+question = "O'zbekiston Respublikasi Fanlar akademiyasi qaysi yilda qayta tashkil etilgan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1992-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1991-yilda", correct = true},
+}
+},
+{
+question = "Xorazm Ma'mun Akademiyasi qaysi yilda o'z faoliyatini boshlagan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "2000-yilda", correct = false},
+{text = "1997-yilda", correct = true},
+}
+},
+{
+question = "Muhammad al-Xorazmiy nomidagi xalqaro matematika olimpiadasi ilk bor qaysi shaharda o'tkazilgan?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Samarqandda", correct = false},
+{text = "Buxoroda", correct = false},
+{text = "Urganchda", correct = true},
+}
+},
+{
+question = "Muhammad al-Xorazmiy nomidagi xalqaro matematika olimpiadasi birinchi marta qaysi yilda o'tkazildi?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "Maydanak observatoriyasida qanchadan ortiq asteroid kashf etilgan?",
+answers = {
+{text = "50 dan ortiq", correct = false},
+{text = "100 dan ortiq", correct = false},
+{text = "120 dan ortiq", correct = false},
+{text = "80 dan ortiq", correct = true},
+}
+},
+{
+question = "Oliy attestatsiya komissiyasi (OAK) qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "2007-yilda Maydanak rasadxonasida kashf etilgan yangi kichik sayyoraga qanday nom berilgan?",
+answers = {
+{text = "\"Toshkent\"", correct = false},
+{text = "\"Buxoro\"", correct = false},
+{text = "\"Xorazm\"", correct = false},
+{text = "\"Samarqand\"", correct = true},
+}
+},
+{
+question = "Ayollarning ilmiy faoliyatini qo'llab-quvvatlash maqsadida \"Olima\" uyushmasi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "2000-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "\"El-yurt umidi\" jamg'armasi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "BMT rezolyutsiyasiga ko'ra qaysi sana Xalqaro ilm-fan sohasidagi xotin-qizlar kuni deb e'lon qilingan?",
+answers = {
+{text = "8-mart", correct = false},
+{text = "22-dekabr", correct = false},
+{text = "1-may", correct = false},
+{text = "11-fevral", correct = true},
+}
+},
+{
+question = "\"Taraqqiyot maqsadlaridagi fan, texnika va innovatsiyalar to'g'risida\"gi rezolyutsiya BMT Bosh Assambleyasi tomonidan qaysi sanada qabul qilingan?",
+answers = {
+{text = "2014-yil 22-dekabrda", correct = false},
+{text = "2016-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2015-yil 22-dekabrda", correct = true},
+}
+},
+{
+question = "2017-yilda 22 yillik tanaffusdan so'ng Fanlar akademiyasining nechta yangi haqiqiy a'zosi tasdiqlangan?",
+answers = {
+{text = "16 nafar", correct = false},
+{text = "22 nafar", correct = false},
+{text = "40 nafar", correct = false},
+{text = "32 nafar", correct = true},
+}
+},
+{
+question = "2023-yilda Fanlar akademiyasining nechta yangi haqiqiy a'zosi tasdiqlangan?",
+answers = {
+{text = "10 nafar", correct = false},
+{text = "22 nafar", correct = false},
+{text = "32 nafar", correct = false},
+{text = "16 nafar", correct = true},
+}
+},
+{
+question = "2025-yil holatiga ko'ra, Fanlar akademiyasi tarkibida qancha ilmiy-tadqiqot muassasasi faoliyat yuritmoqda?",
+answers = {
+{text = "20 dan ortiq", correct = false},
+{text = "40 dan ortiq", correct = false},
+{text = "50 dan ortiq", correct = false},
+{text = "30 dan ortiq", correct = true},
+}
+},
+{
+question = "YUNESKO Statistika institutining 2020-yilgi ma'lumotlariga ko'ra, O'zbekistonda ilm-fan bilan shug'ullanayotgan olimalar ulushi necha foizga yetgan?",
+answers = {
+{text = "25 foizga", correct = false},
+{text = "30 foizga", correct = false},
+{text = "35 foizga", correct = false},
+{text = "39 foizga", correct = true},
+}
+},
+{
+question = "Mikrobiolog olima Dilfuza Egamberdiyeva qaysi xalqaro mukofotga sazovor bo'lgan?",
+answers = {
+{text = "Magsaysay mukofoti", correct = false},
+{text = "Templton mukofoti", correct = false},
+{text = "Nobel mukofoti", correct = false},
+{text = "YUNESKOning Karlos Finley mukofoti", correct = true},
+}
+},
+{
+question = "O'zbekiston qaysi yilda FIFAga a'zo bo'lgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1994-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston FIFAga a'zo bo'lgan yili futbol terma jamoasi qaysi musobaqada chempionlikni qo'lga kiritdi?",
+answers = {
+{text = "Osiyo kubogida", correct = false},
+{text = "Jahon chempionatida", correct = false},
+{text = "Yevropa chempionatida", correct = false},
+{text = "Yozgi Osiyo o'yinlarida", correct = true},
+}
+},
+{
+question = "Shaxmat bo'yicha xalqaro grossmeyster Rustam Qosimjonov 2004-yilda qaysi shaharda o'tkazilgan jahon chempionatida g'olib bo'lgan?",
+answers = {
+{text = "Bakuda", correct = false},
+{text = "Moskvada", correct = false},
+{text = "Dehlida", correct = false},
+{text = "Tripolida", correct = true},
+}
+},
+{
+question = "Nafisa Mo'minova qaysi yilda O'zbekiston tarixida birinchi bo'lib ayollar o'rtasida xalqaro grossmeyster unvonini olgan?",
+answers = {
+{text = "2008-yilda", correct = false},
+{text = "2010-yilda", correct = false},
+{text = "2015-yilda", correct = false},
+{text = "2013-yilda", correct = true},
+}
+},
+{
+question = "O'zbekistonlik sportchilar ilk bor qatnashgan 1994-yilgi qishki Olimpiada o'yinlarida kim oltin medal qo'lga kiritgan?",
+answers = {
+{text = "Oksana Chusovitina", correct = false},
+{text = "Muhammadqodir Abdullayev", correct = false},
+{text = "Nafisa Mo'minova", correct = false},
+{text = "Lina Cheryazova", correct = true},
+}
+},
+{
+question = "Sidney Olimpiadasida bokschi Muhammadqodir Abdullayev qaysi medalni qo'lga kiritgan?",
+answers = {
+{text = "Kumush medal", correct = false},
+{text = "Bronza medal", correct = false},
+{text = "Hech qanday medal", correct = false},
+{text = "Oltin medal", correct = true},
+}
+},
+{
+question = "Parij-2024 Olimpiadasida O'zbekiston sportchilari jami nechta medal qo'lga kiritgan?",
+answers = {
+{text = "10 ta", correct = false},
+{text = "15 ta", correct = false},
+{text = "20 ta", correct = false},
+{text = "13 ta", correct = true},
+}
+},
+{
+question = "Parij-2024 Olimpiadasida O'zbekiston 206 mamlakat orasida nechanchi o'rinni egalladi?",
+answers = {
+{text = "8-o'rinni", correct = false},
+{text = "10-o'rinni", correct = false},
+{text = "15-o'rinni", correct = false},
+{text = "13-o'rinni", correct = true},
+}
+},
+{
+question = "Gimnastikachi Oksana Chusovitina necha marta Olimpiada o'yinlarida gimnastika bo'yicha ishtirok etib, Ginnesning rekordlar kitobiga kirgan?",
+answers = {
+{text = "6 marta", correct = false},
+{text = "7 marta", correct = false},
+{text = "9 marta", correct = false},
+{text = "8 marta", correct = true},
+}
+},
+{
+question = "Dzyudochi Diyora Keldiyorova 2024-yilda qaysi shaharda o'tkazilgan Olimpiadada oltin medal qo'lga kiritgan?",
+answers = {
+{text = "Tokioda", correct = false},
+{text = "Rio de Janeyroda", correct = false},
+{text = "Londonda", correct = false},
+{text = "Parijda", correct = true},
+}
+},
+{
+question = "Milliy paralimpiya qo'mitasi (NPC Uzbekistan) qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2004-yilda", correct = false},
+{text = "2012-yilda", correct = false},
+{text = "2016-yilda", correct = false},
+{text = "2007-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston ilk bor mustaqil davlat sifatida yozgi Paralimpiya o'yinlarida qaysi yilda qatnashgan?",
+answers = {
+{text = "2000-yilda", correct = false},
+{text = "2008-yilda", correct = false},
+{text = "2012-yilda", correct = false},
+{text = "2004-yilda", correct = true},
+}
+},
+{
+question = "Paradzyudochi Sharif Xalilov O'zbekiston tarixidagi ilk paralimpiya medalini qaysi yilda qo'lga kiritgan?",
+answers = {
+{text = "2008-yilda", correct = false},
+{text = "2016-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2012-yilda", correct = true},
+}
+},
+{
+question = "Boks bo'yicha jahon chempionati 2023-yilda qaysi shaharda o'tkazilgan?",
+answers = {
+{text = "Samarqandda", correct = false},
+{text = "Buxoroda", correct = false},
+{text = "Andijonda", correct = false},
+{text = "Toshkentda", correct = true},
+}
+},
+{
+question = "O'zbekiston futbol terma jamoasi 2026-yilgi jahon chempionati final bosqichi yo'llanmasiga tarixda birinchi marta qaysi yilda ega bo'ldi?",
+answers = {
+{text = "2023-yilda", correct = false},
+{text = "2024-yilda", correct = false},
+{text = "2026-yilda", correct = false},
+{text = "2025-yilda", correct = true},
+}
+},
+{
+question = "Turkiyaning Antaliya shahrida o'zbek kurashi bo'yicha 2-jahon chempionati qaysi yilda bo'lib o'tgan?",
+answers = {
+{text = "1998-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "2003-yilda", correct = false},
+{text = "2000-yilda", correct = true},
+}
+},
+{
+question = "Milliy qonunchiligimizga ko'ra necha yoshgacha bo'lgan shaxslar yoshlar yoki yosh fuqarolar deb ataladi?",
+answers = {
+{text = "25 yoshgacha", correct = false},
+{text = "35 yoshgacha", correct = false},
+{text = "40 yoshgacha", correct = false},
+{text = "30 yoshgacha", correct = true},
+}
+},
+{
+question = "Bugungi kunda O'zbekiston aholisining necha foizini yoshlar tashkil etadi?",
+answers = {
+{text = "40 foizini", correct = false},
+{text = "50 foizini", correct = false},
+{text = "70 foizini", correct = false},
+{text = "60 foizini", correct = true},
+}
+},
+{
+question = "Zulfiya nomidagi davlat mukofoti qaysi yilda ta'sis etilgan?",
+answers = {
+{text = "1995-yilda", correct = false},
+{text = "1997-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1999-yilda", correct = true},
+}
+},
+{
+question = "1999-2020-yillarda Zulfiya nomidagi davlat mukofoti bilan nechta yosh xotin-qiz taqdirlangan?",
+answers = {
+{text = "222 nafar", correct = false},
+{text = "422 nafar", correct = false},
+{text = "522 nafar", correct = false},
+{text = "322 nafar", correct = true},
+}
+},
+{
+question = "2014-2020-yillarda O'zbekistonda nechta yosh oila imtiyozli asosda uy-joy bilan ta'minlangan?",
+answers = {
+{text = "5 mingdan ortiq", correct = false},
+{text = "10 mingdan ortiq", correct = false},
+{text = "12 mingdan ortiq", correct = false},
+{text = "8 mingdan ortiq", correct = true},
+}
+},
+{
+question = "Yoshlarni birlashtiruvchi Yoshlar ittifoqi tashkiloti qaysi yilda tuzilgan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1991-yilda", correct = true},
+}
+},
+{
+question = "1991-yilgi Yoshlar ittifoqi tashkiloti 1996-yilda tugatilib, uning o'rniga qaysi tashkilot tashkil etildi?",
+answers = {
+{text = "\"Kamalak\" tashkiloti", correct = false},
+{text = "Yoshlar ishlari agentligi", correct = false},
+{text = "Yoshlar akademiyasi", correct = false},
+{text = "\"Kamolot\" jamg'armasi", correct = true},
+}
+},
+{
+question = "\"Kamolot\" yoshlar ijtimoiy harakati qaysi yilda ta'sis qilingan?",
+answers = {
+{text = "1996-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "2005-yilda", correct = false},
+{text = "2001-yilda", correct = true},
+}
+},
+{
+question = "\"Yoshlarga oid davlat siyosati to'g'risida\"gi qonun yangi tahrirda qaysi yilda qabul qilingan?",
+answers = {
+{text = "2014-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2016-yilda", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev tashabbusi bilan Yoshlar ittifoqi qaysi yili tashkil etilgan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2017-yilda", correct = true},
+}
+},
+{
+question = "Yoshlar kuni O'zbekistonda qaysi sanada nishonlanadi?",
+answers = {
+{text = "1-sentyabrda", correct = false},
+{text = "14-yanvarda", correct = false},
+{text = "9-mayda", correct = false},
+{text = "30-iyunda", correct = true},
+}
+},
+{
+question = "Yoshlar ishlari agentligi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = true},
+}
+},
+{
+question = "Prezident 2017-yilda BMTning nechanchi sessiyasida so'zlagan nutqida dunyo yoshlari haqida to'xtalgan?",
+answers = {
+{text = "Yetmishinchi sessiyada", correct = false},
+{text = "Yetmish birinchi sessiyada", correct = false},
+{text = "Yetmish uchinchi sessiyada", correct = false},
+{text = "Yetmish ikkinchi sessiyada", correct = true},
+}
+},
+{
+question = "Qaysi shahar birinchi \"Turkiy dunyo yoshlar tashabbuslari poytaxti\" deb e'lon qilingan?",
+answers = {
+{text = "Toshkent", correct = false},
+{text = "Samarqand", correct = false},
+{text = "Xiva", correct = false},
+{text = "Buxoro", correct = true},
+}
+},
+{
+question = "2024-yilda qaysi shahar birinchi \"MDH yoshlar poytaxti\" deb e'lon qilindi?",
+answers = {
+{text = "Samarqand", correct = false},
+{text = "Buxoro", correct = false},
+{text = "Andijon", correct = false},
+{text = "Toshkent", correct = true},
+}
+},
+{
+question = "2025-yilda O'zbekiston BMTning qaysi strategiyasini amalga oshirayotgan 10 davlat qatoriga kiritilgan?",
+answers = {
+{text = "\"Yoshlar - 2020\"", correct = false},
+{text = "\"Yoshlar - 2025\"", correct = false},
+{text = "\"Yoshlar - 2035\"", correct = false},
+{text = "\"Yoshlar - 2030\"", correct = true},
+}
+},
+{
+question = "Respublika Ma'naviyat va ma'rifat jamoatchilik markazi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "2006-yilda", correct = false},
+{text = "1994-yilda", correct = true},
+}
+},
+{
+question = "Respublika Ma'naviyat targ'iboti markazi hamda Milliy g'oya va mafkura ilmiy-amaliy markazi qaysi yildan alohida tashkilot sifatida ish boshlagan?",
+answers = {
+{text = "1994-yildan", correct = false},
+{text = "2001-yildan", correct = false},
+{text = "2011-yildan", correct = false},
+{text = "2006-yildan", correct = true},
+}
+},
+{
+question = "O'zbekiston xalqaro anjumanlar saroyi va Alisher Navoiy nomidagi Milliy kutubxonani birlashtirgan \"Ma'rifat markazi\" qaysi yilda bunyod etilgan?",
+answers = {
+{text = "2006-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2011-yilda", correct = true},
+}
+},
+{
+question = "\"Ma'rifat karvoni\" tadbirlari doirasida necha milliondan ortiq kitob yoshlarga yetkazib berilgan?",
+answers = {
+{text = "1 milliondan ortiq", correct = false},
+{text = "2 milliondan ortiq", correct = false},
+{text = "5 milliondan ortiq", correct = false},
+{text = "3 milliondan ortiq", correct = true},
+}
+},
+{
+question = "Alisher Navoiy tavalludining 550 yilligi qaysi yilda keng nishonlangan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1991-yilda", correct = true},
+}
+},
+{
+question = "O'zbekistonda \"Mirzo Ulug'bek yili\" deb qaysi yil e'lon qilingan?",
+answers = {
+{text = "1993-yil", correct = false},
+{text = "1996-yil", correct = false},
+{text = "1999-yil", correct = false},
+{text = "1994-yil", correct = true},
+}
+},
+{
+question = "Amir Temur tavalludining 660 yilligi qaysi yilda xalqaro miqyosda nishonlangan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "Toshkentda Amir Temur haykali qaysi yilda o'rnatilgan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "9-may qaysi yildan Xotira va qadrlash kuni deb e'lon qilingan?",
+answers = {
+{text = "1994-yildan", correct = false},
+{text = "1996-yildan", correct = false},
+{text = "2000-yildan", correct = false},
+{text = "1999-yildan", correct = true},
+}
+},
+{
+question = "Jadid namoyandalari Abdulla Qodiriy va Abdulhamid Cho'lpon qanday orden bilan taqdirlangan?",
+answers = {
+{text = "\"Buyuk xizmatlari uchun\" ordeni bilan", correct = false},
+{text = "\"Amir Temur\" ordeni bilan", correct = false},
+{text = "\"Do'stlik\" ordeni bilan", correct = false},
+{text = "\"Mustaqillik\" ordeni bilan", correct = true},
+}
+},
+{
+question = "31-avgust qanday kun sifatida belgilangan?",
+answers = {
+{text = "Xotira va qadrlash kuni", correct = false},
+{text = "Mustaqillik kuni", correct = false},
+{text = "Til bayrami kuni", correct = false},
+{text = "Qatag'on qurbonlarini yod etish kuni", correct = true},
+}
+},
+{
+question = "Jadid namoyandalari Abdulla Avloniy, Mahmudxo'ja Behbudiy va Munavvar qori Abdurashidxonov qaysi yilda \"Buyuk xizmatlari uchun\" ordeni bilan mukofotlangan?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2024-yilda", correct = false},
+{text = "2020-yilda", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev tashabbusi bilan davlat arbobi Sharof Rashidovning 100 yilligi qaysi yilda nishonlangan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2017-yilda", correct = true},
+}
+},
+{
+question = "Birinchi Prezidentimiz Islom Karimovning 80 yillik tavallud sanasi qaysi yilda nishonlangan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2017-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "Mamlakatimizda 2-sentyabr qanday kun sifatida belgilangan?",
+answers = {
+{text = "Mustaqillik kuni", correct = false},
+{text = "Xotira va qadrlash kuni", correct = false},
+{text = "Til bayrami kuni", correct = false},
+{text = "Islom Karimov xotirasi kuni", correct = true},
+}
+},
+{
+question = "Toshkentda \"Yangi O'zbekiston\" bog'i qaysi yili barpo etilgan?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2024-yilda", correct = false},
+{text = "2021-yilda", correct = true},
+}
+},
+{
+question = "Navro'z bayrami O'zbekistonda qaysi yildan umumxalq bayrami deb e'lon qilingan?",
+answers = {
+{text = "1989-yildan", correct = false},
+{text = "1991-yildan", correct = false},
+{text = "1992-yildan", correct = false},
+{text = "1990-yildan", correct = true},
+}
+},
+{
+question = "Navro'z bayrami umumxalq bayrami deb e'lon qilinganida, 21-mart qanday kun deb belgilangan?",
+answers = {
+{text = "Ish kuni deb", correct = false},
+{text = "Bayram belgilanmagan", correct = false},
+{text = "Milliy tantana kuni deb", correct = false},
+{text = "Dam olish kuni deb", correct = true},
+}
+},
+{
+question = "YUNESKO Navro'z bayramini insoniyatning nomoddiy madaniy merosi sifatida qaysi yilda e'tirof etgan?",
+answers = {
+{text = "2005-yilda", correct = false},
+{text = "2010-yilda", correct = false},
+{text = "2015-yilda", correct = false},
+{text = "2009-yilda", correct = true},
+}
+},
+{
+question = "BMT tomonidan 21-mart Xalqaro Navro'z kuni deb qaysi yilda e'lon qilingan?",
+answers = {
+{text = "2009-yilda", correct = false},
+{text = "2012-yilda", correct = false},
+{text = "2015-yilda", correct = false},
+{text = "2010-yilda", correct = true},
+}
+},
+{
+question = "Manbalarga ko'ra Navro'z bayrami necha ming yildan ortiq tarixga ega?",
+answers = {
+{text = "2 ming yildan ortiq", correct = false},
+{text = "4 ming yildan ortiq", correct = false},
+{text = "5 ming yildan ortiq", correct = false},
+{text = "3 ming yildan ortiq", correct = true},
+}
+},
+{
+question = "Yurtdoshlarimizga haj amalini ado etish uchun Saudiya Arabistoniga borish imkoniyati qaysi yildan yaratilgan?",
+answers = {
+{text = "1989-yildan", correct = false},
+{text = "1991-yildan", correct = false},
+{text = "1992-yildan", correct = false},
+{text = "1990-yildan", correct = true},
+}
+},
+{
+question = "Toshkent islom universiteti qaysi yilda ochilgan?",
+answers = {
+{text = "1997-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "2003-yilda", correct = false},
+{text = "1999-yilda", correct = true},
+}
+},
+{
+question = "Hazrati Imom (Hastimom) me'moriy majmuasi qaysi yilda qayta ta'mirlangan?",
+answers = {
+{text = "1999-yilda", correct = false},
+{text = "2003-yilda", correct = false},
+{text = "2010-yilda", correct = false},
+{text = "2007-yilda", correct = true},
+}
+},
+{
+question = "ICESCO 2007-yilda qaysi shaharni Islom madaniyati poytaxti deb e'lon qilgan?",
+answers = {
+{text = "Buxoroni", correct = false},
+{text = "Xivani", correct = false},
+{text = "Samarqandni", correct = false},
+{text = "Toshkentni", correct = true},
+}
+},
+{
+question = "ICESCO 2020-yilda qaysi shaharni Islom madaniyatining poytaxti deb e'lon qilgan?",
+answers = {
+{text = "Toshkentni", correct = false},
+{text = "Xivani", correct = false},
+{text = "Samarqandni", correct = false},
+{text = "Buxoroni", correct = true},
+}
+},
+{
+question = "2024-yilda Islom hamkorlik tashkiloti qaysi shaharni \"Islom dunyosining turizm poytaxti\" deb e'lon qildi?",
+answers = {
+{text = "Buxoroni", correct = false},
+{text = "Samarqandni", correct = false},
+{text = "Toshkentni", correct = false},
+{text = "Xivani", correct = true},
+}
+},
+{
+question = "Toshkent shahridagi Islom sivilizatsiyasi markazi qurilishi Prezidentning qaysi yildagi qaroriga binoan boshlangan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2017-yilda", correct = true},
+}
+},
+{
+question = "Islom sivilizatsiyasi markaziga poydevor qaysi yili qo'yilgan?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "Islom sivilizatsiyasi markazi majmuasining o'rtasida necha metrli gumbaz qurilgan?",
+answers = {
+{text = "55 metrli", correct = false},
+{text = "60 metrli", correct = false},
+{text = "70 metrli", correct = false},
+{text = "65 metrli", correct = true},
+}
+},
+{
+question = "Toshkentdagi Usmon mus'hafidan nusxani 2004-yilda qaysi xattot ko'chirgan?",
+answers = {
+{text = "Habibulloh Solih", correct = true},
+{text = "Abdulla Oripov", correct = false},
+{text = "Mutal Burhonov", correct = false},
+{text = "Rahbarxon Murtazayeva", correct = false},
+}
+},
+{
+question = "Navro'z bayramini butun dunyoda necha milliondan ortiq inson nishonlaydi?",
+answers = {
+{text = "100 milliondan ortiq", correct = false},
+{text = "200 milliondan ortiq", correct = false},
+{text = "400 milliondan ortiq", correct = false},
+{text = "300 milliondan ortiq", correct = true},
+}
+},
+}

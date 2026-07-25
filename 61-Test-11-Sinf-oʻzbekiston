@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Birinchi Prezident Islom Karimov yangi iqtisodiy tizimga o'tish modeli haqida qaysi yilda yozib, uning asosiy yo'nalishlarini ko'rsatdi?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1992-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+{text = "1995-yilda", correct = false},
+}
+},
+{
+question = "O'zbekistonning bozor iqtisodiyotiga o'tish modeli nechta tamoyildan iborat bo'lgan?",
+answers = {
+{text = "To'rtta", correct = false},
+{text = "Oltita", correct = false},
+{text = "Uchta", correct = false},
+{text = "Beshta", correct = true},
+}
+},
+{
+question = "So'm-kuponlar qaysi sanadan e'tiboran muomalaga chiqarilgan?",
+answers = {
+{text = "1992-yil 1-noyabrdan", correct = false},
+{text = "1993-yil 1-noyabrdan", correct = true},
+{text = "1994-yil 1-iyuldan", correct = false},
+{text = "1991-yil 18-noyabrdan", correct = false},
+}
+},
+{
+question = "O'zbekistonning milliy valyutasi - so'm qaysi sanada muomalaga kiritildi?",
+answers = {
+{text = "1993-yil 1-noyabrda", correct = false},
+{text = "1994-yil 1-iyulda", correct = true},
+{text = "1995-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+}
+},
+{
+question = "\"Mulkni davlat tasarrufidan chiqarish va xususiylashtirish to'g'risida\"gi qonun qaysi sanada qabul qilindi?",
+answers = {
+{text = "1990-yil 20-iyunda", correct = false},
+{text = "1992-yil fevralda", correct = false},
+{text = "1991-yil 18-noyabrda", correct = true},
+{text = "1993-yilda", correct = false},
+}
+},
+{
+question = "Davlat mulkini boshqarish va xususiylashtirish davlat qo'mitasi qaysi yilda tuzilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "1996-yilga kelib respublikada necha million oila shaxsiy tomorqaga ega bo'lgan?",
+answers = {
+{text = "2 million", correct = false},
+{text = "3 million", correct = true},
+{text = "4 million", correct = false},
+{text = "5 million", correct = false},
+}
+},
+{
+question = "2024-yilda O'zbekiston xalqaro ochiq ma'lumotlar (ODIN) reytingida necha ball olib, dunyoda nechanchi o'ringa ko'tarildi?",
+answers = {
+{text = "75 ball, 15-o'rin", correct = false},
+{text = "90 ball, 10-o'rin", correct = false},
+{text = "83 ball, 12-o'rin", correct = true},
+{text = "70 ball, 20-o'rin", correct = false},
+}
+},
+{
+question = "Tezyurar \"Afrosiyob\" poyezdi qaysi yildan Toshkent-Samarqand yo'nalishida qatnay boshladi?",
+answers = {
+{text = "2001-yildan", correct = false},
+{text = "2011-yildan", correct = true},
+{text = "2016-yildan", correct = false},
+{text = "2009-yildan", correct = false},
+}
+},
+{
+question = "Farg'ona vodiysini poytaxt bilan to'g'ridan-to'g'ri bog'lagan Qamchiq tunneli qaysi yilda ochilgan?",
+answers = {
+{text = "2011-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2025-yilda", correct = false},
+{text = "2016-yilda", correct = true},
+}
+},
+{
+question = "Toshkent metrosining Yunusobod yo'nalishi birinchi qismi qaysi yilda ishga tushirilgan?",
+answers = {
+{text = "1996-yilda", correct = false},
+{text = "2011-yilda", correct = false},
+{text = "2016-yilda", correct = false},
+{text = "2001-yilda", correct = true},
+}
+},
+{
+question = "1996-yilda Andijonda ishga tushirilgan va keyinchalik \"GM Uzbekistan\" nomi bilan mashhur bo'lgan avtomobil zavodi dastlab qanday nomlangan?",
+answers = {
+{text = "\"ADM Jizzakh\"", correct = false},
+{text = "\"BYD Uzbekistan Factory\"", correct = false},
+{text = "\"SamKochAvto\"", correct = false},
+{text = "\"Uz-Daewoo Auto\"", correct = true},
+}
+},
+{
+question = "\"BYD Uzbekistan Factory\" avtomobil zavodi qaysi yilda ish boshlagan?",
+answers = {
+{text = "2020-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2023-yilda", correct = true},
+{text = "2024-yilda", correct = false},
+}
+},
+{
+question = "\"Yer to'g'risida\"gi qonun qaysi yilda qabul qilingan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "\"Fermer xo'jaliklari to'g'risida\"gi qonun qabul qilingan yili O'zbekiston nimaga erishdi?",
+answers = {
+{text = "1994-yilda, iqtisodiy mustaqillikka", correct = false},
+{text = "1996-yilda, g'alla mustaqilligiga", correct = true},
+{text = "1998-yilda, moliyaviy mustaqillikka", correct = false},
+{text = "2000-yilda, energetika mustaqilligiga", correct = false},
+}
+},
+{
+question = "\"ADM Jizzakh\" avtomobil zavodi qaysi yilda ish boshlagan?",
+answers = {
+{text = "2020-yilda", correct = false},
+{text = "2021-yilda", correct = true},
+{text = "2022-yilda", correct = false},
+{text = "2023-yilda", correct = false},
+}
+},
+{
+question = "Sovet Ittifoqi respublikalari orasida faqat O'zbekistonda qaysi yildan boshlab izchil iqtisodiy o'sish sur'atlari ta'minlandi?",
+answers = {
+{text = "1994-yildan", correct = false},
+{text = "1998-yildan", correct = false},
+{text = "2000-yildan", correct = false},
+{text = "1996-yildan", correct = true},
+}
+},
+{
+question = "1996-2003-yillarda O'zbekistonda o'rtacha iqtisodiy o'sish sur'ati necha foizni tashkil etgan?",
+answers = {
+{text = "3,5 foizni", correct = false},
+{text = "4,3 foizni", correct = true},
+{text = "5,5 foizni", correct = false},
+{text = "7,5 foizni", correct = false},
+}
+},
+{
+question = "2004-yildan boshlab O'zbekistonning yillik o'rtacha iqtisodiy o'sish sur'ati necha foizga yetdi?",
+answers = {
+{text = "5,5 foizga", correct = false},
+{text = "6,5 foizga", correct = false},
+{text = "8,5 foizga", correct = false},
+{text = "7,5 foizga", correct = true},
+}
+},
+{
+question = "Soliq islohotlari natijasida korxonalar to'laydigan ijtimoiy soliq stavkasi necha foizdan necha foizgacha tushirildi?",
+answers = {
+{text = "30 foizdan 15 foizgacha", correct = false},
+{text = "20 foizdan 10 foizgacha", correct = false},
+{text = "35 foizdan 20 foizgacha", correct = false},
+{text = "25 foizdan 12 foizgacha", correct = true},
+}
+},
+{
+question = "Jismoniy shaxslarga chet el valyutasini erkin sotib olish va sotish huquqi qaysi yildan berildi?",
+answers = {
+{text = "2016-yildan", correct = false},
+{text = "2017-yildan", correct = true},
+{text = "2018-yildan", correct = false},
+{text = "2020-yildan", correct = false},
+}
+},
+{
+question = "O'zbekistonning \"Doing Business\" reytingidagi bali 2016-yildan 2020-yilgacha qanday o'zgardi?",
+answers = {
+{text = "50 baldan 65 balgacha", correct = false},
+{text = "40 baldan 55 balgacha", correct = false},
+{text = "48 baldan 60 balgacha", correct = false},
+{text = "44 baldan 58 balgacha", correct = true},
+}
+},
+{
+question = "\"Tashabbusli byudjet\" portali orqali 2025-yilgacha nechta loyiha amalga oshirilgan?",
+answers = {
+{text = "1500 ta", correct = false},
+{text = "2215 ta", correct = true},
+{text = "3000 ta", correct = false},
+{text = "1000 ta", correct = false},
+}
+},
+{
+question = "\"Erkin iqtisodiy zonalar to'g'risida\"gi qonun qaysi yilda qabul qilingan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "2000-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "\"Termiz\" erkin iqtisodiy zonasi qaysi yilda ish boshlagan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2019-yilda", correct = true},
+{text = "2021-yilda", correct = false},
+{text = "2024-yilda", correct = false},
+}
+},
+{
+question = "2021-yilga kelib mamlakatda nechta erkin iqtisodiy zona mavjud edi?",
+answers = {
+{text = "10 dan ortiq", correct = false},
+{text = "15 dan ortiq", correct = false},
+{text = "30 dan ortiq", correct = false},
+{text = "20 dan ortiq", correct = true},
+}
+},
+{
+question = "O'zbekistonning Jahon savdo tashkilotiga a'zo bo'lish jarayoni qaysi yilda boshlangan?",
+answers = {
+{text = "1994-yilda", correct = true},
+{text = "1996-yilda", correct = false},
+{text = "2005-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+}
+},
+{
+question = "Jahon savdo tashkilotiga a'zo bo'lish jarayoni qaysi yilda to'xtab qolgan edi?",
+answers = {
+{text = "2000-yilda", correct = false},
+{text = "2010-yilda", correct = false},
+{text = "2015-yilda", correct = false},
+{text = "2005-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston Islom taraqqiyot bankiga qaysi yilda a'zo bo'lgan?",
+answers = {
+{text = "1996-yilda", correct = false},
+{text = "2003-yilda", correct = true},
+{text = "2010-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+}
+},
+{
+question = "O'zbekiston o'z tarixida birinchi bor suveren kredit reytingini qaysi yilda oldi?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+}
+},
+{
+question = "O'zbekiston ilk bor xalqaro yevroobligatsiyalarini London birjasida qaysi yilda joylashtirdi?",
+answers = {
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = true},
+{text = "2020-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+}
+},
+{
+question = "2023-yilda O'zbekistonning yalpi ichki mahsuloti birinchi marta necha milliard dollardan oshdi?",
+answers = {
+{text = "80 milliard dollardan", correct = false},
+{text = "120 milliard dollardan", correct = false},
+{text = "150 milliard dollardan", correct = false},
+{text = "100 milliard dollardan", correct = true},
+}
+},
+{
+question = "1991-yilda O'zbekistonda aholi soni necha million kishini tashkil etgan?",
+answers = {
+{text = "18,6 million", correct = false},
+{text = "22,6 million", correct = false},
+{text = "25 million", correct = false},
+{text = "20,6 million", correct = true},
+}
+},
+{
+question = "2024-yil 1-iyul holatiga ko'ra O'zbekistonning doimiy aholisi soni qancha bo'lgan?",
+answers = {
+{text = "32 million kishi", correct = false},
+{text = "35 million kishi", correct = false},
+{text = "37 million 134 ming 200 kishi", correct = true},
+{text = "40 million kishi", correct = false},
+}
+},
+{
+question = "1991-2016-yillarda O'zbekiston aholisi taxminan necha million kishiga ko'paydi?",
+answers = {
+{text = "8,5 million kishiga", correct = false},
+{text = "9,5 million kishiga", correct = false},
+{text = "13,5 million kishiga", correct = false},
+{text = "11,5 million kishiga", correct = true},
+}
+},
+{
+question = "Kam ta'minlangan oilalarni aniqlash maqsadida \"Ijtimoiy himoya yagona reestri\" axborot tizimi qaysi yilga kelib joriy etildi?",
+answers = {
+{text = "2020-yilga", correct = false},
+{text = "2023-yilga", correct = false},
+{text = "2024-yilga", correct = false},
+{text = "2022-yilga", correct = true},
+}
+},
+{
+question = "Ijtimoiy himoya milliy agentligi Prezident huzurida qaysi yilda tashkil etildi?",
+answers = {
+{text = "2021-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2024-yilda", correct = false},
+{text = "2023-yilda", correct = true},
+}
+},
+{
+question = "Haftaning juma kuni qaysi yildan boshlab \"Mehr va saxovat kuni\" deb belgilandi?",
+answers = {
+{text = "2021-yildan", correct = false},
+{text = "2022-yildan", correct = false},
+{text = "2023-yildan", correct = false},
+{text = "2024-yildan", correct = true},
+}
+},
+{
+question = "So'nggi yillarda O'zbekistonda kambag'allik darajasi necha foizdan necha foizgacha qisqartirilgan?",
+answers = {
+{text = "40 foizdan 10 foizgacha", correct = false},
+{text = "30 foizdan 8 foizgacha", correct = false},
+{text = "45 foizdan 12 foizgacha", correct = false},
+{text = "35 foizdan 6,6 foizgacha", correct = true},
+}
+},
+{
+question = "\"Fuqarolar sog'lig'ini saqlash to'g'risida\"gi qonun qaysi yilda qabul qilingan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "2001-yilda Sog'liqni saqlash vazirligidan ruxsat olgan xususiy tibbiyot muassasalari soni qancha bo'lgan?",
+answers = {
+{text = "1200 ta", correct = false},
+{text = "2000 ta", correct = false},
+{text = "2500 ta", correct = false},
+{text = "1700 ta", correct = true},
+}
+},
+{
+question = "1990-yilda O'zbekistonda o'rtacha umr ko'rish davomiyligi necha yoshni tashkil etgan?",
+answers = {
+{text = "65 yosh", correct = false},
+{text = "70 yosh", correct = false},
+{text = "72 yosh", correct = false},
+{text = "67 yosh", correct = true},
+}
+},
+{
+question = "2025-yilda O'zbekistonda ayollar uchun o'rtacha umr ko'rish davomiyligi necha yoshdan oshdi?",
+answers = {
+{text = "70 yoshdan", correct = false},
+{text = "72 yoshdan", correct = false},
+{text = "78 yoshdan", correct = false},
+{text = "75 yoshdan", correct = true},
+}
+},
+{
+question = "Gematologiya va bolalar onkologiyasi markazlari alohida muassasa sifatida qaysi yilda tashkil etildi?",
+answers = {
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2021-yilda", correct = true},
+}
+},
+{
+question = "Shoshilinch tibbiy yordam brigadalari soni necha tadan necha tagacha ko'paytirilgan?",
+answers = {
+{text = "500 tadan 1000 tagacha", correct = false},
+{text = "700 tadan 1500 tagacha", correct = false},
+{text = "900 tadan 1800 tagacha", correct = false},
+{text = "818 tadan 1666 tagacha", correct = true},
+}
+},
+{
+question = "Qishloqlarda 2009-2016-yillarda necha mingdan ortiq namunaviy uy-joy qurilgan?",
+answers = {
+{text = "50 mingdan ortiq", correct = false},
+{text = "90 mingdan ortiq", correct = false},
+{text = "100 mingdan ortiq", correct = false},
+{text = "70 mingdan ortiq", correct = true},
+}
+},
+{
+question = "Xotin-qizlarni qo'llab-quvvatlash bo'yicha maxsus qaror qaysi yilda qabul qilindi?",
+answers = {
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2021-yilda", correct = true},
+}
+},
+{
+question = "2024-yili yurtimizda jami necha million kvadrat metrdan ziyod bino-inshoot qurilgan?",
+answers = {
+{text = "30 million kvadrat metrdan", correct = false},
+{text = "50 million kvadrat metrdan", correct = false},
+{text = "60 million kvadrat metrdan", correct = false},
+{text = "40 million kvadrat metrdan", correct = true},
+}
+},
+{
+question = "O'zbekistonda necha millat va elat vakillari yashaydi?",
+answers = {
+{text = "100 dan ortiq", correct = false},
+{text = "150 dan ortiq", correct = false},
+{text = "200 dan ortiq", correct = false},
+{text = "130 dan ortiq", correct = true},
+}
+},
+{
+question = "Respublika Baynalmilal madaniyat markazi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1991-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Respublika Baynalmilal madaniyat markazi tashkil etilganida dastlab nechta milliy-madaniy markaz faoliyat yuritgan?",
+answers = {
+{text = "5 ta", correct = false},
+{text = "15 ta", correct = false},
+{text = "20 ta", correct = false},
+{text = "10 ta", correct = true},
+}
+},
+{
+question = "Bugungi kunda O'zbekistonda milliy-madaniy markazlar soni qanchadan ortiq?",
+answers = {
+{text = "100 dan ortiq", correct = false},
+{text = "120 dan ortiq", correct = false},
+{text = "200 dan ortiq", correct = false},
+{text = "150 dan ortiq", correct = true},
+}
+},
+{
+question = "2025-yilga kelib O'zbekistonda tashkil etilgan do'stlik jamiyatlari soni qanchadan oshgan?",
+answers = {
+{text = "20 dan oshgan", correct = false},
+{text = "30 dan oshgan", correct = false},
+{text = "50 dan oshgan", correct = false},
+{text = "40 dan oshgan", correct = true},
+}
+},
+{
+question = "Millatlararo totuvlik va bag'rikenglik ilmiy markazi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2003-yilda", correct = false},
+{text = "2010-yilda", correct = false},
+{text = "2015-yilda", correct = false},
+{text = "2006-yilda", correct = true},
+}
+},
+{
+question = "Millatlararo totuvlik va bag'rikenglik ilmiy markazini tashkil etishga kim tashabbus ko'rsatgan?",
+answers = {
+{text = "Nodira Mustafoyeva", correct = false},
+{text = "Nargiza Ismatova", correct = false},
+{text = "Islom Karimov", correct = false},
+{text = "Rahbarxon Murtazayeva", correct = true},
+}
+},
+{
+question = "Vijdon erkinligi O'zbekiston Respublikasi Konstitutsiyasining nechanchi moddasida kafolatlangan?",
+answers = {
+{text = "25-moddasida", correct = false},
+{text = "30-moddasida", correct = false},
+{text = "40-moddasida", correct = false},
+{text = "35-moddasida", correct = true},
+}
+},
+{
+question = "O'zbekiston musulmonlari qaysi yildan haj ziyoratini amalga oshirish imkoniga ega bo'ldilar?",
+answers = {
+{text = "1989-yildan", correct = false},
+{text = "1991-yildan", correct = false},
+{text = "1992-yildan", correct = false},
+{text = "1990-yildan", correct = true},
+}
+},
+{
+question = "Din ishlari bo'yicha qo'mita qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1991-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "YUNESKO Bosh konferensiyasining Bag'rikenglik tamoyillari deklaratsiyasi qaysi sanada qabul qilingan?",
+answers = {
+{text = "1993-yil 16-noyabrda", correct = false},
+{text = "1998-yil 16-noyabrda", correct = false},
+{text = "2000-yil 16-noyabrda", correct = false},
+{text = "1995-yil 16-noyabrda", correct = true},
+}
+},
+{
+question = "Xalqaro bag'rikenglik kuni har yili qaysi sanada nishonlanadi?",
+answers = {
+{text = "10-dekabrda", correct = false},
+{text = "21-martda", correct = false},
+{text = "1-sentyabrda", correct = false},
+{text = "16-noyabrda", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev BMT Bosh Assambleyasida \"Ma'rifat va diniy bag'rikenglik\" rezolyutsiyasini qaysi yilda ilgari surdi?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2017-yilda", correct = true},
+}
+},
+{
+question = "\"Ma'rifat va diniy bag'rikenglik\" rezolyutsiyasi BMTga a'zo barcha davlatlar tomonidan qaysi yilda yakdillik bilan qabul qilindi?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "Bugungi kunda O'zbekistondagi masjidlarning umumiy soni qanchaga yetdi?",
+answers = {
+{text = "1500 taga", correct = false},
+{text = "1800 taga", correct = false},
+{text = "2500 taga", correct = false},
+{text = "2066 taga", correct = true},
+}
+},
+{
+question = "Imom Moturidiy xalqaro ilmiy-tadqiqot markazi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2020-yilda", correct = true},
+}
+},
+{
+question = "\"Ta'lim to'g'risida\"gi qonun ilk bor qaysi sanada qabul qilindi?",
+answers = {
+{text = "1991-yil 31-avgustda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1997-yil 29-avgustda", correct = false},
+{text = "1992-yil 2-iyulda", correct = true},
+}
+},
+{
+question = "Oliy attestatsiya komissiyasi (OAK) qaysi yilda tashkil etildi?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "1992-yilda O'zbekistondagi necha ta oliy ta'lim muassasasida test sinovi tajriba tariqasida yo'lga qo'yilgan?",
+answers = {
+{text = "4 ta", correct = false},
+{text = "8 ta", correct = false},
+{text = "10 ta", correct = false},
+{text = "6 ta", correct = true},
+}
+},
+{
+question = "Davlat test markazi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1994-yilda", correct = true},
+}
+},
+{
+question = "Maktabgacha va maktab ta'limi vazirligi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2019-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2024-yilda", correct = false},
+{text = "2023-yilda", correct = true},
+}
+},
+{
+question = "2024-yilda O'zbekistonda bolalarni bog'chalarga qamrab olish darajasi necha foizga yetdi?",
+answers = {
+{text = "70 foizga", correct = false},
+{text = "74 foizga", correct = false},
+{text = "80 foizga", correct = false},
+{text = "76 foizga", correct = true},
+}
+},
+{
+question = "\"Ta'lim to'g'risida\"gi qonunning yangi tahriri va Kadrlar tayyorlash milliy dasturi qaysi sanada qabul qilingan?",
+answers = {
+{text = "1992-yil 2-iyulda", correct = false},
+{text = "1994-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1997-yil 29-avgustda", correct = true},
+}
+},
+{
+question = "Kadrlar tayyorlash milliy dasturiga ko'ra islohotlarning birinchi bosqichi qaysi yillarni qamrab olgan?",
+answers = {
+{text = "1994-1997-yillar", correct = false},
+{text = "2001-2005-yillar", correct = false},
+{text = "2005-2010-yillar", correct = false},
+{text = "1997-2001-yillar", correct = true},
+}
+},
+{
+question = "2017-yilda O'zbekistonda 9+3 shaklidagi majburiy ta'limdan qaysi ta'lim tizimiga to'liq o'tildi?",
+answers = {
+{text = "10 yillik ta'limga", correct = false},
+{text = "12 yillik ta'limga", correct = false},
+{text = "9 yillik ta'limga", correct = false},
+{text = "11 yillik ta'limga", correct = true},
+}
+},
+{
+question = "Prezident maktablarini tashkil etish bo'yicha qaror qaysi sanada qabul qilindi?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2018-yil 20-fevralda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2019-yil 20-fevralda", correct = true},
+}
+},
+{
+question = "Dastlab Prezident maktablari qaysi shaharlarda ochilgan?",
+answers = {
+{text = "Toshkent, Samarqand, Buxoro va Andijonda", correct = false},
+{text = "Toshkent, Farg'ona, Termiz va Urganchda", correct = false},
+{text = "Toshkent, Jizzax, Guliston va Qarshida", correct = false},
+{text = "Toshkent, Namangan, Xiva va Nukusda", correct = true},
+}
+},
+{
+question = "Prezident maktablari O'zbekistonning barcha hududlarida qaysi yillarda tashkil etildi?",
+answers = {
+{text = "2017-2018-yillarda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2022-2023-yillarda", correct = false},
+{text = "2020-2021-yillarda", correct = true},
+}
+},
+{
+question = "1993-yilda O'zbekistondagi necha ta oliy ta'lim muassasasining bir qismida test sinovlari o'tkazilgan?",
+answers = {
+{text = "26 ta", correct = false},
+{text = "36 ta", correct = false},
+{text = "56 ta", correct = false},
+{text = "46 ta", correct = true},
+}
+},
+{
+question = "2016-yildan boshlangan islohotlar natijasida 2019-yilda oliy ta'limga qabul parametrlari 2016-yilga nisbatan necha barobar oshgan?",
+answers = {
+{text = "1,5 barobar", correct = false},
+{text = "2 barobar", correct = false},
+{text = "3 barobar", correct = false},
+{text = "2,5 barobar", correct = true},
+}
+},
+{
+question = "2025-yilda O'zbekistondagi oliy ta'lim muassasalari soni nechtaga yetdi?",
+answers = {
+{text = "180 taga", correct = false},
+{text = "190 taga", correct = false},
+{text = "220 taga", correct = false},
+{text = "202 taga", correct = true},
+}
+},
+{
+question = "\"O'zbekiston - 2030\" strategiyasida xorijiy universitetlar bilan hamkorlikda joriy etilishi belgilangan \"ikki diplomli tizim\" kamida nechta qo'shma ta'lim dasturi asosida amalga oshiriladi?",
+answers = {
+{text = "30 ta", correct = false},
+{text = "70 ta", correct = false},
+{text = "100 ta", correct = false},
+{text = "50 ta", correct = true},
+}
+},
+}

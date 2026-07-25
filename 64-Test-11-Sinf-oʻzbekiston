@@ -1,0 +1,812 @@
+questions = {
+{
+question = "O'zbekiston Respublikasi mustaqil davlat sifatida BMTga qaysi sanada a'zo bo'lgan?",
+answers = {
+{text = "1991-yil 21-dekabrda", correct = false},
+{text = "1993-yil 26-oktyabrda", correct = false},
+{text = "1992-yil 8-dekabrda", correct = false},
+{text = "1992-yil 2-martda", correct = true},
+}
+},
+{
+question = "Toshkentda BMT vakolatxonasi qaysi yilda ochilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1992-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasining BMTdagi vakolatxonalari qaysi ikki shaharda tashkil etilgan?",
+answers = {
+{text = "London va Parijda", correct = false},
+{text = "Vashington va Brusselda", correct = false},
+{text = "Rim va Venada", correct = false},
+{text = "Nyu York va Jenevada", correct = true},
+}
+},
+{
+question = "2002-yili O'zbekistonga tashrif buyurgan BMT Bosh kotibi kim bo'lgan?",
+answers = {
+{text = "Pan Gi Mun", correct = false},
+{text = "Antoniu Guterrish", correct = false},
+{text = "Butros Butros G'ali", correct = false},
+{text = "Kofi Annan", correct = true},
+}
+},
+{
+question = "BMT Bosh kotibi Pan Gi Mun O'zbekistonga qaysi yillarda tashrif buyurgan?",
+answers = {
+{text = "2002- va 2010-yillarda", correct = false},
+{text = "2015- va 2017-yillarda", correct = false},
+{text = "2017- va 2024-yillarda", correct = false},
+{text = "2010- va 2015-yillarda", correct = true},
+}
+},
+{
+question = "BMT Bosh kotibi Antoniu Guterrish O'zbekistonga qaysi yillarda tashrif buyurgan?",
+answers = {
+{text = "2010- va 2015-yillarda", correct = false},
+{text = "2015- va 2017-yillarda", correct = false},
+{text = "2002- va 2010-yillarda", correct = false},
+{text = "2017- va 2024-yillarda", correct = true},
+}
+},
+{
+question = "Birlashgan Millatlar Tashkiloti (BMT) qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1943-yilda", correct = false},
+{text = "1948-yilda", correct = false},
+{text = "1950-yilda", correct = false},
+{text = "1945-yilda", correct = true},
+}
+},
+{
+question = "BMTning shtab-kvartirasi qaysi shaharda joylashgan?",
+answers = {
+{text = "Jenevada", correct = false},
+{text = "Parijda", correct = false},
+{text = "Vashingtonda", correct = false},
+{text = "Nyu Yorkda", correct = true},
+}
+},
+{
+question = "Markaziy Osiyoni yadro qurolidan xoli hudud deb e'lon qilish tashabbusi ilk bor kim tomonidan ilgari surilgan?",
+answers = {
+{text = "Shavkat Mirziyoyev", correct = false},
+{text = "Shukrullo Mirsaidov", correct = false},
+{text = "Abdulla Aripov", correct = false},
+{text = "Islom Karimov", correct = true},
+}
+},
+{
+question = "Markaziy Osiyoni yadro qurolidan xoli hudud deb e'lon qilish tashabbusi ilk bor qaysi yilda BMT Bosh Assambleyasida ilgari surilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "2006-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "Ushbu tashabbus ilgari surilgan BMT Bosh Assambleyasining nechanchi sessiyasi bo'lgan?",
+answers = {
+{text = "Qirq oltinchi sessiyasi", correct = false},
+{text = "Ellikinchi sessiyasi", correct = false},
+{text = "Ellik ikkinchi sessiyasi", correct = false},
+{text = "Qirq sakkizinchi sessiyasi", correct = true},
+}
+},
+{
+question = "Markaziy Osiyo rasman yadro qurolidan xoli hudud deb qaysi yilda e'lon qilingan?",
+answers = {
+{text = "1998-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "2010-yilda", correct = false},
+{text = "2006-yilda", correct = true},
+}
+},
+{
+question = "Afg'oniston muammosi bo'yicha \"6+2\" muloqot guruhi qaysi yilda tuzilgan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1997-yilda", correct = true},
+}
+},
+{
+question = "Qaysi yildan boshlab O'zbekiston va BMT munosabatlarida yangi davr boshlandi?",
+answers = {
+{text = "2010-yildan", correct = false},
+{text = "2016-yildan", correct = false},
+{text = "2020-yildan", correct = false},
+{text = "2017-yildan", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev 2017-2025-yillarda BMT Bosh Assambleyasida necha marotaba nutq so'zladi?",
+answers = {
+{text = "Uch marotaba", correct = false},
+{text = "To'rt marotaba", correct = false},
+{text = "Olti marotaba", correct = false},
+{text = "Besh marotaba", correct = true},
+}
+},
+{
+question = "2025-yil Prezident Mirziyoyev BMT Bosh Assambleyasining nechanchi yubiley sessiyasida nutq so'zladi?",
+answers = {
+{text = "Yetmish beshinchi sessiyasida", correct = false},
+{text = "Yetmishinchi sessiyasida", correct = false},
+{text = "To'qsoninchi sessiyasida", correct = false},
+{text = "Sakson yubiley sessiyasida", correct = true},
+}
+},
+{
+question = "\"Ma'rifat va diniy bag'rikenglik\" rezolyutsiyasi qaysi yilda qabul qilingan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "\"Markaziy va Janubiy Osiyoda o'zaro bog'liqlikni mustahkamlash\" rezolyutsiyasi qaysi yilda qabul qilingan?",
+answers = {
+{text = "2018-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2024-yilda", correct = false},
+{text = "2022-yilda", correct = true},
+}
+},
+{
+question = "Xalqaro sivilizatsiyalar o'rtasidagi muloqot kuni sifatida qaysi sana e'lon qilingan?",
+answers = {
+{text = "1-sentyabr", correct = false},
+{text = "16-noyabr", correct = false},
+{text = "21-mart", correct = false},
+{text = "10-iyun", correct = true},
+}
+},
+{
+question = "BMTning Orolbo'yi mintaqasi uchun maxsus trest fondi O'zbekiston tashabbusi bilan qaysi yilda tashkil etilgan?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston qaysi yillarda ilk marotaba BMT Inson huquqlari kengashining a'zosi bo'ldi?",
+answers = {
+{text = "2018-2020-yillarda", correct = false},
+{text = "2023-2025-yillarda", correct = false},
+{text = "2016-2018-yillarda", correct = false},
+{text = "2021-2023-yillarda", correct = true},
+}
+},
+{
+question = "BMTning \"Barqaror rivojlanish maqsadlari\" dasturi qaysi yillarga mo'ljallangan?",
+answers = {
+{text = "2010-2025-yillarga", correct = false},
+{text = "2020-2035-yillarga", correct = false},
+{text = "2000-2020-yillarga", correct = false},
+{text = "2015-2030-yillarga", correct = true},
+}
+},
+{
+question = "YUNESKOga nisbatan qanday ibora ishlatiladi?",
+answers = {
+{text = "\"Insoniyat vijdoni\"", correct = false},
+{text = "\"Jahon xotirasi maskani\"", correct = false},
+{text = "\"Sivilizatsiyalar ko'prigi\"", correct = false},
+{text = "\"BMTning aql laboratoriyasi\"", correct = true},
+}
+},
+{
+question = "Hindiston Bosh vaziri Javoharla'l Neru YUNESKOga nisbatan qanday ta'rif qo'llagan?",
+answers = {
+{text = "\"BMTning aql laboratoriyasi\"", correct = false},
+{text = "\"Jahon xotirasi\"", correct = false},
+{text = "\"Madaniyatlar maskani\"", correct = false},
+{text = "\"Insoniyat vijdoni\"", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasi YUNESKO a'zoligiga qaysi yilda qabul qilingan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1997-yilda", correct = false},
+{text = "1993-yilda", correct = true},
+}
+},
+{
+question = "Mikrobiolog olima Dilfuza Egamberdiyeva YUNESKOning qaysi mukofotlari bilan taqdirlangan?",
+answers = {
+{text = "\"Jahon xotirasi\" va \"Inson va biosfera\" mukofotlari", correct = false},
+{text = "Ibn Sino va Beruniy mukofotlari", correct = false},
+{text = "\"Sharq taronasi\" va Karlos Finley mukofotlari", correct = false},
+{text = "\"Inson va biosfera\" va Karlos Finley mukofotlari", correct = true},
+}
+},
+{
+question = "Dilfuza Egamberdiyeva qaysi xalqaro stipendiyaga sazovor bo'lgan?",
+answers = {
+{text = "UNESCO stipendiyasi", correct = false},
+{text = "Fulbright stipendiyasi", correct = false},
+{text = "DAAD stipendiyasi", correct = false},
+{text = "L'Oreal \"Olima ayollar\" stipendiyasi", correct = true},
+}
+},
+{
+question = "YUNESKO-O'zbekiston xalqaro mukofotlari qaysi buyuk allomalar nomi bilan ta'sis etilgan?",
+answers = {
+{text = "Alisher Navoiy va Mirzo Ulug'bek", correct = false},
+{text = "Amir Temur va Bahouddin Naqshband", correct = false},
+{text = "Imom Buxoriy va Ahmad Farg'oniy", correct = false},
+{text = "Ibn Sino va Abu Rayhon Beruniy", correct = true},
+}
+},
+{
+question = "YUNESKOning Markaziy Osiyo tadqiqotlari xalqaro instituti qaysi shaharda va qaysi yilda tashkil etilgan?",
+answers = {
+{text = "Toshkentda, 1993-yilda", correct = false},
+{text = "Buxoroda, 1997-yilda", correct = false},
+{text = "Xivada, 2000-yilda", correct = false},
+{text = "Samarqandda, 1995-yilda", correct = true},
+}
+},
+{
+question = "Muqaddas Usmon mus'hafi va Fanlar akademiyasi Sharqshunoslik institutidagi qo'lyozmalar YUNESKOning qaysi dasturiga kiritilgan?",
+answers = {
+{text = "Nomoddiy madaniy meros ro'yxatiga", correct = false},
+{text = "Birlashgan maktablar tarmog'iga", correct = false},
+{text = "Ijodkor shaharlar tarmog'iga", correct = false},
+{text = "\"Jahon xotirasi\" dasturiga", correct = true},
+}
+},
+{
+question = "\"Buxoro amiri qushbegi devonxonasi\" deb nomlangan arxiv fondi qaysi dasturga kiritilgan?",
+answers = {
+{text = "Nomoddiy madaniy meros ro'yxatiga", correct = false},
+{text = "Ijodkor shaharlar tarmog'iga", correct = false},
+{text = "Birlashgan maktablar tarmog'iga", correct = false},
+{text = "\"Jahon xotirasi\" dasturiga", correct = true},
+}
+},
+{
+question = "\"Shashmaqom\", \"Askiya\", \"Navro'z\", \"Lazgi\" kabi qadriyatlar YUNESKOning qaysi ro'yxatiga kiritilgan?",
+answers = {
+{text = "\"Jahon xotirasi\" dasturiga", correct = false},
+{text = "Ijodkor shaharlar tarmog'iga", correct = false},
+{text = "Birlashgan maktablar tarmog'iga", correct = false},
+{text = "Nomoddiy madaniy meros ro'yxatiga", correct = true},
+}
+},
+{
+question = "Mirzo Ulug'bek tavalludining 600 yilligi YUNESKO hamkorligida qaysi yilda nishonlangan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "1994-yilda", correct = true},
+}
+},
+{
+question = "Amir Temur tavalludining 660 yilligi YUNESKO hamkorligida qaysi yilda nishonlangan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "2000-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "Imom Buxoriy tavalludining 1225 yilligi qaysi yilda nishonlangan?",
+answers = {
+{text = "1994-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "2000-yilda", correct = false},
+{text = "1998-yilda", correct = true},
+}
+},
+{
+question = "Abu Rayhon Beruniy tavalludining 1050 yilligi qaysi yilda nishonlangan?",
+answers = {
+{text = "2018-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2024-yilda", correct = true},
+}
+},
+{
+question = "\"Sharq taronalari\" xalqaro musiqa festivali qaysi yildan buyon Samarqandda o'tkazilib kelinmoqda?",
+answers = {
+{text = "1993-yildan", correct = false},
+{text = "1995-yildan", correct = false},
+{text = "2000-yildan", correct = false},
+{text = "1997-yildan", correct = true},
+}
+},
+{
+question = "2023-yilda qaysi shahar YUNESKOning \"Ijodkor shaharlar tarmog'i\"ga kiritildi?",
+answers = {
+{text = "Toshkent", correct = false},
+{text = "Samarqand", correct = false},
+{text = "Xiva", correct = false},
+{text = "Buxoro", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev qaysi yillarda YUNESKO bosh qarorgohida bo'lgan?",
+answers = {
+{text = "2017- va 2022-yillarda", correct = false},
+{text = "2019- va 2023-yillarda", correct = false},
+{text = "2016- va 2020-yillarda", correct = false},
+{text = "2018- va 2025-yillarda", correct = true},
+}
+},
+{
+question = "YUNESKO Bosh direktori kim hisoblanadi?",
+answers = {
+{text = "Kofi Annan", correct = false},
+{text = "Antoniu Guterrish", correct = false},
+{text = "Pan Gi Mun", correct = false},
+{text = "Odri Azule", correct = true},
+}
+},
+{
+question = "YUNESKO Bosh direktori Odri Azule qaysi yillarda O'zbekistonga tashrif buyurgan?",
+answers = {
+{text = "2017- va 2020-yillarda", correct = false},
+{text = "2021- va 2023-yillarda", correct = false},
+{text = "2018- va 2024-yillarda", correct = false},
+{text = "2019- va 2022-yillarda", correct = true},
+}
+},
+{
+question = "YUNESKO bilan hamkorlikda Buxoroda qanday festival tashkil etiladi?",
+answers = {
+{text = "\"Atlas bayrami\"", correct = false},
+{text = "\"Sharq taronalari\" festivali", correct = false},
+{text = "Xalqaro maqom san'ati forumi", correct = false},
+{text = "\"Ipak va ziravorlar\" festivali", correct = true},
+}
+},
+{
+question = "Marg'ilonda YUNESKO hamkorligida qanday tadbir o'tkaziladi?",
+answers = {
+{text = "\"Ipak va ziravorlar\" festivali", correct = false},
+{text = "Xalqaro maqom san'ati forumi", correct = false},
+{text = "\"Sharq taronalari\" festivali", correct = false},
+{text = "\"Atlas bayrami\" festivali", correct = true},
+}
+},
+{
+question = "Shahrisabzda YUNESKO hamkorligida qanday tadbir tashkil etiladi?",
+answers = {
+{text = "\"Atlas bayrami\"", correct = false},
+{text = "\"Ipak va ziravorlar\" festivali", correct = false},
+{text = "\"Sharq taronalari\" festivali", correct = false},
+{text = "Xalqaro maqom san'ati forumi", correct = true},
+}
+},
+{
+question = "YUNESKO qaysi sanada tashkil topgan?",
+answers = {
+{text = "1945-yil 24-oktyabrda", correct = false},
+{text = "1948-yil 10-dekabrda", correct = false},
+{text = "1950-yil 1-yanvarda", correct = false},
+{text = "1945-yil 16-noyabrda", correct = true},
+}
+},
+{
+question = "1991-yil 8-dekabrda Rossiya, Belarus va Ukraina rahbarlari nima to'g'risida bitim imzoladilar?",
+answers = {
+{text = "Iqtisodiy ittifoq tuzish to'g'risida", correct = false},
+{text = "Harbiy ittifoq tuzish to'g'risida", correct = false},
+{text = "Yagona valyuta joriy etish to'g'risida", correct = false},
+{text = "O'zaro hamdo'stlik tuzish to'g'risida", correct = true},
+}
+},
+{
+question = "Mustaqil Davlatlar Hamdo'stligi (MDH) qaysi shaharda tashkil etilgan?",
+answers = {
+{text = "Minskda", correct = false},
+{text = "Moskvada", correct = false},
+{text = "Toshkentda", correct = false},
+{text = "Olmaotada", correct = true},
+}
+},
+{
+question = "MDH qaysi sanada tashkil etilgan?",
+answers = {
+{text = "1991-yil 8-dekabrda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1992-yil 2-martda", correct = false},
+{text = "1991-yil 21-dekabrda", correct = true},
+}
+},
+{
+question = "Olmaotada MDHni tashkil etishda nechta mustaqil davlat rahbari ishtirok etgan?",
+answers = {
+{text = "To'qqiz davlat", correct = false},
+{text = "O'n davlat", correct = false},
+{text = "O'n ikki davlat", correct = false},
+{text = "O'n bir davlat", correct = true},
+}
+},
+{
+question = "MDHning bosh organi - Ijroiya qo'mitasi qarorgohi qaysi shaharda joylashgan?",
+answers = {
+{text = "Moskvada", correct = false},
+{text = "Sankt-Peterburgda", correct = false},
+{text = "Kievda", correct = false},
+{text = "Minskda", correct = true},
+}
+},
+{
+question = "MDHning ayrim tuzilmalari qaysi shaharda joylashgan?",
+answers = {
+{text = "Minskda", correct = false},
+{text = "Olmaotada", correct = false},
+{text = "Toshkentda", correct = false},
+{text = "Moskvada", correct = true},
+}
+},
+{
+question = "MDH nizomi qaysi yili va qaysi shaharda qabul qilingan?",
+answers = {
+{text = "1991-yili Olmaotada", correct = false},
+{text = "1996-yili Moskvada", correct = false},
+{text = "2001-yili Toshkentda", correct = false},
+{text = "1993-yili Minskda", correct = true},
+}
+},
+{
+question = "O'zbekiston qaysi hujjatga binoan MDHga a'zo bo'lgan?",
+answers = {
+{text = "Minsk bitimiga", correct = false},
+{text = "Toshkent deklaratsiyasiga", correct = false},
+{text = "Moskva shartnomasiga", correct = false},
+{text = "Olmaota Deklaratsiyasiga", correct = true},
+}
+},
+{
+question = "Qaysi yildan O'zbekiston va MDH hamkorligining yangi sahifalari ochildi?",
+answers = {
+{text = "2010-yildan", correct = false},
+{text = "2016-yildan", correct = false},
+{text = "2020-yildan", correct = false},
+{text = "2017-yildan", correct = true},
+}
+},
+{
+question = "O'zbekiston qaysi yilda MDHga raislik qilgan?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = true},
+}
+},
+{
+question = "1996-yili Xitoy, Rossiya, Qozog'iston, Qirg'iziston va Tojikiston Shanxay shahrida qanday bitim imzoladi?",
+answers = {
+{text = "Savdo bitimi", correct = false},
+{text = "Harbiy hamkorlik bitimi", correct = false},
+{text = "Iqtisodiy ittifoq bitimi", correct = false},
+{text = "Chegara hududlarida o'zaro ishonchni mustahkamlash bitimi", correct = true},
+}
+},
+{
+question = "1996-yildagi bitim asosida qanday muloqot mexanizmi shakllangan?",
+answers = {
+{text = "\"Shanxay to'rtligi\"", correct = false},
+{text = "\"Osiyo beshligi\"", correct = false},
+{text = "\"Yevrosiyo beshligi\"", correct = false},
+{text = "\"Shanxay beshligi\"", correct = true},
+}
+},
+{
+question = "Shanxay hamkorlik tashkiloti (SHHT) O'zbekiston a'zo bo'lishi bilan qaysi yilda qayta tashkil etilgan?",
+answers = {
+{text = "1996-yilda", correct = false},
+{text = "1998-yilda", correct = false},
+{text = "2005-yilda", correct = false},
+{text = "2001-yilda", correct = true},
+}
+},
+{
+question = "SHHTning rasmiy tillari qaysilar?",
+answers = {
+{text = "Ingliz va rus tillari", correct = false},
+{text = "Xitoy va ingliz tillari", correct = false},
+{text = "Rus va o'zbek tillari", correct = false},
+{text = "Xitoy va rus tillari", correct = true},
+}
+},
+{
+question = "SHHT qarorgohi qaysi shaharda joylashgan?",
+answers = {
+{text = "Moskvada", correct = false},
+{text = "Ostonada", correct = false},
+{text = "Toshkentda", correct = false},
+{text = "Pekinda", correct = true},
+}
+},
+{
+question = "2025-yil holatiga ko'ra, SHHTga nechta davlat a'zo?",
+answers = {
+{text = "Sakkiz davlat", correct = false},
+{text = "To'qqiz davlat", correct = false},
+{text = "O'n ikki davlat", correct = false},
+{text = "O'n davlat", correct = true},
+}
+},
+{
+question = "SHHTda Mo'g'uliston va Afg'oniston qanday maqomga ega?",
+answers = {
+{text = "To'la huquqli a'zo", correct = false},
+{text = "Muloqot bo'yicha sherik", correct = false},
+{text = "Assotsial a'zo", correct = false},
+{text = "Kuzatuvchi", correct = true},
+}
+},
+{
+question = "O'zbekiston SHHT faoliyatida qaysi yildan ishtirok etib kelmoqda?",
+answers = {
+{text = "1996-yildan", correct = false},
+{text = "1998-yildan", correct = false},
+{text = "2005-yildan", correct = false},
+{text = "2001-yildan", correct = true},
+}
+},
+{
+question = "SHHTning Mintaqaviy aksilterror tuzilmasi qaysi shaharda faoliyat yuritadi?",
+answers = {
+{text = "Pekinda", correct = false},
+{text = "Moskvada", correct = false},
+{text = "Ostonada", correct = false},
+{text = "Toshkentda", correct = true},
+}
+},
+{
+question = "O'zbekiston 2001-2025-yillar oralig'ida necha marotaba SHHTga raislik qilgan?",
+answers = {
+{text = "Ikki marotaba", correct = false},
+{text = "Uch marotaba", correct = false},
+{text = "Besh marotaba", correct = false},
+{text = "To'rt marotaba", correct = true},
+}
+},
+{
+question = "2009-yili SHHTga raisligi davrida O'zbekiston tashabbusi bilan qanday rezolyutsiya qabul qilingan?",
+answers = {
+{text = "Markaziy Osiyo xavfsizligi to'g'risidagi rezolyutsiya", correct = false},
+{text = "Yadrosiz hudud to'g'risidagi rezolyutsiya", correct = false},
+{text = "Savdo hamkorligi to'g'risidagi rezolyutsiya", correct = false},
+{text = "BMT va SHHT hamkorligi to'g'risidagi rezolyutsiya", correct = true},
+}
+},
+{
+question = "2016-yili O'zbekiston raisligida bo'lib o'tgan Toshkent sammitida qaysi ikki davlatning SHHTga a'zo bo'lishi bo'yicha hujjatlar imzolandi?",
+answers = {
+{text = "Eron va Belarus", correct = false},
+{text = "Mo'g'uliston va Afg'oniston", correct = false},
+{text = "Turkiya va Vengriya", correct = false},
+{text = "Hindiston va Pokiston", correct = true},
+}
+},
+{
+question = "Hindiston va Pokiston SHHTga rasman qaysi yilgi sammitda a'zo bo'ldi?",
+answers = {
+{text = "2016-yilgi Toshkent sammitida", correct = false},
+{text = "2018-yilgi Toshkent sammitida", correct = false},
+{text = "2022-yilgi Samarqand sammitida", correct = false},
+{text = "2017-yilgi Ostona sammitida", correct = true},
+}
+},
+{
+question = "SHHTning Xalq diplomatiyasi markazi qaysi shaharda va qaysi yilda tashkil etilgan?",
+answers = {
+{text = "Pekinda, 2016-yilda", correct = false},
+{text = "Samarqandda, 2020-yilda", correct = false},
+{text = "Ostonada, 2022-yilda", correct = false},
+{text = "Toshkentda, 2018-yilda", correct = true},
+}
+},
+{
+question = "SHHTning qaysi yilgi sammiti Samarqandda bo'lib o'tgan va o'zbek diplomatiyasining muhim yutuqlaridan biri bo'lgan?",
+answers = {
+{text = "2018-yilgi sammit", correct = false},
+{text = "2020-yilgi sammit", correct = false},
+{text = "2024-yilgi sammit", correct = false},
+{text = "2022-yilgi sammit", correct = true},
+}
+},
+{
+question = "Samarqand sammiti qaysi ikki tushunchani uyg'unlashtirdi?",
+answers = {
+{text = "\"Buyuk ipak yo'li\" va \"Yangi Renessans\"", correct = false},
+{text = "\"Markaziy Osiyo\" va \"Yevrosiyo\"", correct = false},
+{text = "\"Do'stlik\" va \"Hamjihatlik\"", correct = false},
+{text = "\"Shanxay ruhi\" va \"Samarqand ruhi\"", correct = true},
+}
+},
+{
+question = "2025-yil Prezident Shavkat Mirziyoyev SHHT yig'ilishida qaysi Xitoy shahrida ishtirok etdi?",
+answers = {
+{text = "Pekinda", correct = false},
+{text = "Shanxayda", correct = false},
+{text = "Guanjjouda", correct = false},
+{text = "Tyanszinda", correct = true},
+}
+},
+{
+question = "SHHT davlatlarining umumiy hududi Yevrosiyo hududining necha foizini tashkil etadi?",
+answers = {
+{text = "50 foizini", correct = false},
+{text = "60 foizini", correct = false},
+{text = "70 foizini", correct = false},
+{text = "65 foizini", correct = true},
+}
+},
+{
+question = "Turkiy davlatlar tashkiloti dastlab 2009-yilda qanday nom bilan tashkil etilgan?",
+answers = {
+{text = "Turkiy davlatlar ittifoqi", correct = false},
+{text = "Turkiy hamjamiyat tashkiloti", correct = false},
+{text = "Turkiy xalqlar kengashi", correct = false},
+{text = "Turkiy tilli davlatlar kengashi", correct = true},
+}
+},
+{
+question = "Tashkilotning nomi Turkiy davlatlar tashkiloti (TDT) deb qaysi yilda o'zgartirilgan?",
+answers = {
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2021-yilda", correct = true},
+}
+},
+{
+question = "TDTning ishchi tillari qatoriga qaysi til kirmaydi?",
+answers = {
+{text = "Turk va o'zbek tillari", correct = false},
+{text = "Ozarbayjon va qirg'iz tillari", correct = false},
+{text = "Fors va arab tillari", correct = true},
+{text = "Qozoq va ingliz tillari", correct = false},
+}
+},
+{
+question = "O'zbekiston Turkiy davlatlar tashkilotiga qaysi yilda a'zo bo'lgan?",
+answers = {
+{text = "2017-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2019-yilda", correct = true},
+}
+},
+{
+question = "2020-yilda qaysi shahar \"Turkiy dunyo madaniyati poytaxti\" deb e'lon qilingan?",
+answers = {
+{text = "Samarqand", correct = false},
+{text = "Buxoro", correct = false},
+{text = "Toshkent", correct = false},
+{text = "Xiva", correct = true},
+}
+},
+{
+question = "TDT doirasida Alisher Navoiy nomidagi xalqaro mukofot qaysi yilda ta'sis etilgan?",
+answers = {
+{text = "2019-yilda", correct = false},
+{text = "2020-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2021-yilda", correct = true},
+}
+},
+{
+question = "Alisher Navoiy nomidagi xalqaro mukofot ilk bor kimga berilgan?",
+answers = {
+{text = "Aziz Sanjarga", correct = false},
+{text = "Odri Azulega", correct = false},
+{text = "Islom Karimovga", correct = false},
+{text = "Chingiz Aytmatovga", correct = true},
+}
+},
+{
+question = "Alisher Navoiy nomidagi xalqaro mukofotga 2025-yili kim sazovor bo'ldi?",
+answers = {
+{text = "Chingiz Aytmatov", correct = false},
+{text = "Odri Azule", correct = false},
+{text = "Kofi Annan", correct = false},
+{text = "Aziz Sanjar", correct = true},
+}
+},
+{
+question = "Aziz Sanjar qaysi soha vakili va qanday xalqaro mukofot sohibi?",
+answers = {
+{text = "Fizik, Fields mukofoti sohibi", correct = false},
+{text = "Tarixchi, Pulitser mukofoti sohibi", correct = false},
+{text = "Shifokor, Templton mukofoti sohibi", correct = false},
+{text = "Biokimyogar, Nobel mukofoti sovrindori", correct = true},
+}
+},
+{
+question = "2022-yili Samarqandda bo'lib o'tgan TDT sammitida qanday deklaratsiya qabul qilingan?",
+answers = {
+{text = "Toshkent deklaratsiyasi", correct = false},
+{text = "Xiva deklaratsiyasi", correct = false},
+{text = "Buxoro deklaratsiyasi", correct = false},
+{text = "Samarqand deklaratsiyasi", correct = true},
+}
+},
+{
+question = "O'zbekiston tashabbusi bilan 2023-yil qanday yil deb e'lon qilindi?",
+answers = {
+{text = "\"Turkiy hamjihatlik yili\"", correct = false},
+{text = "\"Turkiy do'stlik yili\"", correct = false},
+{text = "\"Turkiy birlik yili\"", correct = false},
+{text = "\"Turkiy sivilizatsiyaning yuksalish yili\"", correct = true},
+}
+},
+{
+question = "2023-yilda qaysi shahar \"Turkiy sivilizatsiya poytaxti\" deb e'lon qilindi?",
+answers = {
+{text = "Buxoro", correct = false},
+{text = "Xiva", correct = false},
+{text = "Toshkent", correct = false},
+{text = "Samarqand", correct = true},
+}
+},
+{
+question = "Buxoro shahri qanday maqomga ega bo'lgan?",
+answers = {
+{text = "\"Turkiy sivilizatsiya poytaxti\"", correct = false},
+{text = "\"Turkiy dunyo madaniyati poytaxti\"", correct = false},
+{text = "\"Turkiy adabiyot poytaxti\"", correct = false},
+{text = "\"Turkiy dunyo yoshlar poytaxti\"", correct = true},
+}
+},
+{
+question = "Madaniy hamkorlik doirasida nechta jildli \"Turkiy adabiyot durdonalari\" to'plami o'zbek tilida nashr etilgan?",
+answers = {
+{text = "50 jildli", correct = false},
+{text = "80 jildli", correct = false},
+{text = "120 jildli", correct = false},
+{text = "100 jildli", correct = true},
+}
+},
+{
+question = "2025-yili Prezident Shavkat Mirziyoyev TDTning norasmiy sammitida qaysi shaharda ishtirok etdi?",
+answers = {
+{text = "Ankarada", correct = false},
+{text = "Bakuda", correct = false},
+{text = "Bishkekda", correct = false},
+{text = "Budapeshtda", correct = true},
+}
+},
+{
+question = "Turkiy davlatlar tashkilotiga qaysi davlat kuzatuvchi a'zo sifatida kiradi?",
+answers = {
+{text = "Qozog'iston", correct = false},
+{text = "Qirg'iziston", correct = false},
+{text = "O'zbekiston", correct = false},
+{text = "Turkmaniston", correct = true},
+}
+},
+{
+question = "Mintaqaviy tashkilotlar qanday tuzilmalar deb ataladi?",
+answers = {
+{text = "Butun dunyo miqyosida faoliyat yurituvchi tuzilmalar", correct = false},
+{text = "Faqat ikki davlat o'rtasidagi tuzilmalar", correct = false},
+{text = "Faqat harbiy maqsaddagi tuzilmalar", correct = false},
+{text = "Muayyan qit'a, mintaqa yoki hudud miqyosida faoliyat yurituvchi tuzilmalar", correct = true},
+}
+},
+}

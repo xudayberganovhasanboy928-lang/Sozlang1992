@@ -1,0 +1,722 @@
+questions = {
+{
+question = "O'zbekiston SSRning Mustaqillik deklaratsiyasi qaysi sanada qabul qilindi?",
+answers = {
+{text = "1990-yil 20-iyunda", correct = true},
+{text = "1991-yil 20-iyunda", correct = false},
+{text = "1990-yil 24-martda", correct = false},
+{text = "1991-yil 31-avgustda", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasining davlat mustaqilligi qaysi kuni e'lon qilindi?",
+answers = {
+{text = "1990-yil 20-iyunda", correct = false},
+{text = "1991-yil 1-sentyabrda", correct = false},
+{text = "1991-yil 31-avgustda", correct = true},
+{text = "1991-yil 29-dekabrda", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasining davlat mustaqilligini kim e'lon qildi?",
+answers = {
+{text = "Shukrullo Mirsaidov", correct = false},
+{text = "Islom Karimov", correct = true},
+{text = "Shavkat Mirziyoyev", correct = false},
+{text = "Abdulhoshim Mutalov", correct = false},
+}
+},
+{
+question = "\"O'zbekiston Respublikasining davlat mustaqilligi asoslari to'g'risida\"gi qonun necha moddadan iborat edi?",
+answers = {
+{text = "15 moddadan", correct = false},
+{text = "20 moddadan", correct = false},
+{text = "17 moddadan", correct = true},
+{text = "25 moddadan", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi Konstitutsiyasini tayyorlash uchun tuzilgan komissiya necha a'zodan iborat bo'lgan?",
+answers = {
+{text = "54 a'zodan", correct = false},
+{text = "64 a'zodan", correct = true},
+{text = "74 a'zodan", correct = false},
+{text = "84 a'zodan", correct = false},
+}
+},
+{
+question = "Konstitutsiyani tayyorlash bo'yicha komissiya qaysi sanada tuzilgan edi?",
+answers = {
+{text = "1991-yil 31-avgustda", correct = false},
+{text = "1992-yil 8-dekabrda", correct = false},
+{text = "1990-yil 20-iyunda", correct = true},
+{text = "1991-yil 29-dekabrda", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi Konstitutsiyasi qaysi sanada qabul qilindi?",
+answers = {
+{text = "1992-yil 26-sentyabrda", correct = false},
+{text = "1991-yil 31-avgustda", correct = false},
+{text = "1993-yil 14-yanvarda", correct = false},
+{text = "1992-yil 8-dekabrda", correct = true},
+}
+},
+{
+question = "1-sentyabr sanasi O'zbekistonda qanday bayram sifatida belgilangan?",
+answers = {
+{text = "Konstitutsiya kuni", correct = false},
+{text = "Mustaqillik kuni", correct = true},
+{text = "Xotira va qadrlash kuni", correct = false},
+{text = "Til bayrami kuni", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasining hozirgi davlat madhiyasi so'zlari va musiqasi kimlarga tegishli?",
+answers = {
+{text = "Mirpo'lat Mirzo va Rustam Abdullayevga", correct = false},
+{text = "Turob To'la va Temur Fattohga", correct = false},
+{text = "Abdulla Oripov va Mutal Burhonovga", correct = true},
+{text = "Abdulla Oripov va Baxtiyor Aliyevga", correct = false},
+}
+},
+{
+question = "Turkiston Muxtoriyati davrida yaratilgan zamonaviy ko'rinishdagi ilk davlat madhiyasi matnini kim yozgan?",
+answers = {
+{text = "Abdulla Oripov", correct = false},
+{text = "Turob To'la", correct = false},
+{text = "Mutal Burhonov", correct = false},
+{text = "Abdulhamid Cho'lpon", correct = true},
+}
+},
+{
+question = "O'zbekiston SSR madhiyasi Sovet Ittifoqi davrida qaysi yilda qabul qilingan?",
+answers = {
+{text = "1937-yilda", correct = false},
+{text = "1947-yilda", correct = true},
+{text = "1957-yilda", correct = false},
+{text = "1967-yilda", correct = false},
+}
+},
+{
+question = "O'zbekiston SSRda Prezident lavozimi qaysi sanada ta'sis etilgan?",
+answers = {
+{text = "1990-yil 24-martda", correct = true},
+{text = "1991-yil 31-avgustda", correct = false},
+{text = "1990-yil 20-iyunda", correct = false},
+{text = "1992-yil 8-dekabrda", correct = false},
+}
+},
+{
+question = "1991-yil 29-dekabrda bo'lib o'tgan saylovda saylovchilarning necha foizi Islom Karimovga ovoz berdi?",
+answers = {
+{text = "76 foizi", correct = false},
+{text = "96 foizi", correct = false},
+{text = "86 foizi", correct = true},
+{text = "66 foizi", correct = false},
+}
+},
+{
+question = "1995-yil 26-martda o'tkazilgan referendum asosida Prezident vakolat muddati qaysi yilgacha uzaytirildi?",
+answers = {
+{text = "1998-yilgacha", correct = false},
+{text = "2000-yilgacha", correct = true},
+{text = "2002-yilgacha", correct = false},
+{text = "2005-yilgacha", correct = false},
+}
+},
+{
+question = "Islom Karimov vafotidan so'ng Prezident vazifa va vakolatlarini vaqtincha kim bajardi?",
+answers = {
+{text = "Abdulla Aripov", correct = false},
+{text = "Nigmatilla Yuldashev", correct = false},
+{text = "Shavkat Mirziyoyev", correct = true},
+{text = "O'tkir Sultonov", correct = false},
+}
+},
+{
+question = "2016-yil 4-dekabrda bo'lib o'tgan navbatdan tashqari Prezidentlik saylovida Shavkat Mirziyoyevga saylovchilarning necha foizi ovoz berdi?",
+answers = {
+{text = "78,61 foizi", correct = false},
+{text = "90,12 foizi", correct = false},
+{text = "88,61 foizi", correct = true},
+{text = "86,00 foizi", correct = false},
+}
+},
+{
+question = "Mustaqillikning dastlabki yillarida vitse-prezident lavozimiga kim tayinlangan edi?",
+answers = {
+{text = "Abdulhoshim Mutalov", correct = false},
+{text = "Shukrullo Mirsaidov", correct = true},
+{text = "O'tkir Sultonov", correct = false},
+{text = "Abdulla Aripov", correct = false},
+}
+},
+{
+question = "Vitse-prezidentlik lavozimi tugatilib, uning o'rniga Bosh vazir lavozimi qaysi yili joriy etildi?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+{text = "2003-yilda", correct = false},
+}
+},
+{
+question = "1995-2003-yillarda O'zbekiston Respublikasi Bosh vaziri lavozimida kim ishlagan?",
+answers = {
+{text = "Abdulhoshim Mutalov", correct = false},
+{text = "Shavkat Mirziyoyev", correct = false},
+{text = "Abdulla Aripov", correct = false},
+{text = "O'tkir Sultonov", correct = true},
+}
+},
+{
+question = "2003-2016-yillarda O'zbekiston Respublikasi Bosh vaziri lavozimida kim ishlagan?",
+answers = {
+{text = "O'tkir Sultonov", correct = false},
+{text = "Shavkat Mirziyoyev", correct = true},
+{text = "Abdulla Aripov", correct = false},
+{text = "Abdulhoshim Mutalov", correct = false},
+}
+},
+{
+question = "O'zbekistonda ikki palatali parlament tizimi qaysi yilgi referendumdan so'ng joriy etildi?",
+answers = {
+{text = "1995-yilgi", correct = false},
+{text = "2011-yilgi", correct = false},
+{text = "2023-yilgi", correct = false},
+{text = "2002-yilgi", correct = true},
+}
+},
+{
+question = "Prezidentning hukumat raisi sifatidagi vakolati qaysi yilda Konstitutsiyadan chiqarildi?",
+answers = {
+{text = "2003-yilda", correct = false},
+{text = "2007-yilda", correct = true},
+{text = "2011-yilda", correct = false},
+{text = "2016-yilda", correct = false},
+}
+},
+{
+question = "2011-yilda Konstitutsiyaga kiritilgan o'zgarishga ko'ra, Bosh vazir lavozimiga nomzodni kim ko'rsatadi?",
+answers = {
+{text = "Prezident", correct = false},
+{text = "Senat", correct = false},
+{text = "Parlamentda eng ko'p o'rin olgan partiya", correct = true},
+{text = "Markaziy saylov komissiyasi", correct = false},
+}
+},
+{
+question = "O'zbekiston tarixida ilk bor 2015-yilda Bosh vazir lavozimiga nomzodni qaysi siyosiy kuch ilgari surdi?",
+answers = {
+{text = "Xalq demokratik partiyasi", correct = false},
+{text = "\"Adolat\" sotsial-demokratik partiyasi", correct = false},
+{text = "\"Milliy tiklanish\" demokratik partiyasi", correct = false},
+{text = "O'zbekiston Liberal-demokratik partiyasi", correct = true},
+}
+},
+{
+question = "O'zbekiston parlamenti dastlab qanday nomda faoliyat yuritgan?",
+answers = {
+{text = "Oliy Majlis", correct = false},
+{text = "Vazirlar Mahkamasi", correct = false},
+{text = "Oliy Kengash", correct = true},
+{text = "Davlat Kengashi", correct = false},
+}
+},
+{
+question = "2019-yil 22-dekabrda Oliy Majlis Qonunchilik palatasiga saylov qaysi shior ostida o'tkazildi?",
+answers = {
+{text = "\"O'zbekiston - 2030\"", correct = false},
+{text = "\"Kuchli davlatdan kuchli fuqarolik jamiyati sari\"", correct = false},
+{text = "\"Yangi O'zbekiston. Yangi saylovlar\"", correct = true},
+{text = "\"Xalq bilan muloqot va inson manfaatlari yili\"", correct = false},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev Oliy Majlisga murojaatnomasini qaysi sanada yo'lladi?",
+answers = {
+{text = "2019-yil 22-dekabrda", correct = false},
+{text = "2020-yil 24-yanvarda", correct = true},
+{text = "2017-yil 8-sentyabrda", correct = false},
+{text = "2021-yil 4-dekabrda", correct = false},
+}
+},
+{
+question = "2017-yilgi sud-huquq islohotlariga ko'ra, sud qarorlarini ko'rib chiqishning necha bosqichli tizimi joriy etildi?",
+answers = {
+{text = "Ikki bosqichli", correct = false},
+{text = "To'rt bosqichli", correct = false},
+{text = "Olti bosqichli", correct = false},
+{text = "Uch bosqichli", correct = true},
+}
+},
+{
+question = "2017-yilgi islohotlar natijasida Oliy sud va Oliy xo'jalik sudi qaysi organga birlashtirildi?",
+answers = {
+{text = "Konstitutsiyaviy sudga", correct = false},
+{text = "Adliya vazirligiga", correct = false},
+{text = "Oliy sudga", correct = true},
+{text = "Bosh prokuraturaga", correct = false},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev mahkumlarni afv etish to'g'risidagi farmonni ilk bor qaysi yili e'lon qildi?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "2017-yilda", correct = true},
+{text = "2019-yilda", correct = false},
+}
+},
+{
+question = "1990-1994-yillarda O'zbekiston parlamenti - Oliy Kengash necha nafar deputatdan iborat bir palatali tarzda faoliyat yuritgan?",
+answers = {
+{text = "250 nafar", correct = false},
+{text = "150 nafar", correct = false},
+{text = "500 nafar", correct = true},
+{text = "450 nafar", correct = false},
+}
+},
+{
+question = "2005-2023-yillarda Oliy Majlis necha nafar deputat va senatordan iborat ikki palatali tizimda faoliyat yuritgan?",
+answers = {
+{text = "250 deputat, 100 senator", correct = false},
+{text = "150 deputat, 84 senator", correct = false},
+{text = "120 deputat, 100 senator", correct = false},
+{text = "150 deputat, 100 senator", correct = true},
+}
+},
+{
+question = "O'zbekistonda fuqarolik jamiyatini shakllantirish yo'lining birinchi bosqichi qaysi yillarni qamrab oladi?",
+answers = {
+{text = "2001-2010-yillarni", correct = false},
+{text = "1991-2000-yillarni", correct = true},
+{text = "2011-2016-yillarni", correct = false},
+{text = "2016-2025-yillarni", correct = false},
+}
+},
+{
+question = "Mamlakatni faol demokratik yangilash davri sifatida tarixda qolgan ikkinchi bosqich qaysi yillarga to'g'ri keladi?",
+answers = {
+{text = "1991-2000-yillarga", correct = false},
+{text = "2011-2016-yillarga", correct = false},
+{text = "2016-2025-yillarga", correct = false},
+{text = "2001-2010-yillarga", correct = true},
+}
+},
+{
+question = "Fuqarolik jamiyati institutlarining ijtimoiy-iqtisodiy faolligi oshgan uchinchi bosqich qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "2001-2010-yillar", correct = false},
+{text = "1991-2000-yillar", correct = false},
+{text = "2011-2016-yillar", correct = true},
+{text = "2016-2024-yillar", correct = false},
+}
+},
+{
+question = "2017-2024-yillarda fuqarolik jamiyatini qo'llab-quvvatlashga qaratilgan qancha hujjat qabul qilindi?",
+answers = {
+{text = "40 dan ortiq", correct = false},
+{text = "80 dan ortiq", correct = false},
+{text = "100 dan ortiq", correct = false},
+{text = "60 dan ortiq", correct = true},
+}
+},
+{
+question = "O'zbekistonda faoliyati yo'lga qo'yilgan birinchi siyosiy partiya - Xalq demokratik partiyasi qaysi yili tuzilgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1991-yilda", correct = true},
+{text = "1995-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+}
+},
+{
+question = "\"Vatan taraqqiyoti\" partiyasi qaysi yilda tashkil topgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "\"Vatan taraqqiyoti\" partiyasi 2000-yilda qaysi partiya tarkibiga qo'shildi?",
+answers = {
+{text = "\"Adolat\" sotsial-demokratik partiyasiga", correct = false},
+{text = "\"Milliy tiklanish\" demokratik partiyasiga", correct = false},
+{text = "\"Fidokorlar\" milliy demokratik partiyasiga", correct = true},
+{text = "O'zbekiston Liberal-demokratik partiyasiga", correct = false},
+}
+},
+{
+question = "O'zbekistondagi ilk sotsial-demokratik partiya - \"Adolat\" partiyasi qaysi yili tuzilgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1995-yilda", correct = true},
+{text = "1999-yilda", correct = false},
+{text = "2003-yilda", correct = false},
+}
+},
+{
+question = "\"Milliy tiklanish\" demokratik partiyasi qaysi yilda tashkil topgan?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "2003-yilda", correct = false},
+{text = "1995-yilda", correct = true},
+}
+},
+{
+question = "\"Fidokorlar\" milliy demokratik partiyasi 2008-yilda qaysi partiya bilan birlashtirildi?",
+answers = {
+{text = "\"Adolat\" sotsial-demokratik partiyasi bilan", correct = false},
+{text = "\"Milliy tiklanish\" demokratik partiyasi bilan", correct = true},
+{text = "Xalq demokratik partiyasi bilan", correct = false},
+{text = "O'zbekiston Liberal-demokratik partiyasi bilan", correct = false},
+}
+},
+{
+question = "O'zbekiston Liberal-demokratik partiyasi (O'zLiDeP) Ta'sis qurultoyi qachon bo'lib o'tgan?",
+answers = {
+{text = "1999-yil noyabrda", correct = false},
+{text = "1995-yil noyabrda", correct = false},
+{text = "2008-yil noyabrda", correct = false},
+{text = "2003-yil noyabrda", correct = true},
+}
+},
+{
+question = "Ekologik partiya rasmiy ravishda qaysi yilda ro'yxatdan o'tib, ilk bor parlament saylovida qatnashdi?",
+answers = {
+{text = "2008-yilda", correct = false},
+{text = "2011-yilda", correct = false},
+{text = "2003-yilda", correct = false},
+{text = "2019-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasi Markaziy saylov komissiyasi (MSK) qaysi yildan boshlab mustaqil organ sifatida faoliyat ko'rsatadi?",
+answers = {
+{text = "1995-yildan", correct = false},
+{text = "1998-yildan", correct = true},
+{text = "2002-yildan", correct = false},
+{text = "2005-yildan", correct = false},
+}
+},
+{
+question = "O'zbekistonda o'tkazilgan birinchi referendum qaysi yili bo'lib o'tgan?",
+answers = {
+{text = "1990-yilda", correct = false},
+{text = "1992-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1991-yilda", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasining davlat mustaqilligini ma'qullash masalasi bo'yicha ikkinchi referendum qachon o'tkazilgan?",
+answers = {
+{text = "1991-yil mart oyida", correct = false},
+{text = "1991-yil dekabr oyida", correct = true},
+{text = "1995-yilda", correct = false},
+{text = "2002-yilda", correct = false},
+}
+},
+{
+question = "Prezident vakolat muddatini 2000-yilgacha uzaytirish masalasi qaysi yilgi referendumda ko'tarilgan?",
+answers = {
+{text = "2002-yilgi", correct = false},
+{text = "1991-yilgi", correct = false},
+{text = "2023-yilgi", correct = false},
+{text = "1995-yilgi", correct = true},
+}
+},
+{
+question = "Prezident Shavkat Mirziyoyev O'zbekiston Respublikasini yanada rivojlantirish bo'yicha Harakatlar strategiyasini qaysi yilda e'lon qildi?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2017-yilda", correct = true},
+{text = "2018-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+}
+},
+{
+question = "Harakatlar strategiyasi nechta ustuvor yo'nalishni qamrab olgan?",
+answers = {
+{text = "To'rtta", correct = false},
+{text = "Oltita", correct = false},
+{text = "Uchta", correct = false},
+{text = "Beshta", correct = true},
+}
+},
+{
+question = "2017-yil O'zbekistonda qanday nom bilan atalgan?",
+answers = {
+{text = "\"Faol tadbirkorlik, innovatsion g'oyalar va texnologiyalarni qo'llab-quvvatlash yili\"", correct = false},
+{text = "\"Xalq bilan muloqot va inson manfaatlari yili\"", correct = true},
+{text = "\"Ilm-ma'rifat va raqamli iqtisodiyotni rivojlantirish yili\"", correct = false},
+{text = "\"Faol investitsiyalar va ijtimoiy rivojlanish yili\"", correct = false},
+}
+},
+{
+question = "2021-yil O'zbekistonda qanday nom bilan atalgan?",
+answers = {
+{text = "\"Faol investitsiyalar va ijtimoiy rivojlanish yili\"", correct = false},
+{text = "\"Ilm-ma'rifat va raqamli iqtisodiyotni rivojlantirish yili\"", correct = false},
+{text = "\"Xalq bilan muloqot va inson manfaatlari yili\"", correct = false},
+{text = "\"Yoshlarni qo'llab-quvvatlash va aholi salomatligini mustahkamlash yili\"", correct = true},
+}
+},
+{
+question = "Harakatlar strategiyasi amalga oshirilgan davrda taxminan nechta yangi qonun qabul qilindi?",
+answers = {
+{text = "200 ga yaqin", correct = false},
+{text = "300 ga yaqin", correct = true},
+{text = "400 ga yaqin", correct = false},
+{text = "500 ga yaqin", correct = false},
+}
+},
+{
+question = "Shavkat Mirziyoyev qaysi yilda qayta Prezident etib saylandi va Yangi O'zbekistonning Taraqqiyot strategiyasi e'lon qilindi?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2023-yilda", correct = false},
+{text = "2021-yilda", correct = true},
+}
+},
+{
+question = "\"O'zbekiston - 2030\" strategiyasi qaysi yilda qabul qilindi?",
+answers = {
+{text = "2021-yilda", correct = false},
+{text = "2022-yilda", correct = false},
+{text = "2023-yilda", correct = true},
+{text = "2019-yilda", correct = false},
+}
+},
+{
+question = "Konstitutsiyaviy komissiya qaysi sanada tuzilgan?",
+answers = {
+{text = "2021-yil 20-mayda", correct = false},
+{text = "2023-yil 20-mayda", correct = false},
+{text = "2020-yil 20-mayda", correct = false},
+{text = "2022-yil 20-mayda", correct = true},
+}
+},
+{
+question = "Yangi tahrirdagi Konstitutsiyani qabul qilish bo'yicha referendum qaysi sanada o'tkazildi?",
+answers = {
+{text = "2022-yil 30-aprelda", correct = false},
+{text = "2023-yil 30-aprelda", correct = true},
+{text = "2023-yil 9-iyulda", correct = false},
+{text = "2024-yil 1-mayda", correct = false},
+}
+},
+{
+question = "Yangi tahrirdagi Konstitutsiya qaysi sanadan kuchga kirdi?",
+answers = {
+{text = "2023-yil 30-aprelda", correct = false},
+{text = "2022-yil 1-yanvarda", correct = false},
+{text = "2023-yil 9-iyulda", correct = false},
+{text = "2023-yil 1-mayda", correct = true},
+}
+},
+{
+question = "Umumxalq muhokamasi davrida butun mamlakat bo'ylab nechta uchrashuv va yig'ilish o'tkazildi?",
+answers = {
+{text = "10 mingdan ortiq", correct = false},
+{text = "30 mingdan ortiq", correct = false},
+{text = "5 mingdan ortiq", correct = false},
+{text = "20 mingdan ortiq", correct = true},
+}
+},
+{
+question = "Yangi Konstitutsiyaga ko'ra, davlatning fuqarolar oldidagi ijtimoiy majburiyatlari necha barobar ko'paytirildi?",
+answers = {
+{text = "2 barobar", correct = false},
+{text = "4 barobar", correct = false},
+{text = "5 barobar", correct = false},
+{text = "3 barobar", correct = true},
+}
+},
+{
+question = "Konstitutsiyaning nechanchi moddasiga asosan Prezident muddatidan ilgari saylov o'tkazish tashabbusini ilgari surdi?",
+answers = {
+{text = "118-moddasiga", correct = false},
+{text = "108-moddasiga", correct = false},
+{text = "150-moddasiga", correct = false},
+{text = "128-moddasiga", correct = true},
+}
+},
+{
+question = "Muddatidan ilgari Prezident saylovi qaysi sanada bo'lib o'tdi va unda Shavkat Mirziyoyev g'alaba qozondi?",
+answers = {
+{text = "2023-yil 30-aprelda", correct = false},
+{text = "2023-yil 9-iyulda", correct = true},
+{text = "2022-yil 20-mayda", correct = false},
+{text = "2021-yil 4-dekabrda", correct = false},
+}
+},
+{
+question = "Yangi tahrirdagi Konstitutsiya nechta moddani o'z ichiga oladi?",
+answers = {
+{text = "100 dan ortiq modda", correct = false},
+{text = "200 dan ortiq modda", correct = false},
+{text = "120 dan ortiq modda", correct = false},
+{text = "150 dan ortiq modda", correct = true},
+}
+},
+{
+question = "Umumxalq muhokamasi jarayonida qancha davlatning tajribasi o'rganilgan?",
+answers = {
+{text = "150 ta davlat", correct = false},
+{text = "100 ta davlat", correct = false},
+{text = "50 ta davlat", correct = false},
+{text = "193 ta davlat", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasida Mudofaa ishlari vazirligi qaysi yilda tashkil etildi?",
+answers = {
+{text = "1992-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1991-yilda", correct = true},
+}
+},
+{
+question = "Prezident farmoni bilan Chegara qo'shinlari boshqarmasi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1991-yilda", correct = false},
+{text = "1993-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1992-yilda", correct = true},
+}
+},
+{
+question = "Vatan himoyachilari kuni qaysi sana deb e'lon qilingan?",
+answers = {
+{text = "1-mart", correct = false},
+{text = "8-sentyabr", correct = false},
+{text = "26-sentyabr", correct = false},
+{text = "14-yanvar", correct = true},
+}
+},
+{
+question = "Hozirgi kunda majburiy harbiy xizmat (armiya) oddiy chaqiriluvchilar uchun necha oyga belgilangan?",
+answers = {
+{text = "9 oyga", correct = false},
+{text = "18 oyga", correct = false},
+{text = "24 oyga", correct = false},
+{text = "12 oyga", correct = true},
+}
+},
+{
+question = "Oliy ma'lumotli chaqiriluvchilar uchun majburiy harbiy xizmat muddati necha oyga belgilangan?",
+answers = {
+{text = "6 oyga", correct = false},
+{text = "12 oyga", correct = false},
+{text = "15 oyga", correct = false},
+{text = "9 oyga", correct = true},
+}
+},
+{
+question = "O'zbekiston Respublikasida Harbiy doktrina qaysi yilda qabul qilingan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "2003-yilda", correct = false},
+{text = "2018-yilda", correct = false},
+{text = "1995-yilda", correct = true},
+}
+},
+{
+question = "2003-yilda Harbiy doktrina qayta muhokama qilinib, qanday nom bilan o'zgartirildi?",
+answers = {
+{text = "Xavfsizlik doktrinasi", correct = false},
+{text = "Milliy doktrina", correct = false},
+{text = "Harbiy siyosat doktrinasi", correct = false},
+{text = "Mudofaa doktrinasi", correct = true},
+}
+},
+{
+question = "\"O'zbekiston Respublikasining Mudofaa doktrinasi to'g'risida\"gi qonunni Prezident Shavkat Mirziyoyev qaysi sanada imzolagan?",
+answers = {
+{text = "2017-yil 9-yanvarda", correct = false},
+{text = "2019-yil 9-yanvarda", correct = false},
+{text = "2016-yil 9-yanvarda", correct = false},
+{text = "2018-yil 9-yanvarda", correct = true},
+}
+},
+{
+question = "Yoshlarni harbiy kasbga yo'naltirish maqsadida ochilgan harbiy litseylar qanday nom bilan atalgan?",
+answers = {
+{text = "\"Vatanparvar maktabi\"", correct = false},
+{text = "\"Jasorat maktabi\"", correct = false},
+{text = "\"Yosh askar maktabi\"", correct = false},
+{text = "\"Temurbeklar maktabi\"", correct = true},
+}
+},
+{
+question = "Vatanga sadoqatli, jasur yoshlarni rag'batlantirish uchun qanday davlat mukofoti ta'sis etilgan?",
+answers = {
+{text = "\"Botir yigit\"", correct = false},
+{text = "\"Vatan himoyachisi\"", correct = false},
+{text = "\"Jasorat yulduzi\"", correct = false},
+{text = "\"Mard o'g'lon\"", correct = true},
+}
+},
+{
+question = "O'zbekiston Milliy xavfsizlik xizmati (MXX) qaysi sanada tashkil etilgan?",
+answers = {
+{text = "1991-yil 26-sentyabrda", correct = true},
+{text = "1992-yilda", correct = false},
+{text = "1995-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+}
+},
+{
+question = "Prezident huzurida Xavfsizlik kengashi qaysi yilda tuzilgan?",
+answers = {
+{text = "1993-yilda", correct = false},
+{text = "1996-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1995-yilda", correct = true},
+}
+},
+{
+question = "Favqulodda vaziyatlar vazirligi qaysi yilda tashkil etilgan?",
+answers = {
+{text = "1995-yilda", correct = false},
+{text = "1999-yilda", correct = false},
+{text = "2001-yilda", correct = false},
+{text = "1996-yilda", correct = true},
+}
+},
+{
+question = "2005-yilda \"Akromiylar\" tomonidan uyushtirilgan tartibsizliklar qaysi shaharda yuz berdi?",
+answers = {
+{text = "Toshkentda", correct = false},
+{text = "Samarqandda", correct = false},
+{text = "Farg'onada", correct = false},
+{text = "Andijonda", correct = true},
+}
+},
+{
+question = "Milliy xavfsizlik xizmati (MXX) Davlat xavfsizlik xizmati (DXX) sifatida qaysi yilda qayta tashkil etildi?",
+answers = {
+{text = "2016-yilda", correct = false},
+{text = "2019-yilda", correct = false},
+{text = "2021-yilda", correct = false},
+{text = "2018-yilda", correct = true},
+}
+},
+{
+question = "Ichki ishlar xodimlari kuni qaysi sana deb belgilangan?",
+answers = {
+{text = "14-yanvar", correct = false},
+{text = "26-sentyabr", correct = false},
+{text = "1-sentyabr", correct = false},
+{text = "25-oktyabr", correct = true},
+}
+},
+}
