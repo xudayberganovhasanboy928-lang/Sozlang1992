@@ -1,0 +1,722 @@
+questions = {
+{
+question = "1990-yili Buyuk Britaniya bosh vaziri etib kim saylangan?",
+answers = {
+{text = "Margaret Tetcher", correct = false},
+{text = "Jon Meyjor", correct = true},
+{text = "Entoni Bler", correct = false},
+{text = "Devid Kemeron", correct = false},
+}
+},
+{
+question = "1997-yilgi parlament saylovida g'olib chiqib, hukumat boshlig'i bo'lgan Leyboristlar partiyasi yetakchisi kim edi?",
+answers = {
+{text = "Gordon Braun", correct = false},
+{text = "Entoni Bler", correct = true},
+{text = "Jon Meyjor", correct = false},
+{text = "Tereza Mey", correct = false},
+}
+},
+{
+question = "Shotlandiya va Uels milliy assambleyalariga saylovlar qaysi yili o'tkazildi?",
+answers = {
+{text = "1997-yili", correct = false},
+{text = "1999-yili", correct = true},
+{text = "2001-yili", correct = false},
+{text = "2005-yili", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya 2003-yili qaysi davlatga qarshi AQSH boshchiligidagi koalitsiyada faol ishtirok etdi?",
+answers = {
+{text = "Afg'oniston", correct = false},
+{text = "Suriya", correct = false},
+{text = "Iroq", correct = true},
+{text = "Liviya", correct = false},
+}
+},
+{
+question = "2005-yili Londonda amalga oshirilgan to'rtta terroristik akt uchun javobgarlikni qaysi tashkilot o'z zimmasiga oldi?",
+answers = {
+{text = "\"ISHID\"", correct = false},
+{text = "\"Al-Qoida\"", correct = true},
+{text = "\"Taliban\"", correct = false},
+{text = "\"Boko Haram\"", correct = false},
+}
+},
+{
+question = "2007-yili E. Bler iste'foga chiqqach, Leyboristlar partiyasining yangi lideri sifatida kim bosh vazir lavozimini egalladi?",
+answers = {
+{text = "Devid Kemeron", correct = false},
+{text = "Gordon Braun", correct = true},
+{text = "Tereza Mey", correct = false},
+{text = "Boris Jonson", correct = false},
+}
+},
+{
+question = "2010-yili bo'lib o'tgan parlament saylovida g'alaba qozonib, bosh vazir lavozimini egallagan konservatorlar yetakchisi kim edi?",
+answers = {
+{text = "Boris Jonson", correct = false},
+{text = "Devid Kemeron", correct = true},
+{text = "Rishi Sunak", correct = false},
+{text = "Tereza Mey", correct = false},
+}
+},
+{
+question = "Shotlandiyada Buyuk Britaniyadan ajralib chiqish masalasida umumxalq referendumi qaysi yil sentyabrida o'tkazildi?",
+answers = {
+{text = "2012-yil", correct = false},
+{text = "2014-yil", correct = true},
+{text = "2016-yil", correct = false},
+{text = "2018-yil", correct = false},
+}
+},
+{
+question = "Buyuk Britaniyaning Yevropa Ittifoqidan chiqishi masalasida referendum qaysi yili o'tkazildi?",
+answers = {
+{text = "2014-yili", correct = false},
+{text = "2015-yili", correct = false},
+{text = "2016-yili", correct = true},
+{text = "2019-yili", correct = false},
+}
+},
+{
+question = "2016-yilgi referendumdan so'ng iste'foga chiqqan D. Kemeron o'rniga bosh vazir lavozimini kim egalladi?",
+answers = {
+{text = "Boris Jonson", correct = false},
+{text = "Tereza Mey", correct = true},
+{text = "Rishi Sunak", correct = false},
+{text = "Kir Starmer", correct = false},
+}
+},
+{
+question = "2019-yil iyul oyida konservatorlar yetakchisi sifatida bosh vazir lavozimini kim egalladi?",
+answers = {
+{text = "Tereza Mey", correct = false},
+{text = "Boris Jonson", correct = true},
+{text = "Rishi Sunak", correct = false},
+{text = "Devid Kemeron", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya rasman qaysi yili Yevropa Ittifoqi a'zoligidan chiqdi?",
+answers = {
+{text = "2016-yili", correct = false},
+{text = "2019-yili", correct = false},
+{text = "2020-yili", correct = true},
+{text = "2022-yili", correct = false},
+}
+},
+{
+question = "2022-yil oktyabrda Buyuk Britaniya qiroli Karl III kimni bosh vazir etib tayinladi?",
+answers = {
+{text = "Boris Jonson", correct = false},
+{text = "Liz Tras", correct = false},
+{text = "Rishi Sunak", correct = true},
+{text = "Kir Starmer", correct = false},
+}
+},
+{
+question = "2024-yilgi parlament saylovida Buyuk Britaniya bosh vaziri lavozimini Leyboristlar partiyasining qaysi yetakchisi egalladi?",
+answers = {
+{text = "Gordon Braun", correct = false},
+{text = "Entoni Bler", correct = false},
+{text = "Kir Starmer", correct = true},
+{text = "Ed Miliband", correct = false},
+}
+},
+{
+question = "Buyuk Britaniya tarixida eng uzoq hukmronlik qilgan qirolicha kim bo'lgan?",
+answers = {
+{text = "Yelizaveta I", correct = false},
+{text = "Viktoriya", correct = false},
+{text = "Yelizaveta II", correct = true},
+{text = "Anna", correct = false},
+}
+},
+{
+question = "O'zbekiston va Buyuk Britaniya o'rtasida sheriklik va hamkorlik to'g'risidagi bitim qaysi sanada imzolangan?",
+answers = {
+{text = "2018-yil 31-oktyabr", correct = false},
+{text = "2019-yil 31-oktyabr", correct = true},
+{text = "2020-yil 31-oktyabr", correct = false},
+{text = "2019-yil 31-avgust", correct = false},
+}
+},
+{
+question = "1995-yilgi prezidentlik saylovida Fransiyada kim g'olib chiqdi?",
+answers = {
+{text = "Fransua Mitteran", correct = false},
+{text = "Jak Shirak", correct = true},
+{text = "Nikola Sarkozi", correct = false},
+{text = "Fransua Olland", correct = false},
+}
+},
+{
+question = "Angliya bilan hamkorlikda qurilgan La-Mansh bo'g'ozi ostidagi Yevrotunnel qaysi yil mayida tantanali ravishda ochildi?",
+answers = {
+{text = "1990-yil", correct = false},
+{text = "1992-yil", correct = false},
+{text = "1994-yil", correct = true},
+{text = "1996-yil", correct = false},
+}
+},
+{
+question = "Yevrotunnel qurish g'oyasi qaysi yili taklif etilgan?",
+answers = {
+{text = "1802-yili", correct = true},
+{text = "1850-yili", correct = false},
+{text = "1900-yili", correct = false},
+{text = "1950-yili", correct = false},
+}
+},
+{
+question = "Yevrotunnel qaysi yillar oralig'ida qurilgan?",
+answers = {
+{text = "1980-1990-yillar", correct = false},
+{text = "1987-1994-yillar", correct = true},
+{text = "1990-1998-yillar", correct = false},
+{text = "1994-2000-yillar", correct = false},
+}
+},
+{
+question = "2007-yili Fransiya prezidenti etib kim saylandi?",
+answers = {
+{text = "Jak Shirak", correct = false},
+{text = "Nikola Sarkozi", correct = true},
+{text = "Fransua Olland", correct = false},
+{text = "Emmanuel Makron", correct = false},
+}
+},
+{
+question = "2012-yilgi saylovda Fransiya prezidenti lavozimiga FSP lideri sifatida kim saylandi?",
+answers = {
+{text = "Nikola Sarkozi", correct = false},
+{text = "Fransua Olland", correct = true},
+{text = "Emmanuel Makron", correct = false},
+{text = "Jak Shirak", correct = false},
+}
+},
+{
+question = "2015-yil noyabrda Parijda sodir etilgan terroristik akt oqibatida necha kishidan ortiq halok bo'ldi?",
+answers = {
+{text = "50 dan ortiq", correct = false},
+{text = "80 dan ortiq", correct = false},
+{text = "100 dan ortiq", correct = true},
+{text = "200 dan ortiq", correct = false},
+}
+},
+{
+question = "Fransua Olland Fransiya tarixida qanday prezident sifatida qoldi?",
+answers = {
+{text = "eng nufuzli prezident", correct = false},
+{text = "eng nufuzsiz prezident", correct = true},
+{text = "eng yosh prezident", correct = false},
+{text = "eng uzoq boshqargan prezident", correct = false},
+}
+},
+{
+question = "2017-yili bo'lib o'tgan prezidentlik saylovida \"Olg'a!\" harakati vakili sifatida kim g'alaba qozondi?",
+answers = {
+{text = "Marin Le Pen", correct = false},
+{text = "Fransua Olland", correct = false},
+{text = "Emmanuel Makron", correct = true},
+{text = "Nikola Sarkozi", correct = false},
+}
+},
+{
+question = "2017-yilgi prezidentlik saylovida ilk bor ikkinchi turga chiqqan Milliy front partiyasi vakili kim edi?",
+answers = {
+{text = "Marin Le Pen", correct = true},
+{text = "Emmanuel Makron", correct = false},
+{text = "Fransua Olland", correct = false},
+{text = "Jak Shirak", correct = false},
+}
+},
+{
+question = "Marin Le Pen 2017-yilgi prezidentlik saylovida qariyb necha foiz ovoz oldi?",
+answers = {
+{text = "24 %", correct = false},
+{text = "28 %", correct = false},
+{text = "34 %", correct = true},
+{text = "40 %", correct = false},
+}
+},
+{
+question = "Nyu-Yorkdagi Ozodlik haykalini yaratgan fransuz haykaltaroshi kim edi?",
+answers = {
+{text = "Ogyust Roden", correct = false},
+{text = "Ogyust Bartoldi", correct = true},
+{text = "Klod Mone", correct = false},
+{text = "Gustav Eyfel", correct = false},
+}
+},
+{
+question = "Fransiyaning sovg'asi bo'lgan Ozodlik haykali qaysi yili AQSH prezidenti Grover Klivlend tomonidan rasman ochilgan?",
+answers = {
+{text = "1876-yili", correct = false},
+{text = "1886-yili", correct = true},
+{text = "1896-yili", correct = false},
+{text = "1900-yili", correct = false},
+}
+},
+{
+question = "Bugungi kunda immigrantlar va ularning avlodlari Fransiya aholisining necha foizga yaqinini tashkil qiladi?",
+answers = {
+{text = "15,9 %", correct = false},
+{text = "18,5 %", correct = false},
+{text = "20,9 %", correct = true},
+{text = "25 %", correct = false},
+}
+},
+{
+question = "2025-yil martda O'zbekiston Prezidentining Fransiyaga tashrifi chog'ida Sh. Mirziyoyev qaysi davlat rahbari bilan Strategik sheriklik o'rnatish to'g'risidagi qo'shma deklaratsiyani qabul qildi?",
+answers = {
+{text = "Nikola Sarkozi", correct = false},
+{text = "Fransua Olland", correct = false},
+{text = "Emmanuel Makron", correct = true},
+{text = "Jak Shirak", correct = false},
+}
+},
+{
+question = "1993-yili Fransiya Milliy majlisiga bo'lib o'tgan saylovda qaysi siyosiy kuchlar parlamentda mutlaq ko'p o'ringa ega bo'ldi?",
+answers = {
+{text = "So'l kuchlar", correct = false},
+{text = "O'ng kuchlar", correct = true},
+{text = "Sotsialistlar", correct = false},
+{text = "Kommunistlar", correct = false},
+}
+},
+{
+question = "1993-yilgi referendumda Italiya aholisi qanday qaror qabul qildi?",
+answers = {
+{text = "proporsional saylov tizimini saqlab qolish", correct = false},
+{text = "proporsional saylov tizimidan voz kechish", correct = true},
+{text = "monarxiyani tiklash", correct = false},
+{text = "Yevropa Ittifoqiga qo'shilish", correct = false},
+}
+},
+{
+question = "Italiya kommunistik partiyasi qaysi yili tarqalib ketdi?",
+answers = {
+{text = "1989-yili", correct = false},
+{text = "1991-yili", correct = true},
+{text = "1993-yili", correct = false},
+{text = "1994-yili", correct = false},
+}
+},
+{
+question = "\"Halol qo'llar\" kampaniyasi qaysi yil fevralida boshlangan edi?",
+answers = {
+{text = "1990-yil", correct = false},
+{text = "1991-yil", correct = false},
+{text = "1992-yil", correct = true},
+{text = "1994-yil", correct = false},
+}
+},
+{
+question = "\"Halol qo'llar\" kampaniyasi natijasida qaysi Italiya prezidenti iste'foga chiqdi?",
+answers = {
+{text = "Silvio Berluskoni", correct = false},
+{text = "Franchesko Kossiga", correct = true},
+{text = "Romano Prodi", correct = false},
+{text = "Sandro Pertini", correct = false},
+}
+},
+{
+question = "1994-yil martda bo'lib o'tgan parlament saylovlaridan so'ng hukumatni qaysi siyosatchi shakllantirdi?",
+answers = {
+{text = "Romano Prodi", correct = false},
+{text = "Silvio Berluskoni", correct = true},
+{text = "Massimo D'Alema", correct = false},
+{text = "Matteo Rensi", correct = false},
+}
+},
+{
+question = "1996-yildan hokimiyatda kim boshchiligidagi so'l markazchilar koalitsiyasi turdi?",
+answers = {
+{text = "Silvio Berluskoni", correct = false},
+{text = "Romano Prodi", correct = true},
+{text = "Massimo D'Alema", correct = false},
+{text = "Jorja Meloni", correct = false},
+}
+},
+{
+question = "Romano Prodi qaysi yili iste'foga chiqdi?",
+answers = {
+{text = "1996-yili", correct = false},
+{text = "1997-yili", correct = false},
+{text = "1998-yili", correct = true},
+{text = "2000-yili", correct = false},
+}
+},
+{
+question = "Romano Prodidan keyin bosh vazir lavozimini qaysi so'l demokrat egalladi?",
+answers = {
+{text = "Silvio Berluskoni", correct = false},
+{text = "Massimo D'Alema", correct = true},
+{text = "Matteo Rensi", correct = false},
+{text = "Jorja Meloni", correct = false},
+}
+},
+{
+question = "Urushdan keyingi ellik yil ichida Italiyada nechta hukumat almashdi?",
+answers = {
+{text = "40 ta", correct = false},
+{text = "50 ta", correct = false},
+{text = "60 ta", correct = true},
+{text = "70 ta", correct = false},
+}
+},
+{
+question = "Italiyaning davlat qarzi hozirda YIMga nisbatan necha foizni tashkil qiladi?",
+answers = {
+{text = "100 %", correct = false},
+{text = "110 %", correct = false},
+{text = "130 %", correct = true},
+{text = "150 %", correct = false},
+}
+},
+{
+question = "2014-yil fevraldan Italiya hukumatini kim boshqargan?",
+answers = {
+{text = "Silvio Berluskoni", correct = false},
+{text = "Matteo Rensi", correct = true},
+{text = "Jorja Meloni", correct = false},
+{text = "Romano Prodi", correct = false},
+}
+},
+{
+question = "2022-yil oktyabrda bo'lib o'tgan saylovlarda Italiya Respublikasi Vazirlar Kengashi raisi etib kim saylandi?",
+answers = {
+{text = "Serjo Mattarella", correct = false},
+{text = "Matteo Rensi", correct = false},
+{text = "Jorja Meloni", correct = true},
+{text = "Silvio Berluskoni", correct = false},
+}
+},
+{
+question = "Jorja Meloni Italiya tarixida qanday maqomga ega bo'lgan birinchi shaxs bo'ldi?",
+answers = {
+{text = "birinchi ayol prezident", correct = false},
+{text = "Vazirlar Kengashi raisi lavozimini egallagan birinchi ayol", correct = true},
+{text = "birinchi ayol tashqi ishlar vaziri", correct = false},
+{text = "birinchi chet ellik rahbar", correct = false},
+}
+},
+{
+question = "Italiyaning YIM o'sishi 2024-yili necha foizni tashkil qildi?",
+answers = {
+{text = "4,66 %", correct = false},
+{text = "2,5 %", correct = false},
+{text = "0,7 %", correct = true},
+{text = "1,5 %", correct = false},
+}
+},
+{
+question = "2023-yil noyabrda Sh. Mirziyoyevning Italiyaga tashrifi davomida Italiya Prezidenti sifatida kim bilan muzokaralar o'tkazildi?",
+answers = {
+{text = "Jorja Meloni", correct = false},
+{text = "Serjo Mattarella", correct = true},
+{text = "Matteo Rensi", correct = false},
+{text = "Silvio Berluskoni", correct = false},
+}
+},
+{
+question = "Yevropa iqtisodiy hamkorligini tuzish to'g'risidagi Rim shartnomasi qaysi yili imzolangan edi?",
+answers = {
+{text = "1951-yili", correct = false},
+{text = "1957-yili", correct = true},
+{text = "1978-yili", correct = false},
+{text = "1992-yili", correct = false},
+}
+},
+{
+question = "Turkiy tilli davlatlarning birinchi sammiti Anqara shahrida qaysi davlat rahbari tashabbusi bilan bo'lib o'tdi?",
+answers = {
+{text = "Rajab Toyib Erdo'g'on", correct = false},
+{text = "Turgut O'zal", correct = true},
+{text = "Sulaymon Demirel", correct = false},
+{text = "Kamol Otaturk", correct = false},
+}
+},
+{
+question = "2018-yil sentyabrda Cho'lponota shahrida o'tkazilgan sammitda O'zbekiston rahbari qanday sifatda ishtirok etdi?",
+answers = {
+{text = "to'liq huquqli a'zo sifatida", correct = false},
+{text = "faxriy mehmon sifatida", correct = true},
+{text = "kuzatuvchi sifatida", correct = false},
+{text = "sammit raisi sifatida", correct = false},
+}
+},
+{
+question = "O'zbekiston Naxichevan bitimini ratifikatsiya qilib, qaysi yili Turkiy Davlatlar Tashkilotiga rasmiy qo'shildi?",
+answers = {
+{text = "2017-yili", correct = false},
+{text = "2018-yili", correct = false},
+{text = "2019-yili", correct = true},
+{text = "2021-yili", correct = false},
+}
+},
+{
+question = "Turkiy Davlatlar Tashkilotiga a'zo mamlakatlar aholisi taxminan necha millionni tashkil qiladi?",
+answers = {
+{text = "100 million", correct = false},
+{text = "150 million", correct = true},
+{text = "200 million", correct = false},
+{text = "250 million", correct = false},
+}
+},
+{
+question = "Turkiy Davlatlar Tashkilotiga a'zo mamlakatlarning yillik o'sish sur'ati o'rtacha necha foizni tashkil etmoqda?",
+answers = {
+{text = "3-5 %", correct = false},
+{text = "6-9 %", correct = true},
+{text = "10-12 %", correct = false},
+{text = "12-15 %", correct = false},
+}
+},
+{
+question = "1990-yildan beri Afrika mamlakatlarida jami nechta davlat to'ntarishi amalga oshirilgan?",
+answers = {
+{text = "17 ta", correct = false},
+{text = "20 ta", correct = false},
+{text = "27 ta", correct = true},
+{text = "35 ta", correct = false},
+}
+},
+{
+question = "1990-yildan beri Afrikada amalga oshirilgan davlat to'ntarishlaridan nechtasi 2020-yildan so'ng yuz berdi?",
+answers = {
+{text = "10 tasi", correct = false},
+{text = "17 tasi", correct = true},
+{text = "20 tasi", correct = false},
+{text = "27 tasi", correct = false},
+}
+},
+{
+question = "1955-yili Afrika aholisi necha million kishini tashkil qilgan?",
+answers = {
+{text = "150 million", correct = false},
+{text = "252 million", correct = true},
+{text = "300 million", correct = false},
+{text = "400 million", correct = false},
+}
+},
+{
+question = "2025-yilga kelib Afrika aholisi necha milliard kishini tashkil qildi?",
+answers = {
+{text = "1,0 milliard", correct = false},
+{text = "1,2 milliard", correct = false},
+{text = "1,54 milliard", correct = true},
+{text = "2,0 milliard", correct = false},
+}
+},
+{
+question = "2025-yil iyun oyiga kelib Yer yuzi aholisi soni necha milliard kishidan ortib ketdi?",
+answers = {
+{text = "7,5 milliard", correct = false},
+{text = "8,0 milliard", correct = false},
+{text = "8,2 milliard", correct = true},
+{text = "9,0 milliard", correct = false},
+}
+},
+{
+question = "Xarid qilish qobiliyati pariteti bo'yicha jahon YIMning taxminan necha foizi Osiyo, Afrika va Lotin Amerikasi mamlakatlari hissasiga to'g'ri keladi?",
+answers = {
+{text = "25 %", correct = false},
+{text = "30 %", correct = false},
+{text = "40 %", correct = true},
+{text = "50 %", correct = false},
+}
+},
+{
+question = "1994-yilda Ruandadagi etnik genotsid natijasida necha kishidan ortiq tutsi xalqi vakillari halok bo'ldi?",
+answers = {
+{text = "300 mingdan ortiq", correct = false},
+{text = "500 mingdan ortiq", correct = true},
+{text = "700 mingdan ortiq", correct = false},
+{text = "1 milliondan ortiq", correct = false},
+}
+},
+{
+question = "Yangi industrial mamlakatlar guruhiga Lotin Amerikasidan qaysi davlatlar kiritiladi?",
+answers = {
+{text = "Braziliya, Meksika, Argentina", correct = false},
+{text = "Chili, Argentina, Urugvay", correct = true},
+{text = "Kolumbiya, Peru, Boliviya", correct = false},
+{text = "Gaiti, Gonduras, Nikaragua", correct = false},
+}
+},
+{
+question = "Iqtisodiy o'sish darajasi o'rtacha bo'lgan ikkinchi guruh mamlakatlari qatoriga qaysilari kiradi?",
+answers = {
+{text = "Chili, Argentina, Urugvay", correct = false},
+{text = "Misr, Jazoir, Tunis, Filippin", correct = true},
+{text = "Gaiti, Gonduras, Nikaragua", correct = false},
+{text = "Tropik Afrika, Nepal, Laos", correct = false},
+}
+},
+{
+question = "Nisbatan past rivojlangan birinchi guruh davlatlari qatoriga Lotin Amerikasidan qaysilari kiradi?",
+answers = {
+{text = "Braziliya, Meksika", correct = false},
+{text = "Chili, Argentina", correct = false},
+{text = "Gaiti, Gonduras, Nikaragua va Boliviya", correct = true},
+{text = "Kolumbiya, Peru", correct = false},
+}
+},
+{
+question = "Yigirmanchi asr oxirida aholi jon boshiga daromadning o'sishi Sahroyi Kabirdan janubda joylashgan 43 ta Afrika mamlakatining nechtasida kuzatilgan?",
+answers = {
+{text = "5 tasida", correct = false},
+{text = "8 tasida", correct = true},
+{text = "12 tasida", correct = false},
+{text = "16 tasida", correct = false},
+}
+},
+{
+question = "1989-yili Pekinning markaziy Tyananmen maydonida bo'lib o'tgan talabalar namoyishi bostirilishi natijasida necha kishi halok bo'ldi?",
+answers = {
+{text = "2 mingga yaqin", correct = false},
+{text = "3 mingga yaqin", correct = false},
+{text = "5 mingga yaqin", correct = true},
+{text = "10 mingga yaqin", correct = false},
+}
+},
+{
+question = "XKPning o'n to'rtinchi syezdida ijtimoiy-iqtisodiy islohotlarning maqsadi sifatida nima belgilandi?",
+answers = {
+{text = "rejali iqtisodiyotni saqlash", correct = false},
+{text = "bozor iqtisodiyotiga asoslangan sotsializm qurish", correct = true},
+{text = "to'liq xususiylashtirish", correct = false},
+{text = "qishloq xo'jaligini kollektivlashtirish", correct = false},
+}
+},
+{
+question = "XKPning o'n to'rtinchi syezdi qaysi yili bo'lib o'tgan?",
+answers = {
+{text = "1989-yili", correct = false},
+{text = "1992-yili", correct = true},
+{text = "1997-yili", correct = false},
+{text = "2003-yili", correct = false},
+}
+},
+{
+question = "Xitoy islohotlarining \"otasi\" deb nomlangan siyosatchi Den Syaopin qaysi yili vafot etdi?",
+answers = {
+{text = "1992-yili", correct = false},
+{text = "1997-yili", correct = true},
+{text = "2003-yili", correct = false},
+{text = "2012-yili", correct = false},
+}
+},
+{
+question = "Den Syaopindan keyin XKPning yangi yetakchisi kim bo'ldi?",
+answers = {
+{text = "Xu Szintao", correct = false},
+{text = "Szyan Szemin", correct = true},
+{text = "Si Szinpin", correct = false},
+{text = "Mao Szedun", correct = false},
+}
+},
+{
+question = "2003-yili XKPni kim boshqardi?",
+answers = {
+{text = "Szyan Szemin", correct = false},
+{text = "Xu Szintao", correct = true},
+{text = "Si Szinpin", correct = false},
+{text = "Den Syaopin", correct = false},
+}
+},
+{
+question = "2012-yili XKP bosh kotibi etib kim saylandi?",
+answers = {
+{text = "Xu Szintao", correct = false},
+{text = "Szyan Szemin", correct = false},
+{text = "Si Szinpin", correct = true},
+{text = "Li Keqiang", correct = false},
+}
+},
+{
+question = "Si Szinpin Xitoy Xalq Respublikasi Raisi lavozimini qaysi yili egalladi?",
+answers = {
+{text = "2012-yili", correct = false},
+{text = "2013-yili", correct = true},
+{text = "2016-yili", correct = false},
+{text = "2018-yili", correct = false},
+}
+},
+{
+question = "2018-yili Xitoy konstitutsiyasiga qanday o'zgartirish kiritilib, Raislik lavozimiga doir ikki muddatlik cheklov olib tashlandi?",
+answers = {
+{text = "Mao Szedun g'oyalari kiritildi", correct = false},
+{text = "Si Szinpin g'oyalari kiritildi", correct = true},
+{text = "Den Syaopin g'oyalari olib tashlandi", correct = false},
+{text = "yangi bayroq qabul qilindi", correct = false},
+}
+},
+{
+question = "\"Xitoy orzusi\" g'oyasiga ko'ra, XKPning yuz yilligida, ya'ni 2021-yilda qanday darajaga erishish ko'zda tutilgan edi?",
+answers = {
+{text = "\"yuqori texnologik\" darajaga", correct = false},
+{text = "\"o'rtacha farovonlik\" darajasiga", correct = true},
+{text = "\"to'liq sanoatlashgan\" darajaga", correct = false},
+{text = "\"rivojlangan davlat\" darajasiga", correct = false},
+}
+},
+{
+question = "Xitoy Xalq Respublikasining yuz yilligi qaysi yilga to'g'ri keladi?",
+answers = {
+{text = "2035-yil", correct = false},
+{text = "2049-yil", correct = true},
+{text = "2050-yil", correct = false},
+{text = "2099-yil", correct = false},
+}
+},
+{
+question = "Xitoy 2010-yili YIM hajmi bo'yicha qaysi davlatni quvib o'tib, jahonda yetakchi o'rinlarga ko'tarildi?",
+answers = {
+{text = "Germaniya", correct = false},
+{text = "Yaponiya", correct = true},
+{text = "Buyuk Britaniya", correct = false},
+{text = "Fransiya", correct = false},
+}
+},
+{
+question = "2013-yili Si Szinpin qanday ikki tashabbus bilan chiqdi?",
+answers = {
+{text = "\"Bir dunyo, bir millat\" va \"Yangi ipak yo'li\"", correct = false},
+{text = "Ipak yo'li va Dengiz Ipak yo'li", correct = true},
+{text = "\"Xitoy orzusi\" va \"Yashil Xitoy\"", correct = false},
+{text = "\"Made in China\" va \"Made in Asia\"", correct = false},
+}
+},
+{
+question = "Gonkong 1997-yilgacha qaysi davlat hududi bo'lgan?",
+answers = {
+{text = "Portugaliya", correct = false},
+{text = "Fransiya", correct = false},
+{text = "Britaniya", correct = true},
+{text = "Gollandiya", correct = false},
+}
+},
+{
+question = "Makao (Aomen) 1999-yilgacha qaysi davlat hududi edi?",
+answers = {
+{text = "Britaniya", correct = false},
+{text = "Ispaniya", correct = false},
+{text = "Fransiya", correct = false},
+{text = "Portugaliya", correct = true},
+}
+},
+{
+question = "2024-yil yakunlariga ko'ra, O'zbekiston va Xitoy o'rtasidagi savdo aylanmasi necha million AQSH dollariga yetdi?",
+answers = {
+{text = "220 million", correct = false},
+{text = "320 million", correct = true},
+{text = "420 million", correct = false},
+{text = "520 million", correct = false},
+}
+},
+}

@@ -1,0 +1,722 @@
+questions = {
+{
+question = "1991-yilda mustaqillikni e'lon qilgan Ozarbayjon Respublikasi qaysi yili tashkil etilgan Ozarbayjon Demokratik Respublikasining huquqiy vorisi hisoblanadi?",
+answers = {
+{text = "1918-yili", correct = true},
+{text = "1920-yili", correct = false},
+{text = "1922-yili", correct = false},
+{text = "1936-yili", correct = false},
+}
+},
+{
+question = "Ozarbayjon Respublikasida mustaqillikning tiklangan kuni sifatida qaysi sana nishonlanadi?",
+answers = {
+{text = "9-oktyabr", correct = false},
+{text = "18-oktyabr", correct = true},
+{text = "30-avgust", correct = false},
+{text = "21-sentyabr", correct = false},
+}
+},
+{
+question = "1990-yili Bokuda tashkil topgan Ozarbayjon Xalq fronti boshchiligida Milliy mudofaa kengashi tuzilganligini kim e'lon qildi?",
+answers = {
+{text = "Ayaz Mutalibov", correct = false},
+{text = "Abulfayz Elchibey", correct = true},
+{text = "Haydar Aliyev", correct = false},
+{text = "Ilhom Aliyev", correct = false},
+}
+},
+{
+question = "1992-yil mayda Bokuda amalga oshirilgan davlat to'ntarishi natijasida qaysi prezident hokimiyatdan ag'darildi?",
+answers = {
+{text = "Haydar Aliyev", correct = false},
+{text = "Abulfayz Elchibey", correct = false},
+{text = "Ayaz Mutalibov", correct = true},
+{text = "Ilhom Aliyev", correct = false},
+}
+},
+{
+question = "1993-yili bo'lib o'tgan prezidentlik saylovida Ozarbayjon Respublikasi Prezidenti etib kim saylandi?",
+answers = {
+{text = "Abulfayz Elchibey", correct = false},
+{text = "Haydar Aliyev", correct = true},
+{text = "Ilhom Aliyev", correct = false},
+{text = "Ayaz Mutalibov", correct = false},
+}
+},
+{
+question = "2003-yil dekabrda Haydar Aliyev vafot etganidan so'ng mamlakat prezidenti etib kim saylandi?",
+answers = {
+{text = "Ilhom Aliyev", correct = true},
+{text = "Abulfayz Elchibey", correct = false},
+{text = "Ayaz Mutalibov", correct = false},
+{text = "Mehriban Aliyeva", correct = false},
+}
+},
+{
+question = "Tog'li Qorabog' masalasida o't ochishni to'xtatish to'g'risidagi kelishuvga qaysi yili erishildi?",
+answers = {
+{text = "1991-yili", correct = false},
+{text = "1992-yili", correct = false},
+{text = "1994-yili", correct = true},
+{text = "1996-yili", correct = false},
+}
+},
+{
+question = "Gruziya Oliy Kengashi \"Gruziya mustaqilligini tiklash to'g'risida akt\"ni qaysi sanada qabul qildi?",
+answers = {
+{text = "1991-yil 9-aprel", correct = true},
+{text = "1991-yil 21-sentyabr", correct = false},
+{text = "1990-yil 3-oktyabr", correct = false},
+{text = "1991-yil 26-oktyabr", correct = false},
+}
+},
+{
+question = "Gruziyaning birinchi prezidenti etib kim saylangan?",
+answers = {
+{text = "Eduard Shevardnadze", correct = false},
+{text = "Mixail Saakashvili", correct = false},
+{text = "Zviad Gamsaxurdiya", correct = true},
+{text = "Georgiy Margvelashvili", correct = false},
+}
+},
+{
+question = "Z. Gamsaxurdiya ag'darilganidan so'ng hokimiyat kim boshchiligidagi Davlat Kengashiga o'tdi?",
+answers = {
+{text = "Mixail Saakashvili", correct = false},
+{text = "Eduard Shevardnadze", correct = true},
+{text = "Salome Zurabishvili", correct = false},
+{text = "Irakliy Kobaxidze", correct = false},
+}
+},
+{
+question = "2003-yili E. Shevardnadze iste'foga chiqqach o'tkazilgan saylovda g'olib chiqib, bu jarayonning \"Atirgullar inqilobi\" nomini olishiga sabab bo'lgan siyosatchi kim edi?",
+answers = {
+{text = "Georgiy Margvelashvili", correct = false},
+{text = "Mixail Saakashvili", correct = true},
+{text = "Zviad Gamsaxurdiya", correct = false},
+{text = "Mixail Kavelashvili", correct = false},
+}
+},
+{
+question = "2008-yil avgustda Gruziya, Rossiya, Janubiy Osetiya va Abxaziya o'rtasida bo'lib o'tgan harbiy to'qnashuv natijasida Rossiya qaysi ikki hududning mustaqilligini tan oldi?",
+answers = {
+{text = "Abxaziya va Janubiy Osetiya", correct = true},
+{text = "Ajariya va Osetiya", correct = false},
+{text = "Qorabog' va Naxichevan", correct = false},
+{text = "Adjariya va Abxaziya", correct = false},
+}
+},
+{
+question = "2018-yili Gruziya Prezidenti etib kim saylandi?",
+answers = {
+{text = "Georgiy Margvelashvili", correct = false},
+{text = "Salome Zurabishvili", correct = true},
+{text = "Mixail Kavelashvili", correct = false},
+{text = "Irakliy Kobaxidze", correct = false},
+}
+},
+{
+question = "\"Armanistonning davlat mustaqilligi to'g'risida\" deklaratsiya qaysi sanada o'tkazilgan referendum natijasida qabul qilindi?",
+answers = {
+{text = "1991-yil 21-sentyabr", correct = true},
+{text = "1991-yil 9-aprel", correct = false},
+{text = "1991-yil 31-avgust", correct = false},
+{text = "1991-yil 16-dekabr", correct = false},
+}
+},
+{
+question = "Armanistonning birinchi prezidenti etib kim saylangan?",
+answers = {
+{text = "Serj Sargsyan", correct = false},
+{text = "Nikol Pashinyan", correct = false},
+{text = "Levon Ter-Petrosyan", correct = true},
+{text = "Robert Kocharyan", correct = false},
+}
+},
+{
+question = "\"Baxmal inqilob\" natijasida 2018-yil may oyida Armaniston hokimiyatiga kim keldi?",
+answers = {
+{text = "Serj Sargsyan", correct = false},
+{text = "Nikol Pashinyan", correct = true},
+{text = "Levon Ter-Petrosyan", correct = false},
+{text = "Robert Kocharyan", correct = false},
+}
+},
+{
+question = "Qozog'iston o'z mustaqilligini qaysi sanada e'lon qildi?",
+answers = {
+{text = "1991-yil 16-dekabr", correct = true},
+{text = "1991-yil 9-sentyabr", correct = false},
+{text = "1991-yil 31-avgust", correct = false},
+{text = "1991-yil 26-oktyabr", correct = false},
+}
+},
+{
+question = "Qozog'istonning birinchi prezidenti etib kim saylandi?",
+answers = {
+{text = "Qosim-Jomart Toqayev", correct = false},
+{text = "Nursulton Nazarboyev", correct = true},
+{text = "Saparmurod Niyozov", correct = false},
+{text = "Emomali Rahmonov", correct = false},
+}
+},
+{
+question = "Qozog'istonning milliy valyutasi - tenge qaysi yili muomalaga kiritilgan?",
+answers = {
+{text = "1991-yili", correct = false},
+{text = "1992-yili", correct = false},
+{text = "1993-yili", correct = true},
+{text = "1994-yili", correct = false},
+}
+},
+{
+question = "Qozog'iston poytaxti Oqmola shahri 1998-yildan qanday nomlandi?",
+answers = {
+{text = "Almati", correct = false},
+{text = "Ostona", correct = true},
+{text = "Shimkent", correct = false},
+{text = "Qaraganda", correct = false},
+}
+},
+{
+question = "2019-yil martda N. Nazarboyev iste'foga chiqqanidan so'ng Qozog'iston prezidenti lavozimini kim egalladi?",
+answers = {
+{text = "Qosim-Jomart Toqayev", correct = true},
+{text = "Nursulton Nazarboyev", correct = false},
+{text = "Imangali Tasmagambetov", correct = false},
+{text = "Karim Masimov", correct = false},
+}
+},
+{
+question = "Turkmaniston mustaqilligi to'g'risidagi referendum qaysi sanada o'tkazildi?",
+answers = {
+{text = "1991-yil 26-oktyabr", correct = true},
+{text = "1991-yil 16-dekabr", correct = false},
+{text = "1991-yil 9-sentyabr", correct = false},
+{text = "1991-yil 31-avgust", correct = false},
+}
+},
+{
+question = "1999-yildan Xalq Majlisi qaroriga ko'ra umrbod davlat boshlig'i bo'lib qolgan Turkmaniston rahbari kim edi?",
+answers = {
+{text = "Gurbanguli Berdimuhamedov", correct = false},
+{text = "Saparmurod Niyozov", correct = true},
+{text = "Serdar Berdimuhamedov", correct = false},
+{text = "Qurbonqul Berdimuhamedov", correct = false},
+}
+},
+{
+question = "S. Niyozov 2006-yili vafot etganidan so'ng Turkmaniston Prezidenti etib kim saylandi?",
+answers = {
+{text = "Serdar Berdimuhamedov", correct = false},
+{text = "Gurbanguli Berdimuhamedov", correct = true},
+{text = "Ovezgeldi Otashev", correct = false},
+{text = "Akja Nurberdiyeva", correct = false},
+}
+},
+{
+question = "2022-yili bo'lib o'tgan navbatdan tashqari prezidentlik saylovida Turkmaniston prezidenti etib kim saylandi?",
+answers = {
+{text = "Gurbanguli Berdimuhamedov", correct = false},
+{text = "Serdar Berdimuhamedov", correct = true},
+{text = "Saparmurod Niyozov", correct = false},
+{text = "Rashid Meredov", correct = false},
+}
+},
+{
+question = "Tojikiston o'z mustaqilligini qaysi sanada e'lon qildi?",
+answers = {
+{text = "1991-yil 9-sentyabr", correct = true},
+{text = "1991-yil 16-dekabr", correct = false},
+{text = "1991-yil 26-oktyabr", correct = false},
+{text = "1991-yil 31-avgust", correct = false},
+}
+},
+{
+question = "Tojikistondagi fuqarolar urushi qaysi yillar oralig'ida davom etdi?",
+answers = {
+{text = "1991-1994-yillar", correct = false},
+{text = "1992-1997-yillar", correct = true},
+{text = "1994-1999-yillar", correct = false},
+{text = "1995-2000-yillar", correct = false},
+}
+},
+{
+question = "1994-yili Tojikiston Konstitutsiyasi qabul qilingan kuni o'tkazilgan prezidentlik saylovida kim g'olib chiqdi?",
+answers = {
+{text = "Sangak Safarov", correct = false},
+{text = "Emomali Rahmonov", correct = true},
+{text = "Abdumalik Abdullajonov", correct = false},
+{text = "Rustam Emomali", correct = false},
+}
+},
+{
+question = "Qirg'iziston o'z mustaqilligini qaysi sanada e'lon qildi?",
+answers = {
+{text = "1991-yil 31-avgust", correct = true},
+{text = "1991-yil 26-oktyabr", correct = false},
+{text = "1991-yil 9-sentyabr", correct = false},
+{text = "1991-yil 16-dekabr", correct = false},
+}
+},
+{
+question = "Qirg'izistonning birinchi prezidentlik saylovida kim g'olib chiqdi?",
+answers = {
+{text = "Kurmanbek Bakiyev", correct = false},
+{text = "Asqar Akayev", correct = true},
+{text = "Almazbek Atambayev", correct = false},
+{text = "Roza Otunbayeva", correct = false},
+}
+},
+{
+question = "2005-yilgi \"Lolalar inqilobi\" natijasida Qirg'iziston hokimiyatiga kim keldi?",
+answers = {
+{text = "Asqar Akayev", correct = false},
+{text = "Kurmanbek Bakiyev", correct = true},
+{text = "Sooronboy Jeenbekov", correct = false},
+{text = "Sadir Japarov", correct = false},
+}
+},
+{
+question = "2021-yil saylovda g'alaba qozonib, konstitutsiyaviy referendum orqali o'z prezidentlik vakolatlarini kengaytirgan Qirg'iziston rahbari kim edi?",
+answers = {
+{text = "Almazbek Atambayev", correct = false},
+{text = "Sooronboy Jeenbekov", correct = false},
+{text = "Sadir Japarov", correct = true},
+{text = "Roza Otunbayeva", correct = false},
+}
+},
+{
+question = "Yevropa Ittifoqi hozirda necha ta davlatni birlashtiradi?",
+answers = {
+{text = "25 ta", correct = false},
+{text = "27 ta", correct = true},
+{text = "28 ta", correct = false},
+{text = "30 ta", correct = false},
+}
+},
+{
+question = "1996-yili Yevropa Ittifoqi a'zolari soni nechtaga yetdi?",
+answers = {
+{text = "12 taga", correct = false},
+{text = "15 taga", correct = true},
+{text = "20 taga", correct = false},
+{text = "25 taga", correct = false},
+}
+},
+{
+question = "2002-yili Kopengagenda bo'lib o'tgan uchrashuvda Yevroittifoqqa yana nechta yangi davlat taklif qilindi?",
+answers = {
+{text = "to'qqizta", correct = false},
+{text = "o'nta", correct = true},
+{text = "o'n bitta", correct = false},
+{text = "sakkizta", correct = false},
+}
+},
+{
+question = "Yagona Yevropa fuqaroligini ta'minlagan Maastrixt shartnomasi qaysi yili kuchga kirdi?",
+answers = {
+{text = "1992-yili", correct = false},
+{text = "1993-yili", correct = true},
+{text = "1996-yili", correct = false},
+{text = "2002-yili", correct = false},
+}
+},
+{
+question = "Yevropada (Buyuk Britaniyadan tashqari) yagona valyuta - yevro qaysi yili joriy qilindi?",
+answers = {
+{text = "1998-yili", correct = false},
+{text = "2000-yili", correct = false},
+{text = "2002-yili", correct = true},
+{text = "2005-yili", correct = false},
+}
+},
+{
+question = "Buyuk Britaniyada Yevropa Ittifoqidan chiqish masalasi bo'yicha referendum qaysi yili o'tkazildi?",
+answers = {
+{text = "2014-yili", correct = false},
+{text = "2016-yili", correct = true},
+{text = "2018-yili", correct = false},
+{text = "2020-yili", correct = false},
+}
+},
+{
+question = "Buyuk Britaniyaning Yevropa Ittifoqiga a'zoligi qaysi sanada rasman to'xtatildi?",
+answers = {
+{text = "2019-yil 31-yanvar", correct = false},
+{text = "2020-yil 31-yanvar", correct = true},
+{text = "2021-yil 31-yanvar", correct = false},
+{text = "2020-yil 31-mart", correct = false},
+}
+},
+{
+question = "Yevropa Ittifoqi qaysi yili tinchlik bo'yicha Nobel mukofotiga sazovor bo'ldi?",
+answers = {
+{text = "2010-yili", correct = false},
+{text = "2012-yili", correct = true},
+{text = "2014-yili", correct = false},
+{text = "2016-yili", correct = false},
+}
+},
+{
+question = "Yevropa Ittifoqi shtab-kvartirasi qaysi shaharda joylashgan?",
+answers = {
+{text = "Parij", correct = false},
+{text = "Berlin", correct = false},
+{text = "Bryussel", correct = true},
+{text = "Strasburg", correct = false},
+}
+},
+{
+question = "Yevropa ko'mir va po'lat birlashmasini tuzish to'g'risidagi Parij shartnomasi qaysi yili imzolangan?",
+answers = {
+{text = "1951-yili", correct = true},
+{text = "1957-yili", correct = false},
+{text = "1978-yili", correct = false},
+{text = "1985-yili", correct = false},
+}
+},
+{
+question = "Yevropa iqtisodiy hamjamiyati va Atom energiyasi bo'yicha Yevropa hamjamiyatini tashkil etish to'g'risidagi Rim shartnomasi qaysi yili imzolangan?",
+answers = {
+{text = "1951-yili", correct = false},
+{text = "1957-yili", correct = true},
+{text = "1978-yili", correct = false},
+{text = "1992-yili", correct = false},
+}
+},
+{
+question = "Yevropa Iqtisodiy Hamjamiyatiga asoslangan Yevropa Ittifoqini tashkil etish to'g'risidagi Maastrixt shartnomasi qaysi yili imzolangan?",
+answers = {
+{text = "1985-yili", correct = false},
+{text = "1990-yili", correct = false},
+{text = "1992-yili", correct = true},
+{text = "1996-yili", correct = false},
+}
+},
+{
+question = "Shengen shartnomasi qaysi yili imzolangan?",
+answers = {
+{text = "1978-yili", correct = false},
+{text = "1985-yili", correct = true},
+{text = "1992-yili", correct = false},
+{text = "1998-yili", correct = false},
+}
+},
+{
+question = "Yevropa valyuta tizimi qaysi yili yaratilgan?",
+answers = {
+{text = "1957-yili", correct = false},
+{text = "1978-yili", correct = true},
+{text = "1985-yili", correct = false},
+{text = "1992-yili", correct = false},
+}
+},
+{
+question = "Yevropa Ittifoqi va Markaziy Osiyo davlatlari o'rtasidagi birinchi sammit 2025-yil aprelida qaysi shaharda bo'lib o'tdi?",
+answers = {
+{text = "Ostona", correct = false},
+{text = "Toshkent", correct = false},
+{text = "Samarqand", correct = true},
+{text = "Cho'ponota", correct = false},
+}
+},
+{
+question = "2022-yili Yevropa Ittifoqi - Markaziy Osiyo formatidagi oliy darajadagi uchrashuv Qozog'istonning qaysi shahrida bo'lib o'tdi?",
+answers = {
+{text = "Olmaota", correct = false},
+{text = "Ostona", correct = true},
+{text = "Shimkent", correct = false},
+{text = "Aktau", correct = false},
+}
+},
+{
+question = "Bill Klinton prezidentligining ikkinchi muddatida amalga oshirilgan ijtimoiy siyosat qanday nom oldi?",
+answers = {
+{text = "\"Reyganomika\"", correct = false},
+{text = "\"Klintonning yangi iqtisodiy falsafasi\" (Clintonomics)", correct = true},
+{text = "\"Yangi kurs\"", correct = false},
+{text = "\"Buyuk jamiyat\"", correct = false},
+}
+},
+{
+question = "1992-yilgi prezidentlik saylovida respublikachi Jorj Bushni mag'lubiyatga uchratib g'alaba qozongan yosh demokrat kim edi?",
+answers = {
+{text = "Barak Obama", correct = false},
+{text = "Bill Klinton", correct = true},
+{text = "Jozef Bayden", correct = false},
+{text = "Al Gor", correct = false},
+}
+},
+{
+question = "1994-yilgi oraliq saylovlarda qaysi partiya qaqshatqich mag'lubiyatga uchradi?",
+answers = {
+{text = "Respublikachilar", correct = false},
+{text = "Demokratlar", correct = true},
+{text = "Yashillar", correct = false},
+{text = "Libertarianlar", correct = false},
+}
+},
+{
+question = "1996-yilgi saylovda ikkinchi marta g'alaba qozongan AQSH prezidenti kim edi?",
+answers = {
+{text = "Jorj Bush", correct = false},
+{text = "Bill Klinton", correct = true},
+{text = "Barak Obama", correct = false},
+{text = "Al Gor", correct = false},
+}
+},
+{
+question = "2002-yilgi saylovda respublikachilar vakili sifatida yana saylangan AQSH prezidenti kim edi?",
+answers = {
+{text = "Jorj Bush", correct = false},
+{text = "kichik Jorj Bush", correct = true},
+{text = "Donald Tramp", correct = false},
+{text = "Ronald Reygan", correct = false},
+}
+},
+{
+question = "2008-yili bo'lib o'tgan saylovda AQSHning 44-prezidenti etib kim saylandi?",
+answers = {
+{text = "Hillari Klinton", correct = false},
+{text = "Barak Obama", correct = true},
+{text = "Jozef Bayden", correct = false},
+{text = "Jon Makkeyn", correct = false},
+}
+},
+{
+question = "Barak Obama tinchlik yo'nalishidagi Nobel mukofotiga qaysi yili sazovor bo'lgan?",
+answers = {
+{text = "2008-yili", correct = false},
+{text = "2009-yili", correct = true},
+{text = "2012-yili", correct = false},
+{text = "2016-yili", correct = false},
+}
+},
+{
+question = "2016-yili bo'lib o'tgan prezidentlik saylovida respublikachilar partiyasidan kim g'alaba qozondi?",
+answers = {
+{text = "Hillari Klinton", correct = false},
+{text = "Donald Tramp", correct = true},
+{text = "Jozef Bayden", correct = false},
+{text = "Mitt Romni", correct = false},
+}
+},
+{
+question = "2020-yil noyabrda bo'lib o'tgan saylovda Demokratik partiya vakili sifatida kim g'alaba qozondi?",
+answers = {
+{text = "Barak Obama", correct = false},
+{text = "Jozef Bayden", correct = true},
+{text = "Hillari Klinton", correct = false},
+{text = "Kamala Xarris", correct = false},
+}
+},
+{
+question = "AQSH qo'shinlari Afg'onistondan qaysi sanada olib chiqildi?",
+answers = {
+{text = "2020-yil 31-avgust", correct = false},
+{text = "2021-yil 31-avgust", correct = true},
+{text = "2022-yil 31-avgust", correct = false},
+{text = "2021-yil 11-sentyabr", correct = false},
+}
+},
+{
+question = "2001-yil 11-sentyabrda terrorchilar tomonidan egallab olingan yo'lovchi samolyotlar Nyu Yorkda qaysi binoga borib urildi?",
+answers = {
+{text = "Mudofaa vazirligi binosi", correct = false},
+{text = "Jahon savdo markazi", correct = true},
+{text = "Oq uy", correct = false},
+{text = "BMT shtab-kvartirasi", correct = false},
+}
+},
+{
+question = "2007-2008-yillari AQSH moliya sektorida boshlangan inqiroz qaysi yilga kelib dunyo miqyosidagi global retsessiyaga aylandi?",
+answers = {
+{text = "2008-yilga", correct = false},
+{text = "2009-yilga", correct = true},
+{text = "2010-yilga", correct = false},
+{text = "2011-yilga", correct = false},
+}
+},
+{
+question = "AQSH tarixida yagona qora tanli prezident sifatida 2009-2017-yillar oralig'ida faoliyat yuritgan siyosatchi kim edi?",
+answers = {
+{text = "Jozef Bayden", correct = false},
+{text = "Barak Obama", correct = true},
+{text = "Kolin Pauell", correct = false},
+{text = "Kondoliza Rays", correct = false},
+}
+},
+{
+question = "2024-yilgi saylovda kim g'alaba qozondi?",
+answers = {
+{text = "Jozef Bayden", correct = false},
+{text = "Kamala Xarris", correct = false},
+{text = "Donald Tramp", correct = true},
+{text = "Hillari Klinton", correct = false},
+}
+},
+{
+question = "2025-yil 22-iyun kuni AQSH Eronning qaysi ikki hududidagi uranni boyitish yerosti zavodlarini bombardimon qildi?",
+answers = {
+{text = "Natanz va Bushehr", correct = false},
+{text = "Fordo va Natanz", correct = true},
+{text = "Arak va Isfahon", correct = false},
+{text = "Fordo va Bushehr", correct = false},
+}
+},
+{
+question = "Jozef Bayden davrida AQSH Ukrainaga necha milliard dollardan ko'proq harbiy yordam ko'rsatdi?",
+answers = {
+{text = "40 milliard", correct = false},
+{text = "55 milliard", correct = false},
+{text = "66,5 milliard", correct = true},
+{text = "80 milliard", correct = false},
+}
+},
+{
+question = "Yagona Germaniya davlati tashkil topganligi qaysi sanada e'lon qilindi?",
+answers = {
+{text = "1989-yil 9-noyabr", correct = false},
+{text = "1990-yil 3-oktyabr", correct = true},
+{text = "1991-yil 1-yanvar", correct = false},
+{text = "1990-yil 1-iyul", correct = false},
+}
+},
+{
+question = "1998-yilgi parlament saylovida qaysi partiya g'olib chiqdi?",
+answers = {
+{text = "Xristian-demokratik ittifoqi", correct = false},
+{text = "Germaniya sotsial-demokratik partiyasi (GSDP)", correct = true},
+{text = "\"Yashillar\" partiyasi", correct = false},
+{text = "Xristian-sotsial ittifoqi", correct = false},
+}
+},
+{
+question = "1998-yilgi saylovdan so'ng Germaniya hukumati boshchiligiga kim keldi?",
+answers = {
+{text = "Angela Merkel", correct = false},
+{text = "Gerxard Shryoder", correct = true},
+{text = "Olaf Shols", correct = false},
+{text = "Fridrix Mers", correct = false},
+}
+},
+{
+question = "Germaniya YIM hajmi bo'yicha dunyoda nechanchi o'rinni egallaydi?",
+answers = {
+{text = "birinchi o'rinni", correct = false},
+{text = "ikkinchi o'rinni", correct = false},
+{text = "uchinchi o'rinni", correct = true},
+{text = "to'rtinchi o'rinni", correct = false},
+}
+},
+{
+question = "2005-yil noyabrida bundestag yig'ilishida Germaniya Federativ Respublikasi kansleri etib kim saylandi?",
+answers = {
+{text = "Gerxard Shryoder", correct = false},
+{text = "Angela Merkel", correct = true},
+{text = "Olaf Shols", correct = false},
+{text = "Fridrix Mers", correct = false},
+}
+},
+{
+question = "Angela Merkel Germaniya tarixida qanday maqomga ega bo'lgan birinchi shaxs edi?",
+answers = {
+{text = "birinchi ayol va eng yosh federal kansler", correct = true},
+{text = "birinchi ayol prezident", correct = false},
+{text = "birinchi chet ellik kansler", correct = false},
+{text = "eng keksa federal kansler", correct = false},
+}
+},
+{
+question = "Germaniya iqtisodiyoti 2007-2009-yillardagi inqirozdan keyin qaysi yilga kelib inqirozdan oldingi ko'rsatkichga yetib oldi?",
+answers = {
+{text = "2012-yilga", correct = false},
+{text = "2014-yilga", correct = true},
+{text = "2016-yilga", correct = false},
+{text = "2018-yilga", correct = false},
+}
+},
+{
+question = "2017-yil sentyabrda bo'lib o'tgan parlament saylovida A. Merkel boshchiligidagi koalitsiya necha foiz ovoz oldi?",
+answers = {
+{text = "25 %", correct = false},
+{text = "33 %", correct = true},
+{text = "40 %", correct = false},
+{text = "45 %", correct = false},
+}
+},
+{
+question = "2021-yili bo'lib o'tgan parlament saylovida kansler lavozimini kim egalladi?",
+answers = {
+{text = "Angela Merkel", correct = false},
+{text = "Olaf Shols", correct = true},
+{text = "Fridrix Mers", correct = false},
+{text = "Gerxard Shryoder", correct = false},
+}
+},
+{
+question = "2025-yil fevralda bo'lib o'tgan navbatdan tashqari parlament saylovida qaysi siyosatchi boshchiligidagi bloklar g'olib chiqdi?",
+answers = {
+{text = "Olaf Shols", correct = false},
+{text = "Angela Merkel", correct = false},
+{text = "Fridrix Mers", correct = true},
+{text = "Gerxard Shryoder", correct = false},
+}
+},
+{
+question = "Bugungi kunda Germaniya va Avstriyada hukumat rahbari qanday atalgan?",
+answers = {
+{text = "Prezident", correct = false},
+{text = "Kansler", correct = true},
+{text = "Bosh vazir", correct = false},
+{text = "Rezident", correct = false},
+}
+},
+{
+question = "O'zbekiston Prezidenti Shavkat Mirziyoyevning 2019-yildagi Germaniyaga tashrifida kansler Angela Merkel bilan muzokaralari yakunida nechta hujjat imzolandi?",
+answers = {
+{text = "5 ta", correct = false},
+{text = "9 ta", correct = true},
+{text = "12 ta", correct = false},
+{text = "16 ta", correct = false},
+}
+},
+{
+question = "Sh. Mirziyoyevning 2023-yil maydagi Germaniyaga tashrifi doirasida yana nechta hukumatlararo hujjatga imzo chekildi?",
+answers = {
+{text = "9 ta", correct = false},
+{text = "12 ta", correct = false},
+{text = "16 ta", correct = true},
+{text = "20 ta", correct = false},
+}
+},
+{
+question = "Germaniyaning ikki qismini birlashtirish bo'yicha muzokaralar qaysi o'n yillikning oxirida muvaffaqiyatli yakunlandi?",
+answers = {
+{text = "1970-yillar", correct = false},
+{text = "1980-yillar", correct = true},
+{text = "1990-yillar", correct = false},
+{text = "2000-yillar", correct = false},
+}
+},
+{
+question = "2014-yil Ukrainada yuz bergan hokimiyat almashinuvidan so'ng Germaniya qaysi davlatga qarshi sanksiyalar e'lon qildi?",
+answers = {
+{text = "Xitoy", correct = false},
+{text = "Rossiya", correct = true},
+{text = "Turkiya", correct = false},
+{text = "Eron", correct = false},
+}
+},
+{
+question = "GFRda bozor mexanizmlarini joriy qilish asosan qaysi sobiq davlat hududida moliyalashtirildi?",
+answers = {
+{text = "GFR", correct = false},
+{text = "GDR", correct = true},
+{text = "SSSR", correct = false},
+{text = "Avstriya", correct = false},
+}
+},
+}

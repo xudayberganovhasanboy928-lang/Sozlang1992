@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Ryutaro Xasimoto o'zining iqtisodiy inqirozga qarshi qanday islohotlar dasturini e'lon qildi?",
+answers = {
+{text = "\"besh islohot\" dasturi", correct = false},
+{text = "\"olti islohot\" dasturi", correct = true},
+{text = "\"sakkiz islohot\" dasturi", correct = false},
+{text = "\"to'rt islohot\" dasturi", correct = false},
+}
+},
+{
+question = "Yaponiya Liberal-demokratik partiyasi (LDP) yetakchisi Ryutaro Xasimoto qaysi yili hokimiyatga keldi?",
+answers = {
+{text = "1994-yili", correct = false},
+{text = "1996-yili", correct = true},
+{text = "1998-yili", correct = false},
+{text = "2000-yili", correct = false},
+}
+},
+{
+question = "2000-yili Yaponiya bosh vaziri Keydzo Obuti vafot etgach, bu lavozimni kim egalladi?",
+answers = {
+{text = "Dzyunitiro Koidzumi", correct = false},
+{text = "Yosiro Mori", correct = true},
+{text = "Sindzo Abe", correct = false},
+{text = "Ryutaro Xasimoto", correct = false},
+}
+},
+{
+question = "2001-yili Yaponiya bosh vazir lavozimini egallab, tizimli islohotlarni amalga oshirgan siyosatchi kim edi?",
+answers = {
+{text = "Yosiro Mori", correct = false},
+{text = "Dzyunitiro Koidzumi", correct = true},
+{text = "Sindzo Abe", correct = false},
+{text = "Keydzo Obuti", correct = false},
+}
+},
+{
+question = "2006-2007-yillari, so'ngra 2012-2020-yillari Yaponiya hukumatini boshqargan siyosatchi kim edi?",
+answers = {
+{text = "Dzyunitiro Koidzumi", correct = false},
+{text = "Yosiro Mori", correct = false},
+{text = "Sindzo Abe", correct = true},
+{text = "Ryutaro Xasimoto", correct = false},
+}
+},
+{
+question = "Sindzo Abe amalga oshirgan islohotlar qanday nom oldi?",
+answers = {
+{text = "\"Koidzumonika\"", correct = false},
+{text = "\"Abenomika\"", correct = true},
+{text = "\"Xasimotonomika\"", correct = false},
+{text = "\"Yaponiya mo'jizasi\"", correct = false},
+}
+},
+{
+question = "\"Abenomika\" islohotlari natijasida Yaponiyaning davlat qarzi YIMga nisbatan necha foizga yetdi?",
+answers = {
+{text = "150 %", correct = false},
+{text = "200 %", correct = false},
+{text = "250 %", correct = true},
+{text = "300 %", correct = false},
+}
+},
+{
+question = "Yaponiya YIMi 2024-yilga kelib necha foizga o'sib, 4,0 trillion dollarni tashkil qildi?",
+answers = {
+{text = "0,3 %", correct = false},
+{text = "0,6 %", correct = true},
+{text = "1,2 %", correct = false},
+{text = "2,0 %", correct = false},
+}
+},
+{
+question = "Yaponiya YIM ko'rsatkichi bo'yicha AQSH, Xitoy, Germaniyadan so'ng nechanchi o'rinni egallab turibdi?",
+answers = {
+{text = "ikkinchi o'rinni", correct = false},
+{text = "uchinchi o'rinni", correct = false},
+{text = "to'rtinchi o'rinni", correct = true},
+{text = "beshinchi o'rinni", correct = false},
+}
+},
+{
+question = "1948-yili Koreya yarimorolining janubida va shimolida mos ravishda qaysi davlatlar tashkil topdi?",
+answers = {
+{text = "Koreya Respublikasi va Koreya Xalq Demokratik Respublikasi", correct = true},
+{text = "Janubiy Koreya va Xitoy Xalq Respublikasi", correct = false},
+{text = "Koreya imperiyasi va Manchjuriya", correct = false},
+{text = "Koreya Respublikasi va Yaponiya", correct = false},
+}
+},
+{
+question = "Ikkala Koreya davlati ham BMTga qaysi sanada a'zo bo'ldi?",
+answers = {
+{text = "1953-yil 27-iyul", correct = false},
+{text = "1991-yil 17-sentyabr", correct = true},
+{text = "1994-yil", correct = false},
+{text = "1997-yil", correct = false},
+}
+},
+{
+question = "Shimoliy Koreyani 1994-yilgacha kim boshqargan?",
+answers = {
+{text = "Kim Chen Ir", correct = false},
+{text = "Kim Ir Sen", correct = true},
+{text = "Kim Chen In", correct = false},
+{text = "Kim Yen Sam", correct = false},
+}
+},
+{
+question = "Kim Ir Sen vafotidan so'ng hokimiyat kimning qo'liga o'tdi?",
+answers = {
+{text = "Kim Chen In", correct = false},
+{text = "Kim Chen Ir", correct = true},
+{text = "Kim Yen Sam", correct = false},
+{text = "Kim Dae Chжun", correct = false},
+}
+},
+{
+question = "2011-yili Kim Chen Ir vafot etganidan so'ng, hokimiyatga kim keldi?",
+answers = {
+{text = "Kim Ir Sen", correct = false},
+{text = "Kim Chen In", correct = true},
+{text = "Kim Yen Sam", correct = false},
+{text = "Mun Jae In", correct = false},
+}
+},
+{
+question = "1997-yil oxirida Janubiy Koreya qanday inqirozga uchradi?",
+answers = {
+{text = "siyosiy inqiroz", correct = false},
+{text = "chuqur moliyaviy-iqtisodiy inqiroz", correct = true},
+{text = "harbiy inqiroz", correct = false},
+{text = "ekologik inqiroz", correct = false},
+}
+},
+{
+question = "O'zbekiston va Koreya Respublikasi o'rtasida diplomatik munosabatlar qaysi yili o'rnatilgan?",
+answers = {
+{text = "1991-yili", correct = false},
+{text = "1992-yili", correct = true},
+{text = "1994-yili", correct = false},
+{text = "2002-yili", correct = false},
+}
+},
+{
+question = "Vyetnam Kommunistik partiyasining yettinchi syezdi qaysi yili islohotlar kursini e'lon qildi?",
+answers = {
+{text = "1989-yili", correct = false},
+{text = "1991-yili", correct = true},
+{text = "1993-yili", correct = false},
+{text = "1995-yili", correct = false},
+}
+},
+{
+question = "Kambodjada hokimiyatni Oliy Milliy Kengashga berish to'g'risida qaror qilingan Parij konferensiyasi qaysi yil oktyabrida yakunlandi?",
+answers = {
+{text = "1989-yil", correct = false},
+{text = "1991-yil", correct = true},
+{text = "1993-yil", correct = false},
+{text = "1999-yil", correct = false},
+}
+},
+{
+question = "Kambodja qaysi yili ASEANning teng huquqli a'zosi bo'ldi?",
+answers = {
+{text = "1995-yili", correct = false},
+{text = "1997-yili", correct = false},
+{text = "1999-yili", correct = true},
+{text = "2002-yili", correct = false},
+}
+},
+{
+question = "Laosda konstitutsiya qaysi yili qabul qilingan?",
+answers = {
+{text = "1989-yili", correct = false},
+{text = "1991-yili", correct = true},
+{text = "1993-yili", correct = false},
+{text = "1997-yili", correct = false},
+}
+},
+{
+question = "1995-yil aprelda bo'lgan saylovlarda Malayziya birlashgan milliy partiyasi (MBMP) qaysi siyosatchi boshchiligida ishonchli g'alabani qo'lga kiritdi?",
+answers = {
+{text = "Anvar Ibrohim", correct = false},
+{text = "doktor Mahathir bin Muhammad", correct = true},
+{text = "Najib Razak", correct = false},
+{text = "Abdulla Badavi", correct = false},
+}
+},
+{
+question = "2022-yil noyabrda bo'lib o'tgan saylovda Malayziyada qaysi partiya g'alaba qozondi?",
+answers = {
+{text = "Malayziya birlashgan milliy partiyasi", correct = false},
+{text = "Anvar Ibrohim rahbarligidagi Xalq adolati partiyasi", correct = true},
+{text = "Milliy front", correct = false},
+{text = "Umid koalitsiyasi", correct = false},
+}
+},
+{
+question = "Indoneziyani 32 yil muttasil boshqarib, iste'foga chiqishga majbur bo'lgan prezident kim edi?",
+answers = {
+{text = "Sukarno", correct = false},
+{text = "Suxarto", correct = true},
+{text = "Susilo Bambang Yudoyono", correct = false},
+{text = "Joko Vidodo", correct = false},
+}
+},
+{
+question = "Sharqiy Timorda mustaqillik uchun referendum qaysi yili o'tkazilgan?",
+answers = {
+{text = "1997-yili", correct = false},
+{text = "1999-yili", correct = true},
+{text = "2001-yili", correct = false},
+{text = "2004-yili", correct = false},
+}
+},
+{
+question = "Sharqiy Timorning suveren davlatga aylanish jarayoni BMT nazorati ostida qaysi yili yakunlandi?",
+answers = {
+{text = "1999-yili", correct = false},
+{text = "2000-yili", correct = false},
+{text = "2002-yili", correct = true},
+{text = "2004-yili", correct = false},
+}
+},
+{
+question = "2004-yildan Indoneziyada to'g'ridan to'g'ri prezidentlik saylovi o'tkazilib, shu yili qaysi general prezident etib saylandi?",
+answers = {
+{text = "Suxarto", correct = false},
+{text = "Susilo Bambang Yudoyono", correct = true},
+{text = "Joko Vidodo", correct = false},
+{text = "Prabovo Subianto", correct = false},
+}
+},
+{
+question = "2014-yili Indoneziya prezidenti etib kim saylandi?",
+answers = {
+{text = "Susilo Bambang Yudoyono", correct = false},
+{text = "Joko Vidodo", correct = true},
+{text = "Prabovo Subianto", correct = false},
+{text = "Suxarto", correct = false},
+}
+},
+{
+question = "2016-yil mayda bo'lib o'tgan saylovda g'olib chiqib, Filippin prezidenti bo'lgan siyosatchi kim edi?",
+answers = {
+{text = "Ferdinand Romualdes Markos", correct = false},
+{text = "Rodrigo Roa Duterte", correct = true},
+{text = "Benigno Akino", correct = false},
+{text = "Gloria Makapagal Arroyo", correct = false},
+}
+},
+{
+question = "2022-yilgi saylovda Filippin federal partiyasi yetakchisi sifatida kim prezident etib saylandi?",
+answers = {
+{text = "Rodrigo Roa Duterte", correct = false},
+{text = "Benigno Akino", correct = false},
+{text = "Ferdinand Romualdes Markos", correct = true},
+{text = "Gloria Makapagal Arroyo", correct = false},
+}
+},
+{
+question = "Filippin qancha yildan ortiq Ispaniya mustamlakasi bo'lgan?",
+answers = {
+{text = "250 yildan ortiq", correct = false},
+{text = "300 yildan ortiq", correct = false},
+{text = "350 yildan ortiq", correct = true},
+{text = "400 yildan ortiq", correct = false},
+}
+},
+{
+question = "Singapur davlatining maydoni necha kv.km ni tashkil qiladi?",
+answers = {
+{text = "635,7 kv.km", correct = false},
+{text = "735,7 kv.km", correct = true},
+{text = "835,7 kv.km", correct = false},
+{text = "935,7 kv.km", correct = false},
+}
+},
+{
+question = "O'zbekiston Prezidenti Sh. Mirziyoyevning Singapurga tashrifi qaysi yil yanvar oyida bo'lib o'tdi?",
+answers = {
+{text = "2021-yil", correct = false},
+{text = "2022-yil", correct = false},
+{text = "2023-yil", correct = true},
+{text = "2024-yil", correct = false},
+}
+},
+{
+question = "1991-yili tamil terrorchisi tomonidan qaysi Hindiston bosh vaziri o'ldirildi?",
+answers = {
+{text = "Indira Gandi", correct = false},
+{text = "Radjiv Gandi", correct = true},
+{text = "Narasimha Rao", correct = false},
+{text = "Manmohan Singh", correct = false},
+}
+},
+{
+question = "Radjiv Gandi o'ldirilganidan so'ng hokimiyatga kelib, bozor islohotlarining yangi bosqichini boshlagan siyosatchi kim edi?",
+answers = {
+{text = "Atal Bihari Vajpayi", correct = false},
+{text = "Narasimha Rao", correct = true},
+{text = "Manmohan Singh", correct = false},
+{text = "Narendra Modi", correct = false},
+}
+},
+{
+question = "Hindiston qaysi yildan g'alla eksport qilishni boshladi?",
+answers = {
+{text = "1990-yildan", correct = false},
+{text = "1991-yildan", correct = false},
+{text = "1992-yildan", correct = true},
+{text = "1995-yildan", correct = false},
+}
+},
+{
+question = "1998-yil martda bo'lib o'tgan parlament saylovida g'alaba qozongan Lok Sabha (Xalq partiyasi) yetakchisi kim edi va bosh vazir lavozimini egalladi?",
+answers = {
+{text = "Manmohan Singh", correct = false},
+{text = "Atal Bihari Vajpayi", correct = true},
+{text = "Narasimha Rao", correct = false},
+{text = "Narendra Modi", correct = false},
+}
+},
+{
+question = "2000-yili mamlakat shimoli-g'arbida nechta yangi shtat tashkil qilindi?",
+answers = {
+{text = "ikkita", correct = false},
+{text = "uchta", correct = true},
+{text = "to'rtta", correct = false},
+{text = "beshta", correct = false},
+}
+},
+{
+question = "2004-yil mayda bo'lib o'tgan saylovlarda so'llar bilan hamkorlikda g'olib chiqqan partiya qanday nomlanadi?",
+answers = {
+{text = "Lok Sabha (Xalq partiyasi)", correct = false},
+{text = "Hindiston milliy kongressi (HMK)", correct = true},
+{text = "Bharatiya Janata partiyasi", correct = false},
+{text = "Kommunistik partiya", correct = false},
+}
+},
+{
+question = "2004-yildan Hindiston hukumatini kim boshqardi?",
+answers = {
+{text = "Atal Bihari Vajpayi", correct = false},
+{text = "Manmohan Singh", correct = true},
+{text = "Narasimha Rao", correct = false},
+{text = "Narendra Modi", correct = false},
+}
+},
+{
+question = "Hindiston YIM hajmi (xarid qobiliyati pariteti) bo'yicha 2023-yili dunyoda Xitoy va AQSHdan so'ng nechanchi o'ringa chiqdi?",
+answers = {
+{text = "ikkinchi o'ringa", correct = false},
+{text = "uchinchi o'ringa", correct = true},
+{text = "to'rtinchi o'ringa", correct = false},
+{text = "beshinchi o'ringa", correct = false},
+}
+},
+{
+question = "2025-yilga kelib Hindiston aholisi soni necha kishidan oshib ketdi?",
+answers = {
+{text = "1 milliard 200 milliondan", correct = false},
+{text = "1 milliard 460 milliondan", correct = true},
+{text = "1 milliard 600 milliondan", correct = false},
+{text = "2 milliarddan", correct = false},
+}
+},
+{
+question = "Hindistonda hozirda qancha qashshoq aholi mavjud?",
+answers = {
+{text = "130 million", correct = false},
+{text = "180 million", correct = false},
+{text = "230 million", correct = true},
+{text = "300 million", correct = false},
+}
+},
+{
+question = "Hindiston aholisining necha foizdan ortig'i savodsiz hisoblanadi?",
+answers = {
+{text = "15 %", correct = false},
+{text = "18 %", correct = false},
+{text = "22 %", correct = true},
+{text = "30 %", correct = false},
+}
+},
+{
+question = "Yuqori sifatli kompyuter dasturlarini sotishdan Hindiston 2024-yili necha milliard dollardan ortiq foyda oldi?",
+answers = {
+{text = "100 milliard dollardan", correct = false},
+{text = "150 milliard dollardan", correct = true},
+{text = "190 milliard dollardan", correct = false},
+{text = "250 milliard dollardan", correct = false},
+}
+},
+{
+question = "2026-yili Hindistonning raqamli transformatsiya va IT sohasini modernizatsiyalashga ajratgan mablag'i necha milliard AQSH dollarini tashkil qiladi?",
+answers = {
+{text = "65 milliard", correct = false},
+{text = "85 milliard", correct = true},
+{text = "100 milliard", correct = false},
+{text = "120 milliard", correct = false},
+}
+},
+{
+question = "Hindiston BMT Xavfsizlik Kengashida qanday a'zolikka erishish uchun tinimsiz harakat qilib kelmoqda?",
+answers = {
+{text = "vaqtinchalik a'zolik", correct = false},
+{text = "doimiy a'zolik", correct = true},
+{text = "kuzatuvchi a'zolik", correct = false},
+{text = "maslahatchi a'zolik", correct = false},
+}
+},
+{
+question = "Hindistonda qaysi hududda sikhlar bilan bog'liq etnik muammo mavjud?",
+answers = {
+{text = "Assam", correct = false},
+{text = "Panjob", correct = true},
+{text = "Tamilnad", correct = false},
+{text = "Kashmir", correct = false},
+}
+},
+{
+question = "1978-yili maktabni bitiruvchi qizlarning necha foizi oliy o'quv yurtiga kirgan edi?",
+answers = {
+{text = "1,5 %", correct = false},
+{text = "2,9 %", correct = true},
+{text = "5,5 %", correct = false},
+{text = "10 %", correct = false},
+}
+},
+{
+question = "1991-yili bo'lib o'tgan saylovda \"Ona vatan\" partiyasi (OVP) vakili sifatida bosh vazir lavozimini kim egalladi?",
+answers = {
+{text = "Turgut O'zal", correct = false},
+{text = "Sulaymon Demirel", correct = true},
+{text = "Tansu Chiller", correct = false},
+{text = "Najmiddin Erbakan", correct = false},
+}
+},
+{
+question = "1993-yili Turkiya prezidenti Turgut O'zal to'satdan vafot etganidan so'ng uning o'rniga kim saylandi?",
+answers = {
+{text = "Tansu Chiller", correct = false},
+{text = "Sulaymon Demirel", correct = true},
+{text = "Najmiddin Erbakan", correct = false},
+{text = "Ahmed Nejdet Sezar", correct = false},
+}
+},
+{
+question = "S. Demirel prezident bo'lganidan so'ng hukumatni \"To'g'ri yo'l\" partiyasi (TYP) yetakchisi kim boshqardi?",
+answers = {
+{text = "Tansu Chiller", correct = true},
+{text = "Najmiddin Erbakan", correct = false},
+{text = "Mesut Yilmaz", correct = false},
+{text = "Byulent Ejevit", correct = false},
+}
+},
+{
+question = "\"Siyosiy islom\"ning asoschisi va Turkiyaning hozirgi prezidenti Rejep Tayyip Erdog'anning ustozi hisoblangan siyosatchi kim edi?",
+answers = {
+{text = "Sulaymon Demirel", correct = false},
+{text = "Najmiddin Erbakan", correct = true},
+{text = "Mesut Yilmaz", correct = false},
+{text = "Tansu Chiller", correct = false},
+}
+},
+{
+question = "2000-yili Turkiyaning yangi prezidenti etib kim saylandi?",
+answers = {
+{text = "Sulaymon Demirel", correct = false},
+{text = "Ahmed Nejdet Sezar", correct = true},
+{text = "Byulent Ejevit", correct = false},
+{text = "Turgut O'zal", correct = false},
+}
+},
+{
+question = "1999-yili bo'lib o'tgan parlament saylovida g'alaba qozongan Demokratik so'l partiya (DSP) yetakchisi kim edi va bosh vazir lavozimini egalladi?",
+answers = {
+{text = "Mesut Yilmaz", correct = false},
+{text = "Byulent Ejevit", correct = true},
+{text = "Ahmed Nejdet Sezar", correct = false},
+{text = "Najmiddin Erbakan", correct = false},
+}
+},
+{
+question = "2002-yilgi parlament saylovida R. Erdog'an asos solgan qaysi partiya g'alaba qozondi?",
+answers = {
+{text = "\"Ona vatan\" partiyasi", correct = false},
+{text = "Adolat va taraqqiyot partiyasi (ATP)", correct = true},
+{text = "Demokratik so'l partiya", correct = false},
+{text = "\"To'g'ri yo'l\" partiyasi", correct = false},
+}
+},
+{
+question = "2003-yil martda Turkiya parlamenti R. Erdog'anni qaysi lavozimga tasdiqladi?",
+answers = {
+{text = "prezident lavozimiga", correct = false},
+{text = "bosh vazir lavozimiga", correct = true},
+{text = "spiker lavozimiga", correct = false},
+{text = "mudofaa vaziri lavozimiga", correct = false},
+}
+},
+{
+question = "2007-yili qaysi yashirin tashkilotning faoliyati bilan bog'liq tergov va qamoqqa olishlar boshlandi?",
+answers = {
+{text = "\"Hizbulloh\"", correct = false},
+{text = "\"Ergenekon\"", correct = true},
+{text = "\"Nurchilar\"", correct = false},
+{text = "\"PKK\"", correct = false},
+}
+},
+{
+question = "2014-yilgi prezidentlik saylovida R. Erdog'an g'alaba qozondi - bu Turkiya tarixida qanday saylov edi?",
+answers = {
+{text = "prezident bevosita xalq tomonidan saylangan birinchi saylov", correct = true},
+{text = "parlamentda o'tkazilgan so'nggi saylov", correct = false},
+{text = "harbiylar nazoratidagi ilk saylov", correct = false},
+{text = "ko'p partiyaviy tizimdagi birinchi saylov", correct = false},
+}
+},
+{
+question = "2014-yilgi prezidentlik saylovidan so'ng Turkiyada bosh vazir lavozimini kim egalladi?",
+answers = {
+{text = "Mesut Yilmaz", correct = false},
+{text = "Ahmet Dovuto'g'li", correct = true},
+{text = "Byulent Ejevit", correct = false},
+{text = "Tansu Chiller", correct = false},
+}
+},
+{
+question = "2016-yili Turkiyada bo'lib o'tgan harbiy to'ntarish urinishini tashkil qilishda hukumat kimni aybladi?",
+answers = {
+{text = "Najmiddin Erbakan", correct = false},
+{text = "Fatxulloh Gulen", correct = true},
+{text = "Ahmet Dovuto'g'li", correct = false},
+{text = "Sulaymon Demirel", correct = false},
+}
+},
+{
+question = "2016-yilgi to'ntarish urinishidan keyin Turkiyada e'lon qilingan favqulodda holat qaysi yilgacha davom etdi?",
+answers = {
+{text = "2017-yilgacha", correct = false},
+{text = "2018-yilgacha", correct = true},
+{text = "2019-yilgacha", correct = false},
+{text = "2020-yilgacha", correct = false},
+}
+},
+{
+question = "2017-yili o'tkazilgan referendum natijasida Turkiyada qanday o'zgarish yuz berdi?",
+answers = {
+{text = "monarxiya tiklandi", correct = false},
+{text = "prezident vakolatlari kuchaytirilib, bosh vazir lavozimi bekor qilindi", correct = true},
+{text = "parlament ikki palataga bo'lindi", correct = false},
+{text = "federativ tuzum joriy qilindi", correct = false},
+}
+},
+{
+question = "Turkiya 2013-yili qaysi xalqaro moliya tashkiloti oldidagi barcha qarzlarini uzdi?",
+answers = {
+{text = "Jahon banki", correct = false},
+{text = "Xalqaro valyuta fondi (XVF)", correct = true},
+{text = "Yevropa markaziy banki", correct = false},
+{text = "Osiyo taraqqiyot banki", correct = false},
+}
+},
+{
+question = "O'zbekiston Prezidenti Sh. Mirziyoyev Turkiya prezidenti R. T. Erdog'an taklifiga binoan qaysi sanada Turkiyaga rasmiy tashrif buyurdi?",
+answers = {
+{text = "2023-yil 6-iyun", correct = false},
+{text = "2024-yil 6-iyun", correct = true},
+{text = "2024-yil 6-avgust", correct = false},
+{text = "2025-yil 6-iyun", correct = false},
+}
+},
+{
+question = "Eronda islomiy inqilob qaysi yili yuz berdi?",
+answers = {
+{text = "1975-yil", correct = false},
+{text = "1979-yil", correct = true},
+{text = "1985-yil", correct = false},
+{text = "1991-yil", correct = false},
+}
+},
+{
+question = "1997-yili islohotchilik qarashlarini qo'llab-quvvatlovchi qaysi siyosatchi Eron prezidenti etib saylandi?",
+answers = {
+{text = "Mahmud Ahmadinejod", correct = false},
+{text = "Muhammad Hotamiy", correct = true},
+{text = "Hasan Ruhoniy", correct = false},
+{text = "Ibrohim Raisiy", correct = false},
+}
+},
+{
+question = "1999-yili Eronning qaysi filmi \"Oskar\" mukofotiga nomzod bo'lgan?",
+answers = {
+{text = "\"Umid\"", correct = false},
+{text = "\"Osmon bolalari\"", correct = true},
+{text = "\"Safir\"", correct = false},
+{text = "\"Tehron\"", correct = false},
+}
+},
+{
+question = "2001-yil 11-sentyabrdagi terroristik aktdan so'ng AQSH Eronni qanday atadi?",
+answers = {
+{text = "\"yovuzlik tayanchi\"", correct = false},
+{text = "\"xalqaro terrorizmning sherigi\"", correct = true},
+{text = "\"yakkalangan davlat\"", correct = false},
+{text = "\"teokratik dushman\"", correct = false},
+}
+},
+{
+question = "2002-yili prezident J. Bush Eronni qaysi mamlakatlar toifasiga qo'shdi?",
+answers = {
+{text = "\"yakkalangan davlatlar\"", correct = false},
+{text = "\"yovuzlik tayanchi\" mamlakatlari", correct = true},
+{text = "\"radikal davlatlar\"", correct = false},
+{text = "\"terrorchi davlatlar ittifoqi\"", correct = false},
+}
+},
+{
+question = "2005-yili qaysi ultrakonservator siyosatchi Eron prezidenti etib saylandi?",
+answers = {
+{text = "Hasan Ruhoniy", correct = false},
+{text = "Mahmud Ahmadinejod", correct = true},
+{text = "Ibrohim Raisiy", correct = false},
+{text = "Muhammad Hotamiy", correct = false},
+}
+},
+{
+question = "Eron 2009-yili \"Safir-2\" raketasi yordamida qanday nomdagi sun'iy yo'ldoshini fazoga chiqardi?",
+answers = {
+{text = "\"Umid\"", correct = true},
+{text = "\"Safir\"", correct = false},
+{text = "\"Simorg'\"", correct = false},
+{text = "\"Zafar\"", correct = false},
+}
+},
+{
+question = "2013-yil iyunda bo'lib o'tgan prezidentlik saylovida kim g'alaba qozondi?",
+answers = {
+{text = "Mahmud Ahmadinejod", correct = false},
+{text = "Hasan Ruhoniy", correct = true},
+{text = "Ibrohim Raisiy", correct = false},
+{text = "Mas'ud Pazishkiyon", correct = false},
+}
+},
+{
+question = "Eronning yadroviy dasturi bo'yicha kelishuv 2015-yil iyulda necha davlat vakillari tomonidan imzolandi?",
+answers = {
+{text = "to'rtta davlat", correct = false},
+{text = "beshta davlat", correct = false},
+{text = "oltita davlat", correct = true},
+{text = "yettita davlat", correct = false},
+}
+},
+{
+question = "AQSH Eron bilan tuzilgan yadroviy dastur kelishuvidan qaysi yili chiqdi?",
+answers = {
+{text = "2016-yili", correct = false},
+{text = "2018-yili", correct = true},
+{text = "2020-yili", correct = false},
+{text = "2021-yili", correct = false},
+}
+},
+{
+question = "2021-yili bo'lib o'tgan prezidentlik saylovida g'alaba qozongan siyosiy va diniy arbob kim edi?",
+answers = {
+{text = "Hasan Ruhoniy", correct = false},
+{text = "Ibrohim Raisiy", correct = true},
+{text = "Mas'ud Pazishkiyon", correct = false},
+{text = "Mahmud Ahmadinejod", correct = false},
+}
+},
+{
+question = "Ibrohim Raisiy qaysi yili aviahalokat oqibatida halok bo'ldi?",
+answers = {
+{text = "2022-yilda", correct = false},
+{text = "2023-yilda", correct = false},
+{text = "2024-yilda", correct = true},
+{text = "2025-yilda", correct = false},
+}
+},
+{
+question = "2024-yil iyulda bo'lib o'tgan saylovda Eron prezidenti etib kim saylandi?",
+answers = {
+{text = "Ibrohim Raisiy", correct = false},
+{text = "Hasan Ruhoniy", correct = false},
+{text = "Mas'ud Pazishkiyon", correct = true},
+{text = "Mahmud Ahmadinejod", correct = false},
+}
+},
+{
+question = "Eron qaysi yili BRIKSga a'zo bo'ldi?",
+answers = {
+{text = "2022-yili", correct = false},
+{text = "2023-yili", correct = false},
+{text = "2024-yili", correct = true},
+{text = "2025-yili", correct = false},
+}
+},
+{
+question = "Eron O'zbekistonning mustaqilligini qaysi yil noyabr oyida tan oldi?",
+answers = {
+{text = "1990-yil", correct = false},
+{text = "1991-yil", correct = true},
+{text = "1992-yil", correct = false},
+{text = "1993-yil", correct = false},
+}
+},
+{
+question = "1993-yil oktyabr oyida Eron prezidenti sifatida kim O'zbekistonga tashrif buyurdi?",
+answers = {
+{text = "Muhammad Hotamiy", correct = false},
+{text = "Ali Akbar Rafsanjoni", correct = true},
+{text = "Mahmud Ahmadinejod", correct = false},
+{text = "Hasan Ruhoniy", correct = false},
+}
+},
+}
