@@ -1,0 +1,722 @@
+questions = {
+{
+question = "Jahon tarixi eng yangi davrining uchinchi bosqichi qaysi yildan boshlanib, hozirgi kungacha davom etib kelmoqda?",
+answers = {
+{text = "1985-yildan", correct = false},
+{text = "1989-yildan", correct = false},
+{text = "1991-yildan", correct = true},
+{text = "1993-yildan", correct = false},
+}
+},
+{
+question = "\"Sovuq urush\" tugaganligi haqidagi bayonotni AQSH prezidenti Jorj Bush va SSSR rahbari Mixail Gorbachov qaysi yili e'lon qilishdi?",
+answers = {
+{text = "1988-yili", correct = false},
+{text = "1989-yili", correct = true},
+{text = "1990-yili", correct = false},
+{text = "1991-yili", correct = false},
+}
+},
+{
+question = "2001-yil 11-sentyabrda amalga oshirilgan terroristik aktlar qaysi ikki shaharni qamrab oldi?",
+answers = {
+{text = "London va Parij", correct = false},
+{text = "Rim va Madrid", correct = false},
+{text = "Nyu York va Vashington", correct = true},
+{text = "Moskva va Berlin", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi birinchi Prezidenti Islom Karimov xalqaro terrorizm xavfi haqida BMT Bosh Assambleyasining nechanchi sessiyasida nutq so'zlagan?",
+answers = {
+{text = "45-sessiyasida", correct = false},
+{text = "46-sessiyasida", correct = false},
+{text = "48-sessiyasida", correct = true},
+{text = "50-sessiyasida", correct = false},
+}
+},
+{
+question = "Islom Karimov BMT Bosh Assambleyasining 48-sessiyasida xalqaro terrorizm xavfi haqida qaysi yili nutq so'zlagan?",
+answers = {
+{text = "1991-yili", correct = false},
+{text = "1993-yili", correct = true},
+{text = "1995-yili", correct = false},
+{text = "2001-yili", correct = false},
+}
+},
+{
+question = "Mintaqaviy xavfsizlik va iqtisodiy hamkorlik tashkiloti bo'lgan Shanxay Hamkorlik Tashkiloti (SHHT) qaysi yili tashkil topgan?",
+answers = {
+{text = "1996-yili", correct = false},
+{text = "2001-yili", correct = true},
+{text = "2005-yili", correct = false},
+{text = "2009-yili", correct = false},
+}
+},
+{
+question = "Braziliya, Rossiya, Hindiston, Xitoy va Janubiy Afrika Respublikasi davlatlari hamdo'stligi bo'lgan BRIKS xalqaro tashkiloti qaysi yili tuzilgan?",
+answers = {
+{text = "2001-yili", correct = false},
+{text = "2005-yili", correct = false},
+{text = "2014-yili", correct = false},
+{text = "2009-yili", correct = true},
+}
+},
+{
+question = "O'zbekiston Prezidenti Shavkat Mirziyoyev BMT Bosh Assambleyasining 78-sessiyasida qaysi yili nutq so'zladi?",
+answers = {
+{text = "2019-yili", correct = false},
+{text = "2021-yili", correct = false},
+{text = "2023-yili", correct = true},
+{text = "2025-yili", correct = false},
+}
+},
+{
+question = "Jahon sog'liqni saqlash tashkilotining ma'lumotiga ko'ra, 2025-yil boshiga kelib dunyo bo'yicha necha milliondan ortiq odam \"COVID-19\" bilan kasallangan?",
+answers = {
+{text = "500 milliondan", correct = false},
+{text = "650 milliondan", correct = false},
+{text = "777 milliondan", correct = true},
+{text = "850 milliondan", correct = false},
+}
+},
+{
+question = "\"COVID-19\" pandemiyasi natijasida 2025-yil boshiga kelib jahon bo'yicha necha milliondan ortiq kishi vafot etgan?",
+answers = {
+{text = "3,0 milliondan", correct = false},
+{text = "5,0 milliondan", correct = false},
+{text = "9,0 milliondan", correct = false},
+{text = "7,0 milliondan", correct = true},
+}
+},
+{
+question = "Dunyoga \"COVID-19\" pandemiyasi qaysi yil boshida tarqaldi?",
+answers = {
+{text = "2018-yil", correct = false},
+{text = "2019-yil", correct = false},
+{text = "2020-yil", correct = true},
+{text = "2021-yil", correct = false},
+}
+},
+{
+question = "1990-yillar oxirida qaysi mintaqa qonli urushlar, davlat to'ntarishlari va partizanlik harakatlari maydoniga aylandi?",
+answers = {
+{text = "Janubi-sharqiy Osiyo", correct = false},
+{text = "Lotin Amerikasi", correct = false},
+{text = "Yaqin Sharq", correct = false},
+{text = "Tropik va Janubiy Afrika", correct = true},
+}
+},
+{
+question = "1991-yil 26-dekabrda SSSR Oliy Sovetining Respublikalar Kengashi nima to'g'risidagi deklaratsiyani qabul qildi?",
+answers = {
+{text = "MDH tashkil topishi", correct = false},
+{text = "SSSRning tugatilishi", correct = true},
+{text = "Yangi Konstitutsiya", correct = false},
+{text = "Varshava shartnomasi bekor qilinishi", correct = false},
+}
+},
+{
+question = "Ko'p qutbli dunyo modelining shakllanish jarayoni qaysi ikki xalqaro tashkilotning paydo bo'lishi bilan chambarchas bog'liq bo'ldi?",
+answers = {
+{text = "NATO va Yevropa Ittifoqi", correct = false},
+{text = "BMT va YXHT", correct = false},
+{text = "SHHT va BRIKS", correct = true},
+{text = "MDH va Turkiy Kengash", correct = false},
+}
+},
+{
+question = "Yigirma birinchi asr birinchi choragida jahon hamjamiyati duch kelgan eng xavfli muammolardan biri sifatida nima ko'rsatilgan?",
+answers = {
+{text = "Iqlim o'zgarishi", correct = false},
+{text = "Xalqaro terrorizm", correct = true},
+{text = "Migratsiya inqirozi", correct = false},
+{text = "Kiberxavfsizlik", correct = false},
+}
+},
+{
+question = "Yigirma birinchi asr boshlariga kelib xalqaro va mintaqaviy munosabatlarga kuchli ta'sir ko'rsata boshlagan jadal rivojlanayotgan davlatlar qatoriga qaysilari kiradi?",
+answers = {
+{text = "AQSH, Buyuk Britaniya, Fransiya", correct = false},
+{text = "Yaponiya, Germaniya, Italiya", correct = false},
+{text = "Xitoy, Hindiston, Braziliya", correct = true},
+{text = "Kanada, Avstraliya, Yangi Zelandiya", correct = false},
+}
+},
+{
+question = "Sharqiy Yevropada demokratik o'zgarishlarni boshlab bergan birinchi mamlakat qaysi edi?",
+answers = {
+{text = "Vengriya", correct = false},
+{text = "Ruminiya", correct = false},
+{text = "Polsha", correct = true},
+{text = "Chexoslovakiya", correct = false},
+}
+},
+{
+question = "1990-yilgi navbatdan tashqari o'tkazilgan prezidentlik saylovida \"Birdamlik\" kasaba uyushmasi yetakchisi kim g'alaba qozondi?",
+answers = {
+{text = "Vatslav Gavel", correct = false},
+{text = "Lex Valensa", correct = true},
+{text = "Ion Iliesku", correct = false},
+{text = "Slobodan Miloshevich", correct = false},
+}
+},
+{
+question = "1989-yilgi saylovlarda qaysi kasaba uyushmasi ommalashib, Polsha birlashgan ishchi partiyasining obro'sini tushirib yubordi?",
+answers = {
+{text = "\"Ozodlik\"", correct = false},
+{text = "\"Birdamlik\"", correct = true},
+{text = "\"Yangilanish\"", correct = false},
+{text = "\"Tinchlik\"", correct = false},
+}
+},
+{
+question = "1989-yil dekabrda Ruminiya maxfiy xizmati xodimlari tomonidan aholining tinch namoyishi o'qqa tutilgan shahar qaysi edi?",
+answers = {
+{text = "Buxarest", correct = false},
+{text = "Timishoara", correct = true},
+{text = "Klui", correct = false},
+{text = "Brashov", correct = false},
+}
+},
+{
+question = "Ruminiyada tashkil qilingan Milliy qutqarish qo'mitasi raisi bo'lib, 1990-yilgi saylovlarda mamlakat prezidenti etib saylangan shaxs kim edi?",
+answers = {
+{text = "Ion Iliesku", correct = true},
+{text = "Nikolae Chaushesku", correct = false},
+{text = "Emil Konstantinesku", correct = false},
+{text = "Trayan Basesku", correct = false},
+}
+},
+{
+question = "Ikki nemis davlatini ajratib turgan Berlin devorining qulashiga olib kelgan voqealar qaysi yili yuz berdi?",
+answers = {
+{text = "1988-yil", correct = false},
+{text = "1989-yil", correct = true},
+{text = "1990-yil", correct = false},
+{text = "1991-yil", correct = false},
+}
+},
+{
+question = "Berlin devori aynan qaysi sanada vayron bo'ldi?",
+answers = {
+{text = "1989-yil 9-noyabr", correct = true},
+{text = "1989-yil 3-dekabr", correct = false},
+{text = "1990-yil 3-oktyabr", correct = false},
+{text = "1989-yil 7-oktyabr", correct = false},
+}
+},
+{
+question = "\"Germaniya bilan munosabatlarni uzil-kesil tartibga solish to'g'risida\"gi shartnoma qaysi yili Moskvada imzolanib, ikki nemis davlati bitta Germaniya Federativ Respublikasiga birlashdi?",
+answers = {
+{text = "1989-yil", correct = false},
+{text = "1990-yil", correct = true},
+{text = "1991-yil", correct = false},
+{text = "1992-yil", correct = false},
+}
+},
+{
+question = "1990-1992-yillari Sharqiy Yevropaning qaysi mamlakatlarida sotsialistik rejimlar barham topdi?",
+answers = {
+{text = "Polsha, Ruminiya, Avstriya va Gretsiya", correct = false},
+{text = "Chexoslovakiya, Bolgariya, Vengriya va Yugoslaviya", correct = true},
+{text = "Fransiya, Italiya va Ispaniya", correct = false},
+{text = "Turkiya, Yunoniston va Albaniya", correct = false},
+}
+},
+{
+question = "1991-1992-yillari Yugoslaviyadan ajralib chiqqan respublikalar qatoriga qaysilari kiradi?",
+answers = {
+{text = "Sloveniya, Xorvatiya, Bosniya va Makedoniya", correct = true},
+{text = "Serbiya, Chernogoriya va Kosovo", correct = false},
+{text = "Albaniya, Gretsiya va Bolgariya", correct = false},
+{text = "Ruminiya, Vengriya va Avstriya", correct = false},
+}
+},
+{
+question = "1999-yili NATO qo'shinlari Kosovodagi mojaro sababli qaysi davlatni bombardimon qildi?",
+answers = {
+{text = "Albaniya", correct = false},
+{text = "Bolgariya", correct = false},
+{text = "Yugoslaviya", correct = true},
+{text = "Makedoniya", correct = false},
+}
+},
+{
+question = "2006-yili o'tkazilgan referendum natijasida qaysi davlat Serbiyadan ajralib chiqdi?",
+answers = {
+{text = "Bosniya", correct = false},
+{text = "Kosovo", correct = false},
+{text = "Makedoniya", correct = false},
+{text = "Chernogoriya", correct = true},
+}
+},
+{
+question = "Chexoslovakiya milliy muammolarini hal qilish uchun mamlakatning bo'linishi haqidagi qarorni qaysi yili o'tkazilgan referendum orqali qabul qildi?",
+answers = {
+{text = "1990-yil", correct = false},
+{text = "1991-yil", correct = false},
+{text = "1992-yil", correct = true},
+{text = "1993-yil", correct = false},
+}
+},
+{
+question = "1993-yil 1-yanvardan jahon xaritasida qaysi ikkita mustaqil davlat paydo bo'ldi?",
+answers = {
+{text = "Polsha va Vengriya", correct = false},
+{text = "Serbiya va Chernogoriya", correct = false},
+{text = "Chexiya Respublikasi va Slovakiya Respublikasi", correct = true},
+{text = "Xorvatiya va Sloveniya", correct = false},
+}
+},
+{
+question = "Rossiya va Ukraina o'rtasidagi dastlabki ziddiyatlar qaysi yili boshlangan edi?",
+answers = {
+{text = "2008-yil", correct = false},
+{text = "2014-yil", correct = true},
+{text = "2018-yil", correct = false},
+{text = "2020-yil", correct = false},
+}
+},
+{
+question = "Rossiya va Ukraina o'rtasidagi ziddiyatlar qaysi yili keng miqyosli urushga aylandi?",
+answers = {
+{text = "2014-yil", correct = false},
+{text = "2018-yil", correct = false},
+{text = "2020-yil", correct = false},
+{text = "2022-yil", correct = true},
+}
+},
+{
+question = "Qozog'iston rahbari etib G. V. Kolbin tayinlanishiga qarshi 1986-yilgi talabalar namoyishi qaysi shaharda bo'lib o'tdi?",
+answers = {
+{text = "Toshkent", correct = false},
+{text = "Bishkek", correct = false},
+{text = "Olmaota", correct = true},
+{text = "Dushanbe", correct = false},
+}
+},
+{
+question = "1988-yili ozarbayjon-arman mojarosi qaysi shaharda yuz berdi?",
+answers = {
+{text = "Boku", correct = false},
+{text = "Sumgait", correct = true},
+{text = "Yerevan", correct = false},
+{text = "Tbilisi", correct = false},
+}
+},
+{
+question = "1990-yili o'zbek-qirg'iz mojarosi qaysi shaharda yuz berdi?",
+answers = {
+{text = "Farg'ona", correct = false},
+{text = "Andijon", correct = false},
+{text = "O'sh", correct = true},
+{text = "Jalolobod", correct = false},
+}
+},
+{
+question = "1991-yil avgustda bir guruh sovet rahbarlari tomonidan tuzilib, SSSRning parchalanish jarayonini yanada tezlashtirgan qo'mita qanday nomlangan?",
+answers = {
+{text = "KGB", correct = false},
+{text = "GKCHP", correct = true},
+{text = "Politbyuro", correct = false},
+{text = "Oliy Kengash", correct = false},
+}
+},
+{
+question = "1991-yil 8-dekabrda yig'ilib, SSSR siyosiy birlik sifatida tugatilganligini e'lon qilgan davlat rahbarlari qaysi uch davlatga tegishli edi?",
+answers = {
+{text = "Rossiya, Ukraina va Belorussiya", correct = true},
+{text = "Rossiya, Qozog'iston va Ukraina", correct = false},
+{text = "Belorussiya, Moldova va Ukraina", correct = false},
+{text = "Rossiya, Gruziya va Armaniston", correct = false},
+}
+},
+{
+question = "Mustaqil Davlatlar Hamdo'stligi (MDH) qaysi yili va qaysi shaharda tuzilgan?",
+answers = {
+{text = "1990-yil, Moskva", correct = false},
+{text = "1991-yil, Minsk", correct = true},
+{text = "1992-yil, Olmaota", correct = false},
+{text = "1991-yil, Kiyev", correct = false},
+}
+},
+{
+question = "Turkmaniston poytaxti Ashxobodda bo'lib o'tgan uchrashuvda Markaziy Osiyoning nechta respublikasi rahbari MDH ta'sischisi sifatida tashkilotga qo'shilishini ma'lum qildi?",
+answers = {
+{text = "to'rtta", correct = false},
+{text = "beshta", correct = true},
+{text = "oltita", correct = false},
+{text = "uchta", correct = false},
+}
+},
+{
+question = "1991-yil dekabrda Qozog'istonning qaysi shahrida SSSR o'z faoliyatini xalqaro huquq subyekti sifatida tugatganligi haqida deklaratsiya qabul qilindi?",
+answers = {
+{text = "Astana", correct = false},
+{text = "Olmaota", correct = true},
+{text = "Shimkent", correct = false},
+{text = "Qaraganda", correct = false},
+}
+},
+{
+question = "MDH tarkibidan 2009-yili qaysi davlat chiqib ketdi?",
+answers = {
+{text = "Ukraina", correct = false},
+{text = "Gruziya", correct = true},
+{text = "Moldova", correct = false},
+{text = "Ozarbayjon", correct = false},
+}
+},
+{
+question = "MDH tarkibida qaysi davlat assotsiatsiyalashgan (hamfikr) a'zo maqomiga ega?",
+answers = {
+{text = "Turkmaniston", correct = true},
+{text = "Ukraina", correct = false},
+{text = "Gruziya", correct = false},
+{text = "Moldova", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi Prezidenti etib Shavkat Mirziyoyev qaysi yil dekabrida saylandi?",
+answers = {
+{text = "2014-yil", correct = false},
+{text = "2016-yil", correct = true},
+{text = "2018-yil", correct = false},
+{text = "2019-yil", correct = false},
+}
+},
+{
+question = "Markaziy Osiyo davlatlari rahbarlarining Maslahat uchrashuvi qaysi yildan tashkil qilinib kelinmoqda?",
+answers = {
+{text = "2016-yildan", correct = false},
+{text = "2017-yildan", correct = false},
+{text = "2019-yildan", correct = true},
+{text = "2021-yildan", correct = false},
+}
+},
+{
+question = "2024-yil avgustda Ostona shahrida bo'lib o'tgan Markaziy Osiyo davlatlari rahbarlarining oltinchi maslahat uchrashuvida qanday konsepsiya imzolandi?",
+answers = {
+{text = "\"Markaziy Osiyo -2030\"", correct = false},
+{text = "\"Markaziy Osiyo -2040\"", correct = true},
+{text = "\"Markaziy Osiyo -2050\"", correct = false},
+{text = "\"Markaziy Osiyo Ittifoqi\"", correct = false},
+}
+},
+{
+question = "Hozirgi Turkiy Davlatlar Tashkilotining birinchi sammiti 1992-yil oktyabrda qaysi shaharda o'tkazilgan?",
+answers = {
+{text = "Istanbul", correct = false},
+{text = "Boku", correct = false},
+{text = "Anqara", correct = true},
+{text = "Ashxobod", correct = false},
+}
+},
+{
+question = "Turkiy Kengashning 2019-yil 15-oktyabrda bo'lib o'tgan sammitida O'zbekiston tashkilotga yangi a'zo sifatida qaysi shaharda qo'shildi?",
+answers = {
+{text = "Anqara", correct = false},
+{text = "Boku", correct = true},
+{text = "Astana", correct = false},
+{text = "Bishkek", correct = false},
+}
+},
+{
+question = "1990-yili amalda SSSR tarkibidan chiqqan Boltiqbo'yi respublikalari qatoriga qaysilari kiradi?",
+answers = {
+{text = "Latviya, Litva va Estoniya", correct = true},
+{text = "Polsha, Vengriya va Ruminiya", correct = false},
+{text = "Belorussiya, Ukraina va Moldova", correct = false},
+{text = "Gruziya, Armaniston va Ozarbayjon", correct = false},
+}
+},
+{
+question = "Rossiyada erkin qo'yib yuborilgan narxlar qaysi sanadan keskin ko'tarila boshladi?",
+answers = {
+{text = "1991-yil 1-yanvar", correct = false},
+{text = "1992-yil 1-yanvar", correct = true},
+{text = "1993-yil 1-yanvar", correct = false},
+{text = "1994-yil 1-yanvar", correct = false},
+}
+},
+{
+question = "1999-yilga kelib Rossiyaning tashqi qarzi necha milliard dollardan oshib ketgan edi?",
+answers = {
+{text = "100 milliard", correct = false},
+{text = "130 milliard", correct = true},
+{text = "150 milliard", correct = false},
+{text = "200 milliard", correct = false},
+}
+},
+{
+question = "1993-yili Boris Yelsin Xalq deputatlari syezdi va Oliy Sovetni tarqatib yuborgach, qaysi yangi davlat hokimiyati organlariga saylov o'tkazish haqida farmon imzoladi?",
+answers = {
+{text = "Davlat Kengashi va Senat", correct = false},
+{text = "Federatsiya Kengashi va Davlat Dumasi", correct = true},
+{text = "Oliy Kengash va Vazirlar Mahkamasi", correct = false},
+{text = "Milliy Majlis va Senat", correct = false},
+}
+},
+{
+question = "Federatsiya Kengashi va Davlat Dumasiga birinchi saylovlar qaysi yil dekabrda bo'lib o'tdi?",
+answers = {
+{text = "1991-yil", correct = false},
+{text = "1992-yil", correct = false},
+{text = "1993-yil", correct = true},
+{text = "1994-yil", correct = false},
+}
+},
+{
+question = "Tatariston prezidenti etib saylanib, voqealar rivojini o'z qo'liga olishga erishgan davlat arbobi kim edi?",
+answers = {
+{text = "R. Xasbulatov", correct = false},
+{text = "M. Shaymiyev", correct = true},
+{text = "A. Lukashenko", correct = false},
+{text = "Y. Primakov", correct = false},
+}
+},
+{
+question = "Checheniston bilan federal markaz o'rtasidagi urush qaysi yillar oralig'ida davom etdi?",
+answers = {
+{text = "1994-1996-yillar", correct = false},
+{text = "1996-2000-yillar", correct = true},
+{text = "1999-2003-yillar", correct = false},
+{text = "2000-2005-yillar", correct = false},
+}
+},
+{
+question = "Rossiya-AQSH hamkorligi va do'stligi to'g'risidagi xartiya qaysi yili imzolangan?",
+answers = {
+{text = "1991-yil", correct = false},
+{text = "1992-yil", correct = true},
+{text = "1993-yil", correct = false},
+{text = "1994-yil", correct = false},
+}
+},
+{
+question = "Hujum qurollarini qisqartirish to'g'risidagi shartnoma Rossiya va AQSH o'rtasida qaysi yili imzolangan?",
+answers = {
+{text = "1992-yil", correct = false},
+{text = "1993-yil", correct = true},
+{text = "1994-yil", correct = false},
+{text = "1995-yil", correct = false},
+}
+},
+{
+question = "Rossiyani jahonning yetakchi liderlari norasmiy klubi - katta yettilikka (G7) 1994-yili qaysi AQSH prezidenti taklif qildi?",
+answers = {
+{text = "Jorj Bush", correct = false},
+{text = "Bill Klinton", correct = true},
+{text = "Jorj Bush kichik", correct = false},
+{text = "Ronald Reygan", correct = false},
+}
+},
+{
+question = "Boris Yelsin prezidentlik lavozimidan qaysi yil dekabrda iste'foga chiqdi?",
+answers = {
+{text = "1998-yil", correct = false},
+{text = "1999-yil", correct = true},
+{text = "2000-yil", correct = false},
+{text = "2001-yil", correct = false},
+}
+},
+{
+question = "Vladimir Putin qaysi yil martda bo'lib o'tgan saylovda rasman Rossiya prezidenti etib saylandi?",
+answers = {
+{text = "1999-yil", correct = false},
+{text = "2000-yil", correct = true},
+{text = "2004-yil", correct = false},
+{text = "2008-yil", correct = false},
+}
+},
+{
+question = "\"Besh kunlik urush\" nomini olgan Rossiya-Gruziya harbiy mojarosi qaysi yili yuz berdi?",
+answers = {
+{text = "2004-yil", correct = false},
+{text = "2006-yil", correct = false},
+{text = "2008-yil", correct = true},
+{text = "2010-yil", correct = false},
+}
+},
+{
+question = "Qrimning mustaqilligi va Rossiya Federatsiyasi tarkibiga qo'shilishi to'g'risidagi shartnoma qaysi sanada imzolandi?",
+answers = {
+{text = "2014-yil 16-mart", correct = true},
+{text = "2014-yil 21-fevral", correct = false},
+{text = "2015-yil 16-mart", correct = false},
+{text = "2013-yil 16-mart", correct = false},
+}
+},
+{
+question = "V. Putin Donbasga yordam berish uchun maxsus harbiy operatsiya boshlanganligini qaysi sanada e'lon qildi?",
+answers = {
+{text = "2022-yil 21-fevral", correct = false},
+{text = "2022-yil 24-fevral", correct = true},
+{text = "2022-yil 1-mart", correct = false},
+{text = "2021-yil 24-dekabr", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi va Rossiya Federatsiyasi o'rtasida diplomatik munosabatlar qaysi sanada o'rnatilgan?",
+answers = {
+{text = "1991-yil 8-dekabr", correct = false},
+{text = "1992-yil 20-mart", correct = true},
+{text = "1993-yil 20-mart", correct = false},
+{text = "1994-yil 20-mart", correct = false},
+}
+},
+{
+question = "2022-yil sentyabrda O'zbekiston va Rossiya o'rtasida keng qamrovli strategik sheriklik to'g'risidagi deklaratsiyani qaysi ikki davlat rahbari imzoladi?",
+answers = {
+{text = "Shavkat Mirziyoyev va Dmitriy Medvedev", correct = false},
+{text = "Islom Karimov va Vladimir Putin", correct = false},
+{text = "Shavkat Mirziyoyev va Vladimir Putin", correct = true},
+{text = "Shavkat Mirziyoyev va Mixail Mishustin", correct = false},
+}
+},
+{
+question = "Ukrainaning birinchi prezidenti etib 1991-yil martda kim saylangan?",
+answers = {
+{text = "Leonid Kuchma", correct = false},
+{text = "Leonid Kravchuk", correct = true},
+{text = "Viktor Yushchenko", correct = false},
+{text = "Viktor Yanukovich", correct = false},
+}
+},
+{
+question = "Ukraina o'z mustaqilligini qaysi sanada e'lon qildi?",
+answers = {
+{text = "1991-yil 24-avgust", correct = true},
+{text = "1991-yil 25-avgust", correct = false},
+{text = "1991-yil 27-avgust", correct = false},
+{text = "1990-yil 24-avgust", correct = false},
+}
+},
+{
+question = "Ukraina milliy valyutasi grivna qaysi yili muomalaga kiritildi?",
+answers = {
+{text = "1994-yil", correct = false},
+{text = "1995-yil", correct = false},
+{text = "1996-yil", correct = true},
+{text = "1998-yil", correct = false},
+}
+},
+{
+question = "Ukraina Konstitutsiyasi qaysi yili qabul qilingan?",
+answers = {
+{text = "1994-yil", correct = false},
+{text = "1996-yil", correct = true},
+{text = "1999-yil", correct = false},
+{text = "2004-yil", correct = false},
+}
+},
+{
+question = "2004-yilgi saylovdagi ommaviy noroziliklardan so'ng o'tkazilgan uchinchi tur saylovda kim Ukraina prezidenti etib saylandi?",
+answers = {
+{text = "Viktor Yanukovich", correct = false},
+{text = "Leonid Kuchma", correct = false},
+{text = "Viktor Yushchenko", correct = true},
+{text = "Pyotr Poroshenko", correct = false},
+}
+},
+{
+question = "2014-yil bo'lib o'tgan saylovda kim Ukraina prezidenti etib saylandi?",
+answers = {
+{text = "Vladimir Zelenskiy", correct = false},
+{text = "Pyotr Poroshenko", correct = true},
+{text = "Viktor Yanukovich", correct = false},
+{text = "Yuliya Timoshenko", correct = false},
+}
+},
+{
+question = "2019-yil aprelda bo'lib o'tgan prezidentlik saylovida kim g'alaba qozondi?",
+answers = {
+{text = "Pyotr Poroshenko", correct = false},
+{text = "Viktor Yushchenko", correct = false},
+{text = "Vladimir Zelenskiy", correct = true},
+{text = "Leonid Kravchuk", correct = false},
+}
+},
+{
+question = "Rossiya va Ukraina o'rtasida keng miqyosli urush harakatlari qaysi yil fevralidan boshlandi?",
+answers = {
+{text = "2014-yil", correct = false},
+{text = "2018-yil", correct = false},
+{text = "2020-yil", correct = false},
+{text = "2022-yil", correct = true},
+}
+},
+{
+question = "Belorussiya respublika suvereniteti haqidagi deklaratsiyani qaysi sanada qabul qildi?",
+answers = {
+{text = "1991-yil 24-avgust", correct = false},
+{text = "1991-yil 25-avgust", correct = true},
+{text = "1991-yil 27-avgust", correct = false},
+{text = "1990-yil 25-avgust", correct = false},
+}
+},
+{
+question = "Belarusda Mustaqillik kuni sifatida qaysi sana nishonlanadi?",
+answers = {
+{text = "25-avgust", correct = false},
+{text = "3-iyul", correct = true},
+{text = "9-may", correct = false},
+{text = "7-noyabr", correct = false},
+}
+},
+{
+question = "Belarus Respublikasi konstitutsiyasi qaysi yili qabul qilingan?",
+answers = {
+{text = "1993-yil", correct = false},
+{text = "1994-yil", correct = true},
+{text = "1996-yil", correct = false},
+{text = "1998-yil", correct = false},
+}
+},
+{
+question = "1994-yil bo'lib o'tgan saylovda kim Belarus Respublikasi prezidenti etib saylandi?",
+answers = {
+{text = "Stanislav Shushkevich", correct = false},
+{text = "Aleksandr Lukashenko", correct = true},
+{text = "Vyacheslav Kebich", correct = false},
+{text = "Mixail Myasnikovich", correct = false},
+}
+},
+{
+question = "2025-yil 26-yanvarda bo'lib o'tgan prezidentlik saylovlarida Belarusda yana kim prezident etib saylandi?",
+answers = {
+{text = "Aleksandr Lukashenko", correct = true},
+{text = "Sviatlana Tixanovskaya", correct = false},
+{text = "Roman Golovchenko", correct = false},
+{text = "Viktar Babariko", correct = false},
+}
+},
+{
+question = "Moldova Respublikasi o'z mustaqilligini qaysi sanada e'lon qildi?",
+answers = {
+{text = "1991-yil 24-avgust", correct = false},
+{text = "1991-yil 25-avgust", correct = false},
+{text = "1991-yil 27-avgust", correct = true},
+{text = "1991-yil 30-avgust", correct = false},
+}
+},
+{
+question = "Moldova Respublikasining birinchi prezidenti kim bo'lgan?",
+answers = {
+{text = "Mircha Snegur", correct = true},
+{text = "Igor Dodon", correct = false},
+{text = "Mayya Sandu", correct = false},
+{text = "Petru Lucinschi", correct = false},
+}
+},
+{
+question = "2020-yil noyabrda bo'lib o'tgan Moldova prezidentlik saylovida kim g'olib chiqdi?",
+answers = {
+{text = "Igor Dodon", correct = false},
+{text = "Mayya Sandu", correct = true},
+{text = "Vladimir Voronin", correct = false},
+{text = "Petru Lucinschi", correct = false},
+}
+},
+}
