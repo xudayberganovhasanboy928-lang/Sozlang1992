@@ -1,0 +1,722 @@
+questions = {
+{
+question = "1990-yili o'tkazilgan saylovlarda g'olib chiqib, Pokistonda hokimiyatni boshqargan Musulmon ligasi partiyasi rahbari kim edi?",
+answers = {
+{text = "Benazir Bhutto", correct = false},
+{text = "Navoz Sharif", correct = true},
+{text = "Parvez Musharraf", correct = false},
+{text = "Asif Ali Zardariy", correct = false},
+}
+},
+{
+question = "1993-yili prezident G'ulom Is'hoqxon yangi hukumatni iste'foga chiqargach, o'sha yili bo'lib o'tgan saylovda g'olib chiqib, yana bosh vazir lavozimini egallagan siyosatchi kim edi?",
+answers = {
+{text = "Navoz Sharif", correct = false},
+{text = "Benazir Bhutto", correct = true},
+{text = "Imron Xon", correct = false},
+{text = "Shahboz Sharif", correct = false},
+}
+},
+{
+question = "1999-yil kuzda Pokistonda amalga oshirilgan harbiy to'ntarish natijasida hokimiyatga kim keldi?",
+answers = {
+{text = "Navoz Sharif", correct = false},
+{text = "Benazir Bhutto", correct = false},
+{text = "general Parvez Musharraf", correct = true},
+{text = "Asif Ali Zardariy", correct = false},
+}
+},
+{
+question = "2008-yilgi saylovlarda Pokiston xalq partiyasi (PXP) hamraisi sifatida kim prezident etib saylandi?",
+answers = {
+{text = "Navoz Sharif", correct = false},
+{text = "Asif Ali Zardariy", correct = true},
+{text = "Imron Xon", correct = false},
+{text = "Shahboz Sharif", correct = false},
+}
+},
+{
+question = "Pokiston qaysi yili Shanxay Hamkorlik Tashkilotiga (SHHT) a'zo bo'ldi?",
+answers = {
+{text = "2015-yili", correct = false},
+{text = "2016-yili", correct = false},
+{text = "2017-yili", correct = true},
+{text = "2018-yili", correct = false},
+}
+},
+{
+question = "2018-yilgi saylovda g'alaba qozonib, Pokiston bosh vaziri bo'lgan siyosatchi kim edi?",
+answers = {
+{text = "Navoz Sharif", correct = false},
+{text = "Shahboz Sharif", correct = false},
+{text = "Imron Xon", correct = true},
+{text = "Asif Ali Zardariy", correct = false},
+}
+},
+{
+question = "2017-yili korrupsiyada ayblanib hokimiyatdan chetlatilgan Navoz Sharifning ukasi kim bosh vazir etib saylandi?",
+answers = {
+{text = "Imron Xon", correct = false},
+{text = "Shahboz Sharif", correct = true},
+{text = "Asif Ali Zardariy", correct = false},
+{text = "Parvez Musharraf", correct = false},
+}
+},
+{
+question = "1992-yil aprelda Kobul shahriga kimlarning otryadlari kirib keldi?",
+answers = {
+{text = "tolibonlar", correct = false},
+{text = "mujohidlar", correct = true},
+{text = "sovet qo'shinlari", correct = false},
+{text = "AQSH qo'shinlari", correct = false},
+}
+},
+{
+question = "Afg'oniston prezidenti Muhammad Najibullo mujohidlar tomonidan qaysi yili dorga osilgan?",
+answers = {
+{text = "1992-yili", correct = false},
+{text = "1994-yili", correct = false},
+{text = "1996-yili", correct = true},
+{text = "1998-yili", correct = false},
+}
+},
+{
+question = "1994-yili Afg'onistondagi mojaroga qo'shilgan yangi siyosiy kuch - tolibon harakati yetakchisi kim edi?",
+answers = {
+{text = "Usoma bin Lodin", correct = false},
+{text = "mulla Umar", correct = true},
+{text = "Hamid Karzay", correct = false},
+{text = "Ashraf G'ani", correct = false},
+}
+},
+{
+question = "Tolibon 1996-yil sentyabrda Kobulni egallab, mamlakatni qanday deb e'lon qildi?",
+answers = {
+{text = "\"Afg'oniston Islom Respublikasi\"", correct = false},
+{text = "\"Afg'oniston Islom amirligi\"", correct = true},
+{text = "\"Afg'oniston Demokratik Respublikasi\"", correct = false},
+{text = "\"Afg'oniston Xalq Respublikasi\"", correct = false},
+}
+},
+{
+question = "2002-yil iyunda bo'lib o'tgan Umumafg'on Loyya Jirg'asida kim Afg'oniston prezidenti vazifasini bajaruvchi etib saylandi?",
+answers = {
+{text = "Ashraf G'ani Ahmadzoy", correct = false},
+{text = "Hamid Karzay", correct = true},
+{text = "Muhammad Najibullo", correct = false},
+{text = "mulla Umar", correct = false},
+}
+},
+{
+question = "2004-yil bo'lib o'tgan prezidentlik saylovida kim rasman Afg'oniston prezidenti etib saylandi?",
+answers = {
+{text = "Ashraf G'ani Ahmadzoy", correct = false},
+{text = "Hamid Karzay", correct = true},
+{text = "Abdulla Abdulla", correct = false},
+{text = "mulla Umar", correct = false},
+}
+},
+{
+question = "2014-yili bo'lib o'tgan prezidentlik saylovining ikkinchi turida kim Afg'oniston prezidenti lavozimini egalladi?",
+answers = {
+{text = "Hamid Karzay", correct = false},
+{text = "Ashraf G'ani Ahmadzoy", correct = true},
+{text = "Abdulla Abdulla", correct = false},
+{text = "mulla Umar", correct = false},
+}
+},
+{
+question = "Tolibon Afg'oniston poytaxti Kobulni qaysi sanada egallab, o'z hokimiyatini o'rnatdi?",
+answers = {
+{text = "2021-yil 15-avgust", correct = true},
+{text = "2021-yil 31-avgust", correct = false},
+{text = "2020-yil 15-avgust", correct = false},
+{text = "2021-yil 1-sentyabr", correct = false},
+}
+},
+{
+question = "2024-yili Termiz shahrida Markaziy Osiyoda birinchi qanday markaz ochildi?",
+answers = {
+{text = "\"Termiz xalqaro logistika markazi\"", correct = false},
+{text = "\"Termiz xalqaro savdo markazi\"", correct = true},
+{text = "\"Termiz erkin iqtisodiy zonasi\"", correct = false},
+{text = "\"Termiz gumanitar markazi\"", correct = false},
+}
+},
+{
+question = "1970-yili harbiy to'ntarish orqali hokimiyatga kelib, Suriyani 2000-yilgacha boshqargan siyosatchi kim edi?",
+answers = {
+{text = "Bashar Asad", correct = false},
+{text = "Hofiz Asad", correct = true},
+{text = "Saddam Husayn", correct = false},
+{text = "Abu Bakr al-Bag'dodiy", correct = false},
+}
+},
+{
+question = "Hofiz Asad 2000-yili vafot etganidan so'ng Suriya hokimiyatiga kim keldi?",
+answers = {
+{text = "Bashar Asad", correct = true},
+{text = "Abu Muhammad al-Jo'loniy", correct = false},
+{text = "Saddam Husayn", correct = false},
+{text = "Hamid Karzay", correct = false},
+}
+},
+{
+question = "2011-yili Suriyaning janubidagi Darayya shahrida juma namozidan so'ng boshlangan g'alayonlar qanday nom oldi?",
+answers = {
+{text = "\"Arab bahori\"", correct = false},
+{text = "\"Juma inqilobi\"", correct = true},
+{text = "\"Yasmin inqilobi\"", correct = false},
+{text = "\"Damashq bahori\"", correct = false},
+}
+},
+{
+question = "2013-yili Iroq va qisman Suriya hududida terrorchi guruhlar qanday nomdagi davlat tuzganini e'lon qildi?",
+answers = {
+{text = "\"Al-Qoida xalifaligi\"", correct = false},
+{text = "\"Iroq va Shom islom davlati\" (\"ISHID\")", correct = true},
+{text = "\"Jibhat an-Nusra\"", correct = false},
+{text = "\"Tolibon amirligi\"", correct = false},
+}
+},
+{
+question = "\"ISHID\" tashkiloti 2014-yili o'zini qanday deb e'lon qildi?",
+answers = {
+{text = "\"Islom Respublikasi\"", correct = false},
+{text = "\"Umumjahon xalifaligi\"", correct = true},
+{text = "\"Shom amirligi\"", correct = false},
+{text = "\"Islom davlati ittifoqi\"", correct = false},
+}
+},
+{
+question = "2015-yildan Suriyadagi harbiy operatsiyada qaysi davlatning harbiy-kosmik kuchlari ishtirok etdi?",
+answers = {
+{text = "AQSH", correct = false},
+{text = "Rossiya", correct = true},
+{text = "Turkiya", correct = false},
+{text = "Eron", correct = false},
+}
+},
+{
+question = "2024-yil noyabrda qaysi qurolli guruh 11 kun ichida Halab, Hamo, Hims va Damashqni egalladi?",
+answers = {
+{text = "\"ISHID\"", correct = false},
+{text = "\"Hayyat Tahrir ash-Shom\"", correct = true},
+{text = "\"Jibhat an-Nusra\"", correct = false},
+{text = "Suriya ozodlik armiyasi", correct = false},
+}
+},
+{
+question = "Suriya prezidenti Bashar Asad 2024-yil noyabrda oilasi bilan qaysi davlatga qochib ketdi?",
+answers = {
+{text = "Eron", correct = false},
+{text = "Rossiya", correct = true},
+{text = "Turkiya", correct = false},
+{text = "Xitoy", correct = false},
+}
+},
+{
+question = "2024-yil noyabrdan keyin Suriyada hokimiyatni egallagan siyosatchi kim edi?",
+answers = {
+{text = "Bashar Asad", correct = false},
+{text = "Abu Muhammad al-Jo'loniy", correct = true},
+{text = "Saddam Husayn", correct = false},
+{text = "Abu Bakr al-Bag'dodiy", correct = false},
+}
+},
+{
+question = "Saddam Husayn hukumati AQSH va Buyuk Britaniya qo'shinlari tomonidan qaysi yili ag'darildi?",
+answers = {
+{text = "1999-yili", correct = false},
+{text = "2001-yili", correct = false},
+{text = "2003-yili", correct = true},
+{text = "2005-yili", correct = false},
+}
+},
+{
+question = "Iroq 2005-yili qabul qilingan konstitutsiyaga binoan qanday davlat deb e'lon qilindi?",
+answers = {
+{text = "prezidentlik respublikasi", correct = false},
+{text = "parlamentar federativ respublika", correct = true},
+{text = "konstitutsiyaviy monarxiya", correct = false},
+{text = "islom amirligi", correct = false},
+}
+},
+{
+question = "Iroqni tashkil qiluvchi uchta etnos qatoriga qaysilar kiradi?",
+answers = {
+{text = "sunniy arablar, shia arablar va kurdlar", correct = true},
+{text = "arablar, turkmanlar va assiriyaliklar", correct = false},
+{text = "kurdlar, turklar va forslar", correct = false},
+{text = "shialar, kurdlar va yazidiylar", correct = false},
+}
+},
+{
+question = "2010-yili bo'lib o'tgan Iroq parlament saylovida kutilmaganda qaysi guruh g'olib chiqdi?",
+answers = {
+{text = "shia arablar", correct = false},
+{text = "muxolifatdagi sunniylar", correct = true},
+{text = "kurdlar", correct = false},
+{text = "Saddam Husayn tarafdorlari", correct = false},
+}
+},
+{
+question = "AQSH qo'shinlari tomonidan Idlib provinsiyasida qaysi terroristik harakat yetakchisi o'ldirilgani e'lon qilindi?",
+answers = {
+{text = "Usoma bin Lodin", correct = false},
+{text = "Abu Bakr al-Bag'dodiy", correct = true},
+{text = "Abu Muhammad al-Jo'loniy", correct = false},
+{text = "mulla Umar", correct = false},
+}
+},
+{
+question = "O'zbekiston tomonidan amalga oshirilgan \"Mehr\" insonparvarlik operatsiyasi orqali necha nafardan ortiq ayol va bolalar Vatanga qaytarildi?",
+answers = {
+{text = "300 nafardan ortiq", correct = false},
+{text = "500 nafardan ortiq", correct = true},
+{text = "700 nafardan ortiq", correct = false},
+{text = "1000 nafardan ortiq", correct = false},
+}
+},
+{
+question = "\"Mehr\" insonparvarlik operatsiyasi nechta bosqichda (\"Mehr-1\"dan \"Mehr-5\"gacha) o'tkazildi?",
+answers = {
+{text = "uchta", correct = false},
+{text = "to'rtta", correct = false},
+{text = "beshta", correct = true},
+{text = "oltita", correct = false},
+}
+},
+{
+question = "Saudiya Arabistoni Amerikaning qaysi kompaniyasi bilan neft qazib olish to'g'risida kelishuvga erishgach, boylik timsoliga aylandi?",
+answers = {
+{text = "\"ExxonMobil\"", correct = false},
+{text = "\"Aramco\"", correct = true},
+{text = "\"Chevron\"", correct = false},
+{text = "\"Shell\"", correct = false},
+}
+},
+{
+question = "Saudiya Arabistonida podshoh Abdulloh davri qaysi yillarni o'z ichiga oladi?",
+answers = {
+{text = "2000-2010-yillar", correct = false},
+{text = "2005-2015-yillar", correct = true},
+{text = "2010-2020-yillar", correct = false},
+{text = "1995-2005-yillar", correct = false},
+}
+},
+{
+question = "2015-yili podshoh Abdulloh vafot etganidan so'ng Saudiya Arabistoni taxtiga kim keldi?",
+answers = {
+{text = "Muhammad bin Salmon Ol Saud", correct = false},
+{text = "Salmon bin Abdulaziz Ol Saud", correct = true},
+{text = "Abdulaziz Ol Saud", correct = false},
+{text = "Fahd bin Abdulaziz", correct = false},
+}
+},
+{
+question = "Saudiya Arabistonida ayollar ishlari bo'yicha vazir o'rinbosari etib tayinlangan malika kim edi?",
+answers = {
+{text = "Nora al-Fayz", correct = true},
+{text = "Rima bint Bandar", correct = false},
+{text = "Latifa al-Shaalan", correct = false},
+{text = "Sara al-Su'ud", correct = false},
+}
+},
+{
+question = "Birlashgan Arab Amirliklari (BAA) qaysi sanada tashkil topgan?",
+answers = {
+{text = "1971-yil 3-sentyabr", correct = false},
+{text = "1971-yil 2-dekabr", correct = true},
+{text = "1961-yil", correct = false},
+{text = "1996-yil", correct = false},
+}
+},
+{
+question = "BAA tashkil topishida qaysi shayx tashabbus ko'rsatgan?",
+answers = {
+{text = "Muhammad bin Rashid Ol Maktum", correct = false},
+{text = "Zoid bin Sulton Ol-Nahayon", correct = true},
+{text = "Xalifa bin Zoid", correct = false},
+{text = "Sulton Qobus", correct = false},
+}
+},
+{
+question = "BAAning neft boyliklarining 95 foizi qaysi amirlikka tegishli?",
+answers = {
+{text = "Dubay", correct = false},
+{text = "Abu Dabi", correct = true},
+{text = "Sharja", correct = false},
+{text = "Ajman", correct = false},
+}
+},
+{
+question = "Kuvayt amiri \"Kuwait oil company\" kompaniyasi bilan neftdan tushadigan daromadni teng bo'lish to'g'risidagi kelishuvni qaysi yili imzoladi?",
+answers = {
+{text = "1945-yili", correct = false},
+{text = "1951-yili", correct = true},
+{text = "1961-yili", correct = false},
+{text = "1971-yili", correct = false},
+}
+},
+{
+question = "Kuvayt qaysi yili to'liq mustaqillikka erishdi?",
+answers = {
+{text = "1951-yilda", correct = false},
+{text = "1961-yilda", correct = true},
+{text = "1971-yilda", correct = false},
+{text = "1990-yilda", correct = false},
+}
+},
+{
+question = "Iroq armiyasi Kuvaytga qaysi sanada bostirib kirdi?",
+answers = {
+{text = "1990-yil 2-avgust", correct = true},
+{text = "1991-yil 28-fevral", correct = false},
+{text = "1991-yil sentyabr", correct = false},
+{text = "1990-yil 1-yanvar", correct = false},
+}
+},
+{
+question = "Xalqaro koalitsiya tomonidan Kuvayt qaysi sanada ozod qilindi?",
+answers = {
+{text = "1990-yil 2-avgust", correct = false},
+{text = "1991-yil 28-fevral", correct = true},
+{text = "1991-yil sentyabr", correct = false},
+{text = "1992-yil", correct = false},
+}
+},
+{
+question = "Qatar qaysi sanada mustaqillikka erishdi?",
+answers = {
+{text = "1971-yil 3-sentyabr", correct = true},
+{text = "1971-yil avgust", correct = false},
+{text = "1961-yil", correct = false},
+{text = "1951-yil", correct = false},
+}
+},
+{
+question = "Qatar aholi jon boshiga daromad bo'yicha dunyoda nechanchi o'rinda turadi?",
+answers = {
+{text = "uchinchi o'rinda", correct = false},
+{text = "beshinchi o'rinda", correct = true},
+{text = "yettinchi o'rinda", correct = false},
+{text = "o'ninchi o'rinda", correct = false},
+}
+},
+{
+question = "Bahrayn qaysi yili mustaqillikka erishdi?",
+answers = {
+{text = "1961-yili", correct = false},
+{text = "1971-yili", correct = true},
+{text = "1981-yili", correct = false},
+{text = "1991-yili", correct = false},
+}
+},
+{
+question = "O'mon sultoni Qobus O'monning birinchi konstitutsiyasini qaysi yili imzoladi?",
+answers = {
+{text = "1990-yili", correct = false},
+{text = "1996-yili", correct = true},
+{text = "2000-yili", correct = false},
+{text = "2016-yili", correct = false},
+}
+},
+{
+question = "O'zbekiston va BAA o'rtasida Strategik sheriklik munosabatlarini o'rnatish to'g'risidagi deklaratsiya qaysi yil yanvarida imzolandi?",
+answers = {
+{text = "2019-yil", correct = false},
+{text = "2022-yil", correct = false},
+{text = "2025-yil", correct = true},
+{text = "2024-yil", correct = false},
+}
+},
+{
+question = "BMT Xavfsizlik Kengashi Falastin bo'yicha rezolyutsiyani qaysi yili qabul qildi?",
+answers = {
+{text = "1945-yili", correct = false},
+{text = "1947-yili", correct = true},
+{text = "1948-yili", correct = false},
+{text = "1967-yili", correct = false},
+}
+},
+{
+question = "Falastinni ozod qilish tashkiloti (FOZT)ga uzoq yillar kim boshchilik qildi?",
+answers = {
+{text = "Mahmud Abbos", correct = false},
+{text = "Yosir Arofat", correct = true},
+{text = "Is'hoq Rabin", correct = false},
+{text = "Ariel Sharon", correct = false},
+}
+},
+{
+question = "Isroil va FOZT bir-birini tan olganligi to'g'risida qaysi yili e'lon qilindi?",
+answers = {
+{text = "1991-yili", correct = false},
+{text = "1993-yili", correct = true},
+{text = "1995-yili", correct = false},
+{text = "1996-yili", correct = false},
+}
+},
+{
+question = "1994-yili Yosir Arofat boshchiligida tashkil qilingan boshqaruv organi qanday nomlangan?",
+answers = {
+{text = "Falastin qonunchilik kengashi", correct = false},
+{text = "Falastin milliy ma'muriyati", correct = true},
+{text = "Falastin avtonom respublikasi", correct = false},
+{text = "Falastin xalq assambleyasi", correct = false},
+}
+},
+{
+question = "1994-yili Y. Arofat bilan bir qatorda kim Nobel tinchlik mukofotiga sazovor bo'ldi?",
+answers = {
+{text = "Ariel Sharon", correct = false},
+{text = "Is'hoq Rabin", correct = true},
+{text = "Ehud Barak", correct = false},
+{text = "Binyamin Netanyaxu", correct = false},
+}
+},
+{
+question = "1995-yili Isroil bosh vaziri Is'hoq Rabin kim tomonidan o'ldirildi?",
+answers = {
+{text = "falastinlik terrorchi", correct = false},
+{text = "mutaassib yahudiy", correct = true},
+{text = "\"Hamas\" a'zosi", correct = false},
+{text = "Suriya josusi", correct = false},
+}
+},
+{
+question = "\"Hamas\" harakati G'azo sektorida hokimiyatni qaysi yili egallab oldi?",
+answers = {
+{text = "2003-yili", correct = false},
+{text = "2005-yili", correct = true},
+{text = "2006-yili", correct = false},
+{text = "2012-yili", correct = false},
+}
+},
+{
+question = "2006-yili Y. Arofat vafot etganidan so'ng, uning o'rniga kim Falastin avtonomiyasining raisi etib saylandi?",
+answers = {
+{text = "Ismoil Haniya", correct = false},
+{text = "Mahmud Abbos", correct = true},
+{text = "Marvon Barg'uti", correct = false},
+{text = "Salom Fayyod", correct = false},
+}
+},
+{
+question = "Falastin qaysi yili kuzatuvchi davlat maqomida BMT faoliyatida qatnashish huquqini oldi?",
+answers = {
+{text = "2006-yili", correct = false},
+{text = "2010-yili", correct = false},
+{text = "2012-yili", correct = true},
+{text = "2017-yili", correct = false},
+}
+},
+{
+question = "2000-yili AQSH prezidenti Bill Klinton vositachiligida Kemp Devid shahrida qanday masala bo'yicha muzokaralar bo'lib o'tdi?",
+answers = {
+{text = "Falastin muammosini tartibga solish", correct = true},
+{text = "Suriya-Isroil chegara masalasi", correct = false},
+{text = "Iroq inqirozi", correct = false},
+{text = "Livan urushi", correct = false},
+}
+},
+{
+question = "Kemp Devid muzokaralaridan so'ng Isroil bosh vaziri Ehud Barak iste'foga chiqib, o'rniga 2001-yili kim saylandi?",
+answers = {
+{text = "Binyamin Netanyaxu", correct = false},
+{text = "Ariel Sharon", correct = true},
+{text = "Is'hoq Rabin", correct = false},
+{text = "Shimon Peres", correct = false},
+}
+},
+{
+question = "2006-yili G'azo sektorida o'tkazilgan demokratik saylovda qaysi harakat g'alaba qozondi?",
+answers = {
+{text = "FOZT", correct = false},
+{text = "\"Hamas\"", correct = true},
+{text = "\"Hizbulloh\"", correct = false},
+{text = "\"Islom jihodi\"", correct = false},
+}
+},
+{
+question = "2022-yil dekabrda bo'lib o'tgan saylovda \"Likud\" bloki g'alaba qozonib, kim bosh vazir lavozimini egalladi?",
+answers = {
+{text = "Ehud Barak", correct = false},
+{text = "Ariel Sharon", correct = false},
+{text = "Binyamin Netanyaxu", correct = true},
+{text = "Yair Lapid", correct = false},
+}
+},
+{
+question = "G'azo sektori qaysi yilda Isroil tomonidan bosib olingan edi?",
+answers = {
+{text = "1948-yilda", correct = false},
+{text = "1956-yilda", correct = false},
+{text = "1967-yilda", correct = true},
+{text = "1973-yilda", correct = false},
+}
+},
+{
+question = "Falastin Davlati e'lon qilingan kun sifatida qaysi sana nishonlanadi?",
+answers = {
+{text = "4-iyul", correct = false},
+{text = "15-noyabr", correct = true},
+{text = "9-noyabr", correct = false},
+{text = "21-sentyabr", correct = false},
+}
+},
+{
+question = "O'zbekiston Respublikasi Prezidentining Falastin muammosiga bag'ishlangan navbatdan tashqari Arab-islom sammitidagi nutqi qaysi yil noyabrida bo'lib o'tdi?",
+answers = {
+{text = "2022-yil", correct = false},
+{text = "2023-yil", correct = false},
+{text = "2024-yil", correct = true},
+{text = "2025-yil", correct = false},
+}
+},
+{
+question = "Lotin Amerikasi mintaqasi necha ta mustaqil davlatdan iborat?",
+answers = {
+{text = "25 ta", correct = false},
+{text = "30 ta", correct = false},
+{text = "33 ta", correct = true},
+{text = "40 ta", correct = false},
+}
+},
+{
+question = "2025-yil boshiga kelib Lotin Amerikasi mintaqasi aholisi necha million kishidan oshdi?",
+answers = {
+{text = "500 million", correct = false},
+{text = "600 million", correct = false},
+{text = "665 million", correct = true},
+{text = "750 million", correct = false},
+}
+},
+{
+question = "Neoliberal rivojlanish modeli qaysi davlat rahbari davrida Chilida muvaffaqiyatli amalga oshirilgan?",
+answers = {
+{text = "Salvador Alyende", correct = false},
+{text = "Augusto Pinochet", correct = true},
+{text = "Fidel Kastro", correct = false},
+{text = "Ugo Chaves", correct = false},
+}
+},
+{
+question = "Meksikada moliyaviy-iqtisodiy inqiroz qaysi yil dekabrida boshlandi?",
+answers = {
+{text = "1992-yil", correct = false},
+{text = "1994-yil", correct = true},
+{text = "1997-yil", correct = false},
+{text = "2001-yil", correct = false},
+}
+},
+{
+question = "Argentinaning defolt e'lon qilishi qaysi yili sodir bo'lib, jahon tarixidagi eng yirik bankrotlik holati bo'ldi?",
+answers = {
+{text = "1998-yili", correct = false},
+{text = "2001-yili", correct = true},
+{text = "2003-yili", correct = false},
+{text = "2008-yili", correct = false},
+}
+},
+{
+question = "1994-yili Meksikada qanday ommaviy qo'zg'olon boshlandi?",
+answers = {
+{text = "ishchilarning qo'zg'oloni", correct = false},
+{text = "hindularning ommaviy qo'zg'oloni", correct = true},
+{text = "talabalar qo'zg'oloni", correct = false},
+{text = "harbiylar isyoni", correct = false},
+}
+},
+{
+question = "2002- va 2006-yillari Braziliya prezidenti etib saylanib, 2022-yili yana shu lavozimga saylangan siyosatchi kim edi?",
+answers = {
+{text = "Jair Bolsonaru", correct = false},
+{text = "Luis Inasiu Lula da Silva", correct = true},
+{text = "Fernando Kardozo", correct = false},
+{text = "Dilma Rusef", correct = false},
+}
+},
+{
+question = "Argentinaning XX asr oxiridagi defolti mamlakatning necha milliard dollarlik qarzni to'lay olmasligini anglatardi?",
+answers = {
+{text = "50 milliard dollar", correct = false},
+{text = "80 milliard dollar", correct = true},
+{text = "100 milliard dollar", correct = false},
+{text = "120 milliard dollar", correct = false},
+}
+},
+{
+question = "2003-yili Argentina prezidenti etib saylanib, islohotlar boshlagan siyosatchi kim edi?",
+answers = {
+{text = "Xaver Miley", correct = false},
+{text = "Nestor Kirshner", correct = true},
+{text = "Kristina de Kirshner", correct = false},
+{text = "Karlos Menem", correct = false},
+}
+},
+{
+question = "Nestor Kirshnerdan keyin 2007-yildan Argentina prezidenti lavozimini kim davom ettirdi?",
+answers = {
+{text = "Xaver Miley", correct = false},
+{text = "Kristina de Kirshner", correct = true},
+{text = "Mauricio Makri", correct = false},
+{text = "Alberto Fernandez", correct = false},
+}
+},
+{
+question = "2003-2012-yillari Argentina YIMining o'rtacha o'sish sur'ati necha foizni tashkil qildi?",
+answers = {
+{text = "4,5 %", correct = false},
+{text = "5,8 %", correct = false},
+{text = "7,1 %", correct = true},
+{text = "9,0 %", correct = false},
+}
+},
+{
+question = "2023-yili Argentina prezidenti etib kim saylandi?",
+answers = {
+{text = "Mauricio Makri", correct = false},
+{text = "Alberto Fernandez", correct = false},
+{text = "Xaver Miley", correct = true},
+{text = "Kristina de Kirshner", correct = false},
+}
+},
+{
+question = "2024-yil martda Argentinada yillik inflyatsiya 1991-yildan beri birinchi marta necha foizdan oshdi?",
+answers = {
+{text = "50 %", correct = false},
+{text = "80 %", correct = false},
+{text = "100 %", correct = true},
+{text = "150 %", correct = false},
+}
+},
+{
+question = "2008-yildan mintaqadagi eng yirik uchta davlat - Braziliya, Meksika va Argentina qaysi obro'li klubga a'zo bo'ldi?",
+answers = {
+{text = "G7 (katta yettilik)", correct = false},
+{text = "G20 (katta yigirmalik)", correct = true},
+{text = "BRIKS", correct = false},
+{text = "OECD", correct = false},
+}
+},
+{
+question = "Meksika 1994-yili qaysi erkin savdo zonasiga kirdi?",
+answers = {
+{text = "Yevropa erkin savdo zonasi", correct = false},
+{text = "Shimoliy Amerika erkin savdo zonasi", correct = true},
+{text = "Janubiy Amerika umumiy bozori", correct = false},
+{text = "Osiyo-Tinch okeani erkin savdo zonasi", correct = false},
+}
+},
+{
+question = "1959-yilgi inqilobdan so'ng o'ziga xos kommunistik siyosiy rejim shakllangan Lotin Amerikasi davlati qaysi edi?",
+answers = {
+{text = "Venesuela", correct = false},
+{text = "Kuba", correct = true},
+{text = "Nikaragua", correct = false},
+{text = "Boliviya", correct = false},
+}
+},
+}

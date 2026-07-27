@@ -1,0 +1,830 @@
+questions = {
+{
+question = "2011-yili Misr prezidenti etib qaysi shaxs iste'foga chiqdi?",
+answers = {
+{text = "Muhammad Mursiy", correct = false},
+{text = "Husni Muborak", correct = true},
+{text = "Abdulfattoh as-Sisi", correct = false},
+{text = "Anvar Sadot", correct = false},
+}
+},
+{
+question = "\"Musulmon birodarlar\" radikal tashkilotidan nomzod bo'lib, Misr prezidentlik saylovida g'alaba qozongan siyosatchi kim edi?",
+answers = {
+{text = "Husni Muborak", correct = false},
+{text = "Muhammad Mursiy", correct = true},
+{text = "Abdulfattoh as-Sisi", correct = false},
+{text = "Anvar Sadot", correct = false},
+}
+},
+{
+question = "M. Mursiy qaysi yili harbiylar tomonidan ag'darildi va qamoqqa olindi?",
+answers = {
+{text = "2011-yili", correct = false},
+{text = "2012-yili", correct = false},
+{text = "2013-yili", correct = true},
+{text = "2014-yili", correct = false},
+}
+},
+{
+question = "2014-yil bo'lib o'tgan saylovlarda Misr prezidenti etib qaysi mudofaa vaziri saylandi?",
+answers = {
+{text = "Muhammad Mursiy", correct = false},
+{text = "general Abdulfattoh as-Sisi", correct = true},
+{text = "Husni Muborak", correct = false},
+{text = "Anvar Sadot", correct = false},
+}
+},
+{
+question = "Abdulfattoh as-Sisi qaysi yil dekabrda uchinchi marta Misr prezidenti bo'ldi?",
+answers = {
+{text = "2018-yil", correct = false},
+{text = "2020-yil", correct = false},
+{text = "2023-yil", correct = true},
+{text = "2025-yil", correct = false},
+}
+},
+{
+question = "2022-yili Misrda ilmiy tadqiqotlarga ajratilgan mablag' YIMning necha foizini tashkil qildi?",
+answers = {
+{text = "0,5 %", correct = false},
+{text = "1,2 %", correct = true},
+{text = "2,5 %", correct = false},
+{text = "3,0 %", correct = false},
+}
+},
+{
+question = "Sudan aholisining faqat necha foizi sanoat sohasida band?",
+answers = {
+{text = "5 %", correct = true},
+{text = "10 %", correct = false},
+{text = "15 %", correct = false},
+{text = "20 %", correct = false},
+}
+},
+{
+question = "Liviyada uzoq yillar hukmronlik qilgan davlat rahbari kim edi?",
+answers = {
+{text = "Abdulfattoh as-Sisi", correct = false},
+{text = "Muammar Qazzofiy", correct = true},
+{text = "Husni Muborak", correct = false},
+{text = "Bashar Asad", correct = false},
+}
+},
+{
+question = "Qazzofiy hokimiyatga kelgunga qadar Liviya aholisining savodxonlik darajasi necha foizni tashkil qilgan?",
+answers = {
+{text = "15 %", correct = false},
+{text = "27 %", correct = true},
+{text = "35 %", correct = false},
+{text = "40 %", correct = false},
+}
+},
+{
+question = "Qazzofiy hukmronligining o'n yilligiga kelib Liviyada savodxonlik darajasi necha foizga yetdi?",
+answers = {
+{text = "40 %", correct = false},
+{text = "45 %", correct = false},
+{text = "51 %", correct = true},
+{text = "60 %", correct = false},
+}
+},
+{
+question = "Muammar Qazzofiy Liviyada necha yil hukmronlik qildi?",
+answers = {
+{text = "32 yil", correct = false},
+{text = "37 yil", correct = false},
+{text = "42 yil", correct = true},
+{text = "45 yil", correct = false},
+}
+},
+{
+question = "Qazzofiy hukmronligi davrida Liviya aholisi necha barobar ko'paydi?",
+answers = {
+{text = "2 barobar", correct = false},
+{text = "3 barobar", correct = true},
+{text = "4 barobar", correct = false},
+{text = "5 barobar", correct = false},
+}
+},
+{
+question = "1979-yilga kelib Liviya aholi jon boshiga daromad bo'yicha qaysi davlatlarni ortda qoldirgan edi?",
+answers = {
+{text = "Fransiya, Germaniya va Ispaniya", correct = false},
+{text = "Buyuk Britaniya, Italiya va Yaponiya", correct = true},
+{text = "AQSH, Kanada va Avstraliya", correct = false},
+{text = "Rossiya, Xitoy va Hindiston", correct = false},
+}
+},
+{
+question = "2001-2005-yillari Liviya qanday ko'rsatkichi bo'yicha Ginnesning rekordlar kitobiga kiritilgan?",
+answers = {
+{text = "eng yuqori YIM o'sishi", correct = false},
+{text = "inflyatsiya darajasining pastligi", correct = true},
+{text = "eng past ishsizlik", correct = false},
+{text = "eng yuqori savodxonlik", correct = false},
+}
+},
+{
+question = "2011-yili Liviyadagi g'alayonlar natijasida NATO kuchlari aralashib, mamlakatni bombardimon qildi va qaysi davlat rahbari o'ldirildi?",
+answers = {
+{text = "Husni Muborak", correct = false},
+{text = "Muammar Qazzofiy", correct = true},
+{text = "Bashar Asad", correct = false},
+{text = "Saddam Husayn", correct = false},
+}
+},
+{
+question = "Liviyada fuqarolar urushi qaysi yili boshlanib, mamlakat iqtisodiy halokat yoqasiga kelib qoldi?",
+answers = {
+{text = "2011-yili", correct = false},
+{text = "2013-yili", correct = false},
+{text = "2016-yili", correct = true},
+{text = "2018-yili", correct = false},
+}
+},
+{
+question = "Marksizmga sodiq qolgan Efiopiya rahbari Mengistu Xayle Mariam hukumati qaysi yili ag'darib tashlandi?",
+answers = {
+{text = "1989-yili", correct = false},
+{text = "1991-yili", correct = true},
+{text = "1993-yili", correct = false},
+{text = "1995-yili", correct = false},
+}
+},
+{
+question = "1989-yili Liberiyada boshlangan etnik fuqarolar urushi natijasida necha million aholi qo'shni davlatlarga ommaviy qochib ketdi?",
+answers = {
+{text = "0,5 million", correct = false},
+{text = "1 million", correct = true},
+{text = "2 million", correct = false},
+{text = "3 million", correct = false},
+}
+},
+{
+question = "1990-yili Ruanda va Burundida qaysi ikki xalq o'rtasidagi kurash keskinlashib, genotsidga olib keldi?",
+answers = {
+{text = "xutu va sunniylar", correct = false},
+{text = "tutsi va xutu", correct = true},
+{text = "shia va sunniylar", correct = false},
+{text = "tutsi va zulular", correct = false},
+}
+},
+{
+question = "Ruanda genotsidi natijasida mamlakatning necha million aholisi halok bo'ldi?",
+answers = {
+{text = "0,5 millionga yaqin", correct = false},
+{text = "1 millionga yaqin", correct = true},
+{text = "1,5 millionga yaqin", correct = false},
+{text = "2 millionga yaqin", correct = false},
+}
+},
+{
+question = "Burundida etnik mojarolar natijasida necha million kishi qochoqqa aylandi?",
+answers = {
+{text = "0,5 millionga yaqin", correct = false},
+{text = "1 millionga yaqin", correct = true},
+{text = "1,5 millionga yaqin", correct = false},
+{text = "2 millionga yaqin", correct = false},
+}
+},
+{
+question = "Kongo Demokratik Respublikasida Mobutuning diktatorlik rejimi qaysi yili ag'darildi?",
+answers = {
+{text = "1994-yili", correct = false},
+{text = "1996-yili", correct = false},
+{text = "1997-yili", correct = true},
+{text = "1999-yili", correct = false},
+}
+},
+{
+question = "BMTning hisob-kitobiga ko'ra, Afrika aholisi 2050-yilga kelib necha milliard kishiga yetadi?",
+answers = {
+{text = "1,5 milliard", correct = false},
+{text = "2 milliard", correct = true},
+{text = "2,5 milliard", correct = false},
+{text = "3 milliard", correct = false},
+}
+},
+{
+question = "XX asrning nechinchi yillarida olimlar yadro qurolining ommaviy qo'llanishi sivilizatsiyaning yo'q qilinishiga olib kelishi haqida ogohlantirdilar?",
+answers = {
+{text = "40-yillarida", correct = false},
+{text = "50-yillarida", correct = true},
+{text = "60-yillarida", correct = false},
+{text = "70-yillarida", correct = false},
+}
+},
+{
+question = "2025-yil mayda qaysi ikki yadroviy davlat o'rtasida harbiy mojaro yuz berdi?",
+answers = {
+{text = "Xitoy va Hindiston", correct = false},
+{text = "Hindiston va Pokiston", correct = true},
+{text = "Eron va Isroil", correct = false},
+{text = "Rossiya va Ukraina", correct = false},
+}
+},
+{
+question = "Hindistondagi yirik kimyoviy portlash qaysi shahar bilan bog'liq?",
+answers = {
+{text = "Deli", correct = false},
+{text = "Bhopal", correct = true},
+{text = "Mumbay", correct = false},
+{text = "Kalkutta", correct = false},
+}
+},
+{
+question = "Bhopaldagi kimyo zavodidagi halokat qaysi yili yuz bergan?",
+answers = {
+{text = "1979-yili", correct = false},
+{text = "1984-yili", correct = true},
+{text = "1986-yili", correct = false},
+{text = "1991-yili", correct = false},
+}
+},
+{
+question = "AQSHdagi Tri Mayl Aylend atom elektrostansiyasidagi halokat qaysi yili sodir bo'lgan?",
+answers = {
+{text = "1979-yili", correct = true},
+{text = "1984-yili", correct = false},
+{text = "1986-yili", correct = false},
+{text = "2011-yili", correct = false},
+}
+},
+{
+question = "SSSRning Chernobil atom elektrostansiyasidagi halokat qaysi yili yuz berdi?",
+answers = {
+{text = "1979-yili", correct = false},
+{text = "1984-yili", correct = false},
+{text = "1986-yili", correct = true},
+{text = "2011-yili", correct = false},
+}
+},
+{
+question = "Yaponiyaning Fukusima-1 atom elektrostansiyasidagi halokat qaysi yili sodir bo'ldi?",
+answers = {
+{text = "1986-yili", correct = false},
+{text = "2001-yili", correct = false},
+{text = "2011-yili", correct = true},
+{text = "2015-yili", correct = false},
+}
+},
+{
+question = "Urush ketayotgan Ukrainadagi Yevropada eng katta atom elektrostansiyasi qanday nomlanadi?",
+answers = {
+{text = "Chernobil AES", correct = false},
+{text = "Zaporojye AES", correct = true},
+{text = "Xmelnitskiy AES", correct = false},
+{text = "Rovno AES", correct = false},
+}
+},
+{
+question = "Ekstremistik g'oyalarning yoyilishida qaysi zamonaviy axborot vositalari salbiy rol o'ynamoqda deb ko'rsatilgan?",
+answers = {
+{text = "televidenie va radio", correct = false},
+{text = "Meta (Facebook), Telegram, Instagram, Youtube, TikTok", correct = true},
+{text = "gazeta va jurnallar", correct = false},
+{text = "kitob va risolalar", correct = false},
+}
+},
+{
+question = "Ekstremizmning eng xavfli shakli sifatida nima ko'rsatiladi?",
+answers = {
+{text = "separatizm", correct = false},
+{text = "terrorizm", correct = true},
+{text = "radikalizm", correct = false},
+{text = "populizm", correct = false},
+}
+},
+{
+question = "Globallashuv atamasi lotincha qaysi so'zdan olingan?",
+answers = {
+{text = "globus (Yer shari)", correct = true},
+{text = "universum", correct = false},
+{text = "mundus", correct = false},
+{text = "orbis", correct = false},
+}
+},
+{
+question = "Bugun ko'plab mamlakatlarda globallashuv qanday jarayon sifatida ham qaralmoqda?",
+answers = {
+{text = "sharqlashuv jarayoni", correct = false},
+{text = "g'arblashuv jarayoni", correct = true},
+{text = "islomlashuv jarayoni", correct = false},
+{text = "yevrolashuv jarayoni", correct = false},
+}
+},
+{
+question = "Jahon iqtisodiyoti va siyosatidagi rolining ortib borishi bilan o'z ma'naviy-axloqiy qadriyatlarini ham jahon maydoniga olib chiqayotgan qaysi ikki an'anaviy sivilizatsiya davlati kitobda ko'rsatilgan?",
+answers = {
+{text = "Yaponiya va Koreya", correct = false},
+{text = "Xitoy va Hindiston", correct = true},
+{text = "Eron va Turkiya", correct = false},
+{text = "Misr va Saudiya Arabistoni", correct = false},
+}
+},
+{
+question = "Kimyoviy va bakteriologik qurollarni takomillashtirish imkoniyati qaysi fanlarning yutuqlari tufayli ortib bormoqda?",
+answers = {
+{text = "fizika va matematika", correct = false},
+{text = "kimyo va gen injeneriyasi", correct = true},
+{text = "astronomiya va geologiya", correct = false},
+{text = "tibbiyot va falsafa", correct = false},
+}
+},
+{
+question = "Sayyoramizni quyoshning radioaktiv nurlaridan himoya qilib turgan qaysi qatlam buzilmoqda?",
+answers = {
+{text = "atmosfera qatlami", correct = false},
+{text = "ozon qatlami", correct = true},
+{text = "stratosfera qatlami", correct = false},
+{text = "magnit qatlami", correct = false},
+}
+},
+{
+question = "Kelajakda dunyo okeani sathining ko'tarilishiga qaysi muzliklarning erishi sabab bo'lishi kutilmoqda?",
+answers = {
+{text = "Ural tog'lari muzliklari", correct = false},
+{text = "qutb muzliklari, Grenlandiya va Antarktida muz qatlamlari", correct = true},
+{text = "Alp tog'lari muzliklari", correct = false},
+{text = "Himolay muzliklari", correct = false},
+}
+},
+{
+question = "Zamonaviy jamiyatda bir-biri bilan uzviy bog'langan ikki muammo sifatida nimalar ko'rsatiladi?",
+answers = {
+{text = "migratsiya va qashshoqlik", correct = false},
+{text = "ekstremizm va terrorizm", correct = true},
+{text = "inflyatsiya va ishsizlik", correct = false},
+{text = "urbanizatsiya va ifloslanish", correct = false},
+}
+},
+{
+question = "Terrorizm mafkurasi va amaliyoti qanday harakatlar orqali ta'sir ko'rsatishga qaratilgan?",
+answers = {
+{text = "tinch muzokaralar orqali", correct = false},
+{text = "zo'ravonlik orqali qonunga xilof ta'sir ko'rsatish", correct = true},
+{text = "diplomatik bosim orqali", correct = false},
+{text = "iqtisodiy sanksiyalar orqali", correct = false},
+}
+},
+{
+question = "Madaniy globallashuv jarayonida qanday hodisa milliy madaniyatlar rivojlanishiga xavf sola boshladi?",
+answers = {
+{text = "klassik san'at", correct = false},
+{text = "ommaviy madaniyat", correct = true},
+{text = "xalq og'zaki ijodi", correct = false},
+{text = "diniy adabiyot", correct = false},
+}
+},
+{
+question = "Yadro qurolining paydo bo'lishi tarixda ilk bor insoniyat oldiga qanday xavfni qo'ydi?",
+answers = {
+{text = "iqtisodiy inqiroz xavfi", correct = false},
+{text = "o'z-o'zini yo'q qilish xavfi", correct = true},
+{text = "demografik inqiroz xavfi", correct = false},
+{text = "ekologik ifloslanish xavfi", correct = false},
+}
+},
+{
+question = "Globallashuv jarayonida moliyaviy sohada nima yuz bermoqda?",
+answers = {
+{text = "kapitalning global miqyosda misli ko'rilmagan harakati", correct = true},
+{text = "milliy valyutalarning barqarorlashishi", correct = false},
+{text = "bank tizimining markazlashuvi", correct = false},
+{text = "soliq tizimining unifikatsiyasi", correct = false},
+}
+},
+{
+question = "Globallashuv jarayonida ishlab chiqarish sohasida nima shakllanmoqda?",
+answers = {
+{text = "mahalliy ishlab chiqarish tizimi", correct = false},
+{text = "transmilliy korporatsiyalar asosidagi xalqaro integratsiyalashgan ishlab chiqarish tizimi", correct = true},
+{text = "davlat monopoliyasi tizimi", correct = false},
+{text = "kooperativ ishlab chiqarish tizimi", correct = false},
+}
+},
+{
+question = "Globallashuv jarayonida savdo sohasidagi asosiy yo'nalish nimadan iborat?",
+answers = {
+{text = "savdoni cheklash", correct = false},
+{text = "savdoni liberallashtirish", correct = true},
+{text = "bojxona to'siqlarini kuchaytirish", correct = false},
+{text = "mahalliy ishlab chiqaruvchilarni himoya qilish", correct = false},
+}
+},
+{
+question = "Atrof-muhitni himoya qilish va barqaror taraqqiyot bo'yicha xalqaro konferensiya qaysi yili o'tkazildi?",
+answers = {
+{text = "1987-yili", correct = false},
+{text = "1990-yili", correct = false},
+{text = "1992-yili", correct = true},
+{text = "1995-yili", correct = false},
+}
+},
+{
+question = "Atrof-muhitni himoya qilish bo'yicha konferensiya qaysi shaharda bo'lib o'tdi?",
+answers = {
+{text = "Nyu-York", correct = false},
+{text = "Rio de Janeyro", correct = true},
+{text = "Kioto", correct = false},
+{text = "Parij", correct = false},
+}
+},
+{
+question = "Buyuk Britaniyada jamoa palatasiga ilk bor etnik ozchilik vakillaridan necha nafari saylandi?",
+answers = {
+{text = "ikki nafari", correct = false},
+{text = "uch nafari", correct = false},
+{text = "to'rt nafari", correct = true},
+{text = "besh nafari", correct = false},
+}
+},
+{
+question = "Buyuk Britaniyada jamoa palatasiga etnik ozchilik vakillari ilk bor qaysi yili saylandi?",
+answers = {
+{text = "1985-yili", correct = false},
+{text = "1987-yili", correct = true},
+{text = "1990-yili", correct = false},
+{text = "1997-yili", correct = false},
+}
+},
+{
+question = "Nyu York shahrining birinchi qora tanli meri kim bo'lgan?",
+answers = {
+{text = "Barak Obama", correct = false},
+{text = "Devid Dinkins", correct = true},
+{text = "Jorj Floyd", correct = false},
+{text = "Rishi Sunak", correct = false},
+}
+},
+{
+question = "AQSHning birinchi afroamerikalik prezidenti kim bo'lgan?",
+answers = {
+{text = "Devid Dinkins", correct = false},
+{text = "Barak Husayn Obama", correct = true},
+{text = "Jozef Bayden", correct = false},
+{text = "Bill Klinton", correct = false},
+}
+},
+{
+question = "Kelib chiqishi belujlardan bo'lgan London shahrining meri kim edi?",
+answers = {
+{text = "Rishi Sunak", correct = false},
+{text = "Sodiq Omonxon", correct = true},
+{text = "Devid Dinkins", correct = false},
+{text = "Boris Jonson", correct = false},
+}
+},
+{
+question = "Kelib chiqishi panjoblik bo'lgan, Buyuk Britaniya bosh vaziri etib saylangan siyosatchi kim edi?",
+answers = {
+{text = "Sodiq Omonxon", correct = false},
+{text = "Rishi Sunak", correct = true},
+{text = "Boris Jonson", correct = false},
+{text = "Devid Kemeron", correct = false},
+}
+},
+{
+question = "\"Qora tanlilar hayoti ahamiyatli\" (\"Black Lives Matter\") jamoat tashkiloti qaysi yili AQSHda paydo bo'ldi?",
+answers = {
+{text = "2010-yili", correct = false},
+{text = "2013-yili", correct = true},
+{text = "2015-yili", correct = false},
+{text = "2020-yili", correct = false},
+}
+},
+{
+question = "\"Black Lives Matter\" tashkiloti qaysi yili ikki nafar afroamerikalikning o'ldirilishi ortidan faollashib ketdi?",
+answers = {
+{text = "2013-yili", correct = false},
+{text = "2014-yili", correct = true},
+{text = "2016-yili", correct = false},
+{text = "2020-yili", correct = false},
+}
+},
+{
+question = "2015-yili irqchilik hamon dolzarb muammo ekanligini tan olgan AQSH prezidenti kim edi?",
+answers = {
+{text = "Jozef Bayden", correct = false},
+{text = "Barak Obama", correct = true},
+{text = "Donald Tramp", correct = false},
+{text = "Bill Klinton", correct = false},
+}
+},
+{
+question = "2020-yili Minneapolis shahrida politsiya tomonidan qamoqqa olish paytida o'ldirilgan afroamerikalik kim edi?",
+answers = {
+{text = "Devid Dinkins", correct = false},
+{text = "Jorj Floyd", correct = true},
+{text = "Martin Lyuter King", correct = false},
+{text = "Malkolm X", correct = false},
+}
+},
+{
+question = "Jorj Floydning o'ldirilishidan keyingi noroziliklar paytida qaysi shaharlarda Xristofor Kolumbga o'rnatilgan haykallar ag'darib tashlandi?",
+answers = {
+{text = "Nyu York va Chikago", correct = false},
+{text = "Richmond va Baltimor", correct = true},
+{text = "Boston va Filadelfiya", correct = false},
+{text = "Los-Anjeles va San-Fransisko", correct = false},
+}
+},
+{
+question = "Jahonda aholisi 1 milliondan oshiq bo'lgan necha ta davlat mavjud?",
+answers = {
+{text = "120 ta", correct = false},
+{text = "140 ta", correct = false},
+{text = "164 ta", correct = true},
+{text = "190 ta", correct = false},
+}
+},
+{
+question = "164 ta davlatning yarmidan kamrog'i qanday davlatlar hisoblanadi?",
+answers = {
+{text = "bir millatli davlatlar", correct = true},
+{text = "ko'p millatli davlatlar", correct = false},
+{text = "federativ davlatlar", correct = false},
+{text = "monarxiya davlatlar", correct = false},
+}
+},
+{
+question = "1980-yillar oxiriga kelib yuz bergan jami harbiy nifoqlarning yarmidan ko'pi qanday xarakterga ega edi?",
+answers = {
+{text = "davlatlararo urushlar", correct = false},
+{text = "bir davlat ichkarisidagi etnoslararo kelishmovchiliklar", correct = true},
+{text = "diniy urushlar", correct = false},
+{text = "mustamlakachilik urushlari", correct = false},
+}
+},
+{
+question = "1980-yillar oxirida etnoslararo mojarolarning asosiy maydoni qaysi qit'alar bo'ldi?",
+answers = {
+{text = "Yevropa va Amerika", correct = false},
+{text = "Osiyo va Afrika", correct = true},
+{text = "Avstraliya va Okeaniya", correct = false},
+{text = "Shimoliy va Janubiy Amerika", correct = false},
+}
+},
+{
+question = "SSSRda milliy-hududiy chegaralanish qaysi o'n yillikda o'tkazilgan?",
+answers = {
+{text = "1910-yillari", correct = false},
+{text = "1920-yillari", correct = true},
+{text = "1930-yillari", correct = false},
+{text = "1940-yillari", correct = false},
+}
+},
+{
+question = "SSSR qulaganidan so'ng ko'plab sun'iy etnoslararo mojarolar o'choqlari qaysi hududlarda ayniqsa yaqqol sezilib qoldi?",
+answers = {
+{text = "Boltiqbo'yi va Sharqiy Yevropa", correct = false},
+{text = "Kavkazorti respublikalari va Markaziy Osiyo", correct = true},
+{text = "Sibir va Uzoq Sharq", correct = false},
+{text = "Ukraina va Belarus", correct = false},
+}
+},
+{
+question = "BMT tomonidan qabul qilingan global barqaror rivojlanish dasturi nechta maqsaddan iborat?",
+answers = {
+{text = "10 maqsaddan", correct = false},
+{text = "15 maqsaddan", correct = false},
+{text = "17 maqsaddan", correct = true},
+{text = "20 maqsaddan", correct = false},
+}
+},
+{
+question = "BMTning 17 maqsadli global dasturida qashshoqlik bilan bir qatorda yana qanday muammoga barham berish ko'zda tutilgan?",
+answers = {
+{text = "ochlikka barham berish", correct = true},
+{text = "ishsizlikka barham berish", correct = false},
+{text = "savodsizlikka barham berish", correct = false},
+{text = "korrupsiyaga barham berish", correct = false},
+}
+},
+{
+question = "BMTning 17 maqsadli global dasturida ayollar va erkaklar o'rtasidagi qanday tenglik masalasi ustuvor deb belgilangan?",
+answers = {
+{text = "siyosiy tenglik", correct = false},
+{text = "gender tenglik", correct = true},
+{text = "iqtisodiy tenglik", correct = false},
+{text = "huquqiy tenglik", correct = false},
+}
+},
+{
+question = "Ko'p millatli mamlakat sifatida O'zbekistonda qanday an'ana shakllangan?",
+answers = {
+{text = "millatlararo raqobat an'anasi", correct = false},
+{text = "turli millatlarning tinch-totuv yashash an'anasi", correct = true},
+{text = "millatlarni ajratish siyosati", correct = false},
+{text = "migratsiyani cheklash tizimi", correct = false},
+}
+},
+{
+question = "XX asrda qora chechak, ispan grippi, o'lat, vabo, terlama, sil va bezgak kabi kasalliklar Yer yuzida necha kishining o'limiga olib keldi?",
+answers = {
+{text = "500 millionga yaqin", correct = false},
+{text = "1 milliardga yaqin", correct = true},
+{text = "1,5 milliardga yaqin", correct = false},
+{text = "2 milliardga yaqin", correct = false},
+}
+},
+{
+question = "XX asr oxiriga kelib qanday yangi yuqumli kasallik paydo bo'ldi?",
+answers = {
+{text = "Ebola", correct = false},
+{text = "OITS", correct = true},
+{text = "SARS", correct = false},
+{text = "gripp H1N1", correct = false},
+}
+},
+{
+question = "Miqyosi jihatidan XXI asrning birinchi choragidagi eng keng tarqalgan kasallik bo'lgan \"COVID-19\" pandemiyasi qaysi yili boshlangan?",
+answers = {
+{text = "2017-yili", correct = false},
+{text = "2019-yili", correct = true},
+{text = "2020-yili", correct = false},
+{text = "2021-yili", correct = false},
+}
+},
+{
+question = "Asli afg'onistonlik bo'lgan amerikalik yozuvchi Xolid Husayniyning eng mashhur romani qaysi?",
+answers = {
+{text = "\"Alkimyogar\"", correct = false},
+{text = "\"Shamol ortidan yugurib\"", correct = true},
+{text = "\"Yashamoq\"", correct = false},
+{text = "\"Ming bir kecha\"", correct = false},
+}
+},
+{
+question = "Xolid Husayniyning \"Shamol ortidan yugurib\" romani qaysi voqealardan so'ng nashr etilib, katta shuhrat qozondi?",
+answers = {
+{text = "1991-yil SSSR parchalanishi", correct = false},
+{text = "2001-yil sentyabr voqealari", correct = true},
+{text = "2008-yil moliyaviy inqiroz", correct = false},
+{text = "2011-yil \"Arab bahori\"", correct = false},
+}
+},
+{
+question = "Xolid Husayniyning \"Shamol ortidan yugurib\" romanidan tashqari yana qaysi ikki asari mashhur?",
+answers = {
+{text = "\"Alkimyogar\" va \"Yashamoq\"", correct = false},
+{text = "\"Tog'lar ham sado berdi\" va \"Ming quyosh shu'lasi\"", correct = true},
+{text = "\"Sariq shamol\" va \"Qizil gul\"", correct = false},
+{text = "\"Kobul kunlari\" va \"Vatan sog'inchi\"", correct = false},
+}
+},
+{
+question = "\"Alkimyogar\" romani qaysi mamlakat yozuvchisiga tegishli?",
+answers = {
+{text = "Argentina", correct = false},
+{text = "Braziliya", correct = true},
+{text = "Meksika", correct = false},
+{text = "Kolumbiya", correct = false},
+}
+},
+{
+question = "\"Alkimyogar\" romani muallifi kim?",
+answers = {
+{text = "Xolid Husayniy", correct = false},
+{text = "Paulo Koelyo", correct = true},
+{text = "Yuy Xua", correct = false},
+{text = "Gabriel Garsia Markes", correct = false},
+}
+},
+{
+question = "\"Yashamoq\" romani qaysi mamlakat yozuvchisi qalamiga mansub?",
+answers = {
+{text = "Yaponiya", correct = false},
+{text = "Xitoy", correct = true},
+{text = "Koreya", correct = false},
+{text = "Vyetnam", correct = false},
+}
+},
+{
+question = "\"Yashamoq\" romani muallifi kim?",
+answers = {
+{text = "Paulo Koelyo", correct = false},
+{text = "Yuy Xua", correct = true},
+{text = "Xolid Husayniy", correct = false},
+{text = "Mo Yan", correct = false},
+}
+},
+{
+question = "\"Yashamoq\" romanida yozuvchi qaysi asrning ikkinchi yarmidagi Xitoy tarixi fojiali tomonlarini bitta oila taqdirida yoritib bergan?",
+answers = {
+{text = "XIX asr", correct = false},
+{text = "XX asr", correct = true},
+{text = "XXI asr", correct = false},
+{text = "XVIII asr", correct = false},
+}
+},
+{
+question = "Ilmiy-texnik inqilob (ITI) qaysi asrning ikkinchi yarmida yuz berdi?",
+answers = {
+{text = "XVIII asr", correct = false},
+{text = "XIX asr", correct = false},
+{text = "XX asr", correct = true},
+{text = "XXI asr", correct = false},
+}
+},
+{
+question = "ITI natijasida jahonning ilg'or mamlakatlari sivilizatsiyaning qaysi bosqichidan qaysi bosqichga o'tdi?",
+answers = {
+{text = "agrar bosqichdan industrial bosqichga", correct = false},
+{text = "industrial bosqichdan postindustrial davrga", correct = true},
+{text = "postindustrial davrdan agrar bosqichga", correct = false},
+{text = "an'anaviy jamiyatdan industrial jamiyatga", correct = false},
+}
+},
+{
+question = "Axborot va yangi texnologiyalarning jadal rivojlanishi natijasida olimlar qanday jamiyat shakllanayotganini ta'kidlashdi?",
+answers = {
+{text = "\"sanoat jamiyati\"", correct = false},
+{text = "\"axborot jamiyati\"", correct = true},
+{text = "\"agrar jamiyat\"", correct = false},
+{text = "\"urbanistik jamiyat\"", correct = false},
+}
+},
+{
+question = "Alohida ta'lim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olgan holda barcha o'quvchilar uchun teng sharoit ta'minlaydigan ta'lim turi qanday ataladi?",
+answers = {
+{text = "masofaviy ta'lim", correct = false},
+{text = "inklyuziv ta'lim", correct = true},
+{text = "qo'shimcha ta'lim", correct = false},
+{text = "norasmiy ta'lim", correct = false},
+}
+},
+{
+question = "Zamonaviy jamiyat hayotining deyarli barcha sohalariga kirib kelgan maishiy, ko'ngilochar va axborot madaniyati qanday ataladi?",
+answers = {
+{text = "elita madaniyati", correct = false},
+{text = "ommaviy madaniyat", correct = true},
+{text = "klassik madaniyat", correct = false},
+{text = "subkultura", correct = false},
+}
+},
+{
+question = "XX asrning ikkinchi yarmida sun'iy yo'ldosh orqali teleko'rsatuvlarni namoyish qilish qanday jarayon uchun sharoit yaratdi?",
+answers = {
+{text = "insoniyatning ma'naviy hayotini baynalmilallashtirish", correct = true},
+{text = "sanoatlashuvning tezlashishi", correct = false},
+{text = "qishloq xo'jaligining rivojlanishi", correct = false},
+{text = "harbiy qudratning oshishi", correct = false},
+}
+},
+{
+question = "XXI asrning birinchi choragida qanday sohalardagi yutuqlar insoniyat hayotini tubdan o'zgartirmoqda?",
+answers = {
+{text = "qishloq xo'jaligi va baliqchilik", correct = false},
+{text = "axborot texnologiyalari, sun'iy intellekt, biotexnologiya, yashil energiya, kosmik tadqiqotlar va robototexnika", correct = true},
+{text = "to'qimachilik va metallurgiya", correct = false},
+{text = "transport va qurilish", correct = false},
+}
+},
+{
+question = "Ta'lim sifatini oshirish jarayoniga sezilarli ta'sir ko'rsatayotgan muammolardan biri sifatida nima ko'rsatilgan?",
+answers = {
+{text = "maktab binolarining yetishmasligi", correct = false},
+{text = "malakali o'qituvchilarning yetishmasligi", correct = true},
+{text = "darsliklarning yetishmasligi", correct = false},
+{text = "transport muammosi", correct = false},
+}
+},
+{
+question = "Kompyuter grafikasi va videokliplar yaratish kabi san'atning yangi turlarida qanday tamoyil qo'llanilmoqda?",
+answers = {
+{text = "faqat intellektual tahlilga asoslanish", correct = false},
+{text = "intellektni ishga solmasdan insonning ichki olamiga murojaat qilish", correct = true},
+{text = "faqat klassik uslublarni saqlash", correct = false},
+{text = "faqat hujjatli formatdan foydalanish", correct = false},
+}
+},
+{
+question = "Ommaviy adabiyot kimga mo'ljallangan holda va qanday asosda yaratiladi?",
+answers = {
+{text = "elita o'quvchiga, murakkab uslubda", correct = false},
+{text = "ommaviy o'quvchiga, aniq andozalar asosida", correct = true},
+{text = "faqat bolalar uchun, sodda tilda", correct = false},
+{text = "faqat olimlar uchun, ilmiy uslubda", correct = false},
+}
+},
+{
+question = "Zamonaviy san'atda axborotning haddan ziyodligi qanday ziddiyatga olib keldi?",
+answers = {
+{text = "san'at va adabiyot o'rtasidagi ziddiyat", correct = false},
+{text = "inson bilan mashina o'rtasidagi ziddiyat", correct = true},
+{text = "Sharq va G'arb o'rtasidagi ziddiyat", correct = false},
+{text = "an'ana va zamonaviylik o'rtasidagi ziddiyat", correct = false},
+}
+},
+{
+question = "Telekommunikatsiyalarning global tarmog'i paydo bo'lishining eng muhim natijasi nimada namoyon bo'ldi?",
+answers = {
+{text = "badiiy san'atning ijtimoiy-siyosiy roli oshganligida", correct = true},
+{text = "adabiyotning yo'qolib borishida", correct = false},
+{text = "musiqaning bekor bo'lishida", correct = false},
+{text = "teatr san'atining tugatilishida", correct = false},
+}
+},
+}
