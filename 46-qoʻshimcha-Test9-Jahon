@@ -1,0 +1,650 @@
+questions = {
+{
+question = "Yangi davrga kelib necha yuz yillar davomida o'zgarmasdan kelgan narx-navoning shiddat bilan o'sib borishi tarixda qanday nom bilan yuritildi?",
+answers = {
+{text = "narx-navo inqilobi", correct = true},
+{text = "narx-navo fojeasi", correct = false},
+{text = "Xalq inqilobi", correct = false},
+{text = "burjua inqilobi", correct = false},
+}
+},
+{
+question = "Bozorda sotish maqsadida mahsulot ishlab chiqaruvchi xo'jaliklar qanday ataladi?",
+answers = {
+{text = "natural xo'jalik", correct = false},
+{text = "tovar xo'jaliklar", correct = true},
+{text = "uy xo'jaligi", correct = false},
+{text = "kommunizm", correct = false},
+}
+},
+{
+question = "Yangi davrga kelib savdogarlari ulgurji savdoga katta ehtiyoj sezgan mamlakatlarni aniqlang.",
+answers = {
+{text = "Niderlandiya, Rossiya va Fransiya", correct = false},
+{text = "Angliya, Niderlandiya va Rossiya", correct = false},
+{text = "Angliya, Niderlandiya va Fransiya", correct = true},
+{text = "Rossiya va Fransiya", correct = false},
+}
+},
+{
+question = "Yangi davrga kelib xaridorlar bilan oldi-sotdi shartnomasi tuzilib, mahsulot kelishilgan joyga jo'natiladigan joy qanday atalgan?",
+answers = {
+{text = "yarmarkalarda", correct = false},
+{text = "banklarda", correct = false},
+{text = "bozorlarda", correct = false},
+{text = "birjalarda", correct = true},
+}
+},
+{
+question = "O'n beshinchi asrda zamonaviy ko'rinishdagi ilk bank qayerda paydo bo'ldi?",
+answers = {
+{text = "Genuyada", correct = true},
+{text = "Venetsiyada", correct = false},
+{text = "birjalarda", correct = false},
+{text = "bozorlarda", correct = false},
+}
+},
+{
+question = "Zamonaviy ko'rinishdagi ilk bank qanday nomlangan?",
+answers = {
+{text = "Avliyo Pyotr banki", correct = false},
+{text = "Avliyo Georgiy banki", correct = true},
+{text = "Sofiya banki", correct = false},
+{text = "Qirol Georg banki", correct = false},
+}
+},
+{
+question = "Xavf-xatari katta bo'lgan uzoq masofali savdo qilish uchun savdogarlar birlashgan uyushmalar qanday atalgan?",
+answers = {
+{text = "xoldinglar", correct = false},
+{text = "monopoliyalar", correct = false},
+{text = "aksionerlik kompaniyalari", correct = true},
+{text = "gildiyalar", correct = false},
+}
+},
+{
+question = "Mahsulot ishlab chiqaruvchilar va sotuvchilar o'rtasida raqobat paydo bo'lishiga olib kelgan omilni aniqlang.",
+answers = {
+{text = "chetdan oltinning ko'p miqdorda kiritilishi", correct = false},
+{text = "dehqonlarning ko'p dalali almashib ekishga o'tishi", correct = false},
+{text = "aholi sonining oshib borishi", correct = false},
+{text = "bozorlarda mahsulotning ko'payishi", correct = true},
+}
+},
+{
+question = "Qishloq xo'jaligi mahsulotlarining hosildorligi oshib, sotish uchun mahsulot ko'payishiga olib kelgan omilni aniqlang.",
+answers = {
+{text = "dehqonlarning ko'p dalali almashib ekishga o'tishi", correct = true},
+{text = "bozorlarda mahsulotning ko'payishi", correct = false},
+{text = "chetdan oltinning ko'p miqdorda kiritilishi", correct = false},
+{text = "aholi sonining oshib borishi", correct = false},
+}
+},
+{
+question = "Qo'l mehnatiga asoslangan ishlab chiqarishni anglatuvchi atama to'g'ri ko'rsatilgan qatorni aniqlang.",
+answers = {
+{text = "aksiya", correct = false},
+{text = "manufaktura", correct = true},
+{text = "bank", correct = false},
+{text = "capital", correct = false},
+}
+},
+{
+question = "Bozor sharoitida mayda tovar ishlab chiqarishning rivojlanishi qonuniy ravishda nimaning shakllanishiga olib keldi?",
+answers = {
+{text = "aholi sonining ko'payishi", correct = false},
+{text = "yirik monopoliyalarning shakllanishi", correct = false},
+{text = "kapitalistik munosabatlar shakllanishi", correct = true},
+{text = "qishloq xo'jaligi mahsulotlarining ko'p yetishtirilishi", correct = false},
+}
+},
+{
+question = "O'z shaxsiy muvaffaqiyatiga erishish uchun har qanday ishga tayyor bo'lgan omilkor shaxs qanday ataladi?",
+answers = {
+{text = "biznesmen", correct = false},
+{text = "monopolist", correct = false},
+{text = "savdogar", correct = false},
+{text = "tadbirkor", correct = true},
+}
+},
+{
+question = "Yangi zodagonlar qaysi jihati bilan eski zodagonlardan farq qilardi?",
+answers = {
+{text = "tadbirkorlikka yaqinligi bilan", correct = true},
+{text = "boyligining ko'pligi bilan", correct = false},
+{text = "siyosatga yaqinligi bilan", correct = false},
+{text = "jamiyat rivojida asosiy o'rin egallaganligi bilan", correct = false},
+}
+},
+{
+question = "Turli tabaqa vakillarini bir-biriga yaqinlashtirgan omilni aniqlang.",
+answers = {
+{text = "ko'plab sodir bo'lgan urushlar", correct = false},
+{text = "xo'jalik yuritishning yangi shakli va yangicha hayot tarzi", correct = true},
+{text = "xalqlarning yaqin aloqada yashashlari", correct = false},
+{text = "aholi sonining nihoyatda ko'payishi", correct = false},
+}
+},
+{
+question = "Kishilar bir-biridan kapitalning mavjudligi va daromad darajasiga qarab farqlanadigan jamiyat qanday ataldi?",
+answers = {
+{text = "demokratik jamiyat", correct = false},
+{text = "urug'-jamoa", correct = false},
+{text = "sinfiy jamiyat", correct = true},
+{text = "monopolistik jamiyat", correct = false},
+}
+},
+{
+question = "Buyuk geografik kashfiyotlar natijasida ro'y bergan o'zgarishlar tufayli dastlab qaysi shaharlar rivojlandi?",
+answers = {
+{text = "Lissabon va Parij", correct = false},
+{text = "London va Parij", correct = false},
+{text = "Parij va Sevilya", correct = false},
+{text = "Lissabon va Sevilya", correct = true},
+}
+},
+{
+question = "Buyuk geografik kashfiyotlar natijasida ro'y bergan o'zgarishlar tufayli qaysi davlat shaharlari o'zining avvalgi ahamiyatini yo'qotdi?",
+answers = {
+{text = "Italiya", correct = true},
+{text = "Ispaniya", correct = false},
+{text = "Fransiya", correct = false},
+{text = "Turkiya", correct = false},
+}
+},
+{
+question = "O'n oltinchi asrning ikkinchi yarmidan boshlab Yevropaning savdo chorrahalari qaysi hududga ko'chdi?",
+answers = {
+{text = "O'rta yer dengiziga", correct = false},
+{text = "Atlantika okeaniga", correct = true},
+{text = "Shimoliy dengiz qirg'oqlariga", correct = false},
+{text = "Osiyoga", correct = false},
+}
+},
+{
+question = "Yevropaning savdo chorrahalaridagi asosiy savdo markazi bo'lgan shaharni aniqlang.",
+answers = {
+{text = "London", correct = false},
+{text = "Parij", correct = false},
+{text = "Antverpen", correct = true},
+{text = "Oslo", correct = false},
+}
+},
+{
+question = "Bu davrda tez rivojlanib, yangi uylar, ishchilar uchun ko'p qavatli binolar, savdo rastalari va istirohat bog'lari qad ko'targan shaharni aniqlang.",
+answers = {
+{text = "London", correct = false},
+{text = "Parij", correct = false},
+{text = "Oslo", correct = false},
+{text = "Antverpen", correct = true},
+}
+},
+{
+question = "Yangi davrda G'arbiy Yevropadagi eng katta markazlashgan davlat qaysi edi?",
+answers = {
+{text = "Fransiya", correct = true},
+{text = "Ispaniya", correct = false},
+{text = "Angliya", correct = false},
+{text = "Italiya", correct = false},
+}
+},
+{
+question = "O'z a'zolarining manfaatlarini himoya qilish uchun tuzilgan savdogarlar va hunarmandlar uyushmasi qanday ataladi?",
+answers = {
+{text = "xoldinglar", correct = false},
+{text = "gildiyalar", correct = true},
+{text = "monopoliyalar", correct = false},
+{text = "aksiyalar", correct = false},
+}
+},
+{
+question = "Kapitalizmning rivojlanishi uchun zarur bo'lgan eng muhim shartlarni aniqlang.",
+answers = {
+{text = "Kapitalni ko'paytirish va mahsulotni to'plash imkoniyati", correct = false},
+{text = "Mahsulotni to'plash imkoniyati va erkin ishchi kuchining mavjudligi", correct = false},
+{text = "Kapital to'plash imkoniyatining paydo bo'lishi va erkin ishchi kuchining mavjudligi", correct = true},
+{text = "Kapitalni ko'paytirish va kapital to'plash imkoniyatining paydo bo'lishi", correct = false},
+}
+},
+{
+question = "\"Bank\" so'zi qanday ma'noni anglatadi?",
+answers = {
+{text = "\"Stul\"", correct = false},
+{text = "\"devan\"", correct = false},
+{text = "\"kursi\"", correct = false},
+{text = "\"Kreslo\"", correct = true},
+}
+},
+{
+question = "\"Kapital\" so'zi qanday ma'noni anglatadi?",
+answers = {
+{text = "\"asosiy\", \"hukmron\"", correct = true},
+{text = "\"kuchli\", \"birodar\"", correct = false},
+{text = "\"sherik\", \"boylik\"", correct = false},
+{text = "\"korxona\", \"jamoa\"", correct = false},
+}
+},
+{
+question = "\"Oltin — bu barkamollikdir. Oltin xazinalar yaratadi, unga ega bo'lgan kishi xohlagan narsasini qiladi, hatto inson qalbini jannatga olib kirishga ham qodir\", — X.Kolumb ushbu maktubni kimga yozgan?",
+answers = {
+{text = "Portugaliya qiroli Genrix Toʻqqizinchi", correct = false},
+{text = "Ispaniya qiroli Fernando", correct = true},
+{text = "Angliya qiroli Karl Beshinchi", correct = false},
+{text = "Ispaniya qirolichasi Elyanora", correct = false},
+}
+},
+{
+question = "Nechanchi asrda Amsterdam birjasida Gollandiyaga olib kelingan lolapiyozlari (ildizlari) savdosida hali ochilmagan gullar sotila boshlagan?",
+answers = {
+{text = "o'n to'rtinchi asrda", correct = false},
+{text = "o'n beshinchi asrda", correct = false},
+{text = "o'n yettinchi asrda", correct = true},
+{text = "o'n oltinchi asrda", correct = false},
+}
+},
+{
+question = "Bitta lolapiyoziga odamlar o'z kvartirasi yoki restoranini berib yuborgan. Oxir-oqibat bu voqea tarixda qanday g'aroyib nom bilan qoldi?",
+answers = {
+{text = "\"lolapiyoz qoni\"", correct = false},
+{text = "\"lolapiyoz fojeasi\"", correct = false},
+{text = "\"lolapiyoz ajali\"", correct = false},
+{text = "\"Lola talvasasi\"", correct = true},
+}
+},
+{
+question = "Portugaliyaning Lissabon va Ispaniyaning Sevilya shaharlariga tovarlar va ko'plab qimmatbaho metallar qayerlardan keltirilardi?",
+answers = {
+{text = "Hindiston va Amerikadan", correct = true},
+{text = "Afrika va Italiyadan", correct = false},
+{text = "Osiyo va Vizantiyadan", correct = false},
+{text = "Markaziy Osiyo va Hindistondan", correct = false},
+}
+},
+{
+question = "G'arbiy Yevropada savdo va texnikaning rivojlanishi natijasida yer yoki puldan tashqari boylik keltiruvchi barcha mulk — uy, mehnat qurollari, mexanizmlar, ixtirolar ham qadrlanadigan bo'ldi. Bu boyliklar umumiy nom bilan nima deb ataldi?",
+answers = {
+{text = "xoldinglar", correct = false},
+{text = "capital", correct = true},
+{text = "gildiyalar", correct = false},
+{text = "aksiyalar", correct = false},
+}
+},
+{
+question = "O'z asarida ideal davlat namunasini yaratib, uni \"Utopiya\" deb atagan shaxsni aniqlang.",
+answers = {
+{text = "Migel de Servantes", correct = false},
+{text = "Tomas Mor", correct = true},
+{text = "Uilyam Shekspir", correct = false},
+{text = "Ignatiy Loyola", correct = false},
+}
+},
+{
+question = "\"Inson tabiatning ajoyib mo'jizasi\" deb hisoblagan shaxs yashagan davrni to'g'ri belgilang.",
+answers = {
+{text = "1452–1519-yillar", correct = false},
+{text = "1564–1616-yillar", correct = true},
+{text = "1478–1535-yillar", correct = false},
+{text = "1547–1616-yillar", correct = false},
+}
+},
+{
+question = "Quyidagilardan U.Shekspir ijodiga aloqador asarlarni aniqlang: \"Otello\", \"Mona Liza\", \"Hamlet\", \"Don Kixot\", \"Qirol Lir\", \"Romeo va Julyetta\", \"Adashgan o'g'ilning qaytishi\".",
+answers = {
+{text = "\"Otello\", \"Mona Liza\", \"Qirol Lir\", \"Romeo va Julyetta\"", correct = false},
+{text = "\"Otello\", \"Hamlet\", \"Qirol Lir\", \"Romeo va Julyetta\"", correct = true},
+{text = "\"Otello\", \"Mona Liza\", \"Hamlet\", \"Romeo va Julyetta\"", correct = false},
+{text = "\"Mona Liza\", \"Hamlet\", \"Romeo va Julyetta\"", correct = false},
+}
+},
+{
+question = "Adolatsizlik olamidagi so'nggi oliyjanob obrazini yaratgan yozuvchini aniqlang.",
+answers = {
+{text = "Migel de Servantes", correct = true},
+{text = "Tomas Mor", correct = false},
+{text = "Uilyam Shekspir", correct = false},
+{text = "Ignatiy Loyola", correct = false},
+}
+},
+{
+question = "Atrofdagi adolatsizliklar oliyjanob g'azabini to'ldirgan asar qahramonini aniqlang.",
+answers = {
+{text = "Otello", correct = false},
+{text = "Hamlet", correct = false},
+{text = "Don Kixot", correct = true},
+{text = "Qirol Lir", correct = false},
+}
+},
+{
+question = "Bir vaqtning o'zida rassom, shoir, me'mor, haykaltarosh, musiqachi va ixtirochi olim bo'lgan shaxsni aniqlang.",
+answers = {
+{text = "Migel de Servantes", correct = false},
+{text = "Rafael Santi", correct = false},
+{text = "Uilyam Shekspir", correct = false},
+{text = "Leonardo da Vinchi", correct = true},
+}
+},
+{
+question = "Quyidagi yozuvchilardan qaysi biri ispaniyalik bo'lgan?",
+answers = {
+{text = "Migel de Servantes", correct = true},
+{text = "Rafael Santi", correct = false},
+{text = "Uilyam Shekspir", correct = false},
+{text = "Leonardo da Vinchi", correct = false},
+}
+},
+{
+question = "Leonardo da Vinchi qaysi san'at sohasini \"san'at malikasi\" deb atagan?",
+answers = {
+{text = "haykaltaroshlikni", correct = false},
+{text = "rassomlikni", correct = true},
+{text = "shoirlikni", correct = false},
+{text = "qo'shiqchilikni", correct = false},
+}
+},
+{
+question = "\"U shunchalik yoqimliki, suratni ko'rib insoniylikdan ko'ra ko'proq ilohiy oziq olasan...\" — ushbu satrlar qaysi asar haqida?",
+answers = {
+{text = "\"Otello\"", correct = false},
+{text = "\"Mona Liza\"", correct = true},
+{text = "\"Adashgan o'g'ilning qaytishi\"", correct = false},
+{text = "\"Sikstin madonnasi\"", correct = false},
+}
+},
+{
+question = "Qisqa umri davomida o'z nomini abadiylikka muhrlagan asarlar yarata olgan rassomni aniqlang.",
+answers = {
+{text = "Migel de Servantes", correct = false},
+{text = "Rafael Santi", correct = true},
+{text = "Uilyam Shekspir", correct = false},
+{text = "Leonardo da Vinchi", correct = false},
+}
+},
+{
+question = "Oyoqyalang Bibi Maryamning go'yo bulut bosmayotgandek, ohista, o'z qismatiga peshvoz chiqayotgan holatda tasvirlangan asar qanday ataladi?",
+answers = {
+{text = "\"Otello\"", correct = false},
+{text = "\"Mona Liza\"", correct = false},
+{text = "\"Adashgan o'g'ilning qaytishi\"", correct = false},
+{text = "\"Sikstin madonnasi\"", correct = true},
+}
+},
+{
+question = "Mashhur rassom Rembrandt yashagan davr keltirilgan qatorni aniqlang.",
+answers = {
+{text = "1452–1519-yillar", correct = false},
+{text = "1564–1616-yillar", correct = false},
+{text = "1606–1669-yillar", correct = true},
+{text = "1547–1616-yillar", correct = false},
+}
+},
+{
+question = "Ota va o'g'ilning uchrashuv onini aks ettirgan asarni belgilang.",
+answers = {
+{text = "\"Otello\"", correct = false},
+{text = "\"Mona Liza\"", correct = false},
+{text = "\"Adashgan o'g'ilning qaytishi\"", correct = true},
+{text = "\"Sikstin madonnasi\"", correct = false},
+}
+},
+{
+question = "O'rta asrlarga kelib ilgari fan va adabiyot tili bo'lgan lotin tili o'rniga rivojlangan xalq tillari keltirilgan qatorni aniqlang.",
+answers = {
+{text = "italyan, ispan, fransuz", correct = true},
+{text = "nemis, ispan, fransuz", correct = false},
+{text = "italyan, ispan, yunon", correct = false},
+{text = "italyan, rus, fransuz", correct = false},
+}
+},
+{
+question = "\"Men o'tmishni o'rganib, o'zligimga yo'l topdim... Rimlik va yunon kabi fransuz bo'ldi buyuk\" — ushbu she'r muallifi qaysi asrda yashab o'tgan?",
+answers = {
+{text = "o'n to'rtinchi asrda", correct = false},
+{text = "o'n beshinchi asrda", correct = false},
+{text = "o'n oltinchi asrda", correct = true},
+{text = "o'n yettinchi asrda", correct = false},
+}
+},
+{
+question = "Ilgari unutib yuborilgan antik madaniyat qayta tiklana boshlagan va bu jarayon \"Renessans — Uyg'onish\" nomini olgan davrni aniqlang.",
+answers = {
+{text = "o'n to'rtinchi asrda", correct = true},
+{text = "o'n beshinchi asrda", correct = false},
+{text = "o'n oltinchi asrda", correct = false},
+{text = "o'n yettinchi asrda", correct = false},
+}
+},
+{
+question = "O'rab turgan olamga ilohiy emas, dunyoviy, insoniy qarash tarafdorlari qanday ataldi?",
+answers = {
+{text = "gumanist", correct = true},
+{text = "ilohiyotchi", correct = false},
+{text = "pedagog", correct = false},
+{text = "lyuterchi", correct = false},
+}
+},
+{
+question = "Qaysi davrga kelib ko'plab ruhoniylar va hatto Rim papalari ham gumanizm g'oyalari bilan qiziqib, gumanistlarga o'z fikrlarini erkin bayon qilish imkonini bergan?",
+answers = {
+{text = "o'n to'rtinchi asrda", correct = false},
+{text = "o'n beshinchi asrda", correct = true},
+{text = "o'n oltinchi asrda", correct = false},
+{text = "o'n yettinchi asrda", correct = false},
+}
+},
+{
+question = "Gumanizm dastlab qayerda paydo bo'ldi?",
+answers = {
+{text = "Angliyada", correct = false},
+{text = "Germaniyada", correct = false},
+{text = "Fransiyada", correct = false},
+{text = "Italiyada", correct = true},
+}
+},
+{
+question = "Gumanizm qachon paydo bo'ldi?",
+answers = {
+{text = "o'n to'rtinchi asr o'rtalarida", correct = true},
+{text = "o'n beshinchi asr boshlarida", correct = false},
+{text = "o'n oltinchi asr oxirida", correct = false},
+{text = "o'n yettinchi asrda", correct = false},
+}
+},
+{
+question = "Qaysi davlatda qirolning birinchi vaziri Tomas Mor gumanistik g'oyalarga kuchli ta'sir ko'rsatgan?",
+answers = {
+{text = "Angliyada", correct = true},
+{text = "Germaniyada", correct = false},
+{text = "Fransiyada", correct = false},
+{text = "Italiyada", correct = false},
+}
+},
+{
+question = "Tomas Mor yashagan davrni aniqlang.",
+answers = {
+{text = "1452–1519-yillar", correct = false},
+{text = "1564–1616-yillar", correct = false},
+{text = "1478–1535-yillar", correct = true},
+{text = "1547–1616-yillar", correct = false},
+}
+},
+{
+question = "\"Adashgan o'g'ilning qaytishi\" asarida o'tgan umr kulfatlaridan dalolat berib turgan holat qanday tasvirlangan?",
+answers = {
+{text = "Qo'l harakati orqali", correct = false},
+{text = "Yirtiq kiyim va sochsiz bosh orqali", correct = true},
+{text = "Lablardagi nim tabassum orqali", correct = false},
+{text = "Ko'zning ko'r bo'lib qolganligi orqali", correct = false},
+}
+},
+{
+question = "O'rta asrlarda insonni, uning go'zalligini boshqa san'at turlaridan yaxshiroq sharaflaydi, deb hisoblangan san'at yo'nalishini aniqlang.",
+answers = {
+{text = "haykaltaroshlik", correct = true},
+{text = "rassomlik", correct = false},
+{text = "shoirlik", correct = false},
+{text = "qo'shiqchilik", correct = false},
+}
+},
+{
+question = "Injil rivoyatiga ko'ra, cho'pon yigit Dovud dahshatli devsifat Goliaf bilan jangga kirishib, uni tosh bilan urib o'ldiradi. Ushbu voqea asosida haykal ishlagan haykaltaroshni aniqlang.",
+answers = {
+{text = "Migel de Servantes", correct = false},
+{text = "Mikelanjelo Buonarroti", correct = true},
+{text = "Uilyam Shekspir", correct = false},
+{text = "Leonardo da Vinchi", correct = false},
+}
+},
+{
+question = "Balandligi va go'zalligi bilan o'sha paytgacha yaratilgan barcha asarlarni ortda qoldirgan haykaltaroshlik namunasini yaratgan usta yashagan davrni ko'rsating.",
+answers = {
+{text = "1452–1519-yillar", correct = false},
+{text = "1475–1564-yillar", correct = true},
+{text = "1606–1669-yillar", correct = false},
+{text = "1547–1616-yillar", correct = false},
+}
+},
+{
+question = "Nikolay Kopernik necha yil davomida osmon jismlarini kuzatdi?",
+answers = {
+{text = "20 yil", correct = false},
+{text = "14 yil", correct = false},
+{text = "30 yil", correct = true},
+{text = "48 yil", correct = false},
+}
+},
+{
+question = "Yer Quyosh atrofida va o'z o'qi atrofida aylanadi, degan xulosaga kelgan olim qayerlik edi?",
+answers = {
+{text = "angliyalik", correct = false},
+{text = "germaniyalik", correct = false},
+{text = "fransiyalik", correct = false},
+{text = "polshalik", correct = true},
+}
+},
+{
+question = "Nikolay Kopernik, Jordano Bruno, Galileo Galiley, Isaak Nyuton va Jon Lokkning yashagan yillarini to'g'ri moslashtiring: 1473–1543, 1548–1600, 1564–1642, 1643–1727, 1632–1704.",
+answers = {
+{text = "Kopernik — 1473–1543, Bruno — 1548–1600, Galiley — 1564–1642, Nyuton — 1643–1727, Lokk — 1632–1704", correct = true},
+{text = "Kopernik — 1548–1600, Bruno — 1473–1543, Galiley — 1564–1642, Nyuton — 1643–1727, Lokk — 1632–1704", correct = false},
+{text = "Kopernik — 1643–1727, Bruno — 1632–1704, Galiley — 1564–1642, Nyuton — 1548–1600, Lokk — 1473–1543", correct = false},
+{text = "Kopernik — 1473–1543, Bruno — 1548–1600, Galiley — 1643–1727, Nyuton — 1564–1642, Lokk — 1632–1704", correct = false},
+}
+},
+{
+question = "Olamning cheksizligi va abadiyligi haqidagi nazariyani yaratgan olimni aniqlang.",
+answers = {
+{text = "Nikolay Kopernik", correct = false},
+{text = "Jordano Bruno", correct = true},
+{text = "Galileo Galiley", correct = false},
+{text = "Isaak Nyuton", correct = false},
+}
+},
+{
+question = "Yevropalik olimlar orasida birinchi bo'lib osmon jismlarini teleskop yordamida kuzatgan olimni aniqlang.",
+answers = {
+{text = "Nikolay Kopernik", correct = false},
+{text = "Jordano Bruno", correct = false},
+{text = "Galileo Galiley", correct = true},
+{text = "Isaak Nyuton", correct = false},
+}
+},
+{
+question = "Geliosentrik nazariyaga asos solgan olimni aniqlang.",
+answers = {
+{text = "Nikolay Kopernik", correct = true},
+{text = "Jordano Bruno", correct = false},
+{text = "Galileo Galiley", correct = false},
+{text = "Isaak Nyuton", correct = false},
+}
+},
+{
+question = "Isaak Nyuton tomonidan amalga oshirilgan yangiliklarni aniqlang: mexanika va astronomiyaning nazariy asoslarini yaratdi, butun olam tortishish qonunini ishlab chiqdi, mikroskopning yangi turini yaratdi, ko'zguli teleskopni kashf qildi.",
+answers = {
+{text = "mexanika-astronomiya nazariy asoslari va mikroskopning yangi turi", correct = false},
+{text = "mexanika-astronomiya nazariy asoslari, tortishish qonuni va ko'zguli teleskop", correct = true},
+{text = "mexanika-astronomiya nazariy asoslari, tortishish qonuni va mikroskop", correct = false},
+{text = "tortishish qonuni, mikroskop va ko'zguli teleskop", correct = false},
+}
+},
+{
+question = "Insonning tabiiy huquqlari — yashash, erkinlik va mulk huquqlari haqidagi ta'limotni yaratgan olimni aniqlang.",
+answers = {
+{text = "Jon Lokk", correct = true},
+{text = "Jordano Bruno", correct = false},
+{text = "Galileo Galiley", correct = false},
+{text = "Isaak Nyuton", correct = false},
+}
+},
+{
+question = "\"Hokimiyatni bo'lish\", ya'ni ijro hokimiyatini qonun chiqaruvchi hokimiyatdan ajratish haqidagi ta'limotni ishlab chiqqan olim qayerlik edi?",
+answers = {
+{text = "angliyalik", correct = true},
+{text = "germaniyalik", correct = false},
+{text = "fransiyalik", correct = false},
+{text = "polshalik", correct = false},
+}
+},
+{
+question = "Yevropada Yangi davr madaniyati qaysi davrda shakllandi?",
+answers = {
+{text = "o'n to'rtinchi — o'n yettinchi asrlarda", correct = true},
+{text = "o'n beshinchi — o'n yettinchi asrlarda", correct = false},
+{text = "o'n oltinchi — o'n sakkizinchi asrlarda", correct = false},
+{text = "o'n yettinchi — o'n to'qqizinchi asrlarda", correct = false},
+}
+},
+{
+question = "Shekspir Londonda faoliyat yuritgan qaysi teatrda sahnalashtirilgan?",
+answers = {
+{text = "\"Yer\"", correct = false},
+{text = "\"Karta\"", correct = false},
+{text = "\"Pyotr teatri\"", correct = false},
+{text = "\"Globus\"", correct = true},
+}
+},
+{
+question = "Yog'ochdan yasalgan Shekspir teatri binosi yonib ketgach, g'ishtdan qayta qurildi. Ingliz parlamenti qaroriga binoan teatr binosi nechanchi yili buzib tashlangan?",
+answers = {
+{text = "1645-yili", correct = false},
+{text = "1644-yili", correct = true},
+{text = "1643-yili", correct = false},
+{text = "1646-yili", correct = false},
+}
+},
+{
+question = "\"Dovud\" haykalining bo'yi necha metr?",
+answers = {
+{text = "5,2 metr", correct = true},
+{text = "5,5 metr", correct = false},
+{text = "5,3 metr", correct = false},
+{text = "6,2 metr", correct = false},
+}
+},
+{
+question = "\"Dovud\" haykalining og'irligi necha tonna?",
+answers = {
+{text = "5,5 tonna", correct = false},
+{text = "5,7 tonna", correct = false},
+{text = "5,6 tonna", correct = true},
+{text = "5,4 tonna", correct = false},
+}
+},
+{
+question = "Kimning asarlari qahramonlari xudolar va avliyolar emas, balki oddiy odamlar edi? \"Chaqaloq ko'targan Madonna\" ana shunday asardir.",
+answers = {
+{text = "Migel de Servantes", correct = false},
+{text = "Rafael Santi", correct = true},
+{text = "Uilyam Shekspir", correct = false},
+{text = "Leonardo da Vinchi", correct = false},
+}
+},
+{
+question = "Leonardo da Vinchi qaysi ixtirolarning loyihalarini chizib qoldirgan: tank, skafandr, vertolyot, parashut, deltaplan, robot, avtomobil, pulemyot, velosiped, projektor, qaychi, domkrat, suvosti kemasi, yukko'taruvchi kran, teleskop, arkali ko'prik va aeroplan kabi ixtirolarmi, yoxud bularga qo'shimcha raketa, poyezd, atom bombasi va minani ham qamrab olganmi?",
+answers = {
+{text = "faqat dastlabki 14 ta ixtiro loyihasini", correct = false},
+{text = "faqat ayrim tanlangan ixtirolar loyihasini", correct = false},
+{text = "tank, skafandr, vertolyot, parashut, deltaplan, robot, avtomobil, pulemyot, velosiped, projektor, qaychi, domkrat, suvosti kemasi, yukko'taruvchi kran, teleskop, arkali ko'prik va aeroplan loyihalarini", correct = true},
+{text = "yuqoridagilarning barchasi, jumladan raketa, poyezd, atom bombasi va minani ham", correct = false},
+}
+},
+}
