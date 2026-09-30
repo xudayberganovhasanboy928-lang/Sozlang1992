@@ -72,3 +72,5 @@ Foydalanuvchi nomi Гулноза Икрамовна amal qilish muddati tugash 
 Foydalanuvchi nomi Xamidova Shoira amal qilish muddati tugash vaqti 2027 Yil  12 iyul
 46ef1be1845ada7f
 Foydalanuvchi nomi Qodirohun  amal qilish muddati tugash vaqti 2027 Yil  29 Avgust
+fc6ce9ac320be992
+Foydalanuvchi nomi Obloqulov anvarjon  amal qilish muddati tugash vaqti 2027 Yil  30 Sentabr
